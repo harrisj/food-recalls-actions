@@ -8,6 +8,8 @@ beautifulsoup4 = "*"
 typing = "*"
 pydantic = "*"
 requests = "*"
+python-slugify = "*"
+dateparser = "*"
 
 [dev-packages]
 

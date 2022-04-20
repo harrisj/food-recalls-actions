@@ -1,10 +1,12 @@
 include ./utils/variables.make
 
 usda:
-	$(call make,usda/Makefile)
+	$(call make,usda/Makefile all)
 
-all:
-	usda
+usda_full:
+	$(call make,usda/Makefile full)
+
+all: usda
 
 .PHONY: all    \
 		usda

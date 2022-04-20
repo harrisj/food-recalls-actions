@@ -11,23 +11,30 @@ MAKENAME = usda-recalls
 recalls_html = $(wildcard usda/data/recalls/**/*.html)
 recalls_json = $(recalls_html:%.html=%.json)
 
-#include $(subst .html,.json,$(recalls_html))
-
 %.json: %.html
-	$(call python,usda/parse_web_item.py $< $@)
+	$(call python,usda/parse_recall.py --src=$< --dest=$@ --establishments=usda/data/establishments)
 
-parse: $(recalls_json)
-	cat $(recalls_json) > usda/data/recalls/all.json
+usda/recalls.ndjson: $(recalls_json)
+	cat usda/data/recalls/**/*.json > usda/recalls.ndjson
+
+usda/recalls.csv: usda/recalls.ndjson
+	$(call python,usda/recalls_json_to_csv.py --json=$< --csv=$@)
+
+parse: usda/recalls.csv
 
 scrape:
-	$(call python,usda/scrape_recalls.py usda/data/recalls)
+	$(call python,usda/scrape_recalls.py usda/data)
+
+update:
+	$(call python,usda/scrape_recalls.py usda/data 3)
 
 clean:
-	rm usds/data/recalls/*/*.json
+	rm =f usda/data/recalls/**/*.json
 
-all:
-	parse
-	scrape
+purge:
+	rm -f usda/data/recalls/**/*.html
+	rm -f usda/data/recalls/**/*.json
 
-.PHONY: all
-	scrape
+all: update parse
+
+.PHONY: all scrape parse update
