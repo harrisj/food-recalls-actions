@@ -15,6 +15,7 @@ runs:
     - id: make
       name: Run make command
       run: make -f ./usda/Makefile ${{ inputs.command }}
+      shell: bash
 
     - id: commit
       name: Commit results
