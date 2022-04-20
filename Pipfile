@@ -10,7 +10,6 @@ pydantic = "*"
 requests = "*"
 python-slugify = "*"
 dateparser = "*"
-checksum = "*"
 
 [dev-packages]
 
