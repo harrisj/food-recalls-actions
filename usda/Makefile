@@ -6,7 +6,7 @@ scrape:
 	$(call make,./usda/data/recalls/Makefile scrape)
 
 update:
-	$(call make,./usda/data/recaLLs/Makefile update)
+	$(call make,./usda/data/recalls/Makefile update)
 
 parse:
 	$(call make,./usda/data/establishments/Makefile parse)
