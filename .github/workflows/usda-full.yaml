@@ -17,4 +17,4 @@ jobs:
         name: Run
         uses: ./.github/actions/usda
         with:
-          command: update
+          command: scrape
