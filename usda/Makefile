@@ -21,8 +21,13 @@ purge:
 	$(call make,./usda/usda/data/establishments/Makefile purge)
 	$(call make,./usda/data/recalls/Makefile purge)
 
-all: update parse
+all: 
+	update
+	parse
 
-full: scrape parse
+full: 
+	scrape
+	parse
+
 
 .PHONY: all full scrape parse clean purge update
