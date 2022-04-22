@@ -6,14 +6,14 @@ import json
 
 def convert_ndjson_to_csv(json_path: str, csv_path: str):
     fieldnames = ['id', 'title', 'url', 'reasons', 'status', 'risk_level',
-    'start_date', 'end_date', 'summary', 'establishment_id',
+    'start_date', 'end_date', 'establishment_id',
     'establishment-slug', 'establishment_name', 'establishment_address',
     'establishment_telephone', 'grant_date', 'activities', 'products',
     'quantity_recovered', 'quantity_unit', 'states']
 
     with open(json_path, 'r') as jsonfile:
         with open(csv_path, 'w') as csvfile:
-            csvwriter = csv.DictWriter(csvfile,fieldnames=fieldnames, extrasaction='ignore')
+            csvwriter = csv.DictWriter(csvfile,fieldnames=fieldnames, extrasaction='ignore', dialect='unix')
             csvwriter.writeheader()
 
             for line in jsonfile.readlines():
