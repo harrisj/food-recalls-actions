@@ -25,7 +25,7 @@ parse: usda/recalls.csv
 scrape:
 	$(call python,usda/scrape_recalls.py usda/data)
 
-update:
+scrape_recent:
 	$(call python,usda/scrape_recalls.py usda/data 3)
 
 clean:
@@ -35,6 +35,6 @@ purge:
 	rm -f usda/data/recalls/**/*.html
 	rm -f usda/data/recalls/**/*.json
 
-all: update parse
+all: scrape_recent parse
 
-.PHONY: all scrape parse update
+.PHONY: all scrape scrape_recent parse update

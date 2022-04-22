@@ -5,8 +5,8 @@ MAKENAME = usda
 scrape:
 	$(call make,./usda/data/recalls/Makefile scrape)
 
-update:
-	$(call make,./usda/data/recalls/Makefile update)
+scrape_recent:
+	$(call make,./usda/data/recalls/Makefile scrape_recent)
 
 parse:
 	$(call make,./usda/data/establishments/Makefile parse)
@@ -21,8 +21,10 @@ purge:
 	$(call make,./usda/usda/data/establishments/Makefile purge)
 	$(call make,./usda/data/recalls/Makefile purge)
 
-all: update parse
+update: scrape_recent parse
 
 full: scrape parse
 
-.PHONY: all full scrape parse clean purge update
+all: update
+
+.PHONY: all full scrape scrape_recent parse clean purge update
