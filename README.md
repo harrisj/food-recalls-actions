@@ -39,5 +39,15 @@ make usda
 ```
 
 This will run tasks to scrape the first 3 pages of recalls and parse any new/changed recalls that it finds. To run the scraper over all USDA pages, run `make usda_full`
- 
+
+### The Magic of make
+
+We can think of the scraper as a data pipeline with the following steps:
+
+1. Scraper runs through the most recent few pages and pulls out HTML snippets for records
+2. For any that are new and changed, parse the HTML into a JSON representation
+3. If any of the JSON fields have changed, rebuild the big ND-JSON file as well
+4. If the ND-JSON file has changed, rebuild the CSV
+
+In essence, instead of thinking of pipelines as a series of conditional actions flowing forward, we can track the upstream dependencies of any point and if and only if those change, take the necessary action downstream. This is the [make](https://www.gnu.org/software/make/manual/make.html) model and it's been powering compilation for decades, so it would makes sense to rebuild data files with it. Spotify's [luigi](https://github.com/spotify/luigi) uses this approach for large data pipelines, but for smaller processes like this, the original make will do.
 
