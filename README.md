@@ -51,3 +51,32 @@ We can think of the scraper as a data pipeline with the following steps:
 
 In essence, instead of thinking of pipelines as a series of conditional actions flowing forward, we can track the upstream dependencies of any point and if and only if those change, take the necessary action downstream. This is the [make](https://www.gnu.org/software/make/manual/make.html) model and it's been powering compilation for decades, so it would makes sense to rebuild data files with it. Spotify's [luigi](https://github.com/spotify/luigi) uses this approach for large data pipelines, but for smaller processes like this, the original make will do.
 
+To see how it works look at the Makefiles in the following places:
+* [Makefile](Makefile)
+* [usda/Makefile](usda/Makefile)
+* [usda/data/recalls/Makefile](usda/data/recalls/Makefile)
+* [usda/data/establishments/Makefile](usda/data/establishments/Makefile)
+
+Makefile syntax is a bit obtuse, but here is an example from the recalls Makefile of how some of this works
+
+``` makefile
+recalls_html = $(wildcard usda/data/recalls/**/*.html)
+recalls_json = $(recalls_html:%.html=%.json)
+
+%.json: %.html
+	$(call python,usda/parse_recall.py --src=$< --dest=$@ --establishments=usda/data/establishments)
+    
+usda/recalls.ndjson: $(recalls_json)
+	$(call python,usda/build_recalls_json.py --dir=usda/data/recalls --dest=$@)
+
+usda/recalls.csv: usda/recalls.ndjson
+	$(call python,usda/recalls_json_to_csv.py --json=$< --csv=$@)
+```
+Makefile directives are structured like
+
+``` makefile
+target: sources
+    actions
+```
+
+What the Makefile above does is look for any HTML file in the data/recalls/**/*.html where either there is no corresponding JSON file (or the HTML file has a newer modification time, meaning it has changed). For any file for which that has happened, it runs the `usda/parse_recall.py` script to parse the HTML and save a corresponding JSON file. In turn, the recalls.ndjson would be rebuilt and that would in turn rebuild the recalls.csv
