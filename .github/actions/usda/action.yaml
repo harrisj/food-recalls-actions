@@ -26,5 +26,5 @@ runs:
         git status
         git pull origin $GITHUB_REF
         git add usda/
-        git commit -m "USDA ${{ inputs.module }}" && git push || true
+        git commit -m "USDA scrape $(date +'%F %H:%M')" && git push || true
       shell: bash
