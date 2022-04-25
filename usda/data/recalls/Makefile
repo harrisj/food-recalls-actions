@@ -15,7 +15,7 @@ recalls_json = $(recalls_html:%.html=%.json)
 	$(call python,usda/parse_recall.py --src=$< --dest=$@ --establishments=usda/data/establishments)
 
 usda/recalls.ndjson: $(recalls_json)
-	cat usda/data/recalls/**/*.json > usda/recalls.ndjson
+	$(call python,usda/build_recalls_json.py --dir=usda/data/recalls --dest=$@)
 
 usda/recalls.csv: usda/recalls.ndjson
 	$(call python,usda/recalls_json_to_csv.py --json=$< --csv=$@)
@@ -29,7 +29,7 @@ scrape_recent:
 	$(call python,usda/scrape_recalls.py usda/data 3)
 
 clean:
-	rm =f usda/data/recalls/**/*.json
+	rm -f usda/data/recalls/**/*.json
 
 purge:
 	rm -f usda/data/recalls/**/*.html
