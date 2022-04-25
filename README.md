@@ -21,9 +21,9 @@ Although the recalls themselves link to press releases, I do not grab the text o
 
 All of the data for the scrapers are located in the `usda/data` directory under the following structure:
 
-* [establishments.json](usda/data/establishments.json) - a ND-JSON file with scraped information about establishments. When referenced in a recall the information about an establishment is inlined into the JSON there, so this is provided simply as a convenience and is not needed for joining data
-* [recalls.json](usda/data/recalls.json) - a ND-JSON file containing information about all the claims that have been scraped from FSIS
-* [recalls.csv](usda/data/recalls.csv) - a CSV representation of the information within recalls.json with the following changes:
+* [establishments.json](usda/establishments.json) - a ND-JSON file with scraped information about establishments. When referenced in a recall the information about an establishment is inlined into the JSON there, so this is provided simply as a convenience and is not needed for joining data
+* [recalls.json](usda/recalls.json) - a ND-JSON file containing information about all the claims that have been scraped from FSIS
+* [recalls.csv](usda/recalls.csv) - a CSV representation of the information within recalls.json with the following changes:
   * Newlines are removed in certain strings
   * Array fields are represented in a string joined using ", "
   * Establishment fields are inlined to the top using `establishment_` as a prefix
