@@ -31,6 +31,7 @@ def convert_ndjson_to_csv(json_path: str, csv_path: str):
                         parsed[f'establishment_{key}'] = parsed['establishment'][key]
 
                     parsed['establishment_address'] = parsed['establishment_address'].strip().replace('\n', '')
+                    parsed['establishment_activities'] = ', '.join(parsed['establishment_activities'])
 
                 csvwriter.writerow(parsed)
 
