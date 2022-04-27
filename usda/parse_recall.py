@@ -69,11 +69,12 @@ def parse_fsis_row(filename:str, establishments:str) -> UsdaRecall:
 
         date_str = element_text(soup, "div", "recall-teaser__date")
         if date_str:
+            date_str = date_str.strip()
             start_date_search = re.search("(Mon|Tue|Wed|Thu|Fri|Sat|Sun), ([0-9]{2}/[0-9]{2}/[0-9]{4}) -", date_str)
             if start_date_search:
                 out.start_date = datetime.strptime(start_date_search.group(2), '%m/%d/%Y').date()
 
-            end_date_search = re.search("- (Mon|Tue|Wed|Thu|Fri|Sat|Sun) ([0-9]{2}/[0-9]{2}/[0-9]{4})", date_str)
+            end_date_search = re.search("- (Mon|Tue|Wed|Thu|Fri|Sat|Sun), ([0-9]{2}/[0-9]{2}/[0-9]{4})", date_str)
             if end_date_search:
                 out.end_date = datetime.strptime(end_date_search.group(2), '%m/%d/%Y').date()
 
