@@ -11,7 +11,7 @@ def load_and_sort_jsons(recalls_dir:str) -> List[Dict]:
             file_json = json.load(file)
             json_lines.append(file_json)
 
-    json_lines.sort(key=lambda rec: rec.get('start_date', ''))
+    json_lines.sort(key=lambda rec: f"{rec.get('start_date', '')}-{rec.get('end_date', '')}")
     return json_lines
 
 
