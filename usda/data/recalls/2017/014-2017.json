@@ -1,1 +1,42 @@
-{"id": "014-2017", "title": "Fratelli Beretta USA, Inc. Recalls Mortadella Product Due To Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/fratelli-beretta-usa-inc.-recalls-mortadella-product-due-misbranding-and-undeclared", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2017-02-22", "end_date": "2017-04-13", "summary": "WASHINGTON, Feb. 22, 2017 Fratelli Beretta USA, Inc., a Mount Olive, N.J. establishment, is recalling approximately 468 pounds of mortadella product due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product contains pistachio nuts...\n", "establishment": {"id": "M7543B", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/fratelli-beretta-usa-inc", "slug": "fratelli-beretta-usa-inc", "name": "Fratelli Beretta USA, Inc.", "address": "750 Clark Drive \n  Mount Olive, NJ 7828", "telephone": "(201) 343-5161", "grant_date": "2018-12-13", "activities": ["Meat Processing"]}, "impacted_products": ["3-oz. plastic packages containing slices of \u201cDeli Thin Dietz & Watson Mortadella\u201d with Lot# LO23633800 and Best By Date April 2, 2017.  "], "quantity_recovered": 149, "quantity_unit": "pounds", "states": ["Arizona", "California", "Florida", "Michigan", "Nevada", "New Jersey", "Oklahoma", "Pennsylvania", "Texas"]}
+{
+  "id": "014-2017",
+  "title": "Fratelli Beretta USA, Inc. Recalls Mortadella Product Due To Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fratelli-beretta-usa-inc.-recalls-mortadella-product-due-misbranding-and-undeclared",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2017-02-22",
+  "end_date": "2017-04-13",
+  "summary": "WASHINGTON, Feb. 22, 2017 Fratelli Beretta USA, Inc., a Mount Olive, N.J. establishment, is recalling approximately 468 pounds of mortadella product due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product contains pistachio nuts...\n",
+  "establishment": {
+    "id": "M7543B",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/fratelli-beretta-usa-inc",
+    "slug": "fratelli-beretta-usa-inc",
+    "name": "Fratelli Beretta USA, Inc.",
+    "address": "750 Clark Drive \n  Mount Olive, NJ 7828",
+    "telephone": "(201) 343-5161",
+    "grant_date": "2018-12-13",
+    "activities": [
+      "Meat Processing"
+    ]
+  },
+  "impacted_products": [
+    "3-oz. plastic packages containing slices of \u201cDeli Thin Dietz & Watson Mortadella\u201d with Lot# LO23633800 and Best By Date April 2, 2017.  "
+  ],
+  "quantity_recovered": 149,
+  "quantity_unit": "pounds",
+  "states": [
+    "Arizona",
+    "California",
+    "Florida",
+    "Michigan",
+    "Nevada",
+    "New Jersey",
+    "Oklahoma",
+    "Pennsylvania",
+    "Texas"
+  ]
+}

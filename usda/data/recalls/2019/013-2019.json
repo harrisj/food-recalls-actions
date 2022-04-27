@@ -1,1 +1,22 @@
-{"id": "013-2019", "title": "Richwell Group, Inc. Recalls Siluriformes Products  Produced Without Benefit of Import Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/richwell-group-inc.-recalls-siluriformes-products-produced-without-benefit-import-0", "reasons": ["Produced Without Benefit of Inspection", "Import Violation"], "status": "Closed", "risk_level": "High", "start_date": "2019-02-05", "end_date": "2019-04-15", "summary": "EDITORS NOTE: This press release is being updated to reflect a change in poundage and details about import and expiration dates of the products. WASHINGTON, Feb. 5, 2019 Richwell Group, Inc., doing business as Maxfield Seafood, a City of Industry, Calif. firm and the importer...\n", "establishment": null, "impacted_products": ["14-oz. clear bag packages containing \u201cMaxfield Seafood SHEAT FISH CA TREN KET\u201d with \u201cEXPIRY DATE\u201d of 191031 through 201227. ", "14-oz. clear bag packages containing \u201cMaxfield Seafood SHEAT FISH CA TREN RANG\u201d with \u201cEXPIRY DATE\u201d (some labels don\u2019t display an expiration date) of 191031 through 201227. "], "quantity_recovered": 10108, "quantity_unit": "pounds", "states": null}
+{
+  "id": "013-2019",
+  "title": "Richwell Group, Inc. Recalls Siluriformes Products  Produced Without Benefit of Import Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/richwell-group-inc.-recalls-siluriformes-products-produced-without-benefit-import-0",
+  "reasons": [
+    "Produced Without Benefit of Inspection",
+    "Import Violation"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2019-02-05",
+  "end_date": "2019-04-15",
+  "summary": "EDITORS NOTE: This press release is being updated to reflect a change in poundage and details about import and expiration dates of the products. WASHINGTON, Feb. 5, 2019 Richwell Group, Inc., doing business as Maxfield Seafood, a City of Industry, Calif. firm and the importer...\n",
+  "establishment": null,
+  "impacted_products": [
+    "14-oz. clear bag packages containing \u201cMaxfield Seafood SHEAT FISH CA TREN KET\u201d with \u201cEXPIRY DATE\u201d of 191031 through 201227. ",
+    "14-oz. clear bag packages containing \u201cMaxfield Seafood SHEAT FISH CA TREN RANG\u201d with \u201cEXPIRY DATE\u201d (some labels don\u2019t display an expiration date) of 191031 through 201227. "
+  ],
+  "quantity_recovered": 10108,
+  "quantity_unit": "pounds",
+  "states": null
+}

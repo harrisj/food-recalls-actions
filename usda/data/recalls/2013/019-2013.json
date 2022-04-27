@@ -1,1 +1,38 @@
-{"id": "019-2013", "title": "Michigan Firm Recalls Ham Products That Were Produced Without A HACCP Plan", "url": "https://www.fsis.usda.gov/recalls-alerts/michigan-firm-recalls-ham-products-were-produced-without-haccp-plan", "reasons": ["Processing Defect"], "status": "Closed", "risk_level": "High", "start_date": "2013-03-02", "end_date": "2015-03-24", "summary": "WASHINGTON, Mar. 2, 2013 - Byron Center Wholesale Meats, a Byron Center, Michigan, establishment, is recalling approximately 6,586 pounds of ham products that were produced without a Hazard Analysis & Critical Control Points (HACCP) plan, the U.S. Department of Agriculture's Food Safety and Inspection Service...\n", "establishment": {"id": "M2592+P2592+V2592", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/byron-center-wholesale-meats-inc", "slug": "byron-center-wholesale-meats-inc", "name": "Byron Center Wholesale Meats, Inc.", "address": "8375 Freeland Ave. SW \n  Byron Center, MI 49315", "telephone": "(616) 878-1578", "grant_date": "2009-10-27", "activities": ["Meat Processing", "Poultry Processing", "Voluntary Processing - Meat"]}, "impacted_products": ["Various weight packages of \"Seven Sons Family Farms & Co.\" Diced Ham (fully cooked), Smoked Ham Sliced (ready to cook/fully cooked) and Smoked Ham Roast (ready to cook/fully cooked).", "Various weight packages of \"Heffron Farms\" Diced Ham (ready to cook), Smoked Ham Sliced (ready to cook), Smoked Ham Roast(ready to cook), Ground Ham Smoked Pork, Smoked Ham Hocks (ready to cook) and Picnic Hams (ready to cook).", "Various weight packages of \"Byron Center Meats\" Semi Boneless Ham (ready to cook), Canadian Bacon (not fully cooked), Smoked Ham Hocks, Smoked Pork Chops (ready to cook) and Smoked Picnic Hams."], "quantity_recovered": 3417, "quantity_unit": "pounds", "states": ["Michigan", "Indiana"]}
+{
+  "id": "019-2013",
+  "title": "Michigan Firm Recalls Ham Products That Were Produced Without A HACCP Plan",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/michigan-firm-recalls-ham-products-were-produced-without-haccp-plan",
+  "reasons": [
+    "Processing Defect"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2013-03-02",
+  "end_date": "2015-03-24",
+  "summary": "WASHINGTON, Mar. 2, 2013 - Byron Center Wholesale Meats, a Byron Center, Michigan, establishment, is recalling approximately 6,586 pounds of ham products that were produced without a Hazard Analysis & Critical Control Points (HACCP) plan, the U.S. Department of Agriculture's Food Safety and Inspection Service...\n",
+  "establishment": {
+    "id": "M2592+P2592+V2592",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/byron-center-wholesale-meats-inc",
+    "slug": "byron-center-wholesale-meats-inc",
+    "name": "Byron Center Wholesale Meats, Inc.",
+    "address": "8375 Freeland Ave. SW \n  Byron Center, MI 49315",
+    "telephone": "(616) 878-1578",
+    "grant_date": "2009-10-27",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing",
+      "Voluntary Processing - Meat"
+    ]
+  },
+  "impacted_products": [
+    "Various weight packages of \"Seven Sons Family Farms & Co.\" Diced Ham (fully cooked), Smoked Ham Sliced (ready to cook/fully cooked) and Smoked Ham Roast (ready to cook/fully cooked).",
+    "Various weight packages of \"Heffron Farms\" Diced Ham (ready to cook), Smoked Ham Sliced (ready to cook), Smoked Ham Roast(ready to cook), Ground Ham Smoked Pork, Smoked Ham Hocks (ready to cook) and Picnic Hams (ready to cook).",
+    "Various weight packages of \"Byron Center Meats\" Semi Boneless Ham (ready to cook), Canadian Bacon (not fully cooked), Smoked Ham Hocks, Smoked Pork Chops (ready to cook) and Smoked Picnic Hams."
+  ],
+  "quantity_recovered": 3417,
+  "quantity_unit": "pounds",
+  "states": [
+    "Michigan",
+    "Indiana"
+  ]
+}

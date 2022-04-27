@@ -1,1 +1,20 @@
-{"id": "039-2010", "title": "Illinois Firm Recalls Imported Beef Products Due to Potential Animal Drug Contaminant", "url": "https://www.fsis.usda.gov/recalls-alerts/illinois-firm-recalls-imported-beef-products-due-potential-animal-drug-contaminant-0", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "Low", "start_date": "2010-06-24", "end_date": "2010-06-24", "summary": "WASHINGTON, June 24, 2010 - Sampco, Inc., a Chicago, Ill., establishment is recalling approximately 61,000 pounds of cooked canned and frozen beef products that may contain the animal drug Ivermectin, the U.S. Department of Agriculture's Food Safety and Inspection Service announced today. On May 14...\n", "establishment": null, "impacted_products": ["12 oz. cans of \"Deltina CORNED BEEF WITH JUICES\" with the production code \"100120\" inkjetted on the top of the can. These products were sent to a distribution center in Florida for retail sales."], "quantity_recovered": 54655, "quantity_unit": "pounds", "states": null}
+{
+  "id": "039-2010",
+  "title": "Illinois Firm Recalls Imported Beef Products Due to Potential Animal Drug Contaminant",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/illinois-firm-recalls-imported-beef-products-due-potential-animal-drug-contaminant-0",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2010-06-24",
+  "end_date": "2010-06-24",
+  "summary": "WASHINGTON, June 24, 2010 - Sampco, Inc., a Chicago, Ill., establishment is recalling approximately 61,000 pounds of cooked canned and frozen beef products that may contain the animal drug Ivermectin, the U.S. Department of Agriculture's Food Safety and Inspection Service announced today. On May 14...\n",
+  "establishment": null,
+  "impacted_products": [
+    "12 oz. cans of \"Deltina CORNED BEEF WITH JUICES\" with the production code \"100120\" inkjetted on the top of the can. These products were sent to a distribution center in Florida for retail sales."
+  ],
+  "quantity_recovered": 54655,
+  "quantity_unit": "pounds",
+  "states": null
+}

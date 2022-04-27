@@ -1,1 +1,35 @@
-{"id": "048-2014", "title": "Texas Firm Recalls Ready-To-Eat Products for Possible Listeria Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/texas-firm-recalls-ready-eat-products-possible-listeria-contamination", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2014-07-24", "end_date": "2017-04-14", "summary": "EDITOR'S NOTE:This release was updated July 25 to correct the confirmation date for the Listeria monocytogenes positive test, as well as to provide an updated label sheet. The original release contained images of labels for products not included in the recall. WASHINGTON, JULY 24, 2014...\n", "establishment": {"id": "M31680+P31680", "url": "http://www.fsis.usda.gov/establishments/great-american-marketing-co", "slug": "great-american-marketing-co", "name": "Great American Marketing Co.", "address": "1224 N. Post Oak Road, Suite 160B \n  Houston, TX 77055", "telephone": "(713) 682-6471", "grant_date": "2019-07-15", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["7.4 ounce plastic-covered tray packages containing Chicken Caesar Wraps.", "8.1 ounce plastic-covered tray packages containing Club Wraps."], "quantity_recovered": 272, "quantity_unit": "pounds", "states": ["Texas"]}
+{
+  "id": "048-2014",
+  "title": "Texas Firm Recalls Ready-To-Eat Products for Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/texas-firm-recalls-ready-eat-products-possible-listeria-contamination",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2014-07-24",
+  "end_date": "2017-04-14",
+  "summary": "EDITOR'S NOTE:This release was updated July 25 to correct the confirmation date for the Listeria monocytogenes positive test, as well as to provide an updated label sheet. The original release contained images of labels for products not included in the recall. WASHINGTON, JULY 24, 2014...\n",
+  "establishment": {
+    "id": "M31680+P31680",
+    "url": "http://www.fsis.usda.gov/establishments/great-american-marketing-co",
+    "slug": "great-american-marketing-co",
+    "name": "Great American Marketing Co.",
+    "address": "1224 N. Post Oak Road, Suite 160B \n  Houston, TX 77055",
+    "telephone": "(713) 682-6471",
+    "grant_date": "2019-07-15",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "7.4 ounce plastic-covered tray packages containing Chicken Caesar Wraps.",
+    "8.1 ounce plastic-covered tray packages containing Club Wraps."
+  ],
+  "quantity_recovered": 272,
+  "quantity_unit": "pounds",
+  "states": [
+    "Texas"
+  ]
+}

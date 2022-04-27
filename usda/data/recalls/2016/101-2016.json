@@ -1,1 +1,22 @@
-{"id": "101-2016", "title": "Gaiser's European Style Provision Inc. Recalls Chicken and Pork Bologna Products Due to Misbranding, Undeclared Allergens, and Being Formulated with Uninspected Meat and Poultry Products", "url": "https://www.fsis.usda.gov/recalls-alerts/gaisers-european-style-provision-inc.-recalls-chicken-and-pork-bologna-products-due", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2016-10-26", "end_date": "2017-02-23", "summary": "WASHINGTON, Oct. 26, 2016 Gaisers European Style Provision Inc., a Union, N.J. establishment, is recalling approximately 3,895 pounds of chicken and pork bologna products due to misbranding, undeclared allergens, and being formulated with meat and poultry products that were not federally inspected, the U.S. Department...", "establishment": null, "impacted_products": [], "quantity_recovered": 749, "quantity_unit": "pounds", "states": ["California", "Minnesota", "New Jersey", "New York", "Washington"]}
+{
+  "id": "101-2016",
+  "title": "Gaiser's European Style Provision Inc. Recalls Chicken and Pork Bologna Products Due to Misbranding, Undeclared Allergens, and Being Formulated with Uninspected Meat and Poultry Products",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/gaisers-european-style-provision-inc.-recalls-chicken-and-pork-bologna-products-due",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2016-10-26",
+  "end_date": "2017-02-23",
+  "summary": "WASHINGTON, Oct. 26, 2016 Gaisers European Style Provision Inc., a Union, N.J. establishment, is recalling approximately 3,895 pounds of chicken and pork bologna products due to misbranding, undeclared allergens, and being formulated with meat and poultry products that were not federally inspected, the U.S. Department...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 749,
+  "quantity_unit": "pounds",
+  "states": [
+    "California",
+    "Minnesota",
+    "New Jersey",
+    "New York",
+    "Washington"
+  ]
+}

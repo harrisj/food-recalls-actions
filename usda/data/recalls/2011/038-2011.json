@@ -1,1 +1,33 @@
-{"id": "038-2011", "title": "California Firm Recalls Chicken Noodle Salad Due to Mislabeling and an Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-chicken-noodle-salad-due-mislabeling-and-undeclared-allergen", "reasons": ["Unreported Allergens", "Mislabeling"], "status": "Closed", "risk_level": "High", "start_date": "2011-05-27", "end_date": "2012-06-02", "summary": "WASHINGTON, May 27, 2011 - Fresh and Ready Foods, a San Fernando, Calif., establishment is recalling approximately 770 pounds of Asian Chicken Noodle Salad because the product contains egg, a known allergen, which is not declared on the label. The product subject to recall is...\n", "establishment": {"id": "M39892+P39892", "url": "http://www.fsis.usda.gov/establishments/fresh-ready-foods-llc", "slug": "fresh-ready-foods-llc", "name": "Fresh & Ready Foods LLC", "address": "1145 Arroyo St., Suite B \n  San Fernando, CA 91340", "telephone": "(818) 837-7600", "grant_date": "2016-03-25", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["7 oz. boxes of Asian Chicken Noodle Salad"], "quantity_recovered": 0, "quantity_unit": "pounds", "states": null}
+{
+  "id": "038-2011",
+  "title": "California Firm Recalls Chicken Noodle Salad Due to Mislabeling and an Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-chicken-noodle-salad-due-mislabeling-and-undeclared-allergen",
+  "reasons": [
+    "Unreported Allergens",
+    "Mislabeling"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2011-05-27",
+  "end_date": "2012-06-02",
+  "summary": "WASHINGTON, May 27, 2011 - Fresh and Ready Foods, a San Fernando, Calif., establishment is recalling approximately 770 pounds of Asian Chicken Noodle Salad because the product contains egg, a known allergen, which is not declared on the label. The product subject to recall is...\n",
+  "establishment": {
+    "id": "M39892+P39892",
+    "url": "http://www.fsis.usda.gov/establishments/fresh-ready-foods-llc",
+    "slug": "fresh-ready-foods-llc",
+    "name": "Fresh & Ready Foods LLC",
+    "address": "1145 Arroyo St., Suite B \n  San Fernando, CA 91340",
+    "telephone": "(818) 837-7600",
+    "grant_date": "2016-03-25",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "7 oz. boxes of Asian Chicken Noodle Salad"
+  ],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": null
+}

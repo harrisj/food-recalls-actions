@@ -1,1 +1,34 @@
-{"id": "035-2010", "title": "Texas Firm Recalls Three Varieties of \"SpaghettiOs\" With Meatballs That May Be Underprocessed", "url": "https://www.fsis.usda.gov/recalls-alerts/texas-firm-recalls-three-varieties-spaghettios-meatballs-may-be-underprocessed", "reasons": ["Processing Defect"], "status": "Closed", "risk_level": "High", "start_date": "2010-06-17", "end_date": "2012-06-04", "summary": "WASHINGTON, June 17, 2010 - Campbell Soup Supply Company, LLC, a Paris, Texas, establishment is recalling approximately 15,000,000 pounds of \"SpaghettiOs with Meatballs\" canned products due to possible under-processing, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The following products...\n", "establishment": {"id": "M4K+P13", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/campbell-soup-supply-company-l.l.c.", "slug": "campbell-soup-supply-company-l-l-c", "name": "Campbell Soup Supply Company L.L.C.", "address": "500 NW Loop 286 \n  Paris, TX 75461", "telephone": "(903) 784-3341", "grant_date": "2011-06-29", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["14.75-ounce cans of \"SpaghettiOs\" with Meatballs, bearing the identifying product code \"U5\" on the bottom of the can.", "14.75-ounce cans of \"SpaghettiOs\" A to Z with Meatballs, bearing the identifying product code \"4N\" on the bottom of the can.", "14.75-ounce cans of \"SpaghettiOs\" Fun Shapes with Meatballs (Cars), bearing the identifying product code \"KS\" on the bottom of the can."], "quantity_recovered": 3772102, "quantity_unit": "pounds", "states": null}
+{
+  "id": "035-2010",
+  "title": "Texas Firm Recalls Three Varieties of \"SpaghettiOs\" With Meatballs That May Be Underprocessed",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/texas-firm-recalls-three-varieties-spaghettios-meatballs-may-be-underprocessed",
+  "reasons": [
+    "Processing Defect"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2010-06-17",
+  "end_date": "2012-06-04",
+  "summary": "WASHINGTON, June 17, 2010 - Campbell Soup Supply Company, LLC, a Paris, Texas, establishment is recalling approximately 15,000,000 pounds of \"SpaghettiOs with Meatballs\" canned products due to possible under-processing, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The following products...\n",
+  "establishment": {
+    "id": "M4K+P13",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/campbell-soup-supply-company-l.l.c.",
+    "slug": "campbell-soup-supply-company-l-l-c",
+    "name": "Campbell Soup Supply Company L.L.C.",
+    "address": "500 NW Loop 286 \n  Paris, TX 75461",
+    "telephone": "(903) 784-3341",
+    "grant_date": "2011-06-29",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "14.75-ounce cans of \"SpaghettiOs\" with Meatballs, bearing the identifying product code \"U5\" on the bottom of the can.",
+    "14.75-ounce cans of \"SpaghettiOs\" A to Z with Meatballs, bearing the identifying product code \"4N\" on the bottom of the can.",
+    "14.75-ounce cans of \"SpaghettiOs\" Fun Shapes with Meatballs (Cars), bearing the identifying product code \"KS\" on the bottom of the can."
+  ],
+  "quantity_recovered": 3772102,
+  "quantity_unit": "pounds",
+  "states": null
+}

@@ -1,1 +1,42 @@
-{"id": "062-2013-EXP", "title": "Maryland and Texas Firms Recall Broccoli Salad Kits With Dressing For Possible Listeria Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/maryland-and-texas-firms-recall-broccoli-salad-kits-dressing-possible-listeria", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2013-10-29", "end_date": "2014-04-09", "summary": "EDITOR'S NOTE: This release is being reissued to reflect an additional 22,849 pounds of products produced on dates not included in the Oct. 25, 2013 initial recall. WASHINGTON, Oct. 29, 2013 Taylor Farms Maryland, Inc. in Jessup, Md. and Taylor Farms Texas Inc. in Dallas...\n", "establishment": {"id": "M34733+P34733", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/taylor-farms-tx-inc", "slug": "taylor-farms-tx-inc", "name": "Taylor Farms TX, Inc.", "address": "1171 N. Cockrell Hill Rd. \n  Dallas, TX 75211", "telephone": "(214) 421-1947", "grant_date": "2018-03-14", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["6.06-lb. boxes labeled \u201cTAYLOR FARMS BROCCOLI CRUNCH WITH BACON AND DRESSING\u201d with the case code 310151, produced on Oct. 14 through Oct. 24, 2013.", "12.13-lb. boxes labeled \u201cTAYLOR FARMS BROCCOLI CRUNCH WITH BACON AND DRESSING\u201d with the case code 310153, produced Oct. 14 through Oct. 24, 2013.", "6.33-lb boxes labeled \u201cKit, Broc PPC\u201d with case code 5900067, produced Oct. 15 through Oct. 20, 2013."], "quantity_recovered": 2602, "quantity_unit": "pounds", "states": ["Maryland", "Massachusetts", "New Jersey", "New York", "Pennsylvania", "Texas", "Virginia"]}
+{
+  "id": "062-2013-EXP",
+  "title": "Maryland and Texas Firms Recall Broccoli Salad Kits With Dressing For Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/maryland-and-texas-firms-recall-broccoli-salad-kits-dressing-possible-listeria",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2013-10-29",
+  "end_date": "2014-04-09",
+  "summary": "EDITOR'S NOTE: This release is being reissued to reflect an additional 22,849 pounds of products produced on dates not included in the Oct. 25, 2013 initial recall. WASHINGTON, Oct. 29, 2013 Taylor Farms Maryland, Inc. in Jessup, Md. and Taylor Farms Texas Inc. in Dallas...\n",
+  "establishment": {
+    "id": "M34733+P34733",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/taylor-farms-tx-inc",
+    "slug": "taylor-farms-tx-inc",
+    "name": "Taylor Farms TX, Inc.",
+    "address": "1171 N. Cockrell Hill Rd. \n  Dallas, TX 75211",
+    "telephone": "(214) 421-1947",
+    "grant_date": "2018-03-14",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "6.06-lb. boxes labeled \u201cTAYLOR FARMS BROCCOLI CRUNCH WITH BACON AND DRESSING\u201d with the case code 310151, produced on Oct. 14 through Oct. 24, 2013.",
+    "12.13-lb. boxes labeled \u201cTAYLOR FARMS BROCCOLI CRUNCH WITH BACON AND DRESSING\u201d with the case code 310153, produced Oct. 14 through Oct. 24, 2013.",
+    "6.33-lb boxes labeled \u201cKit, Broc PPC\u201d with case code 5900067, produced Oct. 15 through Oct. 20, 2013."
+  ],
+  "quantity_recovered": 2602,
+  "quantity_unit": "pounds",
+  "states": [
+    "Maryland",
+    "Massachusetts",
+    "New Jersey",
+    "New York",
+    "Pennsylvania",
+    "Texas",
+    "Virginia"
+  ]
+}

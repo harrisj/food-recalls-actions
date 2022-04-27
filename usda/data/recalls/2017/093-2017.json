@@ -1,1 +1,41 @@
-{"id": "093-2017", "title": "Missa Bay, LLC Recalls Chicken Products Due To Misbranding and an Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/missa-bay-llc-recalls-chicken-products-due-misbranding-and-undeclared-allergen", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "Low", "start_date": "2017-08-15", "end_date": "2017-10-04", "summary": "WASHINGTON, Aug. 15, 2017 Missa Bay, LLC, a Swedesboro, N.J. establishment, is recalling approximately 1,719 pounds of chicken caesar salad products due to misbranding and an undeclared allergen, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product contains wheat...\n", "establishment": {"id": "M18502B+P18502B", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/missa-bay-llc", "slug": "missa-bay-llc", "name": "Missa Bay LLC", "address": "101 Arlington Boulevard \n  Swedesboro, NJ 8085", "telephone": "(856) 241-0900", "grant_date": "2014-12-22", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["9.95 oz. plastic salad bowls containing \u201cCumberland FARMS CHICKEN CAESAR SALAD with ROMAINE LETTUCE, ROASTED CHICKEN, PARMESAN CHEESE, BACON, MULTIGRAIN CROUTONS & CREAMY CAESAR DRESSING and bar code: 042704 034301, with a use by date of August 16, 2017"], "quantity_recovered": 3361, "quantity_unit": "pounds", "states": ["Connecticut", "Maine", "Massachusetts", "New Hampshire", "New York", "Rhode Island", "Vermont"]}
+{
+  "id": "093-2017",
+  "title": "Missa Bay, LLC Recalls Chicken Products Due To Misbranding and an Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/missa-bay-llc-recalls-chicken-products-due-misbranding-and-undeclared-allergen",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2017-08-15",
+  "end_date": "2017-10-04",
+  "summary": "WASHINGTON, Aug. 15, 2017 Missa Bay, LLC, a Swedesboro, N.J. establishment, is recalling approximately 1,719 pounds of chicken caesar salad products due to misbranding and an undeclared allergen, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product contains wheat...\n",
+  "establishment": {
+    "id": "M18502B+P18502B",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/missa-bay-llc",
+    "slug": "missa-bay-llc",
+    "name": "Missa Bay LLC",
+    "address": "101 Arlington Boulevard \n  Swedesboro, NJ 8085",
+    "telephone": "(856) 241-0900",
+    "grant_date": "2014-12-22",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "9.95 oz. plastic salad bowls containing \u201cCumberland FARMS CHICKEN CAESAR SALAD with ROMAINE LETTUCE, ROASTED CHICKEN, PARMESAN CHEESE, BACON, MULTIGRAIN CROUTONS & CREAMY CAESAR DRESSING and bar code: 042704 034301, with a use by date of August 16, 2017"
+  ],
+  "quantity_recovered": 3361,
+  "quantity_unit": "pounds",
+  "states": [
+    "Connecticut",
+    "Maine",
+    "Massachusetts",
+    "New Hampshire",
+    "New York",
+    "Rhode Island",
+    "Vermont"
+  ]
+}

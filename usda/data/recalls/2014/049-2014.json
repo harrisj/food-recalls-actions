@@ -1,1 +1,32 @@
-{"id": "049-2014", "title": "Massachusetts Firm Recalls Raw Boneless Turkey Breasts Due To Misbranding and Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/massachusetts-firm-recalls-raw-boneless-turkey-breasts-due-misbranding-and", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2014-07-26", "end_date": "2015-03-24", "summary": "WASHINGTON, July 26, 2014 Puritan Foods Co., Inc., a Boston, Mass., establishment, is recalling approximately 2,476 pounds of raw boneless turkey breasts due to misbranding and an undeclared allergen, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The product contains...\n", "establishment": {"id": "P5933", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/puritan-foods-co.-inc.", "slug": "puritan-foods-co-inc", "name": "Puritan Foods Co., Inc.", "address": "17 Foodmart Road \n  Boston, MA 2118", "telephone": "(617) 269-5650", "grant_date": "2017-02-21", "activities": ["Poultry Processing"]}, "impacted_products": ["Raw Boneless Turkey Breasts (various weights) with pack dates of June 11 and July 18, 2014"], "quantity_recovered": 39, "quantity_unit": "pounds", "states": null}
+{
+  "id": "049-2014",
+  "title": "Massachusetts Firm Recalls Raw Boneless Turkey Breasts Due To Misbranding and Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/massachusetts-firm-recalls-raw-boneless-turkey-breasts-due-misbranding-and",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2014-07-26",
+  "end_date": "2015-03-24",
+  "summary": "WASHINGTON, July 26, 2014 Puritan Foods Co., Inc., a Boston, Mass., establishment, is recalling approximately 2,476 pounds of raw boneless turkey breasts due to misbranding and an undeclared allergen, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The product contains...\n",
+  "establishment": {
+    "id": "P5933",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/puritan-foods-co.-inc.",
+    "slug": "puritan-foods-co-inc",
+    "name": "Puritan Foods Co., Inc.",
+    "address": "17 Foodmart Road \n  Boston, MA 2118",
+    "telephone": "(617) 269-5650",
+    "grant_date": "2017-02-21",
+    "activities": [
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "Raw Boneless Turkey Breasts (various weights) with pack dates of June 11 and July 18, 2014"
+  ],
+  "quantity_recovered": 39,
+  "quantity_unit": "pounds",
+  "states": null
+}

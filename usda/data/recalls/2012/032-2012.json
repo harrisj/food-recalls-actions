@@ -1,1 +1,37 @@
-{"id": "032-2012", "title": "Minnesota Firm Recalls Steakhouse Burgers Due to Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/minnesota-firm-recalls-steakhouse-burgers-due-misbranding-and-undeclared-allergens", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "Low", "start_date": "2012-05-12", "end_date": "2013-05-28", "summary": "WASHINGTON, May 19, 2012 - J&B Group, a Pipestone, Minn. establishment, is recalling approximately 456 pounds of steakhouse burgers because of misbranding and undeclared allergens. The product contains a seasoning mix with hydrolyzed soy and wheat proteins, known allergens, not declared on the label. The...\n", "establishment": {"id": "M8934+P8934", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/swift-pork-company-1", "slug": "swift-pork-company-1", "name": "Swift Pork Company", "address": "1401 Sioux Drive \n  Pipestone, MN 56164", "telephone": "(507) 825-5486", "grant_date": "2019-12-06", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["27-oz packages containing 6 4.5-oz. \"No Name, Roasted Peppers, Onions and Mozzarella Cheese Steakhouse Burgers\" with a Julian date of \"03312.\"", "Shipping cases of \"Beef Steakburger with Steakhouse Seasoning\" with serial numbers of \"1049XXX\" a case code of \"19051\" and the Julian date \"03312.\""], "quantity_recovered": 132, "quantity_unit": "pounds", "states": ["Minnesota", "Wisconsin"]}
+{
+  "id": "032-2012",
+  "title": "Minnesota Firm Recalls Steakhouse Burgers Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/minnesota-firm-recalls-steakhouse-burgers-due-misbranding-and-undeclared-allergens",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2012-05-12",
+  "end_date": "2013-05-28",
+  "summary": "WASHINGTON, May 19, 2012 - J&B Group, a Pipestone, Minn. establishment, is recalling approximately 456 pounds of steakhouse burgers because of misbranding and undeclared allergens. The product contains a seasoning mix with hydrolyzed soy and wheat proteins, known allergens, not declared on the label. The...\n",
+  "establishment": {
+    "id": "M8934+P8934",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/swift-pork-company-1",
+    "slug": "swift-pork-company-1",
+    "name": "Swift Pork Company",
+    "address": "1401 Sioux Drive \n  Pipestone, MN 56164",
+    "telephone": "(507) 825-5486",
+    "grant_date": "2019-12-06",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "27-oz packages containing 6 4.5-oz. \"No Name, Roasted Peppers, Onions and Mozzarella Cheese Steakhouse Burgers\" with a Julian date of \"03312.\"",
+    "Shipping cases of \"Beef Steakburger with Steakhouse Seasoning\" with serial numbers of \"1049XXX\" a case code of \"19051\" and the Julian date \"03312.\""
+  ],
+  "quantity_recovered": 132,
+  "quantity_unit": "pounds",
+  "states": [
+    "Minnesota",
+    "Wisconsin"
+  ]
+}

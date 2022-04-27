@@ -1,1 +1,30 @@
-{"id": "PHA-05022020", "title": "FSIS Issues Public Health Alert for Chicken Noodle Soup Products Due to Misbranding and an Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-chicken-noodle-soup-products-due-misbranding-and", "reasons": ["Mislabeling"], "status": "Active", "risk_level": null, "start_date": "2020-05-02", "end_date": null, "summary": "WASHINGTON, May 2, 2020 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert because RCK Foods, a Kenosha, Wis. establishment, sold 34,200 pounds of ready-to-eat (RTE) chicken noodle soup products that were misbranded because they include...\n", "establishment": {"id": "M33997+P33997", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/roundys-supermarkets-inc", "slug": "roundys-supermarkets-inc", "name": "Roundy's Supermarkets, Inc.", "address": "5500 - 52nd Street \n  Kenosha, WI 53144", "telephone": "(414) 231-6902", "grant_date": "2017-04-07", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": null, "quantity_unit": null, "states": null}
+{
+  "id": "PHA-05022020",
+  "title": "FSIS Issues Public Health Alert for Chicken Noodle Soup Products Due to Misbranding and an Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-chicken-noodle-soup-products-due-misbranding-and",
+  "reasons": [
+    "Mislabeling"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2020-05-02",
+  "end_date": null,
+  "summary": "WASHINGTON, May 2, 2020 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert because RCK Foods, a Kenosha, Wis. establishment, sold 34,200 pounds of ready-to-eat (RTE) chicken noodle soup products that were misbranded because they include...\n",
+  "establishment": {
+    "id": "M33997+P33997",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/roundys-supermarkets-inc",
+    "slug": "roundys-supermarkets-inc",
+    "name": "Roundy's Supermarkets, Inc.",
+    "address": "5500 - 52nd Street \n  Kenosha, WI 53144",
+    "telephone": "(414) 231-6902",
+    "grant_date": "2017-04-07",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}

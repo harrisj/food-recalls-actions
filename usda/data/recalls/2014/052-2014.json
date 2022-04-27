@@ -1,1 +1,32 @@
-{"id": "052-2014", "title": "Georgia Firm Recalls Chicken Nugget Product Due To Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/georgia-firm-recalls-chicken-nugget-product-due-possible-foreign-matter", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "Low", "start_date": "2014-08-12", "end_date": "2014-09-23", "summary": "WASHINGTON, Aug. 12, 2014 Perdue, a Gainesville, Ga. establishment, is recalling approximately 15,306 pounds of frozen, fully cooked chicken nugget product that may be contaminated with extraneous materials, the U.S. Department of Agriculture's FSIS announced today. The following product is subject to recall: [View Labels...\n", "establishment": {"id": "M2617+P2617", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/perdue-foods-llc-18", "slug": "perdue-foods-llc-18", "name": "Perdue Foods LLC", "address": "1155 Candler Rd. \n  Gainesville, GA 30507", "telephone": "(770) 535-9252", "grant_date": "2017-12-11", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["8-oz. box of \u201cAPPLEGATE naturals CHICKEN NUGGETS\u201d bearing the establishment number \u201cP2617\u201d and the \u201cBEST BEFORE\u201d date of \u201c02/05/15\u201d."], "quantity_recovered": 1093, "quantity_unit": "pounds", "states": null}
+{
+  "id": "052-2014",
+  "title": "Georgia Firm Recalls Chicken Nugget Product Due To Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/georgia-firm-recalls-chicken-nugget-product-due-possible-foreign-matter",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2014-08-12",
+  "end_date": "2014-09-23",
+  "summary": "WASHINGTON, Aug. 12, 2014 Perdue, a Gainesville, Ga. establishment, is recalling approximately 15,306 pounds of frozen, fully cooked chicken nugget product that may be contaminated with extraneous materials, the U.S. Department of Agriculture's FSIS announced today. The following product is subject to recall: [View Labels...\n",
+  "establishment": {
+    "id": "M2617+P2617",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/perdue-foods-llc-18",
+    "slug": "perdue-foods-llc-18",
+    "name": "Perdue Foods LLC",
+    "address": "1155 Candler Rd. \n  Gainesville, GA 30507",
+    "telephone": "(770) 535-9252",
+    "grant_date": "2017-12-11",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "8-oz. box of \u201cAPPLEGATE naturals CHICKEN NUGGETS\u201d bearing the establishment number \u201cP2617\u201d and the \u201cBEST BEFORE\u201d date of \u201c02/05/15\u201d."
+  ],
+  "quantity_recovered": 1093,
+  "quantity_unit": "pounds",
+  "states": null
+}

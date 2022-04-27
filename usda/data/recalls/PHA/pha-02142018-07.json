@@ -1,1 +1,26 @@
-{"id": "pha-02142018-07", "title": "FSIS Issues Public Health Alert For Poultry Products due to Possible Salmonella Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-poultry-products-due-possible-salmonella", "reasons": ["Product Contamination"], "status": "Active", "risk_level": null, "start_date": "2018-02-14", "end_date": null, "summary": "WASHINGTON, Feb. 14, 2018 The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) is issuing a public health alert out of an abundance of caution due to concerns about illnesses reported in the state of Iowa that may be caused by Salmonella associated...\n", "establishment": null, "impacted_products": ["Varying weights of Fareway Chicken Salad sold in plastic deli containers with a Fareway store deli label"], "quantity_recovered": null, "quantity_unit": null, "states": ["Iowa", "Illinois", "Minnesota", "Nebraska", "South Dakota"]}
+{
+  "id": "pha-02142018-07",
+  "title": "FSIS Issues Public Health Alert For Poultry Products due to Possible Salmonella Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-poultry-products-due-possible-salmonella",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2018-02-14",
+  "end_date": null,
+  "summary": "WASHINGTON, Feb. 14, 2018 The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) is issuing a public health alert out of an abundance of caution due to concerns about illnesses reported in the state of Iowa that may be caused by Salmonella associated...\n",
+  "establishment": null,
+  "impacted_products": [
+    "Varying weights of Fareway Chicken Salad sold in plastic deli containers with a Fareway store deli label"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Iowa",
+    "Illinois",
+    "Minnesota",
+    "Nebraska",
+    "South Dakota"
+  ]
+}

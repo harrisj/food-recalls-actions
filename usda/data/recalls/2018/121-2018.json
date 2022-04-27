@@ -1,1 +1,19 @@
-{"id": "121-2018", "title": "Vermont Packinghouse, LLC Recalls Raw Intact Bone-In Beef Products due to Possible Specified Risk Materials Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/vermont-packinghouse-llc-recalls-raw-intact-bone-beef-products-due-possible", "reasons": [], "status": "Closed", "risk_level": "Low", "start_date": "2018-12-13", "end_date": "2019-02-27", "summary": "Editors note: This release was updated to clarify the retailer distribution. WASHINGTON, Dec.13, 2018 Vermont Packinghouse, LLC, a N. Springfield, Vt. establishment, is recalling approximately 10,828 pounds of raw intact bone-in beef quarters from cattle identified as being over 30 months of age because the...", "establishment": null, "impacted_products": [], "quantity_recovered": 0, "quantity_unit": "pounds", "states": ["Massachusetts", "Vermont"]}
+{
+  "id": "121-2018",
+  "title": "Vermont Packinghouse, LLC Recalls Raw Intact Bone-In Beef Products due to Possible Specified Risk Materials Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/vermont-packinghouse-llc-recalls-raw-intact-bone-beef-products-due-possible",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2018-12-13",
+  "end_date": "2019-02-27",
+  "summary": "Editors note: This release was updated to clarify the retailer distribution. WASHINGTON, Dec.13, 2018 Vermont Packinghouse, LLC, a N. Springfield, Vt. establishment, is recalling approximately 10,828 pounds of raw intact bone-in beef quarters from cattle identified as being over 30 months of age because the...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": [
+    "Massachusetts",
+    "Vermont"
+  ]
+}

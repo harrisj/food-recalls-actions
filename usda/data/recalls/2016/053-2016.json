@@ -1,1 +1,27 @@
-{"id": "053-2016", "title": "Ghiringhelli Specialty Foods, Inc. Recalls Poultry Products Due To Mislabeling and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/ghiringhelli-specialty-foods-inc.-recalls-poultry-products-due-mislabeling-and", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2016-06-26", "end_date": "2016-08-22", "summary": "WASHINGTON, June 26, 2016 Ghiringhelli Specialty Foods, Inc., a Vallejo, Calif., establishment, is recalling approximately 2,444 pounds of poultry products due to mislabeling and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products contain soy, wheat, and...", "establishment": null, "impacted_products": [], "quantity_recovered": 1299, "quantity_unit": "pounds", "states": ["California", "Colorado", "Idaho", "Louisiana", "Nevada", "Oklahoma", "Oregon", "Texas", "Utah", "Washington"]}
+{
+  "id": "053-2016",
+  "title": "Ghiringhelli Specialty Foods, Inc. Recalls Poultry Products Due To Mislabeling and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/ghiringhelli-specialty-foods-inc.-recalls-poultry-products-due-mislabeling-and",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2016-06-26",
+  "end_date": "2016-08-22",
+  "summary": "WASHINGTON, June 26, 2016 Ghiringhelli Specialty Foods, Inc., a Vallejo, Calif., establishment, is recalling approximately 2,444 pounds of poultry products due to mislabeling and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products contain soy, wheat, and...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 1299,
+  "quantity_unit": "pounds",
+  "states": [
+    "California",
+    "Colorado",
+    "Idaho",
+    "Louisiana",
+    "Nevada",
+    "Oklahoma",
+    "Oregon",
+    "Texas",
+    "Utah",
+    "Washington"
+  ]
+}

@@ -1,1 +1,18 @@
-{"id": "114-2015", "title": "California Qi Li&rsquo;s Braised Chicken Recalls Duck Products Due to Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/california-qi-lis-braised-chicken-recalls-duck-products-due-misbranding-and", "reasons": [], "status": "Closed", "risk_level": "Low", "start_date": "2015-08-26", "end_date": "2016-06-08", "summary": "WASHINGTON, Aug. 26, 2015 California Qi Lis Braised Chicken, a Fremont, Calif., establishment, is recalling approximately 6,644 pounds of duck head and duck neck products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The...", "establishment": null, "impacted_products": [], "quantity_recovered": 439, "quantity_unit": "pounds", "states": ["California"]}
+{
+  "id": "114-2015",
+  "title": "California Qi Li&rsquo;s Braised Chicken Recalls Duck Products Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/california-qi-lis-braised-chicken-recalls-duck-products-due-misbranding-and",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2015-08-26",
+  "end_date": "2016-06-08",
+  "summary": "WASHINGTON, Aug. 26, 2015 California Qi Lis Braised Chicken, a Fremont, Calif., establishment, is recalling approximately 6,644 pounds of duck head and duck neck products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 439,
+  "quantity_unit": "pounds",
+  "states": [
+    "California"
+  ]
+}

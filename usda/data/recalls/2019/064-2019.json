@@ -1,1 +1,36 @@
-{"id": "064-2019", "title": "Perdue Foods LLC Recalls Perdue Simply Smart Organics Poultry Products Due to Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/perdue-foods-llc-recalls-perdue-simply-smart-organics-poultry-products-due-possible", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2019-05-31", "end_date": "2019-10-23", "summary": "WASHINGTON, May 31, 2019 Perdue Foods LLC., a Bridgewater, Va. establishment, is recalling approximately 31,703 pounds of ready-to-eat chicken products that may be contaminated with extraneous materials, specifically pieces of bone material, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today...\n", "establishment": {"id": "M2014+P369", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/perdue-foods-llc-17", "slug": "perdue-foods-llc-17", "name": "PERDUE FOODS, LLC.", "address": "100 QUALITY STREET \n  BRIDGEWATER, VA 22812", "telephone": "(410) 543-3000", "grant_date": "2014-03-13", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["11.2 oz. plastic trays containing \u201cPERDUE Simply Smart ORGANICS BREADED CHICKEN BREAST TENDERS \u2013 GLUTEN FREE\u201d with a \u201cUSE BY MAY 20 2019\u201d and UPC bar code of 072745-001437 on the label. ", "12 oz. plastic trays containing \u201cPERDUE Simply Smart ORGANICS BREADED CHICKEN BREAST NUGGETS \u2013 WHOLE GRAIN\u201d with a \u201cUSE BY MAY 20 2019\u201d and UPC bar code of 072745-001642 on the label. ", "12 oz. plastic trays containing \u201cPERDUE Simply Smart ORGANICS BREADED CHICKEN BREAST STRIPS \u2013 WHOLE GRAIN\u201d with a \u201cUSE BY MAY 20 2019\u201d and UPC bar code of 072745-002656 on the label. ", "10-lb. bulk boxes of \u201cChef Quik Breaded Chicken Tenders Boneless Tender Shaped Chicken Breast Patties with Rib Meat\u201d with Case Code 22143 on the label. ", "10-lb. bulk boxes of \u201cChef Quik Chicken Breast Strips Strip Shaped Breaded Chicken Breast Patties with Rib Meat\u201d with Case Code 77265 on the label. "], "quantity_recovered": 100, "quantity_unit": "pounds", "states": null}
+{
+  "id": "064-2019",
+  "title": "Perdue Foods LLC Recalls Perdue Simply Smart Organics Poultry Products Due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/perdue-foods-llc-recalls-perdue-simply-smart-organics-poultry-products-due-possible",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2019-05-31",
+  "end_date": "2019-10-23",
+  "summary": "WASHINGTON, May 31, 2019 Perdue Foods LLC., a Bridgewater, Va. establishment, is recalling approximately 31,703 pounds of ready-to-eat chicken products that may be contaminated with extraneous materials, specifically pieces of bone material, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today...\n",
+  "establishment": {
+    "id": "M2014+P369",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/perdue-foods-llc-17",
+    "slug": "perdue-foods-llc-17",
+    "name": "PERDUE FOODS, LLC.",
+    "address": "100 QUALITY STREET \n  BRIDGEWATER, VA 22812",
+    "telephone": "(410) 543-3000",
+    "grant_date": "2014-03-13",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "11.2 oz. plastic trays containing \u201cPERDUE Simply Smart ORGANICS BREADED CHICKEN BREAST TENDERS \u2013 GLUTEN FREE\u201d with a \u201cUSE BY MAY 20 2019\u201d and UPC bar code of 072745-001437 on the label. ",
+    "12 oz. plastic trays containing \u201cPERDUE Simply Smart ORGANICS BREADED CHICKEN BREAST NUGGETS \u2013 WHOLE GRAIN\u201d with a \u201cUSE BY MAY 20 2019\u201d and UPC bar code of 072745-001642 on the label. ",
+    "12 oz. plastic trays containing \u201cPERDUE Simply Smart ORGANICS BREADED CHICKEN BREAST STRIPS \u2013 WHOLE GRAIN\u201d with a \u201cUSE BY MAY 20 2019\u201d and UPC bar code of 072745-002656 on the label. ",
+    "10-lb. bulk boxes of \u201cChef Quik Breaded Chicken Tenders Boneless Tender Shaped Chicken Breast Patties with Rib Meat\u201d with Case Code 22143 on the label. ",
+    "10-lb. bulk boxes of \u201cChef Quik Chicken Breast Strips Strip Shaped Breaded Chicken Breast Patties with Rib Meat\u201d with Case Code 77265 on the label. "
+  ],
+  "quantity_recovered": 100,
+  "quantity_unit": "pounds",
+  "states": null
+}

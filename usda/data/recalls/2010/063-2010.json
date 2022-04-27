@@ -1,1 +1,34 @@
-{"id": "063-2010", "title": "California Firm Recalls Chicken Tamales Due To Mislabeling and an Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-chicken-tamales-due-mislabeling-and-undeclared-allergen", "reasons": ["Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2010-12-03", "end_date": "2012-06-04", "summary": "WASHINGTON, Dec. 3, 2010 - Diana's Mexican Food Products, Inc. a Lawndale, Ca. establishment, is recalling approximately 41,670 pounds of chicken tamales because they contain an undeclared allergen, whey, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. Whey is a...\n", "establishment": {"id": "M4158+P4158", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/dianas-central-meat-market", "slug": "dianas-central-meat-market", "name": "Diana's Central Meat Market", "address": "4201 Redondo Beach Blvd \n  Lawndale, CA 90504", "telephone": "(310) 370-5788", "grant_date": "1969-12-31", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["15 lb. boxes of \"Diana's Central Meat Market Chicken Tamales (wrapped in rice paper)\", with each box containing 48 5 oz. tamales."], "quantity_recovered": 17857, "quantity_unit": "pounds", "states": ["California"]}
+{
+  "id": "063-2010",
+  "title": "California Firm Recalls Chicken Tamales Due To Mislabeling and an Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-chicken-tamales-due-mislabeling-and-undeclared-allergen",
+  "reasons": [
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2010-12-03",
+  "end_date": "2012-06-04",
+  "summary": "WASHINGTON, Dec. 3, 2010 - Diana's Mexican Food Products, Inc. a Lawndale, Ca. establishment, is recalling approximately 41,670 pounds of chicken tamales because they contain an undeclared allergen, whey, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. Whey is a...\n",
+  "establishment": {
+    "id": "M4158+P4158",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/dianas-central-meat-market",
+    "slug": "dianas-central-meat-market",
+    "name": "Diana's Central Meat Market",
+    "address": "4201 Redondo Beach Blvd \n  Lawndale, CA 90504",
+    "telephone": "(310) 370-5788",
+    "grant_date": "1969-12-31",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "15 lb. boxes of \"Diana's Central Meat Market Chicken Tamales (wrapped in rice paper)\", with each box containing 48 5 oz. tamales."
+  ],
+  "quantity_recovered": 17857,
+  "quantity_unit": "pounds",
+  "states": [
+    "California"
+  ]
+}

@@ -1,1 +1,20 @@
-{"id": "075-2017", "title": "Supreme Cuisine Recalls Meat and Poultry Fat and Lard Products Due to Processing Deviation", "url": "https://www.fsis.usda.gov/recalls-alerts/supreme-cuisine-recalls-meat-and-poultry-fat-and-lard-products-due-processing", "reasons": ["Processing Defect"], "status": "Closed", "risk_level": "High", "start_date": "2017-06-17", "end_date": "2017-09-19", "summary": "WASHINGTON, June 17, 2017 Supreme Cuisine, a Montgomery City, Mo. establishment, is recalling approximately 325,000 pounds of meat and poultry fat and lard products due to a processing deviation, which may result in the potential growth and survival of bacterial pathogens in the products, the...\n", "establishment": null, "impacted_products": ["Meat And Poultry Fat And Lard Products."], "quantity_recovered": 61000, "quantity_unit": "pounds", "states": null}
+{
+  "id": "075-2017",
+  "title": "Supreme Cuisine Recalls Meat and Poultry Fat and Lard Products Due to Processing Deviation",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/supreme-cuisine-recalls-meat-and-poultry-fat-and-lard-products-due-processing",
+  "reasons": [
+    "Processing Defect"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2017-06-17",
+  "end_date": "2017-09-19",
+  "summary": "WASHINGTON, June 17, 2017 Supreme Cuisine, a Montgomery City, Mo. establishment, is recalling approximately 325,000 pounds of meat and poultry fat and lard products due to a processing deviation, which may result in the potential growth and survival of bacterial pathogens in the products, the...\n",
+  "establishment": null,
+  "impacted_products": [
+    "Meat And Poultry Fat And Lard Products."
+  ],
+  "quantity_recovered": 61000,
+  "quantity_unit": "pounds",
+  "states": null
+}

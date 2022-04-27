@@ -1,1 +1,28 @@
-{"id": "087-2017", "title": "Bateman Recalls Poultry Products Due To Misbranding and an Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/bateman-recalls-poultry-products-due-misbranding-and-undeclared-allergen", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2017-08-02", "end_date": "2017-10-18", "summary": "EDITORS NOTE (Aug 9, 2017): This release is being reissued to reflect a change in poundage, a new state where the items were shipped and a new lot code. WASHINGTON, Aug. 2, 2017 Bateman, a West Sacramento, Calif. establishment, is recalling approximately 20,638 pounds of...\n", "establishment": null, "impacted_products": ["9.1-oz. plastic 3 compartment trays containing \u201cCHICKEN with HERB SAUCE POTATOES and CARROTS\u201d bearing any of the following Lot Codes: 17817, 14417, 10217, 08617, 05517, 04417, 00217, 36516, 35016, 32816, 30216, 27716, 24316, 22216, and 18216.", "9.0-oz. plastic 3 compartment trays containing \u201cBateman Classics Chicken Fillet with Honey Mustard Sauce, Herbed Quinoa, California Blend Vegetables\u201d bearing any of the following Lot Codes: 12117, 06717, 04517, 00917, 29516, and 23616.", "12.8-oz. plastic 3 compartment trays containing \u201cBateman Classics Chicken Fillet w/ Barbeque Sauce, ROASTED YAMS, GREEN BEANS\u201d bearing any of the following Lot Codes: 14617, 08917, 01717, 35616, and 17917.", "9.1-oz. plastic 3 compartment trays containing \u201cBateman Classics Chicken Breast Fillet with Apricot Sauce Lemon Quinoa and Brussels Sprouts\u201d bearing any of the following Lot Codes: 11117, 06017, 01717, 35516, and 17917."], "quantity_recovered": 2151, "quantity_unit": "pounds", "states": ["Arizona", "California", "Oregon"]}
+{
+  "id": "087-2017",
+  "title": "Bateman Recalls Poultry Products Due To Misbranding and an Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/bateman-recalls-poultry-products-due-misbranding-and-undeclared-allergen",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2017-08-02",
+  "end_date": "2017-10-18",
+  "summary": "EDITORS NOTE (Aug 9, 2017): This release is being reissued to reflect a change in poundage, a new state where the items were shipped and a new lot code. WASHINGTON, Aug. 2, 2017 Bateman, a West Sacramento, Calif. establishment, is recalling approximately 20,638 pounds of...\n",
+  "establishment": null,
+  "impacted_products": [
+    "9.1-oz. plastic 3 compartment trays containing \u201cCHICKEN with HERB SAUCE POTATOES and CARROTS\u201d bearing any of the following Lot Codes: 17817, 14417, 10217, 08617, 05517, 04417, 00217, 36516, 35016, 32816, 30216, 27716, 24316, 22216, and 18216.",
+    "9.0-oz. plastic 3 compartment trays containing \u201cBateman Classics Chicken Fillet with Honey Mustard Sauce, Herbed Quinoa, California Blend Vegetables\u201d bearing any of the following Lot Codes: 12117, 06717, 04517, 00917, 29516, and 23616.",
+    "12.8-oz. plastic 3 compartment trays containing \u201cBateman Classics Chicken Fillet w/ Barbeque Sauce, ROASTED YAMS, GREEN BEANS\u201d bearing any of the following Lot Codes: 14617, 08917, 01717, 35616, and 17917.",
+    "9.1-oz. plastic 3 compartment trays containing \u201cBateman Classics Chicken Breast Fillet with Apricot Sauce Lemon Quinoa and Brussels Sprouts\u201d bearing any of the following Lot Codes: 11117, 06017, 01717, 35516, and 17917."
+  ],
+  "quantity_recovered": 2151,
+  "quantity_unit": "pounds",
+  "states": [
+    "Arizona",
+    "California",
+    "Oregon"
+  ]
+}

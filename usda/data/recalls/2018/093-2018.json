@@ -1,1 +1,32 @@
-{"id": "093-2018", "title": "GH Foods CA, LLC Recalls Salads Containing Chicken Products due to Possible Salmonella and Listeria monocytogenes Contamination In Corn", "url": "https://www.fsis.usda.gov/recalls-alerts/gh-foods-ca-llc-recalls-salads-containing-chicken-products-due-possible-salmonella", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2018-10-17", "end_date": "2018-11-20", "summary": "EDITORS NOTE: -This release was updated on October 21, 2018 to reflect additional poundage produced. WASHINGTON, Oct. 17, 2018 GH Foods CA, LLC, a Sacramento, Calif. establishment, is recalling approximately 987 pounds of ready-to-eat salad with chicken products that contain a corn ingredient that may...", "establishment": {"id": "M39994+P39994", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/gh-foods-ca-llc-0", "slug": "gh-foods-ca-llc-0", "name": "GH Foods CA, LLC", "address": "8371 Carbide Ct \n  Sacramento, CA 95828", "telephone": "(916) 844-1140", "grant_date": "2014-07-23", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": 268, "quantity_unit": "pounds", "states": ["California"]}
+{
+  "id": "093-2018",
+  "title": "GH Foods CA, LLC Recalls Salads Containing Chicken Products due to Possible Salmonella and Listeria monocytogenes Contamination In Corn",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/gh-foods-ca-llc-recalls-salads-containing-chicken-products-due-possible-salmonella",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2018-10-17",
+  "end_date": "2018-11-20",
+  "summary": "EDITORS NOTE: -This release was updated on October 21, 2018 to reflect additional poundage produced. WASHINGTON, Oct. 17, 2018 GH Foods CA, LLC, a Sacramento, Calif. establishment, is recalling approximately 987 pounds of ready-to-eat salad with chicken products that contain a corn ingredient that may...",
+  "establishment": {
+    "id": "M39994+P39994",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/gh-foods-ca-llc-0",
+    "slug": "gh-foods-ca-llc-0",
+    "name": "GH Foods CA, LLC",
+    "address": "8371 Carbide Ct \n  Sacramento, CA 95828",
+    "telephone": "(916) 844-1140",
+    "grant_date": "2014-07-23",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 268,
+  "quantity_unit": "pounds",
+  "states": [
+    "California"
+  ]
+}

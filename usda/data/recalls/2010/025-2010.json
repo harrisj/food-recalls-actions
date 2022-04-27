@@ -1,1 +1,44 @@
-{"id": "025-2010", "title": "Texas Firm Recalls Beef Trim Products Due To Possible E. coli O157:H7 Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/texas-firm-recalls-beef-trim-products-due-possible-e.-coli-o157h7-contamination", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2010-04-21", "end_date": "2012-06-03", "summary": "WASHINGTON, April 21, 2010 - Beltex Corporation, a Fort Worth, Texas, establishment, is recalling approximately 135,500 pounds of beef trim products that may be contaminated with E. coli O157:H7, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The following products...\n", "establishment": {"id": "M7041B+P7041+V7041B", "url": "http://www.fsis.usda.gov/establishments/beltex-corporation", "slug": "beltex-corporation", "name": "Beltex Corporation", "address": "3801 North Grove Street \n  Fort Worth, TX 76106", "telephone": "(817) 624-1136", "grant_date": "2011-06-09", "activities": ["Meat Processing", "Meat Slaughter", "Voluntary Processing - Exotic", "Voluntary Processing - Meat", "Voluntary Slaughter - Exotic", "Voluntary Slaughter - Meat"]}, "impacted_products": ["Various pound boxes of \"FRONTIER MEATS BEEF BONELESS NAVEL\""], "quantity_recovered": 62144, "quantity_unit": "pounds", "states": ["Georgia", "Louisiana", "Ohio", "Oklahoma", "Texas", "Washington", "Wisconsin"]}
+{
+  "id": "025-2010",
+  "title": "Texas Firm Recalls Beef Trim Products Due To Possible E. coli O157:H7 Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/texas-firm-recalls-beef-trim-products-due-possible-e.-coli-o157h7-contamination",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2010-04-21",
+  "end_date": "2012-06-03",
+  "summary": "WASHINGTON, April 21, 2010 - Beltex Corporation, a Fort Worth, Texas, establishment, is recalling approximately 135,500 pounds of beef trim products that may be contaminated with E. coli O157:H7, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The following products...\n",
+  "establishment": {
+    "id": "M7041B+P7041+V7041B",
+    "url": "http://www.fsis.usda.gov/establishments/beltex-corporation",
+    "slug": "beltex-corporation",
+    "name": "Beltex Corporation",
+    "address": "3801 North Grove Street \n  Fort Worth, TX 76106",
+    "telephone": "(817) 624-1136",
+    "grant_date": "2011-06-09",
+    "activities": [
+      "Meat Processing",
+      "Meat Slaughter",
+      "Voluntary Processing - Exotic",
+      "Voluntary Processing - Meat",
+      "Voluntary Slaughter - Exotic",
+      "Voluntary Slaughter - Meat"
+    ]
+  },
+  "impacted_products": [
+    "Various pound boxes of \"FRONTIER MEATS BEEF BONELESS NAVEL\""
+  ],
+  "quantity_recovered": 62144,
+  "quantity_unit": "pounds",
+  "states": [
+    "Georgia",
+    "Louisiana",
+    "Ohio",
+    "Oklahoma",
+    "Texas",
+    "Washington",
+    "Wisconsin"
+  ]
+}

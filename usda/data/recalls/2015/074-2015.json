@@ -1,1 +1,16 @@
-{"id": "074-2015", "title": "Bi-Lo Supermarket Recalls Ground Beef Products Due To Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/bi-lo-supermarket-recalls-ground-beef-products-due-possible-foreign-matter", "reasons": [], "status": "Closed", "risk_level": "Low", "start_date": "2015-05-01", "end_date": "2016-06-08", "summary": "WASHINGTON, May 1, 2015 Bi-Lo Supermarket #5406, a Rossville, Ga. establishment, is recalling approximately 11-22 pounds of ground beef products that may be contaminated with pieces from a small plastic pop-up timer, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today.The...", "establishment": null, "impacted_products": [], "quantity_recovered": 9, "quantity_unit": "pounds", "states": null}
+{
+  "id": "074-2015",
+  "title": "Bi-Lo Supermarket Recalls Ground Beef Products Due To Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/bi-lo-supermarket-recalls-ground-beef-products-due-possible-foreign-matter",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2015-05-01",
+  "end_date": "2016-06-08",
+  "summary": "WASHINGTON, May 1, 2015 Bi-Lo Supermarket #5406, a Rossville, Ga. establishment, is recalling approximately 11-22 pounds of ground beef products that may be contaminated with pieces from a small plastic pop-up timer, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today.The...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 9,
+  "quantity_unit": "pounds",
+  "states": null
+}

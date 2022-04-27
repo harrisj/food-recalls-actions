@@ -1,1 +1,22 @@
-{"id": "016-2017", "title": "Gourmet Classic Salads, Inc Recalls Ready-To-Eat Meat and Poultry Products Due To Possible Listeria Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/gourmet-classic-salads-inc-recalls-ready-eat-meat-and-poultry-products-due-possible", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2017-02-28", "end_date": "2017-07-24", "summary": "WASHINGTON, Feb. 28, 2017 Gourmet Classic Salads, Inc., a Lake Wales, Fla. establishment, is recalling approximately 3,236 pounds of ready-to-eat meat and poultry products that may be adulterated with Listeria monocytogenes, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The...\n", "establishment": null, "impacted_products": ["Clear plastic container containing 1 \u201cTurkey Pesto on Tomato Basil Wrap.\u201d"], "quantity_recovered": 9, "quantity_unit": "pounds", "states": ["Florida"]}
+{
+  "id": "016-2017",
+  "title": "Gourmet Classic Salads, Inc Recalls Ready-To-Eat Meat and Poultry Products Due To Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/gourmet-classic-salads-inc-recalls-ready-eat-meat-and-poultry-products-due-possible",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2017-02-28",
+  "end_date": "2017-07-24",
+  "summary": "WASHINGTON, Feb. 28, 2017 Gourmet Classic Salads, Inc., a Lake Wales, Fla. establishment, is recalling approximately 3,236 pounds of ready-to-eat meat and poultry products that may be adulterated with Listeria monocytogenes, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The...\n",
+  "establishment": null,
+  "impacted_products": [
+    "Clear plastic container containing 1 \u201cTurkey Pesto on Tomato Basil Wrap.\u201d"
+  ],
+  "quantity_recovered": 9,
+  "quantity_unit": "pounds",
+  "states": [
+    "Florida"
+  ]
+}

@@ -1,1 +1,39 @@
-{"id": "043-2012", "title": "Indiana Firm Recalls Corn Chowder Soup Products That May Contain Foreign Materials", "url": "https://www.fsis.usda.gov/recalls-alerts/indiana-firm-recalls-corn-chowder-soup-products-may-contain-foreign-materials", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "Low", "start_date": "2012-07-13", "end_date": "2013-05-28", "summary": "WASHINGTON, July 13, 2012 - Morgan Foods, Inc., an Austin, Ind. establishment, is recalling approximately 94,850 pounds of corn chowder soup products that may contain foreign materials, the U.S. Department of Agriculture\u0092s Food Safety and Inspection Service (FSIS) announced today. The products subject to recall...\n", "establishment": {"id": "M6806+P1469", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/morgan-foods-inc", "slug": "morgan-foods-inc", "name": "Morgan Foods, Inc.", "address": "90 W. Morgan Street \n  Austin, IN 47102", "telephone": "(812) 794-1170", "grant_date": "1992-10-14", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["18.8-ounce cans of \u0093Hill Country Fare Chunky Chicken Corn Chowder,\u0094 Wegman\u0092s Chunky Chicken Corn Chowder,\u0094 \u0093Chef\u0092s Cupboard Chunky Chicken Corn Chowder\u0094 and \u0093America\u0092s Choice Chicken Corn Chowder Chunky\u0094 with \u0093best-by date\u0094 of \u009301 Mar 2014\u0094 stamped on the"], "quantity_recovered": 34305, "quantity_unit": "pounds", "states": ["Connecticut", "Maryland", "New Jersey", "New York", "Pennsylvania", "Virginia"]}
+{
+  "id": "043-2012",
+  "title": "Indiana Firm Recalls Corn Chowder Soup Products That May Contain Foreign Materials",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/indiana-firm-recalls-corn-chowder-soup-products-may-contain-foreign-materials",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2012-07-13",
+  "end_date": "2013-05-28",
+  "summary": "WASHINGTON, July 13, 2012 - Morgan Foods, Inc., an Austin, Ind. establishment, is recalling approximately 94,850 pounds of corn chowder soup products that may contain foreign materials, the U.S. Department of Agriculture\u0092s Food Safety and Inspection Service (FSIS) announced today. The products subject to recall...\n",
+  "establishment": {
+    "id": "M6806+P1469",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/morgan-foods-inc",
+    "slug": "morgan-foods-inc",
+    "name": "Morgan Foods, Inc.",
+    "address": "90 W. Morgan Street \n  Austin, IN 47102",
+    "telephone": "(812) 794-1170",
+    "grant_date": "1992-10-14",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "18.8-ounce cans of \u0093Hill Country Fare Chunky Chicken Corn Chowder,\u0094 Wegman\u0092s Chunky Chicken Corn Chowder,\u0094 \u0093Chef\u0092s Cupboard Chunky Chicken Corn Chowder\u0094 and \u0093America\u0092s Choice Chicken Corn Chowder Chunky\u0094 with \u0093best-by date\u0094 of \u009301 Mar 2014\u0094 stamped on the"
+  ],
+  "quantity_recovered": 34305,
+  "quantity_unit": "pounds",
+  "states": [
+    "Connecticut",
+    "Maryland",
+    "New Jersey",
+    "New York",
+    "Pennsylvania",
+    "Virginia"
+  ]
+}

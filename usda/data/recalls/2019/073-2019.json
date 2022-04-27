@@ -1,1 +1,36 @@
-{"id": "073-2019", "title": "Ada Valley Gourmet Foods, Inc. Recalls Beef Products Due to Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/ada-valley-gourmet-foods-inc.-recalls-beef-products-due-possible-foreign-matter", "reasons": ["Product Contamination"], "status": "Active", "risk_level": "High", "start_date": "2019-07-13", "end_date": null, "summary": "WASHINGTON, July 13, 2019 Ada Valley Gourmet Foods, Inc., an Ada, Mich. establishment, is recalling approximately 3,490 pounds of raw ground beef meatloaf products that may be contaminated with extraneous materials, specifically broken metal bits, the U.S. Department of Agricultures Food Safety and Inspection Service...\n", "establishment": {"id": "M10031+P10031", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/ada-valley-gourmet-foods", "slug": "ada-valley-gourmet-foods", "name": "Ada Valley Gourmet Foods", "address": "6210 E. Fulton \n  Ada, MI 49301", "telephone": "(616) 676-0767", "grant_date": "2016-04-05", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["5-lb. frozen vacuum packages packed 2 each in cartons containing \u201cAda Valley MEATLOAF UNCOOKED\u201d with lot code 17034 and a packaging date of 05-20-19 represented on the label. "], "quantity_recovered": null, "quantity_unit": null, "states": ["Arizona", "California", "Nevada"]}
+{
+  "id": "073-2019",
+  "title": "Ada Valley Gourmet Foods, Inc. Recalls Beef Products Due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/ada-valley-gourmet-foods-inc.-recalls-beef-products-due-possible-foreign-matter",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2019-07-13",
+  "end_date": null,
+  "summary": "WASHINGTON, July 13, 2019 Ada Valley Gourmet Foods, Inc., an Ada, Mich. establishment, is recalling approximately 3,490 pounds of raw ground beef meatloaf products that may be contaminated with extraneous materials, specifically broken metal bits, the U.S. Department of Agricultures Food Safety and Inspection Service...\n",
+  "establishment": {
+    "id": "M10031+P10031",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/ada-valley-gourmet-foods",
+    "slug": "ada-valley-gourmet-foods",
+    "name": "Ada Valley Gourmet Foods",
+    "address": "6210 E. Fulton \n  Ada, MI 49301",
+    "telephone": "(616) 676-0767",
+    "grant_date": "2016-04-05",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "5-lb. frozen vacuum packages packed 2 each in cartons containing \u201cAda Valley MEATLOAF UNCOOKED\u201d with lot code 17034 and a packaging date of 05-20-19 represented on the label. "
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Arizona",
+    "California",
+    "Nevada"
+  ]
+}

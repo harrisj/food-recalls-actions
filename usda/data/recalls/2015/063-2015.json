@@ -1,1 +1,31 @@
-{"id": "063-2015", "title": "Royal Frozen Food Recalls Beef and Chicken Products Due to Misbranding and an Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/royal-frozen-food-recalls-beef-and-chicken-products-due-misbranding-and-undeclared", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2015-04-17", "end_date": "2016-06-08", "summary": "WASHINGTON, April 17, 2015 Royal Frozen Food, a Los Angeles, Calif. establishment, is recalling approximately 3,821 pounds of beef and chicken products due to misbranding and an undeclared allergen, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products contain...", "establishment": {"id": "M20585+P20585", "url": "http://www.fsis.usda.gov/establishments/royal-frozen-food", "slug": "royal-frozen-food", "name": "Royal Frozen Food", "address": "5423 W Pico Blvd. \n  Los Angeles, CA 90019", "telephone": "(323) 938-8666", "grant_date": "2014-09-08", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": 802, "quantity_unit": "pounds", "states": ["California", "Nevada"]}
+{
+  "id": "063-2015",
+  "title": "Royal Frozen Food Recalls Beef and Chicken Products Due to Misbranding and an Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/royal-frozen-food-recalls-beef-and-chicken-products-due-misbranding-and-undeclared",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2015-04-17",
+  "end_date": "2016-06-08",
+  "summary": "WASHINGTON, April 17, 2015 Royal Frozen Food, a Los Angeles, Calif. establishment, is recalling approximately 3,821 pounds of beef and chicken products due to misbranding and an undeclared allergen, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products contain...",
+  "establishment": {
+    "id": "M20585+P20585",
+    "url": "http://www.fsis.usda.gov/establishments/royal-frozen-food",
+    "slug": "royal-frozen-food",
+    "name": "Royal Frozen Food",
+    "address": "5423 W Pico Blvd. \n  Los Angeles, CA 90019",
+    "telephone": "(323) 938-8666",
+    "grant_date": "2014-09-08",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 802,
+  "quantity_unit": "pounds",
+  "states": [
+    "California",
+    "Nevada"
+  ]
+}

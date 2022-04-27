@@ -1,1 +1,33 @@
-{"id": "002-2020", "title": "Culinary International, LLC Recalls Chicken Burrito Products Due to Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/culinary-international-llc-recalls-chicken-burrito-products-due-misbranding-and", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2020-01-10", "end_date": "2020-05-18", "summary": "Culinary International, LLC, a Vernon, Calif. establishment, is recalling approximately 626 pounds of egg burrito products labeled as chicken burrito products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products contain eggs, a...", "establishment": {"id": "M6009+P6009", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/culinary-brands-inc", "slug": "culinary-brands-inc", "name": "Culinary Brands, Inc.", "address": "3280 E. 44th Street \n  Vernon, CA 90058", "telephone": "(626) 289-3000", "grant_date": "2017-12-08", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["6-oz. packages containing evol. Cilantro Lime Chicken Burrito with lot code B9253 J1 P6009 and BEST BY 03 MAR 2021CB represented on the label, and Item #00300, Lot CB03031C11 and BB: 03MAR2021-CB on the case."], "quantity_recovered": 1422, "quantity_unit": "pounds", "states": null}
+{
+  "id": "002-2020",
+  "title": "Culinary International, LLC Recalls Chicken Burrito Products Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/culinary-international-llc-recalls-chicken-burrito-products-due-misbranding-and",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2020-01-10",
+  "end_date": "2020-05-18",
+  "summary": "Culinary International, LLC, a Vernon, Calif. establishment, is recalling approximately 626 pounds of egg burrito products labeled as chicken burrito products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products contain eggs, a...",
+  "establishment": {
+    "id": "M6009+P6009",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/culinary-brands-inc",
+    "slug": "culinary-brands-inc",
+    "name": "Culinary Brands, Inc.",
+    "address": "3280 E. 44th Street \n  Vernon, CA 90058",
+    "telephone": "(626) 289-3000",
+    "grant_date": "2017-12-08",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "6-oz. packages containing evol. Cilantro Lime Chicken Burrito with lot code B9253 J1 P6009 and BEST BY 03 MAR 2021CB represented on the label, and Item #00300, Lot CB03031C11 and BB: 03MAR2021-CB on the case."
+  ],
+  "quantity_recovered": 1422,
+  "quantity_unit": "pounds",
+  "states": null
+}

@@ -1,1 +1,36 @@
-{"id": "092-2019", "title": "Perdue Foods LLC Recalls Simply Smart Organics Frozen Chicken Ready-to-Eat Products Due to Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/perdue-foods-llc-recalls-simply-smart-organics-frozen-chicken-ready-eat-products-due", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "Low", "start_date": "2019-09-17", "end_date": "2019-11-14", "summary": "WASHINGTON, Sept. 17, 2019 Perdue Foods, LLC, a Perry, Ga. establishment, is recalling approximately 495 pounds of frozen ready-to-eat chicken products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product contains wheat, a...", "establishment": {"id": "P33944", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/perdue-foods-llc-9", "slug": "perdue-foods-llc-9", "name": "Perdue Foods LLC", "address": "240 GA Highway 247 Spur \n  Perry, GA 31069", "telephone": "(478) 988-5900", "grant_date": "2019-01-23", "activities": ["Poultry Processing"]}, "impacted_products": [], "quantity_recovered": 10350, "quantity_unit": "pounds", "states": ["Florida", "Georgia", "North Carolina", "Ohio", "Pennsylvania"]}
+{
+  "id": "092-2019",
+  "title": "Perdue Foods LLC Recalls Simply Smart Organics Frozen Chicken Ready-to-Eat Products Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/perdue-foods-llc-recalls-simply-smart-organics-frozen-chicken-ready-eat-products-due",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2019-09-17",
+  "end_date": "2019-11-14",
+  "summary": "WASHINGTON, Sept. 17, 2019 Perdue Foods, LLC, a Perry, Ga. establishment, is recalling approximately 495 pounds of frozen ready-to-eat chicken products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product contains wheat, a...",
+  "establishment": {
+    "id": "P33944",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/perdue-foods-llc-9",
+    "slug": "perdue-foods-llc-9",
+    "name": "Perdue Foods LLC",
+    "address": "240 GA Highway 247 Spur \n  Perry, GA 31069",
+    "telephone": "(478) 988-5900",
+    "grant_date": "2019-01-23",
+    "activities": [
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 10350,
+  "quantity_unit": "pounds",
+  "states": [
+    "Florida",
+    "Georgia",
+    "North Carolina",
+    "Ohio",
+    "Pennsylvania"
+  ]
+}

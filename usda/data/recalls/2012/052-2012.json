@@ -1,1 +1,40 @@
-{"id": "052-2012", "title": "Wisconsin Firm Recalls Frozen Bacon Cheeseburger Patties That May Contain Foreign Materials", "url": "https://www.fsis.usda.gov/recalls-alerts/wisconsin-firm-recalls-frozen-bacon-cheeseburger-patties-may-contain-foreign", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "Low", "start_date": "2012-08-02", "end_date": "2013-05-29", "summary": "WASHINGTON, August 2, 2012 - Kenosha Beef International, Ltd., a Kenosha, Wis. establishment, is recalling approximately 37,600 pounds of frozen bacon cheeseburger patties because they may contain foreign materials\u2014pieces of gasket material, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today...\n", "establishment": {"id": "M425B+P425B", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/kenosha-beef-international-ltd", "slug": "kenosha-beef-international-ltd", "name": "Kenosha Beef International Ltd", "address": "3111 152nd Avenue \n  Kenosha, WI 53144", "telephone": "(262) 859-2272", "grant_date": "2008-04-04", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["2-lb. cartons containing 6 patties of Sam's Choice Fireside Gourmet Black Angus Beef Patties Bacon and Aged Cheddar"], "quantity_recovered": 9778, "quantity_unit": "pounds", "states": ["Indiana", "Maine", "North Carolina", "Ohio", "Pennsylvania", "South Carolina", "Wisconsin"]}
+{
+  "id": "052-2012",
+  "title": "Wisconsin Firm Recalls Frozen Bacon Cheeseburger Patties That May Contain Foreign Materials",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/wisconsin-firm-recalls-frozen-bacon-cheeseburger-patties-may-contain-foreign",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2012-08-02",
+  "end_date": "2013-05-29",
+  "summary": "WASHINGTON, August 2, 2012 - Kenosha Beef International, Ltd., a Kenosha, Wis. establishment, is recalling approximately 37,600 pounds of frozen bacon cheeseburger patties because they may contain foreign materials\u2014pieces of gasket material, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today...\n",
+  "establishment": {
+    "id": "M425B+P425B",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/kenosha-beef-international-ltd",
+    "slug": "kenosha-beef-international-ltd",
+    "name": "Kenosha Beef International Ltd",
+    "address": "3111 152nd Avenue \n  Kenosha, WI 53144",
+    "telephone": "(262) 859-2272",
+    "grant_date": "2008-04-04",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "2-lb. cartons containing 6 patties of Sam's Choice Fireside Gourmet Black Angus Beef Patties Bacon and Aged Cheddar"
+  ],
+  "quantity_recovered": 9778,
+  "quantity_unit": "pounds",
+  "states": [
+    "Indiana",
+    "Maine",
+    "North Carolina",
+    "Ohio",
+    "Pennsylvania",
+    "South Carolina",
+    "Wisconsin"
+  ]
+}

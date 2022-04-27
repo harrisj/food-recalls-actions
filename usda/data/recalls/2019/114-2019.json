@@ -1,1 +1,35 @@
-{"id": "114-2019", "title": "BrucePac Recalls Ready-to-Eat Chicken Sausage Products Due to Misbranding", "url": "https://www.fsis.usda.gov/recalls-alerts/brucepac-recalls-ready-eat-chicken-sausage-products-due-misbranding", "reasons": ["Misbranding"], "status": "Closed", "risk_level": "Low", "start_date": "2019-11-19", "end_date": "2020-01-08", "summary": "WASHINGTON, Nov. 19, 2019 BrucePac, a Silverton, Ore. establishment, is recalling approximately 55,550 pounds of ready-to-eat (RTE) chicken sausage products due to misbranding, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products contain a pork casing, which is not...", "establishment": {"id": "M9267A+P9267A+V9267A", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/brucepac-0", "slug": "brucepac-0", "name": "BrucePac", "address": "811 N. 1st Street \n  Silverton, OR 97381", "telephone": "(503) 874-3000", "grant_date": "2018-09-26", "activities": ["Meat Processing", "Poultry Processing", "Voluntary Processing - Meat"]}, "impacted_products": ["30-lb. bulk pack cases containing \u201cGRILLED SLICED ITALIAN STYLE CHICKEN SAUSAGE\u201d with lot codes 11158S, 12058S, 03189S, 06249S and 05029S"], "quantity_recovered": 4766, "quantity_unit": "pounds", "states": ["California"]}
+{
+  "id": "114-2019",
+  "title": "BrucePac Recalls Ready-to-Eat Chicken Sausage Products Due to Misbranding",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/brucepac-recalls-ready-eat-chicken-sausage-products-due-misbranding",
+  "reasons": [
+    "Misbranding"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2019-11-19",
+  "end_date": "2020-01-08",
+  "summary": "WASHINGTON, Nov. 19, 2019 BrucePac, a Silverton, Ore. establishment, is recalling approximately 55,550 pounds of ready-to-eat (RTE) chicken sausage products due to misbranding, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products contain a pork casing, which is not...",
+  "establishment": {
+    "id": "M9267A+P9267A+V9267A",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/brucepac-0",
+    "slug": "brucepac-0",
+    "name": "BrucePac",
+    "address": "811 N. 1st Street \n  Silverton, OR 97381",
+    "telephone": "(503) 874-3000",
+    "grant_date": "2018-09-26",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing",
+      "Voluntary Processing - Meat"
+    ]
+  },
+  "impacted_products": [
+    "30-lb. bulk pack cases containing \u201cGRILLED SLICED ITALIAN STYLE CHICKEN SAUSAGE\u201d with lot codes 11158S, 12058S, 03189S, 06249S and 05029S"
+  ],
+  "quantity_recovered": 4766,
+  "quantity_unit": "pounds",
+  "states": [
+    "California"
+  ]
+}

@@ -1,1 +1,36 @@
-{"id": "026-2012", "title": "Colorado Firm Recalls Sausage Products Due To Misbranding and Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/colorado-firm-recalls-sausage-products-due-misbranding-and-undeclared-allergen", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2012-04-20", "end_date": "2013-05-28", "summary": "WASHINGTON, April 20, 2012 - Old Style Sausage, a Denver, Colo. establishment, is recalling approximately 3,000 pounds of sausage products because of misbranding and an undeclared allergen. The sausage products contain egg, a known allergen not declared on the package label. The products subject to...\n", "establishment": {"id": "M8126+P8126", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/old-style-sausage", "slug": "old-style-sausage", "name": "Old Style Sausage", "address": "1219 Courtesy Road \n  Louisville, CO 80027", "telephone": "(303) 666-8240", "grant_date": "2017-05-10", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["12-lb. cases of \"Old Style Sausage Bratwurst German Brand Sausage\"", "12-lb. cases of \"Colorado Rocky Brat Amber Beer Bratwurst\""], "quantity_recovered": 360, "quantity_unit": "pounds", "states": ["Colorado"]}
+{
+  "id": "026-2012",
+  "title": "Colorado Firm Recalls Sausage Products Due To Misbranding and Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/colorado-firm-recalls-sausage-products-due-misbranding-and-undeclared-allergen",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2012-04-20",
+  "end_date": "2013-05-28",
+  "summary": "WASHINGTON, April 20, 2012 - Old Style Sausage, a Denver, Colo. establishment, is recalling approximately 3,000 pounds of sausage products because of misbranding and an undeclared allergen. The sausage products contain egg, a known allergen not declared on the package label. The products subject to...\n",
+  "establishment": {
+    "id": "M8126+P8126",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/old-style-sausage",
+    "slug": "old-style-sausage",
+    "name": "Old Style Sausage",
+    "address": "1219 Courtesy Road \n  Louisville, CO 80027",
+    "telephone": "(303) 666-8240",
+    "grant_date": "2017-05-10",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "12-lb. cases of \"Old Style Sausage Bratwurst German Brand Sausage\"",
+    "12-lb. cases of \"Colorado Rocky Brat Amber Beer Bratwurst\""
+  ],
+  "quantity_recovered": 360,
+  "quantity_unit": "pounds",
+  "states": [
+    "Colorado"
+  ]
+}

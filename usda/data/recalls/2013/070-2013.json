@@ -1,1 +1,33 @@
-{"id": "070-2013", "title": "Recall Notification Report 070-2013", "url": "https://www.fsis.usda.gov/recalls-alerts/recall-notification-report-070-2013", "reasons": ["Mislabeling"], "status": "Closed", "risk_level": "Marginal", "start_date": "2013-11-27", "end_date": "2014-03-03", "summary": "WASHINGTON, Nov. 27, 2013 Mary Ann's Specialty Foods, a Webster City, Iowa, establishment, is recalling approximately 3,536 pounds of Niman Ranch Applewood Smoked Uncured Petite Ham because the establishment number was not included on the label, the U.S. Department of Agriculture's Food Safety and Inspection...\n", "establishment": {"id": "M1221W+P8909W+V1221W", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/mary-anns-speciality-foods-inc", "slug": "mary-anns-speciality-foods-inc", "name": "Mary Ann's Speciality Foods, Inc.", "address": "1511 East Second St. \n  Webster City, IA 50595", "telephone": "(515) 832-4740", "grant_date": "2014-11-20", "activities": ["Meat Processing", "Poultry Processing", "Voluntary Processing - Meat"]}, "impacted_products": ["Various weight packages of \"Niman Ranch Applewood Smoked Uncured Petite Ham,\" bearing the following identifying use by/ freeze by dates: \"2/5/2014,\" \"2/10/2014,\" \"2/11/2013,\" and \"2/13/2013.\""], "quantity_recovered": 1429, "quantity_unit": "pounds", "states": null}
+{
+  "id": "070-2013",
+  "title": "Recall Notification Report 070-2013",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/recall-notification-report-070-2013",
+  "reasons": [
+    "Mislabeling"
+  ],
+  "status": "Closed",
+  "risk_level": "Marginal",
+  "start_date": "2013-11-27",
+  "end_date": "2014-03-03",
+  "summary": "WASHINGTON, Nov. 27, 2013 Mary Ann's Specialty Foods, a Webster City, Iowa, establishment, is recalling approximately 3,536 pounds of Niman Ranch Applewood Smoked Uncured Petite Ham because the establishment number was not included on the label, the U.S. Department of Agriculture's Food Safety and Inspection...\n",
+  "establishment": {
+    "id": "M1221W+P8909W+V1221W",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/mary-anns-speciality-foods-inc",
+    "slug": "mary-anns-speciality-foods-inc",
+    "name": "Mary Ann's Speciality Foods, Inc.",
+    "address": "1511 East Second St. \n  Webster City, IA 50595",
+    "telephone": "(515) 832-4740",
+    "grant_date": "2014-11-20",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing",
+      "Voluntary Processing - Meat"
+    ]
+  },
+  "impacted_products": [
+    "Various weight packages of \"Niman Ranch Applewood Smoked Uncured Petite Ham,\" bearing the following identifying use by/ freeze by dates: \"2/5/2014,\" \"2/10/2014,\" \"2/11/2013,\" and \"2/13/2013.\""
+  ],
+  "quantity_recovered": 1429,
+  "quantity_unit": "pounds",
+  "states": null
+}

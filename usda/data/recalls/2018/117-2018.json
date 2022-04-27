@@ -1,1 +1,16 @@
-{"id": "117-2018", "title": "Chunwei, Inc. Recalls Meat and Poultry Products Due to Misbranding and Undeclared Allergens and Monosodium Glutamate", "url": "https://www.fsis.usda.gov/recalls-alerts/chunwei-inc.-recalls-meat-and-poultry-products-due-misbranding-and-undeclared", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2018-11-23", "end_date": "2019-01-23", "summary": "EDITORS NOTE: This release was updated on Dec. 22, 2018 to reflect additional poundage.WASHINGTON, Nov. 23, 2018 Chunwei, Inc., a Huntington Park, Calif. establishment, is recalling approximately 65,211 pounds of various ready-to-eat and raw meat and poultry products because the products are misbranded and may...", "establishment": null, "impacted_products": [], "quantity_recovered": 2847, "quantity_unit": "pounds", "states": null}
+{
+  "id": "117-2018",
+  "title": "Chunwei, Inc. Recalls Meat and Poultry Products Due to Misbranding and Undeclared Allergens and Monosodium Glutamate",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/chunwei-inc.-recalls-meat-and-poultry-products-due-misbranding-and-undeclared",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2018-11-23",
+  "end_date": "2019-01-23",
+  "summary": "EDITORS NOTE: This release was updated on Dec. 22, 2018 to reflect additional poundage.WASHINGTON, Nov. 23, 2018 Chunwei, Inc., a Huntington Park, Calif. establishment, is recalling approximately 65,211 pounds of various ready-to-eat and raw meat and poultry products because the products are misbranded and may...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 2847,
+  "quantity_unit": "pounds",
+  "states": null
+}

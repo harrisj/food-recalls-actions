@@ -1,1 +1,34 @@
-{"id": "032-2019", "title": "Procesadora La Hacienda, Inc. Recalls Beef Products Due to Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/procesadora-la-hacienda-inc.-recalls-beef-products-due-possible-foreign-matter", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2019-03-15", "end_date": "2019-12-05", "summary": "WASHINGTON, March 15, 2019 Procesadora La Hacienda, Inc., a San Lorenzo, Puerto Rico establishment, is recalling approximately 4,940 pounds of ready-to-eat (RTE) corned beef products that may be contaminated with extraneous materials, specifically pieces of metal, the U.S. Department of Agricultures Food Safety and Inspection...\n", "establishment": {"id": "M21217A+P21217A", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/procesadora-la-hacienda-inc", "slug": "procesadora-la-hacienda-inc", "name": "Procesadora La Hacienda, Inc.", "address": "Bo. Cerro Gordo Carr 183 Int 916 \n  San Lorenzo, PR 754", "telephone": "(787) 734-4178", "grant_date": "2016-09-09", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["10-lb. boxes containing two 5-lb. packages of \u201cProductos La Hacienda,\u201d with lot code 022819 and expiration date of \u201cExp. 042919.\u201d "], "quantity_recovered": 5018, "quantity_unit": "pounds", "states": ["Puerto Rico"]}
+{
+  "id": "032-2019",
+  "title": "Procesadora La Hacienda, Inc. Recalls Beef Products Due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/procesadora-la-hacienda-inc.-recalls-beef-products-due-possible-foreign-matter",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2019-03-15",
+  "end_date": "2019-12-05",
+  "summary": "WASHINGTON, March 15, 2019 Procesadora La Hacienda, Inc., a San Lorenzo, Puerto Rico establishment, is recalling approximately 4,940 pounds of ready-to-eat (RTE) corned beef products that may be contaminated with extraneous materials, specifically pieces of metal, the U.S. Department of Agricultures Food Safety and Inspection...\n",
+  "establishment": {
+    "id": "M21217A+P21217A",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/procesadora-la-hacienda-inc",
+    "slug": "procesadora-la-hacienda-inc",
+    "name": "Procesadora La Hacienda, Inc.",
+    "address": "Bo. Cerro Gordo Carr 183 Int 916 \n  San Lorenzo, PR 754",
+    "telephone": "(787) 734-4178",
+    "grant_date": "2016-09-09",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "10-lb. boxes containing two 5-lb. packages of \u201cProductos La Hacienda,\u201d with lot code 022819 and expiration date of \u201cExp. 042919.\u201d "
+  ],
+  "quantity_recovered": 5018,
+  "quantity_unit": "pounds",
+  "states": [
+    "Puerto Rico"
+  ]
+}

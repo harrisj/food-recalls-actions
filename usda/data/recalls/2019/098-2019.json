@@ -1,1 +1,20 @@
-{"id": "098-2019", "title": "Global Zakii Enterprises, LLC Recalls Canned Meat and Canned Poultry Products Produced without Benefit of Import Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/global-zakii-enterprises-llc-recalls-canned-meat-and-canned-poultry-products", "reasons": ["Import Violation"], "status": "Closed", "risk_level": "High", "start_date": "2019-10-17", "end_date": "2019-12-26", "summary": "EDITORS NOTE: - This release is being updated to include previously unaccounted for product increasing the weight from 100 to 174 pounds. WASHINGTON, Oct. 17, 2019 Global Zakii Enterprises, LLC, a Houston, Texas establishment, is recalling approximately 174 pounds of canned meat and canned poultry...", "establishment": null, "impacted_products": [], "quantity_recovered": 93, "quantity_unit": "pounds", "states": ["Texas"]}
+{
+  "id": "098-2019",
+  "title": "Global Zakii Enterprises, LLC Recalls Canned Meat and Canned Poultry Products Produced without Benefit of Import Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/global-zakii-enterprises-llc-recalls-canned-meat-and-canned-poultry-products",
+  "reasons": [
+    "Import Violation"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2019-10-17",
+  "end_date": "2019-12-26",
+  "summary": "EDITORS NOTE: - This release is being updated to include previously unaccounted for product increasing the weight from 100 to 174 pounds. WASHINGTON, Oct. 17, 2019 Global Zakii Enterprises, LLC, a Houston, Texas establishment, is recalling approximately 174 pounds of canned meat and canned poultry...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 93,
+  "quantity_unit": "pounds",
+  "states": [
+    "Texas"
+  ]
+}

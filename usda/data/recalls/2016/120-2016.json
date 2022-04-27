@@ -1,1 +1,22 @@
-{"id": "120-2016", "title": "Pork Rinds & Snacks, LLC Recalls Pork Skin Products Due to Possible Salmonella Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/pork-rinds-snacks-llc-recalls-pork-skin-products-due-possible-salmonella", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2016-12-22", "end_date": "2017-05-01", "summary": "WASHINGTON, Dec. 22, 2016 Pork Rinds & Snacks, LLC, a Spartanburg, S.C. establishment, is recalling approximately 7,629 pounds of pork skin products that may be contaminated with Salmonella, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today.The ready-to-eat pork skin items...", "establishment": null, "impacted_products": [], "quantity_recovered": 1989, "quantity_unit": "pounds", "states": ["Florida", "Georgia", "North Carolina", "South Carolina", "Virginia"]}
+{
+  "id": "120-2016",
+  "title": "Pork Rinds & Snacks, LLC Recalls Pork Skin Products Due to Possible Salmonella Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/pork-rinds-snacks-llc-recalls-pork-skin-products-due-possible-salmonella",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2016-12-22",
+  "end_date": "2017-05-01",
+  "summary": "WASHINGTON, Dec. 22, 2016 Pork Rinds & Snacks, LLC, a Spartanburg, S.C. establishment, is recalling approximately 7,629 pounds of pork skin products that may be contaminated with Salmonella, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today.The ready-to-eat pork skin items...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 1989,
+  "quantity_unit": "pounds",
+  "states": [
+    "Florida",
+    "Georgia",
+    "North Carolina",
+    "South Carolina",
+    "Virginia"
+  ]
+}

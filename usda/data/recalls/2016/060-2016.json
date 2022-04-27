@@ -1,1 +1,23 @@
-{"id": "060-2016", "title": "Haring Catfish, Inc. Recalls Siluriformes Fish Products Due To Possible Adulteration", "url": "https://www.fsis.usda.gov/recalls-alerts/haring-catfish-inc.-recalls-siluriformes-fish-products-due-possible-adulteration", "reasons": [], "status": "Closed", "risk_level": "Low", "start_date": "2016-07-14", "end_date": "2016-09-30", "summary": "EDITORS NOTE: This release is being reissued to edit product descriptions. WASHINGTON, July 14, 2016 Haring Catfish, Inc., a Wisner, La. establishment, is recalling approximately 21,521pounds of siluriformes fish (catfish) products that may be adulterated with a residue of public health concern, specifically gentian (crystal)...", "establishment": null, "impacted_products": [], "quantity_recovered": 300, "quantity_unit": "pounds", "states": ["Arkansas", "California", "Louisiana", "Mississippi", "Oklahoma", "Texas"]}
+{
+  "id": "060-2016",
+  "title": "Haring Catfish, Inc. Recalls Siluriformes Fish Products Due To Possible Adulteration",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/haring-catfish-inc.-recalls-siluriformes-fish-products-due-possible-adulteration",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2016-07-14",
+  "end_date": "2016-09-30",
+  "summary": "EDITORS NOTE: This release is being reissued to edit product descriptions. WASHINGTON, July 14, 2016 Haring Catfish, Inc., a Wisner, La. establishment, is recalling approximately 21,521pounds of siluriformes fish (catfish) products that may be adulterated with a residue of public health concern, specifically gentian (crystal)...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 300,
+  "quantity_unit": "pounds",
+  "states": [
+    "Arkansas",
+    "California",
+    "Louisiana",
+    "Mississippi",
+    "Oklahoma",
+    "Texas"
+  ]
+}

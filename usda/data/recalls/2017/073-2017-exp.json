@@ -1,1 +1,35 @@
-{"id": "073-2017-EXP", "title": "Channel Fish Processing Co., Inc. Recalls Siluriformes Fish Products Due To Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/channel-fish-processing-co.-inc.-recalls-siluriformes-fish-products-due-misbranding", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2017-06-20", "end_date": "2017-07-06", "summary": "EDITORS NOTE: This release is being reissued as an expansion of the June 16, 2017 recall to include additional products. Details of this release were also updated to reflect a change in poundage. WASHINGTON, June 20, 2017 Channel Fish Processing Co., Inc., a Boston, Mass...\n", "establishment": {"id": "M51305", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/channel-fish-processing-co-inc", "slug": "channel-fish-processing-co-inc", "name": "Channel Fish Processing Co., Inc.", "address": "200 Commerce Drive \n  Braintree, MA 2184", "telephone": "(617) 464-3366", "grant_date": "2018-12-03", "activities": ["Meat Processing"]}, "impacted_products": ["10-lb. corrugated box of \u201cChannel Brand APPROX 4OZ RAW BREADED SWAI FILLETS,\u201d with a lot code of 22739 and date code of 17037.", "10-lb. corrugated box of \u201cChannel Brand APPROX 8OZ RAW BREADED SWAI FILLETS,\u201d with a lot code of 22740 and date code of 17037."], "quantity_recovered": 779, "quantity_unit": "pounds", "states": ["Indiana"]}
+{
+  "id": "073-2017-EXP",
+  "title": "Channel Fish Processing Co., Inc. Recalls Siluriformes Fish Products Due To Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/channel-fish-processing-co.-inc.-recalls-siluriformes-fish-products-due-misbranding",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2017-06-20",
+  "end_date": "2017-07-06",
+  "summary": "EDITORS NOTE: This release is being reissued as an expansion of the June 16, 2017 recall to include additional products. Details of this release were also updated to reflect a change in poundage. WASHINGTON, June 20, 2017 Channel Fish Processing Co., Inc., a Boston, Mass...\n",
+  "establishment": {
+    "id": "M51305",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/channel-fish-processing-co-inc",
+    "slug": "channel-fish-processing-co-inc",
+    "name": "Channel Fish Processing Co., Inc.",
+    "address": "200 Commerce Drive \n  Braintree, MA 2184",
+    "telephone": "(617) 464-3366",
+    "grant_date": "2018-12-03",
+    "activities": [
+      "Meat Processing"
+    ]
+  },
+  "impacted_products": [
+    "10-lb. corrugated box of \u201cChannel Brand APPROX 4OZ RAW BREADED SWAI FILLETS,\u201d with a lot code of 22739 and date code of 17037.",
+    "10-lb. corrugated box of \u201cChannel Brand APPROX 8OZ RAW BREADED SWAI FILLETS,\u201d with a lot code of 22740 and date code of 17037."
+  ],
+  "quantity_recovered": 779,
+  "quantity_unit": "pounds",
+  "states": [
+    "Indiana"
+  ]
+}

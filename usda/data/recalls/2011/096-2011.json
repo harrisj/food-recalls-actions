@@ -1,1 +1,30 @@
-{"id": "096-2011", "title": "New Jersey Firm Recalls Frozen Stuffed Pasta Products Produced Without Benefit of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/new-jersey-firm-recalls-frozen-stuffed-pasta-products-produced-without-benefit", "reasons": ["Produced Without Benefit of Inspection"], "status": "Closed", "risk_level": "Low", "start_date": "2011-12-08", "end_date": "2012-06-03", "summary": "WASHINGTON, Dec 8, 2011 - D\u2019Orazio Foods, Inc., a Bellmawr, N.J., establishment, is recalling approximately 161,000 pounds of frozen stuffed pasta products that were produced without the benefit of federal inspection, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The...\n", "establishment": null, "impacted_products": ["25-ounce poly bags of \u201cALBERTSONS\u2019 SAUSAGE RAVIOLI\u201d", "25-ounce poly bags of \u201cJEWEL SAUSAGE RAVIOLI\u201d", "25-ounce poly bags of \u201cALBERTSONS\u2019 BEEF RAVIOLI\u201d"], "quantity_recovered": 16308, "quantity_unit": "pounds", "states": ["California", "Illinois", "Indiana", "Ohio", "Oregon", "Texas", "Utah"]}
+{
+  "id": "096-2011",
+  "title": "New Jersey Firm Recalls Frozen Stuffed Pasta Products Produced Without Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/new-jersey-firm-recalls-frozen-stuffed-pasta-products-produced-without-benefit",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2011-12-08",
+  "end_date": "2012-06-03",
+  "summary": "WASHINGTON, Dec 8, 2011 - D\u2019Orazio Foods, Inc., a Bellmawr, N.J., establishment, is recalling approximately 161,000 pounds of frozen stuffed pasta products that were produced without the benefit of federal inspection, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The...\n",
+  "establishment": null,
+  "impacted_products": [
+    "25-ounce poly bags of \u201cALBERTSONS\u2019 SAUSAGE RAVIOLI\u201d",
+    "25-ounce poly bags of \u201cJEWEL SAUSAGE RAVIOLI\u201d",
+    "25-ounce poly bags of \u201cALBERTSONS\u2019 BEEF RAVIOLI\u201d"
+  ],
+  "quantity_recovered": 16308,
+  "quantity_unit": "pounds",
+  "states": [
+    "California",
+    "Illinois",
+    "Indiana",
+    "Ohio",
+    "Oregon",
+    "Texas",
+    "Utah"
+  ]
+}

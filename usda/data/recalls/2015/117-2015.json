@@ -1,1 +1,16 @@
-{"id": "117-2015", "title": "Ocho Rios Recalls Corned Beef Products Produced Without Benefit of Import Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/ocho-rios-recalls-corned-beef-products-produced-without-benefit-import-inspection", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2015-08-31", "end_date": "2020-02-14", "summary": "WASHINGTON, Aug. 31, 2015 Ocho Rios, a Miami, Fla. establishment, is recalling approximately 7,228 pounds of canned corned beef produced in Brazil that were not presented at the U.S. point of entry for inspection, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS)...", "establishment": null, "impacted_products": [], "quantity_recovered": 3114, "quantity_unit": "pounds", "states": null}
+{
+  "id": "117-2015",
+  "title": "Ocho Rios Recalls Corned Beef Products Produced Without Benefit of Import Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/ocho-rios-recalls-corned-beef-products-produced-without-benefit-import-inspection",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2015-08-31",
+  "end_date": "2020-02-14",
+  "summary": "WASHINGTON, Aug. 31, 2015 Ocho Rios, a Miami, Fla. establishment, is recalling approximately 7,228 pounds of canned corned beef produced in Brazil that were not presented at the U.S. point of entry for inspection, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS)...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 3114,
+  "quantity_unit": "pounds",
+  "states": null
+}

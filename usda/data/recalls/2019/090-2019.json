@@ -1,1 +1,21 @@
-{"id": "090-2019", "title": "BCI Foods Inc. Recalls Meat and Poultry Soup Products Produced Without Benefit of Import Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/bci-foods-inc.-recalls-meat-and-poultry-soup-products-produced-without-benefit", "reasons": ["Import Violation"], "status": "Closed", "risk_level": "High", "start_date": "2019-09-05", "end_date": "2019-09-23", "summary": "WASHINGTON, Sept. 5, 2019 BCI Foods, Inc., a Quebec, Canada firm and importer of record, is recalling approximately 3,304 pounds of meat and poultry soup products that were not presented for import re-inspection, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced...", "establishment": null, "impacted_products": [], "quantity_recovered": 4861, "quantity_unit": "pounds", "states": ["New York", "Pennsylvania"]}
+{
+  "id": "090-2019",
+  "title": "BCI Foods Inc. Recalls Meat and Poultry Soup Products Produced Without Benefit of Import Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/bci-foods-inc.-recalls-meat-and-poultry-soup-products-produced-without-benefit",
+  "reasons": [
+    "Import Violation"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2019-09-05",
+  "end_date": "2019-09-23",
+  "summary": "WASHINGTON, Sept. 5, 2019 BCI Foods, Inc., a Quebec, Canada firm and importer of record, is recalling approximately 3,304 pounds of meat and poultry soup products that were not presented for import re-inspection, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 4861,
+  "quantity_unit": "pounds",
+  "states": [
+    "New York",
+    "Pennsylvania"
+  ]
+}

@@ -1,1 +1,30 @@
-{"id": "120-2019", "title": "Montpak International Inc. Recalls Veal and Lamb Products Produced Without Benefit of Import Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/montpak-international-inc.-recalls-veal-and-lamb-products-produced-without-benefit", "reasons": ["Import Violation"], "status": "Active", "risk_level": "High", "start_date": "2019-12-18", "end_date": null, "summary": "EDITORS NOTE: Details of this recall are being updated on December 27, 2019 to include two additional products, adding approximately 1,561 pounds for a total of 4,365 pounds of recalled product and an additional Canadian mark of inspection. WASHINGTON, Dec. 18, 2019 Montpak International Inc...", "establishment": null, "impacted_products": ["40-lb. bulk boxes containing \u201cVEAL Bones\u201d with a SKU 97507U and PRODUCT OF CANADA (\u201cCANADA 96\u201d in the Canadian mark of inspection) represented on the label.", "50-lb. bulk boxes containing \u201cVEAL Marrow bones\u201d with a SKU 97660U and PRODUCT OF CANADA (\u201cCANADA 96\u201d in the Canadian mark of inspection) represented on the label.", "50-lb. bulk boxes containing \"VEAL Bones (neck sliced)\" with a SKU 97578U and PRODUCT OF CANADA (\"CANADA 710\" in the Canadian mark of inspection) represented on the label.", "10-lb. bulk boxes containing \u201cMECHANICALLY TENDERIZED VEAL LEG CUTLET 2 OZ CHUNKS\u201d and EST 1809 and PACKED ON DEC-10-19 represented on the label.", "10-lb. bulk boxes containing \u201cMECHANICALLY TENDERIZED VEAL LEG CUTLET 2 OZ EYE RND\u201d and EST 1809 and PACKED ON DEC-10-19 represented on the label.", "10-lb. bulk boxes containing \"MECHANICALLY TENDERIZED VEAL LEG CUTLET 4 OZ EYE RND\" and EST 1809 and PACKED ON DEC-10-19 represented on the label.", "Whole carcasses of lamb wrapped in cheese cloth."], "quantity_recovered": null, "quantity_unit": null, "states": ["New Jersey", "New York", "Virginia"]}
+{
+  "id": "120-2019",
+  "title": "Montpak International Inc. Recalls Veal and Lamb Products Produced Without Benefit of Import Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/montpak-international-inc.-recalls-veal-and-lamb-products-produced-without-benefit",
+  "reasons": [
+    "Import Violation"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2019-12-18",
+  "end_date": null,
+  "summary": "EDITORS NOTE: Details of this recall are being updated on December 27, 2019 to include two additional products, adding approximately 1,561 pounds for a total of 4,365 pounds of recalled product and an additional Canadian mark of inspection. WASHINGTON, Dec. 18, 2019 Montpak International Inc...",
+  "establishment": null,
+  "impacted_products": [
+    "40-lb. bulk boxes containing \u201cVEAL Bones\u201d with a SKU 97507U and PRODUCT OF CANADA (\u201cCANADA 96\u201d in the Canadian mark of inspection) represented on the label.",
+    "50-lb. bulk boxes containing \u201cVEAL Marrow bones\u201d with a SKU 97660U and PRODUCT OF CANADA (\u201cCANADA 96\u201d in the Canadian mark of inspection) represented on the label.",
+    "50-lb. bulk boxes containing \"VEAL Bones (neck sliced)\" with a SKU 97578U and PRODUCT OF CANADA (\"CANADA 710\" in the Canadian mark of inspection) represented on the label.",
+    "10-lb. bulk boxes containing \u201cMECHANICALLY TENDERIZED VEAL LEG CUTLET 2 OZ CHUNKS\u201d and EST 1809 and PACKED ON DEC-10-19 represented on the label.",
+    "10-lb. bulk boxes containing \u201cMECHANICALLY TENDERIZED VEAL LEG CUTLET 2 OZ EYE RND\u201d and EST 1809 and PACKED ON DEC-10-19 represented on the label.",
+    "10-lb. bulk boxes containing \"MECHANICALLY TENDERIZED VEAL LEG CUTLET 4 OZ EYE RND\" and EST 1809 and PACKED ON DEC-10-19 represented on the label.",
+    "Whole carcasses of lamb wrapped in cheese cloth."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "New Jersey",
+    "New York",
+    "Virginia"
+  ]
+}

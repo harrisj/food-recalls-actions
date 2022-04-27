@@ -1,1 +1,38 @@
-{"id": "002-2010", "title": "Massachusetts Firm Recalls Beef Products Due to Possible E. coli O157:H7 Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/massachusetts-firm-recalls-beef-products-due-possible-e.-coli-o157h7-contamination", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2010-01-11", "end_date": "2013-06-03", "summary": "WASHINGTON, January 11, 2010 - Adams Farm Slaughterhouse, LLC., an Athol, Mass., establishment, is recalling approximately 2,574 pounds of beef products that may be contaminated with E. coli O157:H7, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. This recall was...\n", "establishment": {"id": "M5497+V5497", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/adams-farm-slaughterhouse-llc", "slug": "adams-farm-slaughterhouse-llc", "name": "Adams Farm Slaughterhouse LLC", "address": "854 Bearsden Rd \n  Athol, MA 1331", "telephone": "(978) 249-9441", "grant_date": "2022-02-17", "activities": ["Meat Processing", "Meat Slaughter", "Voluntary Processing - Meat", "Voluntary Slaughter - Meat"]}, "impacted_products": ["1,025-pounds of \"Beef Cuts and Ground\" packed for Mazzarese.", "697-pounds of \"Beef Cuts and Ground\" packed for Side Hill Farm.", "852-pounds of \"Beef Cuts and Ground\" packed for Sweet Water Farm."], "quantity_recovered": 1391, "quantity_unit": "pounds", "states": ["Massachusetts"]}
+{
+  "id": "002-2010",
+  "title": "Massachusetts Firm Recalls Beef Products Due to Possible E. coli O157:H7 Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/massachusetts-firm-recalls-beef-products-due-possible-e.-coli-o157h7-contamination",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2010-01-11",
+  "end_date": "2013-06-03",
+  "summary": "WASHINGTON, January 11, 2010 - Adams Farm Slaughterhouse, LLC., an Athol, Mass., establishment, is recalling approximately 2,574 pounds of beef products that may be contaminated with E. coli O157:H7, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. This recall was...\n",
+  "establishment": {
+    "id": "M5497+V5497",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/adams-farm-slaughterhouse-llc",
+    "slug": "adams-farm-slaughterhouse-llc",
+    "name": "Adams Farm Slaughterhouse LLC",
+    "address": "854 Bearsden Rd \n  Athol, MA 1331",
+    "telephone": "(978) 249-9441",
+    "grant_date": "2022-02-17",
+    "activities": [
+      "Meat Processing",
+      "Meat Slaughter",
+      "Voluntary Processing - Meat",
+      "Voluntary Slaughter - Meat"
+    ]
+  },
+  "impacted_products": [
+    "1,025-pounds of \"Beef Cuts and Ground\" packed for Mazzarese.",
+    "697-pounds of \"Beef Cuts and Ground\" packed for Side Hill Farm.",
+    "852-pounds of \"Beef Cuts and Ground\" packed for Sweet Water Farm."
+  ],
+  "quantity_recovered": 1391,
+  "quantity_unit": "pounds",
+  "states": [
+    "Massachusetts"
+  ]
+}

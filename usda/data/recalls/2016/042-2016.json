@@ -1,1 +1,16 @@
-{"id": "042-2016", "title": "Conagra Foods Packaged Foods, LLC Recalls Two Beef Products Due To Misbranding and an Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/conagra-foods-packaged-foods-llc-recalls-two-beef-products-due-misbranding-and", "reasons": [], "status": "Closed", "risk_level": "Low", "start_date": "2016-05-19", "end_date": "2017-05-16", "summary": "WASHINGTON, May 19, 2016 ConAgra Foods Packaged Foods, LLC, a Council Bluffs, Iowa establishment, is recalling approximately 84,340 pounds of two beef products due to misbranding and an undeclared allergen, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products...", "establishment": null, "impacted_products": [], "quantity_recovered": 19602, "quantity_unit": "pounds", "states": null}
+{
+  "id": "042-2016",
+  "title": "Conagra Foods Packaged Foods, LLC Recalls Two Beef Products Due To Misbranding and an Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/conagra-foods-packaged-foods-llc-recalls-two-beef-products-due-misbranding-and",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2016-05-19",
+  "end_date": "2017-05-16",
+  "summary": "WASHINGTON, May 19, 2016 ConAgra Foods Packaged Foods, LLC, a Council Bluffs, Iowa establishment, is recalling approximately 84,340 pounds of two beef products due to misbranding and an undeclared allergen, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 19602,
+  "quantity_unit": "pounds",
+  "states": null
+}

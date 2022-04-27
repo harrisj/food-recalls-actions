@@ -1,1 +1,20 @@
-{"id": "039-2011", "title": "Michigan Firm Recalls Ground Beef Due To Possible E. Coli O157:H7 Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/michigan-firm-recalls-ground-beef-due-possible-e.-coli-o157h7-contamination", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2011-05-31", "end_date": "2012-06-02", "summary": "WASHINGTON, May 31, 2011 - Irish Hills Meat Company of Michigan, a Tipton, Mich., establishment is recalling approximately 900 pounds of ground beef products that may be contaminated with E. coli O157:H7, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today...\n", "establishment": null, "impacted_products": ["10-lb. clear polybags with the establishment number \"EST. 10014\" inside the USDA mark of inspection. The polybags are packaged in boxes that contain 3-5 bags. The production dates of May 23 and May 26 are stamped on the boxes."], "quantity_recovered": null, "quantity_unit": null, "states": null}
+{
+  "id": "039-2011",
+  "title": "Michigan Firm Recalls Ground Beef Due To Possible E. Coli O157:H7 Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/michigan-firm-recalls-ground-beef-due-possible-e.-coli-o157h7-contamination",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2011-05-31",
+  "end_date": "2012-06-02",
+  "summary": "WASHINGTON, May 31, 2011 - Irish Hills Meat Company of Michigan, a Tipton, Mich., establishment is recalling approximately 900 pounds of ground beef products that may be contaminated with E. coli O157:H7, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today...\n",
+  "establishment": null,
+  "impacted_products": [
+    "10-lb. clear polybags with the establishment number \"EST. 10014\" inside the USDA mark of inspection. The polybags are packaged in boxes that contain 3-5 bags. The production dates of May 23 and May 26 are stamped on the boxes."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}

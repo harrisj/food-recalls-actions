@@ -1,1 +1,39 @@
-{"id": "036-2012", "title": "Chicago Firm Recalls Pork Roll Products Due To Misbranding and Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/chicago-firm-recalls-pork-roll-products-due-misbranding-and-undeclared-allergen", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "Low", "start_date": "2012-06-01", "end_date": "2013-05-28", "summary": "WASHINGTON, June 1, 2012 - BaLe Meat Processing and Wholesale, Inc., a Chicago, Ill., establishment is recalling approximately 13,200 pounds of various raw and ready-to-eat pork roll products because of misbranding and an undeclared allergen, wheat, which is not declared on the label. The products...\n", "establishment": {"id": "M18442+P18442", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/ba-le-meat-processing", "slug": "ba-le-meat-processing", "name": "Ba Le Meat Processing", "address": "2405 W. Ardmore Ave. \n  Chicago, IL 60659", "telephone": "(773) 506-2400", "grant_date": "2007-12-27", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["BaLe \"Cha Bi (Skin Pork Patty Roll)\""], "quantity_recovered": 559, "quantity_unit": "pounds", "states": ["California", "Colorado", "Illinois", "Massachusetts", "Minnesota"]}
+{
+  "id": "036-2012",
+  "title": "Chicago Firm Recalls Pork Roll Products Due To Misbranding and Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/chicago-firm-recalls-pork-roll-products-due-misbranding-and-undeclared-allergen",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2012-06-01",
+  "end_date": "2013-05-28",
+  "summary": "WASHINGTON, June 1, 2012 - BaLe Meat Processing and Wholesale, Inc., a Chicago, Ill., establishment is recalling approximately 13,200 pounds of various raw and ready-to-eat pork roll products because of misbranding and an undeclared allergen, wheat, which is not declared on the label. The products...\n",
+  "establishment": {
+    "id": "M18442+P18442",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/ba-le-meat-processing",
+    "slug": "ba-le-meat-processing",
+    "name": "Ba Le Meat Processing",
+    "address": "2405 W. Ardmore Ave. \n  Chicago, IL 60659",
+    "telephone": "(773) 506-2400",
+    "grant_date": "2007-12-27",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "BaLe \"Cha Bi (Skin Pork Patty Roll)\""
+  ],
+  "quantity_recovered": 559,
+  "quantity_unit": "pounds",
+  "states": [
+    "California",
+    "Colorado",
+    "Illinois",
+    "Massachusetts",
+    "Minnesota"
+  ]
+}

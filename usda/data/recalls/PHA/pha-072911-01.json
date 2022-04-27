@@ -1,1 +1,18 @@
-{"id": "PHA-072911-01", "title": "FSIS Issues Public Health Alert For Frozen, Fresh Ground Turkey Products", "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-frozen-fresh-ground-turkey-products", "reasons": ["Product Contamination"], "status": "Active", "risk_level": null, "start_date": "2011-07-29", "end_date": null, "summary": "WASHINGTON, July 29, 2011 - The U.S. Department of Agriculture's (USDA) Food Safety and Inspection Service (FSIS) is issuing a public health alert due to concerns about illnesses caused by Salmonella Heidelberg that may be associated with use and consumption of ground turkey. This public...", "establishment": null, "impacted_products": [], "quantity_recovered": null, "quantity_unit": null, "states": null}
+{
+  "id": "PHA-072911-01",
+  "title": "FSIS Issues Public Health Alert For Frozen, Fresh Ground Turkey Products",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-frozen-fresh-ground-turkey-products",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2011-07-29",
+  "end_date": null,
+  "summary": "WASHINGTON, July 29, 2011 - The U.S. Department of Agriculture's (USDA) Food Safety and Inspection Service (FSIS) is issuing a public health alert due to concerns about illnesses caused by Salmonella Heidelberg that may be associated with use and consumption of ground turkey. This public...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}

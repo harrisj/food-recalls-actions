@@ -1,1 +1,20 @@
-{"id": "pha-04022021-01", "title": "FSIS Issues Public Health Alert for Raw Ground Chorizo Sausage Products Due to Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-raw-ground-chorizo-sausage-products-due-possible", "reasons": ["Product Contamination"], "status": "Active", "risk_level": null, "start_date": "2021-04-02", "end_date": null, "summary": "EDITOR\u2019S NOTE: FSIS updated the release the same day of issue to reflect product poundage. WASHINGTON, April 2, 2021 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for for approximately 39 pounds of raw ground...\n", "establishment": null, "impacted_products": ["\u2022\t1-lb. packages containing \u201cLonely Lane Farms Family Farm Since 1939 OREGON RAISED Chorizo Sausage\u201d and product ID 21067-6."], "quantity_recovered": null, "quantity_unit": null, "states": null}
+{
+  "id": "pha-04022021-01",
+  "title": "FSIS Issues Public Health Alert for Raw Ground Chorizo Sausage Products Due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-raw-ground-chorizo-sausage-products-due-possible",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2021-04-02",
+  "end_date": null,
+  "summary": "EDITOR\u2019S NOTE: FSIS updated the release the same day of issue to reflect product poundage. WASHINGTON, April 2, 2021 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for for approximately 39 pounds of raw ground...\n",
+  "establishment": null,
+  "impacted_products": [
+    "\u2022\t1-lb. packages containing \u201cLonely Lane Farms Family Farm Since 1939 OREGON RAISED Chorizo Sausage\u201d and product ID 21067-6."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}

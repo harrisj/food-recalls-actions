@@ -1,1 +1,33 @@
-{"id": "041-2012", "title": "Recall Notification Report", "url": "https://www.fsis.usda.gov/recalls-alerts/recall-notification-report-5", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "Low", "start_date": "2012-06-21", "end_date": "2013-05-29", "summary": "WASHINGTON, June 21, 2012 - Square-H Brands, Inc., a Los Angeles establishment, is recalling approximately 1,350 pounds of a ground smoked bacon product that may contain pieces of cardboard and plastic, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The...\n", "establishment": {"id": "M748+P18881", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/square-h-brands-inc.", "slug": "square-h-brands-inc", "name": "Square H Brands, Inc.", "address": "2731 S. Soto St \n  Los Angeles, CA 90058", "telephone": "(323) 267-4600", "grant_date": "2009-01-15", "activities": ["Certification - Export", "Meat Processing", "Poultry Processing"]}, "impacted_products": ["25-lb. cases of \"Coarse Ground Smoked Bacon Ends and Pieces\""], "quantity_recovered": 1075, "quantity_unit": "pounds", "states": null}
+{
+  "id": "041-2012",
+  "title": "Recall Notification Report",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/recall-notification-report-5",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2012-06-21",
+  "end_date": "2013-05-29",
+  "summary": "WASHINGTON, June 21, 2012 - Square-H Brands, Inc., a Los Angeles establishment, is recalling approximately 1,350 pounds of a ground smoked bacon product that may contain pieces of cardboard and plastic, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The...\n",
+  "establishment": {
+    "id": "M748+P18881",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/square-h-brands-inc.",
+    "slug": "square-h-brands-inc",
+    "name": "Square H Brands, Inc.",
+    "address": "2731 S. Soto St \n  Los Angeles, CA 90058",
+    "telephone": "(323) 267-4600",
+    "grant_date": "2009-01-15",
+    "activities": [
+      "Certification - Export",
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "25-lb. cases of \"Coarse Ground Smoked Bacon Ends and Pieces\""
+  ],
+  "quantity_recovered": 1075,
+  "quantity_unit": "pounds",
+  "states": null
+}

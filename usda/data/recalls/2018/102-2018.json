@@ -1,1 +1,49 @@
-{"id": "102-2018", "title": "SK Food Group Recalls Chicken Products due to Possible Salmonella and Listeria monocytogenes Contamination in Vegetables", "url": "https://www.fsis.usda.gov/recalls-alerts/sk-food-group-recalls-chicken-products-due-possible-salmonella-and-listeria", "reasons": ["Product Contamination"], "status": "Active", "risk_level": "High", "start_date": "2018-10-19", "end_date": null, "summary": "WASHINGTON, Oct. 19, 2018 SK Food Group, a Groveport, Ohio and Reno, Nev. establishment, is recalling approximately 174,207 pounds of chicken wrap products that contain vegetables that may be contaminated with Salmonella and Listeria monocytogenes, the U.S. Department of Agricultures Food Safety and Inspection Service...", "establishment": {"id": "M45367+P45367+V45367", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/sk-food-group-0", "slug": "sk-food-group-0", "name": "SK Food Group", "address": "3301 Toy Road \n  Groveport, OH 43125", "telephone": "(614) 295-2416", "grant_date": "2017-09-20", "activities": ["AMS RTE Canada EV Program", "Certification - Export", "Food Inspection", "Identification - Meat", "Identification - Poultry", "Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": null, "quantity_unit": null, "states": ["California", "Colorado", "Florida", "Hawaii", "Idaho", "Illinois", "Maryland", "Michigan", "North Carolina", "Ohio", "Oregon", "Pennsylvania", "Texas"]}
+{
+  "id": "102-2018",
+  "title": "SK Food Group Recalls Chicken Products due to Possible Salmonella and Listeria monocytogenes Contamination in Vegetables",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/sk-food-group-recalls-chicken-products-due-possible-salmonella-and-listeria",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2018-10-19",
+  "end_date": null,
+  "summary": "WASHINGTON, Oct. 19, 2018 SK Food Group, a Groveport, Ohio and Reno, Nev. establishment, is recalling approximately 174,207 pounds of chicken wrap products that contain vegetables that may be contaminated with Salmonella and Listeria monocytogenes, the U.S. Department of Agricultures Food Safety and Inspection Service...",
+  "establishment": {
+    "id": "M45367+P45367+V45367",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/sk-food-group-0",
+    "slug": "sk-food-group-0",
+    "name": "SK Food Group",
+    "address": "3301 Toy Road \n  Groveport, OH 43125",
+    "telephone": "(614) 295-2416",
+    "grant_date": "2017-09-20",
+    "activities": [
+      "AMS RTE Canada EV Program",
+      "Certification - Export",
+      "Food Inspection",
+      "Identification - Meat",
+      "Identification - Poultry",
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "California",
+    "Colorado",
+    "Florida",
+    "Hawaii",
+    "Idaho",
+    "Illinois",
+    "Maryland",
+    "Michigan",
+    "North Carolina",
+    "Ohio",
+    "Oregon",
+    "Pennsylvania",
+    "Texas"
+  ]
+}

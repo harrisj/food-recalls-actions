@@ -1,1 +1,38 @@
-{"id": "003-2015", "title": "Pennsylvania Firm Recalls Chili Product Due To Misbranding and an Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/pennsylvania-firm-recalls-chili-product-due-misbranding-and-undeclared-allergen", "reasons": ["Misbranding"], "status": "Closed", "risk_level": "High", "start_date": "2015-01-07", "end_date": "2016-06-08", "summary": "WASHINGTON, Jan. 7, 2015 Fresh Food Manufacturing, a Freedom, Penn. establishment, is recalling approximately 35,865 pounds of chili products due to misbranding and an undeclared allergen, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product contains peanuts, a known...", "establishment": {"id": "M40211+P40211", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/fresh-food-manufacturing-company", "slug": "fresh-food-manufacturing-company", "name": "Fresh Food Manufacturing Company", "address": "2500 Lovi Road \n  Freedom, PA 15042", "telephone": "(412) 963-6200", "grant_date": "2014-07-30", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["chili products"], "quantity_recovered": 4339, "quantity_unit": " pounds", "states": ["Maryland", "Ohio", "Pennsylvania", "Virginia", "West Virginia"]}
+{
+  "id": "003-2015",
+  "title": "Pennsylvania Firm Recalls Chili Product Due To Misbranding and an Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/pennsylvania-firm-recalls-chili-product-due-misbranding-and-undeclared-allergen",
+  "reasons": [
+    "Misbranding"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2015-01-07",
+  "end_date": "2016-06-08",
+  "summary": "WASHINGTON, Jan. 7, 2015 Fresh Food Manufacturing, a Freedom, Penn. establishment, is recalling approximately 35,865 pounds of chili products due to misbranding and an undeclared allergen, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product contains peanuts, a known...",
+  "establishment": {
+    "id": "M40211+P40211",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/fresh-food-manufacturing-company",
+    "slug": "fresh-food-manufacturing-company",
+    "name": "Fresh Food Manufacturing Company",
+    "address": "2500 Lovi Road \n  Freedom, PA 15042",
+    "telephone": "(412) 963-6200",
+    "grant_date": "2014-07-30",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "chili products"
+  ],
+  "quantity_recovered": 4339,
+  "quantity_unit": " pounds",
+  "states": [
+    "Maryland",
+    "Ohio",
+    "Pennsylvania",
+    "Virginia",
+    "West Virginia"
+  ]
+}

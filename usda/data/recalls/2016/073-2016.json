@@ -1,1 +1,18 @@
-{"id": "073-2016", "title": "Green Bay Dressed Beef Recalls Beef Products Due To Possible Specified Risk Materials Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/green-bay-dressed-beef-recalls-beef-products-due-possible-specified-risk-materials", "reasons": [], "status": "Closed", "risk_level": "Low", "start_date": "2016-08-24", "end_date": "2016-10-31", "summary": "WASHINGTON, Aug. 24, 2016 Green Bay Dressed Beef, LLC, doing business as American Foods Group, LLC, a Green Bay, Wis. establishment, is recalling approximately 7,420 pounds of beef brain products that may be contaminated with specified risk materials (SRM) the U.S. Department of Agricultures Food...", "establishment": null, "impacted_products": [], "quantity_recovered": 7412, "quantity_unit": "pounds", "states": ["California"]}
+{
+  "id": "073-2016",
+  "title": "Green Bay Dressed Beef Recalls Beef Products Due To Possible Specified Risk Materials Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/green-bay-dressed-beef-recalls-beef-products-due-possible-specified-risk-materials",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2016-08-24",
+  "end_date": "2016-10-31",
+  "summary": "WASHINGTON, Aug. 24, 2016 Green Bay Dressed Beef, LLC, doing business as American Foods Group, LLC, a Green Bay, Wis. establishment, is recalling approximately 7,420 pounds of beef brain products that may be contaminated with specified risk materials (SRM) the U.S. Department of Agricultures Food...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 7412,
+  "quantity_unit": "pounds",
+  "states": [
+    "California"
+  ]
+}

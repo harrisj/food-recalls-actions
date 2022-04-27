@@ -1,1 +1,29 @@
-{"id": "063-2016", "title": "House of Smoke Recalls Products Due To Nitrite Levels in Excess of Regulatory Limit", "url": "https://www.fsis.usda.gov/recalls-alerts/house-smoke-recalls-products-due-nitrite-levels-excess-regulatory-limit", "reasons": [], "status": "Closed", "risk_level": "Low", "start_date": "2016-07-22", "end_date": "2016-11-14", "summary": "WASHINGTON, July 22, 2016 House of Smoke, Inc., a Ft. Lupton, Colo., establishment, is recalling approximately 4,692 pounds of Wild Boar Brotwurst products due to nitrite levels in excess of the regulatory limit, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced...", "establishment": {"id": "M6273+P6273+V6273", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/house-smoke-inc", "slug": "house-smoke-inc", "name": "House Of Smoke, Inc.", "address": "825 Denver Avenue \n  Fort Lupton, CO 80621", "telephone": "(303) 857-2750", "grant_date": "1995-05-24", "activities": ["Meat Processing", "Poultry Processing", "Voluntary Processing - Meat"]}, "impacted_products": [], "quantity_recovered": 770, "quantity_unit": "pounds", "states": null}
+{
+  "id": "063-2016",
+  "title": "House of Smoke Recalls Products Due To Nitrite Levels in Excess of Regulatory Limit",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/house-smoke-recalls-products-due-nitrite-levels-excess-regulatory-limit",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2016-07-22",
+  "end_date": "2016-11-14",
+  "summary": "WASHINGTON, July 22, 2016 House of Smoke, Inc., a Ft. Lupton, Colo., establishment, is recalling approximately 4,692 pounds of Wild Boar Brotwurst products due to nitrite levels in excess of the regulatory limit, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced...",
+  "establishment": {
+    "id": "M6273+P6273+V6273",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/house-smoke-inc",
+    "slug": "house-smoke-inc",
+    "name": "House Of Smoke, Inc.",
+    "address": "825 Denver Avenue \n  Fort Lupton, CO 80621",
+    "telephone": "(303) 857-2750",
+    "grant_date": "1995-05-24",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing",
+      "Voluntary Processing - Meat"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 770,
+  "quantity_unit": "pounds",
+  "states": null
+}

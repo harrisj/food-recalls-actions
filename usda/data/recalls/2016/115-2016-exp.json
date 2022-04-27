@@ -1,1 +1,16 @@
-{"id": "115-2016 EXP", "title": "National Steak and Poultry Recalls Ready-To-Eat Chicken That May Be Undercooked", "url": "https://www.fsis.usda.gov/recalls-alerts/national-steak-and-poultry-recalls-ready-eat-chicken-may-be-undercooked", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2016-12-04", "end_date": "2017-06-29", "summary": "Editors Note: This release is being reissued as an expansion of the November 23, 2016, release to include additional products and production dates. The initial recall included 17,439 pounds of product. This expansion includes an additional 1,976,089 pounds of product, for a total of 1,993,528...", "establishment": null, "impacted_products": [], "quantity_recovered": 529750, "quantity_unit": "pounds", "states": null}
+{
+  "id": "115-2016 EXP",
+  "title": "National Steak and Poultry Recalls Ready-To-Eat Chicken That May Be Undercooked",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/national-steak-and-poultry-recalls-ready-eat-chicken-may-be-undercooked",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2016-12-04",
+  "end_date": "2017-06-29",
+  "summary": "Editors Note: This release is being reissued as an expansion of the November 23, 2016, release to include additional products and production dates. The initial recall included 17,439 pounds of product. This expansion includes an additional 1,976,089 pounds of product, for a total of 1,993,528...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 529750,
+  "quantity_unit": "pounds",
+  "states": null
+}

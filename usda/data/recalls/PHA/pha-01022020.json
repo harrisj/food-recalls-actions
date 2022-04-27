@@ -1,1 +1,30 @@
-{"id": "PHA-01022020", "title": "FSIS Issues Public Health Alert for Products Associated with the FDA Almark Foods Recall Due to Possible Listeria Monocytogenes Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-products-associated-fda-almark-foods-recall-due", "reasons": ["Unfit for Human Consumption"], "status": "Active", "risk_level": null, "start_date": "2020-01-02", "end_date": null, "summary": "WASHINGTON, Jan. 2, 2020 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert due to illnesses caused by Listeria monocytogenes associated with FDA-regulated hard boiled eggs that have been recalled by Almark Foods. FSIS is issuing...\n", "establishment": {"id": "M44926+P44926", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/sun-foods", "slug": "sun-foods", "name": "Sun Foods", "address": "14401 Dexter \n  Detroit, MI 48238", "telephone": "(248) 930-7512", "grant_date": "2014-03-26", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": null, "quantity_unit": null, "states": null}
+{
+  "id": "PHA-01022020",
+  "title": "FSIS Issues Public Health Alert for Products Associated with the FDA Almark Foods Recall Due to Possible Listeria Monocytogenes Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-products-associated-fda-almark-foods-recall-due",
+  "reasons": [
+    "Unfit for Human Consumption"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2020-01-02",
+  "end_date": null,
+  "summary": "WASHINGTON, Jan. 2, 2020 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert due to illnesses caused by Listeria monocytogenes associated with FDA-regulated hard boiled eggs that have been recalled by Almark Foods. FSIS is issuing...\n",
+  "establishment": {
+    "id": "M44926+P44926",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/sun-foods",
+    "slug": "sun-foods",
+    "name": "Sun Foods",
+    "address": "14401 Dexter \n  Detroit, MI 48238",
+    "telephone": "(248) 930-7512",
+    "grant_date": "2014-03-26",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}

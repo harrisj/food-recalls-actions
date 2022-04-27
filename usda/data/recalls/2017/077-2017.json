@@ -1,1 +1,21 @@
-{"id": "077-2017", "title": "Maxi Canada, Inc. Recalls Breaded Chicken Products Due to Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/maxi-canada-inc.-recalls-breaded-chicken-products-due-misbranding-and-undeclared", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2017-06-24", "end_date": "2018-02-23", "summary": "EDITORS NOTE: This release was updated on July 6 to reflect the total poundage in the recall. WASHINGTON, June 24, 2017 Maxi Canada, Inc., a Quebec, Canada establishment, is recalling 4,275,425 pounds of breaded chicken products due to misbranding and undeclared allergens, the U.S. Department...\n", "establishment": null, "impacted_products": ["38-oz. boxes containing Yummy brand \u201c100% ALL NATURAL CHICKEN BREAST FRIES WITH WHOLE GRAIN Breading CHICKEN BREAST PATTY FRITTERS WITH RIB MEAT,\u201d with barcode 064563223177 printed on the box, and lot codes 170514, 170684, 170686, 170588, 161396, 161486, "], "quantity_recovered": 43313, "quantity_unit": "pounds", "states": null}
+{
+  "id": "077-2017",
+  "title": "Maxi Canada, Inc. Recalls Breaded Chicken Products Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/maxi-canada-inc.-recalls-breaded-chicken-products-due-misbranding-and-undeclared",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2017-06-24",
+  "end_date": "2018-02-23",
+  "summary": "EDITORS NOTE: This release was updated on July 6 to reflect the total poundage in the recall. WASHINGTON, June 24, 2017 Maxi Canada, Inc., a Quebec, Canada establishment, is recalling 4,275,425 pounds of breaded chicken products due to misbranding and undeclared allergens, the U.S. Department...\n",
+  "establishment": null,
+  "impacted_products": [
+    "38-oz. boxes containing Yummy brand \u201c100% ALL NATURAL CHICKEN BREAST FRIES WITH WHOLE GRAIN Breading CHICKEN BREAST PATTY FRITTERS WITH RIB MEAT,\u201d with barcode 064563223177 printed on the box, and lot codes 170514, 170684, 170686, 170588, 161396, 161486, "
+  ],
+  "quantity_recovered": 43313,
+  "quantity_unit": "pounds",
+  "states": null
+}

@@ -1,1 +1,21 @@
-{"id": "007-2010", "title": "New Jersey Firm Recalls Instant Noodle Products Imported from an Unapproved Source", "url": "https://www.fsis.usda.gov/recalls-alerts/new-jersey-firm-recalls-instant-noodle-products-imported-unapproved-source", "reasons": ["Import Violation"], "status": "Closed", "risk_level": "Low", "start_date": "2010-01-27", "end_date": "2012-06-03", "summary": "January 27, 2010 - Well Luck Co., Inc., a Jersey City, N.J., establishment, is recalling approximately 50,000 pounds of instant noodle products that were ineligible for import to the U.S., the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. Well Luck...\n", "establishment": null, "impacted_products": ["Cases of 12 packages containing five 110g-packs of \u201cJIN MAI LANG Instant Noodles, Stew Beef Flavour.\u201d Each package bears a use by date of 10/5/2010. Each case bears a case code of 42894.", "Cases of 12 packages containing five 112g-packs of \u201cJIN MAI LANG Instant Noodles, Stew Pork Flavour.\u201d Each package bears a use by date of 10/8/2010. Each case bears a case code of 42895."], "quantity_recovered": 35651, "quantity_unit": "pounds", "states": null}
+{
+  "id": "007-2010",
+  "title": "New Jersey Firm Recalls Instant Noodle Products Imported from an Unapproved Source",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/new-jersey-firm-recalls-instant-noodle-products-imported-unapproved-source",
+  "reasons": [
+    "Import Violation"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2010-01-27",
+  "end_date": "2012-06-03",
+  "summary": "January 27, 2010 - Well Luck Co., Inc., a Jersey City, N.J., establishment, is recalling approximately 50,000 pounds of instant noodle products that were ineligible for import to the U.S., the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. Well Luck...\n",
+  "establishment": null,
+  "impacted_products": [
+    "Cases of 12 packages containing five 110g-packs of \u201cJIN MAI LANG Instant Noodles, Stew Beef Flavour.\u201d Each package bears a use by date of 10/5/2010. Each case bears a case code of 42894.",
+    "Cases of 12 packages containing five 112g-packs of \u201cJIN MAI LANG Instant Noodles, Stew Pork Flavour.\u201d Each package bears a use by date of 10/8/2010. Each case bears a case code of 42895."
+  ],
+  "quantity_recovered": 35651,
+  "quantity_unit": "pounds",
+  "states": null
+}

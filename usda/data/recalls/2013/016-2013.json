@@ -1,1 +1,34 @@
-{"id": "016-2013", "title": "Illinois Firm Recalls Ready-To-Eat Roast Beef Products Due To Potential Listeria Monocytogenes Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/illinois-firm-recalls-ready-eat-roast-beef-products-due-potential-listeria", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2013-02-14", "end_date": "2015-03-24", "summary": "WASHINGTON, February 14, 2013 - Perfect Pasta Inc., an Addison, Ill. establishment, is recalling approximately 315 pounds of ready-to-eat roast beef products due to possible contamination with Listeria monocytogenes, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The following product...\n", "establishment": {"id": "M19829+P19829", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/perfect-pasta-inc", "slug": "perfect-pasta-inc", "name": "Perfect Pasta, Inc.", "address": "31 Fairbank Street (Unit A) \n  Addison, IL 60101", "telephone": "(630) 543-8300", "grant_date": "1998-11-13", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["5-lb. packages of \"GINA FULLY COOKED ROAST BEEF WITH SEASONED JUICE\" with a lot code number of \"040615RB' and a pack date of \"02-06-13.\""], "quantity_recovered": 217, "quantity_unit": "pounds", "states": ["Illinois"]}
+{
+  "id": "016-2013",
+  "title": "Illinois Firm Recalls Ready-To-Eat Roast Beef Products Due To Potential Listeria Monocytogenes Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/illinois-firm-recalls-ready-eat-roast-beef-products-due-potential-listeria",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2013-02-14",
+  "end_date": "2015-03-24",
+  "summary": "WASHINGTON, February 14, 2013 - Perfect Pasta Inc., an Addison, Ill. establishment, is recalling approximately 315 pounds of ready-to-eat roast beef products due to possible contamination with Listeria monocytogenes, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The following product...\n",
+  "establishment": {
+    "id": "M19829+P19829",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/perfect-pasta-inc",
+    "slug": "perfect-pasta-inc",
+    "name": "Perfect Pasta, Inc.",
+    "address": "31 Fairbank Street (Unit A) \n  Addison, IL 60101",
+    "telephone": "(630) 543-8300",
+    "grant_date": "1998-11-13",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "5-lb. packages of \"GINA FULLY COOKED ROAST BEEF WITH SEASONED JUICE\" with a lot code number of \"040615RB' and a pack date of \"02-06-13.\""
+  ],
+  "quantity_recovered": 217,
+  "quantity_unit": "pounds",
+  "states": [
+    "Illinois"
+  ]
+}

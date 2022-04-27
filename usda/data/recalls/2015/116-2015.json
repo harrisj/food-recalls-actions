@@ -1,1 +1,18 @@
-{"id": "116-2015", "title": "Real Foods Recalls Chicken Wrap Products Due To Misbranding And Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/real-foods-recalls-chicken-wrap-products-due-misbranding-and-undeclared-allergen", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2015-08-28", "end_date": "2016-12-13", "summary": "WASHINGTON, Aug. 28, 2015 Real Foods, a Kent, Wash. establishment, is recalling approximately 41 pounds of chicken wrap products due to misbranding and an undeclared allergen, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product contains soy, a known...", "establishment": null, "impacted_products": [], "quantity_recovered": 0, "quantity_unit": "pounds", "states": ["Washington"]}
+{
+  "id": "116-2015",
+  "title": "Real Foods Recalls Chicken Wrap Products Due To Misbranding And Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/real-foods-recalls-chicken-wrap-products-due-misbranding-and-undeclared-allergen",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2015-08-28",
+  "end_date": "2016-12-13",
+  "summary": "WASHINGTON, Aug. 28, 2015 Real Foods, a Kent, Wash. establishment, is recalling approximately 41 pounds of chicken wrap products due to misbranding and an undeclared allergen, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product contains soy, a known...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": [
+    "Washington"
+  ]
+}

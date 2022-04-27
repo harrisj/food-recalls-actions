@@ -1,1 +1,18 @@
-{"id": "001-2015", "title": "Texas Firm Recalls Lamb Products Imported Without Benefit of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/texas-firm-recalls-lamb-products-imported-without-benefit-inspection", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2015-01-02", "end_date": "2016-06-08", "summary": "WASHINGTON, JANUARY 02, 2015 AMD Imports Inc., a Houston, Texas establishment, is recalling approximately 35, 275 pounds of Australian lamb products because they were not presented at the U.S. point of entry for inspection, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS)...", "establishment": null, "impacted_products": [], "quantity_recovered": 28994, "quantity_unit": "pounds", "states": ["Texas"]}
+{
+  "id": "001-2015",
+  "title": "Texas Firm Recalls Lamb Products Imported Without Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/texas-firm-recalls-lamb-products-imported-without-benefit-inspection",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2015-01-02",
+  "end_date": "2016-06-08",
+  "summary": "WASHINGTON, JANUARY 02, 2015 AMD Imports Inc., a Houston, Texas establishment, is recalling approximately 35, 275 pounds of Australian lamb products because they were not presented at the U.S. point of entry for inspection, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS)...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 28994,
+  "quantity_unit": "pounds",
+  "states": [
+    "Texas"
+  ]
+}

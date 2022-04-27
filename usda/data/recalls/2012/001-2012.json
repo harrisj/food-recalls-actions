@@ -1,1 +1,24 @@
-{"id": "001-2012", "title": "North Carolina Firm Recalls Diced Beef Products That May Contain Foreign Materials", "url": "https://www.fsis.usda.gov/recalls-alerts/north-carolina-firm-recalls-diced-beef-products-may-contain-foreign-materials", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2012-01-14", "end_date": "2013-05-18", "summary": "WASHINGTON, Jan. 14, 2012 - RSW Distributors, LLC, a Forest City, N.C., establishment is recalling approximately 3,104 pounds of seasoned diced beef products that may contain foreign materials, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The products subject to...\n", "establishment": null, "impacted_products": ["Cases containing 4 (four) 8-lb. vacuum-sealed 10x22 inch pouches of \"SEASONED COOKED BEEF (DICED) Manufactured by Culinary Standards\" and \"EST. 8318\" inside the USDA mark of inspection. The cases also bear the USDA Process Control Certification Program se"], "quantity_recovered": 3104, "quantity_unit": "pounds", "states": ["South Carolina", "Tennessee", "Washington"]}
+{
+  "id": "001-2012",
+  "title": "North Carolina Firm Recalls Diced Beef Products That May Contain Foreign Materials",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/north-carolina-firm-recalls-diced-beef-products-may-contain-foreign-materials",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2012-01-14",
+  "end_date": "2013-05-18",
+  "summary": "WASHINGTON, Jan. 14, 2012 - RSW Distributors, LLC, a Forest City, N.C., establishment is recalling approximately 3,104 pounds of seasoned diced beef products that may contain foreign materials, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The products subject to...\n",
+  "establishment": null,
+  "impacted_products": [
+    "Cases containing 4 (four) 8-lb. vacuum-sealed 10x22 inch pouches of \"SEASONED COOKED BEEF (DICED) Manufactured by Culinary Standards\" and \"EST. 8318\" inside the USDA mark of inspection. The cases also bear the USDA Process Control Certification Program se"
+  ],
+  "quantity_recovered": 3104,
+  "quantity_unit": "pounds",
+  "states": [
+    "South Carolina",
+    "Tennessee",
+    "Washington"
+  ]
+}

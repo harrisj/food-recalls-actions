@@ -1,1 +1,37 @@
-{"id": "047-2017", "title": "Kabob's Acquisition, Inc. Recalls Meat and Poultry Products Due to Possible Listeria Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/kabobs-acquisition-inc.-recalls-meat-and-poultry-products-due-possible-listeria", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2017-05-10", "end_date": "2017-06-01", "summary": "WASHINGTON, May 10, 2017 Kabobs Acquisition, Inc., a Lake City, Ga. establishment, is recalling approximately 5,946 pounds of turkey and ham sandwich products which included a non-meat ingredient that was recalled due to Listeria monocytogenes, the U.S. Department of Agricultures Food Safety and Inspection Service...\n", "establishment": {"id": "M6640+P6640", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/kabobs-aquisition-inc", "slug": "kabobs-aquisition-inc", "name": "Kabobs Aquisition , Inc.", "address": "5423 North Lake Drive \n  Lake City, GA 30260", "telephone": "(404) 361-6283", "grant_date": "2009-10-09", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["13.125-lb. bulk cases containing 200 \u201cKabobs MONTE CRISTO TURKEY BREAST, HAM AND CHEESE SANDWICH\u201d in shrink wrapped plastic trays and bearing case codes: PM14E27, PM14H14, PM14J10, PM14E01, PM14E12, PM14E13, PM15C26, PM15E06, PM15G23, PM14L18, PM15A08, PM"], "quantity_recovered": 249, "quantity_unit": "pounds", "states": ["Florida", "Georgia", "South Carolina", "Texas"]}
+{
+  "id": "047-2017",
+  "title": "Kabob's Acquisition, Inc. Recalls Meat and Poultry Products Due to Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/kabobs-acquisition-inc.-recalls-meat-and-poultry-products-due-possible-listeria",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2017-05-10",
+  "end_date": "2017-06-01",
+  "summary": "WASHINGTON, May 10, 2017 Kabobs Acquisition, Inc., a Lake City, Ga. establishment, is recalling approximately 5,946 pounds of turkey and ham sandwich products which included a non-meat ingredient that was recalled due to Listeria monocytogenes, the U.S. Department of Agricultures Food Safety and Inspection Service...\n",
+  "establishment": {
+    "id": "M6640+P6640",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/kabobs-aquisition-inc",
+    "slug": "kabobs-aquisition-inc",
+    "name": "Kabobs Aquisition , Inc.",
+    "address": "5423 North Lake Drive \n  Lake City, GA 30260",
+    "telephone": "(404) 361-6283",
+    "grant_date": "2009-10-09",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "13.125-lb. bulk cases containing 200 \u201cKabobs MONTE CRISTO TURKEY BREAST, HAM AND CHEESE SANDWICH\u201d in shrink wrapped plastic trays and bearing case codes: PM14E27, PM14H14, PM14J10, PM14E01, PM14E12, PM14E13, PM15C26, PM15E06, PM15G23, PM14L18, PM15A08, PM"
+  ],
+  "quantity_recovered": 249,
+  "quantity_unit": "pounds",
+  "states": [
+    "Florida",
+    "Georgia",
+    "South Carolina",
+    "Texas"
+  ]
+}

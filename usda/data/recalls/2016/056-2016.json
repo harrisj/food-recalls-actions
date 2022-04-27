@@ -1,1 +1,24 @@
-{"id": "056-2016", "title": "ConAgra Foods Recalls Frozen Chicken and Beef Products Due to Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/conagra-foods-recalls-frozen-chicken-and-beef-products-due-possible-foreign-matter-0", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2016-07-06", "end_date": "2016-09-14", "summary": "WASHINGTON, July 6, 2016 ConAgra Foods, a Russellville, Ark. establishment, is recalling approximately 3,806 pounds of frozen chicken and beef entr\u00c3\u0087e products that may be contaminated with extraneous materials, specifically metal, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The...", "establishment": null, "impacted_products": [], "quantity_recovered": 44902, "quantity_unit": "pounds", "states": ["Arkansas", "Illinois", "Michigan", "Minnesota", "New York", "Vermont", "Wisconsin"]}
+{
+  "id": "056-2016",
+  "title": "ConAgra Foods Recalls Frozen Chicken and Beef Products Due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/conagra-foods-recalls-frozen-chicken-and-beef-products-due-possible-foreign-matter-0",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2016-07-06",
+  "end_date": "2016-09-14",
+  "summary": "WASHINGTON, July 6, 2016 ConAgra Foods, a Russellville, Ark. establishment, is recalling approximately 3,806 pounds of frozen chicken and beef entr\u00c3\u0087e products that may be contaminated with extraneous materials, specifically metal, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 44902,
+  "quantity_unit": "pounds",
+  "states": [
+    "Arkansas",
+    "Illinois",
+    "Michigan",
+    "Minnesota",
+    "New York",
+    "Vermont",
+    "Wisconsin"
+  ]
+}

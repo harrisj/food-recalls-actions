@@ -1,1 +1,36 @@
-{"id": "074-2011", "title": "California Firm Recalls Tongue and Blood Sausage Product Due To Mislabeling and Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-tongue-and-blood-sausage-product-due-mislabeling-and", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "Low", "start_date": "2011-09-22", "end_date": "2012-06-03", "summary": "WASHINGTON, Sept 22, 2011 - Mattern Sausage, an Orange, Calif., establishment is recalling approximately 72 pounds of tongue and blood sausage because of mislabeling and an undeclared allergen. The product contains hydrolyzed soy protein, which is not declared on the label, the U.S. Department of...\n", "establishment": {"id": "M7696+P7696", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/mattern-sausage", "slug": "mattern-sausage", "name": "Mattern Sausage", "address": "1003 N. Parker Street \n  Orange, CA 92867", "telephone": "(714) 628-9630", "grant_date": "2005-08-10", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["4-lb to 8-lb chubs of \u201cMATTERN SAUSAGE TONGUE AND BLOOD SAUSAGE\u201d"], "quantity_recovered": 22, "quantity_unit": "pounds", "states": ["Oregon", "California"]}
+{
+  "id": "074-2011",
+  "title": "California Firm Recalls Tongue and Blood Sausage Product Due To Mislabeling and Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-tongue-and-blood-sausage-product-due-mislabeling-and",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2011-09-22",
+  "end_date": "2012-06-03",
+  "summary": "WASHINGTON, Sept 22, 2011 - Mattern Sausage, an Orange, Calif., establishment is recalling approximately 72 pounds of tongue and blood sausage because of mislabeling and an undeclared allergen. The product contains hydrolyzed soy protein, which is not declared on the label, the U.S. Department of...\n",
+  "establishment": {
+    "id": "M7696+P7696",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/mattern-sausage",
+    "slug": "mattern-sausage",
+    "name": "Mattern Sausage",
+    "address": "1003 N. Parker Street \n  Orange, CA 92867",
+    "telephone": "(714) 628-9630",
+    "grant_date": "2005-08-10",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "4-lb to 8-lb chubs of \u201cMATTERN SAUSAGE TONGUE AND BLOOD SAUSAGE\u201d"
+  ],
+  "quantity_recovered": 22,
+  "quantity_unit": "pounds",
+  "states": [
+    "Oregon",
+    "California"
+  ]
+}

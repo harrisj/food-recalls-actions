@@ -1,1 +1,20 @@
-{"id": "PHA-05142021-01", "title": "FSIS Issues Public Health Alert for Ineligible Siluriformes Products Imported From Brazil ", "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ineligible-siluriformes-products-imported-brazil", "reasons": ["Import Violation"], "status": "Active", "risk_level": null, "start_date": "2021-05-14", "end_date": null, "summary": "WASHINGTON, May 14, 2021 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for approximately 165 pounds of imported frozen Siluriformes products. The products were imported from Brazil, a country ineligible to export Siluriformes products to...\n", "establishment": null, "impacted_products": ["13-14 lbs. cases containing \u201cGUTTED FROZEN FISH SCIENTIFIC NAME: Hypostomus\u201d with a production date of 23/04/2021 represented on the label. "], "quantity_recovered": null, "quantity_unit": null, "states": null}
+{
+  "id": "PHA-05142021-01",
+  "title": "FSIS Issues Public Health Alert for Ineligible Siluriformes Products Imported From Brazil ",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ineligible-siluriformes-products-imported-brazil",
+  "reasons": [
+    "Import Violation"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2021-05-14",
+  "end_date": null,
+  "summary": "WASHINGTON, May 14, 2021 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for approximately 165 pounds of imported frozen Siluriformes products. The products were imported from Brazil, a country ineligible to export Siluriformes products to...\n",
+  "establishment": null,
+  "impacted_products": [
+    "13-14 lbs. cases containing \u201cGUTTED FROZEN FISH SCIENTIFIC NAME: Hypostomus\u201d with a production date of 23/04/2021 represented on the label. "
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}

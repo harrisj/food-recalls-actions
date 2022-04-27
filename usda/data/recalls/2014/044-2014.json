@@ -1,1 +1,32 @@
-{"id": "044-2014", "title": "California Firm Recalls Chicken Products Due to Possible Salmonella Heidelberg Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-chicken-products-due-possible-salmonella-heidelberg", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2014-07-12", "end_date": "2016-06-08", "summary": "EDITOR'S NOTE: This release was updated July 12 to further clarify and correct iUse or Freeze by\u201d and iBest by\u201d date ranges, as well as to provide an updated product list. The product list remains the same and the recall is not expanded. WASHINGTON, July...\n", "establishment": null, "impacted_products": ["The recalled product includes fresh and frozen chicken products sold by retailers under Foster Farms or private label brand names, with varying \u201cuse or freeze by\u201ddates ranging from March 16 through March 31, 2014 and Aug. 29, 2015 through Sept. 2, 2015, a"], "quantity_recovered": 101302, "quantity_unit": "pounds", "states": ["Alaska", "Arizona", "California", "Hawaii", "Idaho", "Kansas", "Nevada", "Oklahoma", "Oregon", "Utah", "Washington"]}
+{
+  "id": "044-2014",
+  "title": "California Firm Recalls Chicken Products Due to Possible Salmonella Heidelberg Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-chicken-products-due-possible-salmonella-heidelberg",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2014-07-12",
+  "end_date": "2016-06-08",
+  "summary": "EDITOR'S NOTE: This release was updated July 12 to further clarify and correct iUse or Freeze by\u201d and iBest by\u201d date ranges, as well as to provide an updated product list. The product list remains the same and the recall is not expanded. WASHINGTON, July...\n",
+  "establishment": null,
+  "impacted_products": [
+    "The recalled product includes fresh and frozen chicken products sold by retailers under Foster Farms or private label brand names, with varying \u201cuse or freeze by\u201ddates ranging from March 16 through March 31, 2014 and Aug. 29, 2015 through Sept. 2, 2015, a"
+  ],
+  "quantity_recovered": 101302,
+  "quantity_unit": "pounds",
+  "states": [
+    "Alaska",
+    "Arizona",
+    "California",
+    "Hawaii",
+    "Idaho",
+    "Kansas",
+    "Nevada",
+    "Oklahoma",
+    "Oregon",
+    "Utah",
+    "Washington"
+  ]
+}

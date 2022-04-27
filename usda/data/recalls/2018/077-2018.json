@@ -1,1 +1,31 @@
-{"id": "077-2018", "title": "New York Style Sausage Co. Recalls Raw Chorizo Sausage Products due to Misbranding and an Undeclared Ingredient", "url": "https://www.fsis.usda.gov/recalls-alerts/new-york-style-sausage-co.-recalls-raw-chorizo-sausage-products-due-misbranding-and", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "Low", "start_date": "2018-09-05", "end_date": "2018-10-29", "summary": "WASHINGTON, Sept. 5, 2018 New York Style Sausage Co., a Sunnyvale, Calif. establishment, is recalling approximately 371 pounds of raw chorizo sausage products due to misbranding, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product contains sesame seed, which...", "establishment": {"id": "M9027+P9027", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/new-york-style-sausage-co", "slug": "new-york-style-sausage-co", "name": "NEW YORK STYLE SAUSAGE CO.", "address": "1228 REAMWOOD AVE. \n  SUNNYVALE, CA 94089", "telephone": "(408) 745-7675", "grant_date": "2018-09-13", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": 0, "quantity_unit": "pounds", "states": null}
+{
+  "id": "077-2018",
+  "title": "New York Style Sausage Co. Recalls Raw Chorizo Sausage Products due to Misbranding and an Undeclared Ingredient",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/new-york-style-sausage-co.-recalls-raw-chorizo-sausage-products-due-misbranding-and",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2018-09-05",
+  "end_date": "2018-10-29",
+  "summary": "WASHINGTON, Sept. 5, 2018 New York Style Sausage Co., a Sunnyvale, Calif. establishment, is recalling approximately 371 pounds of raw chorizo sausage products due to misbranding, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product contains sesame seed, which...",
+  "establishment": {
+    "id": "M9027+P9027",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/new-york-style-sausage-co",
+    "slug": "new-york-style-sausage-co",
+    "name": "NEW YORK STYLE SAUSAGE CO.",
+    "address": "1228 REAMWOOD AVE. \n  SUNNYVALE, CA 94089",
+    "telephone": "(408) 745-7675",
+    "grant_date": "2018-09-13",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": null
+}

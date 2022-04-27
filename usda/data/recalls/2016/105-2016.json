@@ -1,1 +1,16 @@
-{"id": "105-2016", "title": "Water Lilies Food Inc. Recalls Egg Roll Product Due To Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/water-lilies-food-inc.-recalls-egg-roll-product-due-misbranding-and-undeclared", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2016-11-08", "end_date": "2017-02-10", "summary": "WASHINGTON, Nov. 8, 2016 Water Lilies Food Inc., an Astoria, NY 11105. establishment, is recalling approximately 1,710 pounds of egg roll product due to misbranding and an undeclared allergen, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product contains...", "establishment": null, "impacted_products": [], "quantity_recovered": 0, "quantity_unit": "pounds", "states": null}
+{
+  "id": "105-2016",
+  "title": "Water Lilies Food Inc. Recalls Egg Roll Product Due To Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/water-lilies-food-inc.-recalls-egg-roll-product-due-misbranding-and-undeclared",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2016-11-08",
+  "end_date": "2017-02-10",
+  "summary": "WASHINGTON, Nov. 8, 2016 Water Lilies Food Inc., an Astoria, NY 11105. establishment, is recalling approximately 1,710 pounds of egg roll product due to misbranding and an undeclared allergen, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product contains...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": null
+}

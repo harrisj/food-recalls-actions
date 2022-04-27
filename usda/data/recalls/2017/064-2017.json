@@ -1,1 +1,48 @@
-{"id": "064-2017", "title": "Pork King Sausage, Inc. Recalls Raw Sausage Link Products Due to Misbranding and Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/pork-king-sausage-inc.-recalls-raw-sausage-link-products-due-misbranding-and", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2017-06-09", "end_date": "2017-10-16", "summary": "WASHINGTON, June 9, 2017 Pork King Sausage, a New York, N.Y., establishment, is recalling approximately 44,035 pounds of raw sausage link products due to misbranding and undeclared allergen, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products could contain...\n", "establishment": {"id": "M4396+P4396", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/pork-king-sausage-inc", "slug": "pork-king-sausage-inc", "name": "Pork King Sausage, Inc.", "address": "F-22 Hunts Point Coop Market \n  Bronx, NY 10474", "telephone": "(718) 542-2810", "grant_date": "2013-04-01", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["10-lb. boxes of Peter\u2019s Wholesale Meat Corp. \u201cBritish Style Bangers\u201d with lot code 03143.", "5-lb. boxes of  \u201cPORK KING IRISH STYLE BANGERS\u201d with lot codes 2153, 2146, 2139, 3138, 3103, 1076, 2076, 1069, 2069,3067, 1062, 2062,  3061, 1055, 2055, 1047, 2047 and 3047."], "quantity_recovered": 17180, "quantity_unit": "pounds", "states": ["Connecticut", "Delaware", "Florida", "Georgia", "Maryland", "Massachusetts", "New Jersey", "New York", "North Carolina", "Pennsylvania", "Rhode Island", "South Carolina", "Virginia"]}
+{
+  "id": "064-2017",
+  "title": "Pork King Sausage, Inc. Recalls Raw Sausage Link Products Due to Misbranding and Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/pork-king-sausage-inc.-recalls-raw-sausage-link-products-due-misbranding-and",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2017-06-09",
+  "end_date": "2017-10-16",
+  "summary": "WASHINGTON, June 9, 2017 Pork King Sausage, a New York, N.Y., establishment, is recalling approximately 44,035 pounds of raw sausage link products due to misbranding and undeclared allergen, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products could contain...\n",
+  "establishment": {
+    "id": "M4396+P4396",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/pork-king-sausage-inc",
+    "slug": "pork-king-sausage-inc",
+    "name": "Pork King Sausage, Inc.",
+    "address": "F-22 Hunts Point Coop Market \n  Bronx, NY 10474",
+    "telephone": "(718) 542-2810",
+    "grant_date": "2013-04-01",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "10-lb. boxes of Peter\u2019s Wholesale Meat Corp. \u201cBritish Style Bangers\u201d with lot code 03143.",
+    "5-lb. boxes of  \u201cPORK KING IRISH STYLE BANGERS\u201d with lot codes 2153, 2146, 2139, 3138, 3103, 1076, 2076, 1069, 2069,3067, 1062, 2062,  3061, 1055, 2055, 1047, 2047 and 3047."
+  ],
+  "quantity_recovered": 17180,
+  "quantity_unit": "pounds",
+  "states": [
+    "Connecticut",
+    "Delaware",
+    "Florida",
+    "Georgia",
+    "Maryland",
+    "Massachusetts",
+    "New Jersey",
+    "New York",
+    "North Carolina",
+    "Pennsylvania",
+    "Rhode Island",
+    "South Carolina",
+    "Virginia"
+  ]
+}

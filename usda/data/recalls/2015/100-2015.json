@@ -1,1 +1,18 @@
-{"id": "100-2015", "title": "Murry's, Inc., Recalls Chicken Products Due to Staphylococcal Enterotoxin Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/murrys-inc.-recalls-chicken-products-due-staphylococcal-enterotoxin-contamination", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2015-07-15", "end_date": "2016-06-07", "summary": "WASHINGTON, July 15, 2015 Murrys, Inc., a Lebanon, Pa. establishment, is recalling approximately 20,232 pounds of gluten-free breaded chicken nugget product that tested positive for Staphylococcal enterotoxin, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today.The following product is subject to...", "establishment": null, "impacted_products": [], "quantity_recovered": 0, "quantity_unit": "pounds", "states": ["Colorado"]}
+{
+  "id": "100-2015",
+  "title": "Murry's, Inc., Recalls Chicken Products Due to Staphylococcal Enterotoxin Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/murrys-inc.-recalls-chicken-products-due-staphylococcal-enterotoxin-contamination",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2015-07-15",
+  "end_date": "2016-06-07",
+  "summary": "WASHINGTON, July 15, 2015 Murrys, Inc., a Lebanon, Pa. establishment, is recalling approximately 20,232 pounds of gluten-free breaded chicken nugget product that tested positive for Staphylococcal enterotoxin, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today.The following product is subject to...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": [
+    "Colorado"
+  ]
+}

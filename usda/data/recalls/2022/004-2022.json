@@ -1,1 +1,36 @@
-{"id": "004-2022", "title": "  Great American Cobbler Company, LLC, Recalls Creole Style Chicken Pot Pie Products Due to Misbranding and an Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/great-american-cobbler-company-llc-recalls-creole-style-chicken-pot-pie-products-due", "reasons": ["Misbranding"], "status": "Closed", "risk_level": "Low", "start_date": "2022-02-11", "end_date": "2022-03-28", "summary": "WASHINGTON, Feb. 11, 2022 \u2013 Great American Cobbler LLC., a Homerville, Ga., establishment, is recalling approximately 4,272 pounds of chicken pot pie products due to misbranding and undeclared allergens, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The product contains...\n", "establishment": {"id": "M47401+P47401", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/great-american-cobbler-company-llc", "slug": "great-american-cobbler-company-llc", "name": "Great American Cobbler Company LLC", "address": "50 Sunnyridge Drive \n  Homerville, GA 31634", "telephone": "(912) 282-3443", "grant_date": "2021-12-08", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["\u2022\t2-lb. cardboard box sleeve containing \u201cGREAT AMERICAN Pot Pie Handcrafted Premium Creole Style Chicken Pot Pie\u201d with lot codes \u201c21231\u201d and \u201c21307\u201d and best by dates of 02/19/2023 and 05/03/2023."], "quantity_recovered": 2126, "quantity_unit": "pounds", "states": ["Georgia", "Wisconsin", "Virginia"]}
+{
+  "id": "004-2022",
+  "title": "  Great American Cobbler Company, LLC, Recalls Creole Style Chicken Pot Pie Products Due to Misbranding and an Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/great-american-cobbler-company-llc-recalls-creole-style-chicken-pot-pie-products-due",
+  "reasons": [
+    "Misbranding"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2022-02-11",
+  "end_date": "2022-03-28",
+  "summary": "WASHINGTON, Feb. 11, 2022 \u2013 Great American Cobbler LLC., a Homerville, Ga., establishment, is recalling approximately 4,272 pounds of chicken pot pie products due to misbranding and undeclared allergens, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The product contains...\n",
+  "establishment": {
+    "id": "M47401+P47401",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/great-american-cobbler-company-llc",
+    "slug": "great-american-cobbler-company-llc",
+    "name": "Great American Cobbler Company LLC",
+    "address": "50 Sunnyridge Drive \n  Homerville, GA 31634",
+    "telephone": "(912) 282-3443",
+    "grant_date": "2021-12-08",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022\t2-lb. cardboard box sleeve containing \u201cGREAT AMERICAN Pot Pie Handcrafted Premium Creole Style Chicken Pot Pie\u201d with lot codes \u201c21231\u201d and \u201c21307\u201d and best by dates of 02/19/2023 and 05/03/2023."
+  ],
+  "quantity_recovered": 2126,
+  "quantity_unit": "pounds",
+  "states": [
+    "Georgia",
+    "Wisconsin",
+    "Virginia"
+  ]
+}

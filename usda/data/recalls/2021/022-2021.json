@@ -1,1 +1,51 @@
-{"id": "022-2021", "title": "King's Command Foods, LLC. Recalls Meat and Poultry Meatballs and Pork Pattie Products Due to Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/kings-command-foods-llc.-recalls-meat-and-poultry-meatballs-and-pork-pattie-products", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2021-05-28", "end_date": "2021-07-26", "summary": "WASHINGTON, May 28, 2021 - King's Command Foods, LLC., a Kent, Wash. establishment, is recalling approximately 20,025 pounds of fully cooked, not shelf stable meat and poultry meatballs and pork patties due to misbranding and undeclared allergens, the U.S. Department of Agriculture's Food Safety and...", "establishment": {"id": "M1515A+P6121A", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/kings-command-foods-llc", "slug": "kings-command-foods-llc", "name": "King's Command Foods, LLC", "address": "7622 South 188th Street \n  Kent, WA 98032", "telephone": "(425) 251-6788", "grant_date": "2014-08-05", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["10-lb. bulk-packed cases containing \"3.75 oz RIB SHAPED PORK PATTIES WITH BBQ SAUCE\" with code 2549616/72314 and \"USE BY 3/2/2022,\" that contain undeclared wheat which is not represented on the label.", "15-lb. bulk-packed cases containing \"3.0 oz RIB SHAPED PORK PATTIES WITH BBQ SAUCE\" with code 72314 and \"USE BY 3/2/2022\", that contain undeclared wheat which is not represented on the label. ", "15-lb. bulk-packed cases containing \"0.50oz SWEDISH MEATBALLS\" with code 72148 and \"USE BY 1/7/2022\", containing undeclared egg which is not represented on the label.", "14-lb. bulk-packed cases containing \"0.50oz SWEDISH MEATBALLS WITH SAUCE\" with code 72147 and \"USE BY 1/7/2022\", containing undeclared egg which is not represented on the label. ", "10-lb. bulk-packed cases containing \"0.5 OZ CHICKEN AND BEEF MEATBALLS\" with code 72180 and \"USE BY 1/7/2022\", containing undeclared milk which is not represented on the label.", "10-lb. bulk-packed cases containing \"0.50 oz MEATBALLS\" with code 01380 displayed beneath the barcode and \"USE BY 1/14/2022,\" containing undeclared egg and milk which is not represented on the label.", "10-lb. bulk-packed cases containing \".5 oz HOMESTYLE MEATBALLS\" with code 00133 and \"USE BY 1/7/2022,\" containing undeclared milk which is not represented on the label.", "20-lb. bulk-packed cases containing \".5 OZ ITALIAN STYLE MEATBALLS\" with code 72182 and \"USE BY 3/2/2022,\" containing undeclared egg which is not represented on the label. "], "quantity_recovered": 6217, "quantity_unit": "pounds recovered", "states": ["California", "Idaho", "Illinois", "Minnesota", "Missouri", "North Carolina", "Oregon", "Texas", "Virginia", "Washington"]}
+{
+  "id": "022-2021",
+  "title": "King's Command Foods, LLC. Recalls Meat and Poultry Meatballs and Pork Pattie Products Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/kings-command-foods-llc.-recalls-meat-and-poultry-meatballs-and-pork-pattie-products",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2021-05-28",
+  "end_date": "2021-07-26",
+  "summary": "WASHINGTON, May 28, 2021 - King's Command Foods, LLC., a Kent, Wash. establishment, is recalling approximately 20,025 pounds of fully cooked, not shelf stable meat and poultry meatballs and pork patties due to misbranding and undeclared allergens, the U.S. Department of Agriculture's Food Safety and...",
+  "establishment": {
+    "id": "M1515A+P6121A",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/kings-command-foods-llc",
+    "slug": "kings-command-foods-llc",
+    "name": "King's Command Foods, LLC",
+    "address": "7622 South 188th Street \n  Kent, WA 98032",
+    "telephone": "(425) 251-6788",
+    "grant_date": "2014-08-05",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "10-lb. bulk-packed cases containing \"3.75 oz RIB SHAPED PORK PATTIES WITH BBQ SAUCE\" with code 2549616/72314 and \"USE BY 3/2/2022,\" that contain undeclared wheat which is not represented on the label.",
+    "15-lb. bulk-packed cases containing \"3.0 oz RIB SHAPED PORK PATTIES WITH BBQ SAUCE\" with code 72314 and \"USE BY 3/2/2022\", that contain undeclared wheat which is not represented on the label. ",
+    "15-lb. bulk-packed cases containing \"0.50oz SWEDISH MEATBALLS\" with code 72148 and \"USE BY 1/7/2022\", containing undeclared egg which is not represented on the label.",
+    "14-lb. bulk-packed cases containing \"0.50oz SWEDISH MEATBALLS WITH SAUCE\" with code 72147 and \"USE BY 1/7/2022\", containing undeclared egg which is not represented on the label. ",
+    "10-lb. bulk-packed cases containing \"0.5 OZ CHICKEN AND BEEF MEATBALLS\" with code 72180 and \"USE BY 1/7/2022\", containing undeclared milk which is not represented on the label.",
+    "10-lb. bulk-packed cases containing \"0.50 oz MEATBALLS\" with code 01380 displayed beneath the barcode and \"USE BY 1/14/2022,\" containing undeclared egg and milk which is not represented on the label.",
+    "10-lb. bulk-packed cases containing \".5 oz HOMESTYLE MEATBALLS\" with code 00133 and \"USE BY 1/7/2022,\" containing undeclared milk which is not represented on the label.",
+    "20-lb. bulk-packed cases containing \".5 OZ ITALIAN STYLE MEATBALLS\" with code 72182 and \"USE BY 3/2/2022,\" containing undeclared egg which is not represented on the label. "
+  ],
+  "quantity_recovered": 6217,
+  "quantity_unit": "pounds recovered",
+  "states": [
+    "California",
+    "Idaho",
+    "Illinois",
+    "Minnesota",
+    "Missouri",
+    "North Carolina",
+    "Oregon",
+    "Texas",
+    "Virginia",
+    "Washington"
+  ]
+}

@@ -1,1 +1,35 @@
-{"id": "018-2017", "title": "Procesadora La Hacienda, Inc. Recalls Meat Products Due To Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/procesadora-la-hacienda-inc.-recalls-meat-products-due-misbranding-and-undeclared", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2017-03-01", "end_date": "2017-03-17", "summary": "WASHINGTON, March 1, 2017 Procesadora La Hacienda, Inc., a Juncos, Puerto Rico establishment, is recalling approximately 140 pounds of raw meat products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product contains wheat...\n", "establishment": {"id": "M21217A+P21217A", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/procesadora-la-hacienda-inc", "slug": "procesadora-la-hacienda-inc", "name": "Procesadora La Hacienda, Inc.", "address": "Bo. Cerro Gordo Carr 183 Int 916 \n  San Lorenzo, PR 754", "telephone": "(787) 734-4178", "grant_date": "2016-09-09", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["10-lb box containing 2 pieces of 5-lb \u201cSeasoned Meat\u201d chubs. "], "quantity_recovered": 20, "quantity_unit": "pounds", "states": ["Puerto Rico"]}
+{
+  "id": "018-2017",
+  "title": "Procesadora La Hacienda, Inc. Recalls Meat Products Due To Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/procesadora-la-hacienda-inc.-recalls-meat-products-due-misbranding-and-undeclared",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2017-03-01",
+  "end_date": "2017-03-17",
+  "summary": "WASHINGTON, March 1, 2017 Procesadora La Hacienda, Inc., a Juncos, Puerto Rico establishment, is recalling approximately 140 pounds of raw meat products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product contains wheat...\n",
+  "establishment": {
+    "id": "M21217A+P21217A",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/procesadora-la-hacienda-inc",
+    "slug": "procesadora-la-hacienda-inc",
+    "name": "Procesadora La Hacienda, Inc.",
+    "address": "Bo. Cerro Gordo Carr 183 Int 916 \n  San Lorenzo, PR 754",
+    "telephone": "(787) 734-4178",
+    "grant_date": "2016-09-09",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "10-lb box containing 2 pieces of 5-lb \u201cSeasoned Meat\u201d chubs. "
+  ],
+  "quantity_recovered": 20,
+  "quantity_unit": "pounds",
+  "states": [
+    "Puerto Rico"
+  ]
+}

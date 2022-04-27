@@ -1,1 +1,22 @@
-{"id": "023-2021", "title": "Tyson Foods Inc. Recalls Ready-To-Eat Chicken Products Due to Possible Listeria Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/tyson-foods-inc.-recalls-ready-eat-chicken-products-due-possible-listeria", "reasons": ["Product Contamination"], "status": "Active", "risk_level": "High", "start_date": "2021-07-03", "end_date": null, "summary": "July 13, 2021, Editor\u2019s Note: The release is being updated to alert consumers that the recalled ready to eat products were used in additional products produced by other establishments and retailers. Some products bear a different establishment number on the label due to further processing...\n", "establishment": null, "impacted_products": ["8,492,832 pounds of ready-to-eat (RTE) chicken products that may be adulterated with Listeria monocytogenes"], "quantity_recovered": null, "quantity_unit": null, "states": ["Nationwide"]}
+{
+  "id": "023-2021",
+  "title": "Tyson Foods Inc. Recalls Ready-To-Eat Chicken Products Due to Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/tyson-foods-inc.-recalls-ready-eat-chicken-products-due-possible-listeria",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2021-07-03",
+  "end_date": null,
+  "summary": "July 13, 2021, Editor\u2019s Note: The release is being updated to alert consumers that the recalled ready to eat products were used in additional products produced by other establishments and retailers. Some products bear a different establishment number on the label due to further processing...\n",
+  "establishment": null,
+  "impacted_products": [
+    "8,492,832 pounds of ready-to-eat (RTE) chicken products that may be adulterated with Listeria monocytogenes"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Nationwide"
+  ]
+}

@@ -1,1 +1,43 @@
-{"id": "043-2019", "title": "JBS Plainwell, Inc. Recalls Ground Beef Products Due to Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/jbs-plainwell-inc.-recalls-ground-beef-products-due-possible-foreign-matter", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "Low", "start_date": "2019-04-08", "end_date": "2019-07-17", "summary": "WASHINGTON, April 8, 2019 JBS Plainwell, Inc., a Plainwell, Mich. establishment, is recalling approximately 43,292 pounds of ground beef products that may be contaminated with extraneous materials, specifically, pieces of hard plastic, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today...\n", "establishment": {"id": "M562M", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/jbs-plainwell-inc", "slug": "jbs-plainwell-inc", "name": "JBS Plainwell, Inc.", "address": "11 11th St. \n  Plainwell, MI 49080", "telephone": "(269) 685-6886", "grant_date": "2022-01-27", "activities": ["Meat Processing", "Meat Slaughter"]}, "impacted_products": ["1-lb. plastic wrapped ground beef loaf with \u201cfresh from Meijer GROUND BEEF 80% LEAN 20% FAT\u201d with case code 47283 and sell by date of 4/10/2019 represented on the label. ", "1-lb. plastic wrapped ground beef loaf with \u201cfresh from Meijer GROUND BEEF 85% LEAN 15% FAT\u201d with case code 47285 and sell by date of 4/10/2019 represented on the label. ", "1-lb. plastic wrapped ground beef loaf with \u201cfresh from Meijer GROUND BEEF 90% LEAN 10% FAT\u201d with case code 47290 and sell by date of 4/10/2019 represented on the label. ", "1-lb. plastic wrapped ground beef loaf with \u201cLEAN GROUND BEEF\u201d with case code 42093 and sell by date of 4/10/2019 represented on the label. ", "1-lb. plastic wrapped ground beef loaf with \u201cCERTIFIED GROUND SIRLOIN\u201d with case code 42090 and sell by date of 4/10/2019 represented on the label. ", "1-lb. plastic wrapped ground beef loaf with \u201cCERTIFIED GROUND ROUND\u201d with case code 42085 and sell by date of 4/10/2019 represented on the label. ", "1-lb. plastic wrapped ground beef loaf with \u201cFresh! BLACK ANGUS GROUND CHUCK\u201d with case code 42283 and sell by date of 4/10/2019 represented on the label. ", "1-lb. plastic wrapped ground beef loaf with \u201cCERTIFIED GROUND CHUCK\u201d with case code 81631 and sell by date of 4/10/2019 represented on the label. ", "1-lb. plastic wrapped ground beef loaf with \u201cGROUND BEEF\u201d with case code 81629 and sell by date of 4/10/2019 represented on the label. "], "quantity_recovered": 4346, "quantity_unit": "pounds", "states": ["Michigan", "Wisconsin"]}
+{
+  "id": "043-2019",
+  "title": "JBS Plainwell, Inc. Recalls Ground Beef Products Due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/jbs-plainwell-inc.-recalls-ground-beef-products-due-possible-foreign-matter",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2019-04-08",
+  "end_date": "2019-07-17",
+  "summary": "WASHINGTON, April 8, 2019 JBS Plainwell, Inc., a Plainwell, Mich. establishment, is recalling approximately 43,292 pounds of ground beef products that may be contaminated with extraneous materials, specifically, pieces of hard plastic, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today...\n",
+  "establishment": {
+    "id": "M562M",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/jbs-plainwell-inc",
+    "slug": "jbs-plainwell-inc",
+    "name": "JBS Plainwell, Inc.",
+    "address": "11 11th St. \n  Plainwell, MI 49080",
+    "telephone": "(269) 685-6886",
+    "grant_date": "2022-01-27",
+    "activities": [
+      "Meat Processing",
+      "Meat Slaughter"
+    ]
+  },
+  "impacted_products": [
+    "1-lb. plastic wrapped ground beef loaf with \u201cfresh from Meijer GROUND BEEF 80% LEAN 20% FAT\u201d with case code 47283 and sell by date of 4/10/2019 represented on the label. ",
+    "1-lb. plastic wrapped ground beef loaf with \u201cfresh from Meijer GROUND BEEF 85% LEAN 15% FAT\u201d with case code 47285 and sell by date of 4/10/2019 represented on the label. ",
+    "1-lb. plastic wrapped ground beef loaf with \u201cfresh from Meijer GROUND BEEF 90% LEAN 10% FAT\u201d with case code 47290 and sell by date of 4/10/2019 represented on the label. ",
+    "1-lb. plastic wrapped ground beef loaf with \u201cLEAN GROUND BEEF\u201d with case code 42093 and sell by date of 4/10/2019 represented on the label. ",
+    "1-lb. plastic wrapped ground beef loaf with \u201cCERTIFIED GROUND SIRLOIN\u201d with case code 42090 and sell by date of 4/10/2019 represented on the label. ",
+    "1-lb. plastic wrapped ground beef loaf with \u201cCERTIFIED GROUND ROUND\u201d with case code 42085 and sell by date of 4/10/2019 represented on the label. ",
+    "1-lb. plastic wrapped ground beef loaf with \u201cFresh! BLACK ANGUS GROUND CHUCK\u201d with case code 42283 and sell by date of 4/10/2019 represented on the label. ",
+    "1-lb. plastic wrapped ground beef loaf with \u201cCERTIFIED GROUND CHUCK\u201d with case code 81631 and sell by date of 4/10/2019 represented on the label. ",
+    "1-lb. plastic wrapped ground beef loaf with \u201cGROUND BEEF\u201d with case code 81629 and sell by date of 4/10/2019 represented on the label. "
+  ],
+  "quantity_recovered": 4346,
+  "quantity_unit": "pounds",
+  "states": [
+    "Michigan",
+    "Wisconsin"
+  ]
+}

@@ -1,1 +1,21 @@
-{"id": "063-2011", "title": "Canadian Firm Recalls Bacon Products for Possible Listeria Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/canadian-firm-recalls-bacon-products-possible-listeria-contamination", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2011-08-12", "end_date": "2012-06-02", "summary": "WASHINGTON, August 12, 2011 - Aliments Prince, S.E.C., an establishment from Ontario, Canada, is recalling approximately 380,000 pounds of diced bacon products that may be contaminated with Listeria monocytogenes, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. Through routine testing...\n", "establishment": null, "impacted_products": ["10-lb. shipping container with two 5-lb. packages of \"Napoli Cooked Bacon Topping\" that bear the case code 83600", "10-lb. shipping container with two 5-lb. packages of \"Stefano Brand Cooked Diced Bacon\" that bear the case code 83601"], "quantity_recovered": 52500, "quantity_unit": "pounds", "states": null}
+{
+  "id": "063-2011",
+  "title": "Canadian Firm Recalls Bacon Products for Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/canadian-firm-recalls-bacon-products-possible-listeria-contamination",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2011-08-12",
+  "end_date": "2012-06-02",
+  "summary": "WASHINGTON, August 12, 2011 - Aliments Prince, S.E.C., an establishment from Ontario, Canada, is recalling approximately 380,000 pounds of diced bacon products that may be contaminated with Listeria monocytogenes, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. Through routine testing...\n",
+  "establishment": null,
+  "impacted_products": [
+    "10-lb. shipping container with two 5-lb. packages of \"Napoli Cooked Bacon Topping\" that bear the case code 83600",
+    "10-lb. shipping container with two 5-lb. packages of \"Stefano Brand Cooked Diced Bacon\" that bear the case code 83601"
+  ],
+  "quantity_recovered": 52500,
+  "quantity_unit": "pounds",
+  "states": null
+}

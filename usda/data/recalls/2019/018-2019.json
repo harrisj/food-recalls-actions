@@ -1,1 +1,27 @@
-{"id": "018-2019", "title": "TV Food LLC. Recalls Siluriformes Products Produced Without Benefit of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/tv-food-llc.-recalls-siluriformes-products-produced-without-benefit-inspection", "reasons": ["Produced Without Benefit of Inspection"], "status": "Active", "risk_level": "High", "start_date": "2019-02-22", "end_date": null, "summary": "WASHINGTON, Feb. 22, 2019 TV Food LLC., a San Leandro, Calif. non-federally inspected establishment, is recalling approximately 27,956 pounds of Siluriformes, specifically Yellow Hito (catfish), products because the products were not presented for import re-inspection into the United States, the U.S. Department of Agricultures Food...\n", "establishment": null, "impacted_products": ["14-oz. vacuum-packed trays containing \u201cGolden Boy, FROZEN FISH CA DONG CA TRE DONG\u201d and \u201cPacked By: MAI SAO Seafood Co., LTD.\u201d printed on the label. ", "14-oz. vacuum-packed trays containing \u201cGolden Boy, FROZEN FISH STEAK CA TRE CAT KHUC\u201d and \u201cPacked By: MAI SAO Seafood Co., LTD.\u201d printed on the label. ", "12-oz. vacuum-packed trays containing \u201cGolden Boy, FROZEN FISH CA DONG CA TRE DONG LAM SACH KHONG DAU\u201d and \u201cPacked By: MAI SAO Seafood Co., LTD.\u201d printed on the label. ", "2 Fish/Bag Sold by weight vacuum-packed trays containing \u201cGolden Boy, FROZEN FISH CA DONG CA TRE VANG LAM SACH KHONG DAU\u201d and \u201cPacked By: MAI SAO Seafood Co., LTD.\u201d printed on the label. ", "3 Fish/Bag, Sold by Weight vacuum-packed trays containing \u201cGolden Boy, FROZEN FISH CA DONG CA TRE VANG\u201d and \u201cPacked By: MAI SAO Seafood Co., LTD.\u201d printed on the label. ", "2-lbs. vacuum-packed trays containing \u201cGolden Boy\u201d yellow catfish. "], "quantity_recovered": null, "quantity_unit": null, "states": ["Illinois"]}
+{
+  "id": "018-2019",
+  "title": "TV Food LLC. Recalls Siluriformes Products Produced Without Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/tv-food-llc.-recalls-siluriformes-products-produced-without-benefit-inspection",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2019-02-22",
+  "end_date": null,
+  "summary": "WASHINGTON, Feb. 22, 2019 TV Food LLC., a San Leandro, Calif. non-federally inspected establishment, is recalling approximately 27,956 pounds of Siluriformes, specifically Yellow Hito (catfish), products because the products were not presented for import re-inspection into the United States, the U.S. Department of Agricultures Food...\n",
+  "establishment": null,
+  "impacted_products": [
+    "14-oz. vacuum-packed trays containing \u201cGolden Boy, FROZEN FISH CA DONG CA TRE DONG\u201d and \u201cPacked By: MAI SAO Seafood Co., LTD.\u201d printed on the label. ",
+    "14-oz. vacuum-packed trays containing \u201cGolden Boy, FROZEN FISH STEAK CA TRE CAT KHUC\u201d and \u201cPacked By: MAI SAO Seafood Co., LTD.\u201d printed on the label. ",
+    "12-oz. vacuum-packed trays containing \u201cGolden Boy, FROZEN FISH CA DONG CA TRE DONG LAM SACH KHONG DAU\u201d and \u201cPacked By: MAI SAO Seafood Co., LTD.\u201d printed on the label. ",
+    "2 Fish/Bag Sold by weight vacuum-packed trays containing \u201cGolden Boy, FROZEN FISH CA DONG CA TRE VANG LAM SACH KHONG DAU\u201d and \u201cPacked By: MAI SAO Seafood Co., LTD.\u201d printed on the label. ",
+    "3 Fish/Bag, Sold by Weight vacuum-packed trays containing \u201cGolden Boy, FROZEN FISH CA DONG CA TRE VANG\u201d and \u201cPacked By: MAI SAO Seafood Co., LTD.\u201d printed on the label. ",
+    "2-lbs. vacuum-packed trays containing \u201cGolden Boy\u201d yellow catfish. "
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Illinois"
+  ]
+}

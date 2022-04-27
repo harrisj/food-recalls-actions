@@ -1,1 +1,23 @@
-{"id": "105-2019", "title": "H&T Seafood Inc. Recalls Siluriformes Products Produced Without the Benefit of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/ht-seafood-inc.-recalls-siluriformes-products-produced-without-benefit-inspection", "reasons": ["Produced Without Benefit of Inspection"], "status": "Closed", "risk_level": "High", "start_date": "2019-10-29", "end_date": null, "summary": "WASHINGTON, Oct. 29, 2019 H&T Seafood Inc., a Bell, Calif. firm, is recalling an undetermined amount of Siluriformes products that were packed and distributed without the benefit of USDA inspection and used the mark of inspection without authorization, the U.S. Department of Agricultures Food Safety...", "establishment": null, "impacted_products": [], "quantity_recovered": 15210, "quantity_unit": "pounds", "states": ["Florida", "Georgia", "Louisiana", "South Carolina"]}
+{
+  "id": "105-2019",
+  "title": "H&T Seafood Inc. Recalls Siluriformes Products Produced Without the Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/ht-seafood-inc.-recalls-siluriformes-products-produced-without-benefit-inspection",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2019-10-29",
+  "end_date": null,
+  "summary": "WASHINGTON, Oct. 29, 2019 H&T Seafood Inc., a Bell, Calif. firm, is recalling an undetermined amount of Siluriformes products that were packed and distributed without the benefit of USDA inspection and used the mark of inspection without authorization, the U.S. Department of Agricultures Food Safety...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 15210,
+  "quantity_unit": "pounds",
+  "states": [
+    "Florida",
+    "Georgia",
+    "Louisiana",
+    "South Carolina"
+  ]
+}

@@ -1,1 +1,21 @@
-{"id": "015-2014", "title": "Washington Firm Recalls Dried Egg Products Due to Possible Salmonella Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/washington-firm-recalls-dried-egg-products-due-possible-salmonella-contamination-0", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2014-02-15", "end_date": "2016-11-10", "summary": "Editor's Note: This release has been updated to correct the Julian dates i2623\u201d and i2633\u201d from the 4.5-oz. packs of iOvaEasy Plain Whole Egg\u201d to the 1.75 oz. packs of iOvaEasy Plain Whole Egg.\u201d WASHINGTON, Feb. 15, 2014 Nutriom LLC, a Lacey, Wash., establishment, is...\n", "establishment": null, "impacted_products": ["1,383-lb. super sack of \u201cOvaEasy Boil-in-Bag Egg Mix, Butter Flavor\u201d with the lot code \u201cC0513-A\u201d", "3.06-lb. bags of \u201cOvaEasy Boil-in-Bag Egg Mix, Butter Flavor\u201d with the Julian dates \u201c3074\u201d and \u201c3075\u201d"], "quantity_recovered": 31804, "quantity_unit": "pounds", "states": null}
+{
+  "id": "015-2014",
+  "title": "Washington Firm Recalls Dried Egg Products Due to Possible Salmonella Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/washington-firm-recalls-dried-egg-products-due-possible-salmonella-contamination-0",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2014-02-15",
+  "end_date": "2016-11-10",
+  "summary": "Editor's Note: This release has been updated to correct the Julian dates i2623\u201d and i2633\u201d from the 4.5-oz. packs of iOvaEasy Plain Whole Egg\u201d to the 1.75 oz. packs of iOvaEasy Plain Whole Egg.\u201d WASHINGTON, Feb. 15, 2014 Nutriom LLC, a Lacey, Wash., establishment, is...\n",
+  "establishment": null,
+  "impacted_products": [
+    "1,383-lb. super sack of \u201cOvaEasy Boil-in-Bag Egg Mix, Butter Flavor\u201d with the lot code \u201cC0513-A\u201d",
+    "3.06-lb. bags of \u201cOvaEasy Boil-in-Bag Egg Mix, Butter Flavor\u201d with the Julian dates \u201c3074\u201d and \u201c3075\u201d"
+  ],
+  "quantity_recovered": 31804,
+  "quantity_unit": "pounds",
+  "states": null
+}

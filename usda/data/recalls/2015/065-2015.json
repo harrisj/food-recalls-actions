@@ -1,1 +1,18 @@
-{"id": "065-2015", "title": "Recall Notification Report 065-2015 (Turkey and Beef)", "url": "https://www.fsis.usda.gov/recalls-alerts/recall-notification-report-065-2015-turkey-and-beef", "reasons": [], "status": "Closed", "risk_level": null, "start_date": "2015-04-20", "end_date": "2016-06-08", "summary": "WASHINGTON, April 20, 2015 Michigan Brand, Inc., a Bay City, Mich. establishment, is recalling approximately 737 pounds of turkey and beef products due to misbranding, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products contain sodium nitrite, which is...", "establishment": null, "impacted_products": [], "quantity_recovered": 107, "quantity_unit": "pounds", "states": ["Michigan"]}
+{
+  "id": "065-2015",
+  "title": "Recall Notification Report 065-2015 (Turkey and Beef)",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/recall-notification-report-065-2015-turkey-and-beef",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": null,
+  "start_date": "2015-04-20",
+  "end_date": "2016-06-08",
+  "summary": "WASHINGTON, April 20, 2015 Michigan Brand, Inc., a Bay City, Mich. establishment, is recalling approximately 737 pounds of turkey and beef products due to misbranding, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products contain sodium nitrite, which is...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 107,
+  "quantity_unit": "pounds",
+  "states": [
+    "Michigan"
+  ]
+}

@@ -1,1 +1,23 @@
-{"id": "008-2010", "title": "Missouri Firm Recalls Fresh Boneless Beef Products Due to Possible E. coli O157:H7 Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/missouri-firm-recalls-fresh-boneless-beef-products-due-possible-e.-coli-o157h7", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2010-02-02", "end_date": "2012-06-03", "summary": "WASHINGTON, February 2, 2010 - West Missouri Beef, LLC, a Rockville, Mo., establishment, is recalling approximately 14,000 pounds of fresh boneless beef products that may be contaminated with E. coli O157:H7, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The...\n", "establishment": null, "impacted_products": ["One combo bin containing approximately 2,000 pounds of fresh boneless beef identified as \"75 1-M,\" produced on October 26, 2009.", "One combo bin containing approximately 2,000 pounds of fresh boneless beef identified as \"90 3-D,\" produced on November 25, 2009."], "quantity_recovered": 11557, "quantity_unit": "pounds", "states": ["Illinois"]}
+{
+  "id": "008-2010",
+  "title": "Missouri Firm Recalls Fresh Boneless Beef Products Due to Possible E. coli O157:H7 Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/missouri-firm-recalls-fresh-boneless-beef-products-due-possible-e.-coli-o157h7",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2010-02-02",
+  "end_date": "2012-06-03",
+  "summary": "WASHINGTON, February 2, 2010 - West Missouri Beef, LLC, a Rockville, Mo., establishment, is recalling approximately 14,000 pounds of fresh boneless beef products that may be contaminated with E. coli O157:H7, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The...\n",
+  "establishment": null,
+  "impacted_products": [
+    "One combo bin containing approximately 2,000 pounds of fresh boneless beef identified as \"75 1-M,\" produced on October 26, 2009.",
+    "One combo bin containing approximately 2,000 pounds of fresh boneless beef identified as \"90 3-D,\" produced on November 25, 2009."
+  ],
+  "quantity_recovered": 11557,
+  "quantity_unit": "pounds",
+  "states": [
+    "Illinois"
+  ]
+}

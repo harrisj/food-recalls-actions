@@ -1,1 +1,36 @@
-{"id": "050-2013", "title": "California Firm Recalls Calzone Products Due To Misbranding And Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-calzone-products-due-misbranding-and-undeclared-allergen", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2013-09-06", "end_date": "2015-03-24", "summary": "WASHINGTON, Sept. 6, 2013 Galant Food Company, a San Leandro, Calif. establishment is recalling approximately 1,650 pounds of fresh or frozen calzone products because of misbranding and an undeclared allergen. The products are formulated with an egg wash glaze that contains egg, a known allergen...\n", "establishment": {"id": "M9014+P9014", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/galant-food-company", "slug": "galant-food-company", "name": "Galant Food Company", "address": "735 Fremont Avenue \n  San Leandro, CA 94577", "telephone": "(510) 614-7150", "grant_date": "2013-05-07", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["10-ounce packages, in 7.5 pound cases, of \u201cENZO\u2019S Italian Combo Calzone\u201d bearing the establishment number \u201cEST. 9014\u201d inside the USDA mark of inspection on the label. Identifying case codes are: 7163, 7173, 7183, 7223, 7253, 8143, 8303 and 9043.", "10-ounce packages, in 7.5 pound cases, of \u201cENZO\u2019S Chicken Fajita Calzone\u201d bearing the establishment number \u201cP-9014\u201d inside the USDA mark of inspection on the label. Identifying case codes are:  7163, 7173, 7183, 7223, 8133 and 9043."], "quantity_recovered": 390, "quantity_unit": "pounds", "states": ["California"]}
+{
+  "id": "050-2013",
+  "title": "California Firm Recalls Calzone Products Due To Misbranding And Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-calzone-products-due-misbranding-and-undeclared-allergen",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2013-09-06",
+  "end_date": "2015-03-24",
+  "summary": "WASHINGTON, Sept. 6, 2013 Galant Food Company, a San Leandro, Calif. establishment is recalling approximately 1,650 pounds of fresh or frozen calzone products because of misbranding and an undeclared allergen. The products are formulated with an egg wash glaze that contains egg, a known allergen...\n",
+  "establishment": {
+    "id": "M9014+P9014",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/galant-food-company",
+    "slug": "galant-food-company",
+    "name": "Galant Food Company",
+    "address": "735 Fremont Avenue \n  San Leandro, CA 94577",
+    "telephone": "(510) 614-7150",
+    "grant_date": "2013-05-07",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "10-ounce packages, in 7.5 pound cases, of \u201cENZO\u2019S Italian Combo Calzone\u201d bearing the establishment number \u201cEST. 9014\u201d inside the USDA mark of inspection on the label. Identifying case codes are: 7163, 7173, 7183, 7223, 7253, 8143, 8303 and 9043.",
+    "10-ounce packages, in 7.5 pound cases, of \u201cENZO\u2019S Chicken Fajita Calzone\u201d bearing the establishment number \u201cP-9014\u201d inside the USDA mark of inspection on the label. Identifying case codes are:  7163, 7173, 7183, 7223, 8133 and 9043."
+  ],
+  "quantity_recovered": 390,
+  "quantity_unit": "pounds",
+  "states": [
+    "California"
+  ]
+}

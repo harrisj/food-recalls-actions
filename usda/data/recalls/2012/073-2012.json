@@ -1,1 +1,23 @@
-{"id": "073-2012", "title": "Wisconsin Firm Recalls Beef Tongues That May Contain Specified Risk Materials", "url": "https://www.fsis.usda.gov/recalls-alerts/wisconsin-firm-recalls-beef-tongues-may-contain-specified-risk-materials", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "Low", "start_date": "2012-11-09", "end_date": "2013-06-01", "summary": "WASHINGTON, Nov. 9, 2012 - Black Earth Meat Market Inc., a Black Earth, Wis. establishment, is recalling approximately 99 pounds of beef tongue products because they may not have had the tonsils completely removed, which is not compliant with regulations that require the removal of...\n", "establishment": null, "impacted_products": ["Various size cases of Black Earth Meats Natural Beef Tongues and Black Earth Meats Local Beef Tongues produced on October 8, 11, 17 and 18, 2012."], "quantity_recovered": 48, "quantity_unit": "pounds", "states": ["Wisconsin", "Illinois"]}
+{
+  "id": "073-2012",
+  "title": "Wisconsin Firm Recalls Beef Tongues That May Contain Specified Risk Materials",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/wisconsin-firm-recalls-beef-tongues-may-contain-specified-risk-materials",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2012-11-09",
+  "end_date": "2013-06-01",
+  "summary": "WASHINGTON, Nov. 9, 2012 - Black Earth Meat Market Inc., a Black Earth, Wis. establishment, is recalling approximately 99 pounds of beef tongue products because they may not have had the tonsils completely removed, which is not compliant with regulations that require the removal of...\n",
+  "establishment": null,
+  "impacted_products": [
+    "Various size cases of Black Earth Meats Natural Beef Tongues and Black Earth Meats Local Beef Tongues produced on October 8, 11, 17 and 18, 2012."
+  ],
+  "quantity_recovered": 48,
+  "quantity_unit": "pounds",
+  "states": [
+    "Wisconsin",
+    "Illinois"
+  ]
+}

@@ -1,1 +1,24 @@
-{"id": "023-2016", "title": "Perdue Foods LLC, Recalls Chicken Nugget Products Due To Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/perdue-foods-llc-recalls-chicken-nugget-products-due-possible-foreign-matter", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2016-03-05", "end_date": "2016-05-25", "summary": "WASHINGTON, March 5, 2016 Perdue Foods LLC, a Gainesville, Ga. establishment, is recalling approximately 4,530 pounds of chicken nugget products (produced for Applegate Farms) that may be contaminated with extraneous plastic materials, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today.The...", "establishment": null, "impacted_products": [], "quantity_recovered": 0, "quantity_unit": "pounds", "states": ["Florida", "Georgia", "Indiana", "Massachusetts", "New York", "Pennsylvania", "Texas"]}
+{
+  "id": "023-2016",
+  "title": "Perdue Foods LLC, Recalls Chicken Nugget Products Due To Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/perdue-foods-llc-recalls-chicken-nugget-products-due-possible-foreign-matter",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2016-03-05",
+  "end_date": "2016-05-25",
+  "summary": "WASHINGTON, March 5, 2016 Perdue Foods LLC, a Gainesville, Ga. establishment, is recalling approximately 4,530 pounds of chicken nugget products (produced for Applegate Farms) that may be contaminated with extraneous plastic materials, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today.The...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": [
+    "Florida",
+    "Georgia",
+    "Indiana",
+    "Massachusetts",
+    "New York",
+    "Pennsylvania",
+    "Texas"
+  ]
+}

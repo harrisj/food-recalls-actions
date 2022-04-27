@@ -1,1 +1,34 @@
-{"id": "109-2018", "title": "Ganaderos Borges, Inc. Recalls Pork Products due to Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/ganaderos-borges-inc.-recalls-pork-products-due-possible-foreign-matter", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2018-11-06", "end_date": "2019-09-19", "summary": "WASHINGTON, Nov. 6, 2018 Ganaderos Borges, Inc., a Naguabo, P.R. establishment, is recalling approximately 14,760 pounds of pork patty products that may be contaminated with extraneous materials, specifically metal, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The raw pork...", "establishment": {"id": "M32170+P32170", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/ganaderos-borges-inc", "slug": "ganaderos-borges-inc", "name": "Ganaderos Borges Inc.", "address": "Barrio Hucares \n  Naguabo, PR 718", "telephone": "(787) 874-6060", "grant_date": "2020-10-21", "activities": ["Meat Processing", "Meat Slaughter", "Poultry Processing", "Poultry Slaughter"]}, "impacted_products": [], "quantity_recovered": 261, "quantity_unit": "pounds", "states": ["Puerto Rico"]}
+{
+  "id": "109-2018",
+  "title": "Ganaderos Borges, Inc. Recalls Pork Products due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/ganaderos-borges-inc.-recalls-pork-products-due-possible-foreign-matter",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2018-11-06",
+  "end_date": "2019-09-19",
+  "summary": "WASHINGTON, Nov. 6, 2018 Ganaderos Borges, Inc., a Naguabo, P.R. establishment, is recalling approximately 14,760 pounds of pork patty products that may be contaminated with extraneous materials, specifically metal, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The raw pork...",
+  "establishment": {
+    "id": "M32170+P32170",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/ganaderos-borges-inc",
+    "slug": "ganaderos-borges-inc",
+    "name": "Ganaderos Borges Inc.",
+    "address": "Barrio Hucares \n  Naguabo, PR 718",
+    "telephone": "(787) 874-6060",
+    "grant_date": "2020-10-21",
+    "activities": [
+      "Meat Processing",
+      "Meat Slaughter",
+      "Poultry Processing",
+      "Poultry Slaughter"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 261,
+  "quantity_unit": "pounds",
+  "states": [
+    "Puerto Rico"
+  ]
+}

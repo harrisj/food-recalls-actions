@@ -1,1 +1,32 @@
-{"id": "031-2015", "title": "California Firm Recalls Beef Products Produced Without Benefit of Import Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-beef-products-produced-without-benefit-import-inspection", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2015-02-13", "end_date": "2016-06-08", "summary": "WASHINGTON, Feb. 13, 2015 ATM International USA, Inc., a Torrance, Calif. establishment, is recalling approximately 1,999 pounds of boneless beef products that were not presented at the U.S. point of entry for inspection, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced...", "establishment": {"id": "M27510+P27510", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/atm-international-usa-inc", "slug": "atm-international-usa-inc", "name": "ATM International USA, Inc.", "address": "3420 Kashiwa \n  Torrance, CA 90505", "telephone": "(310) 325-1710", "grant_date": "2014-09-11", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": 1999, "quantity_unit": "pounds", "states": ["Arizona", "California", "Washington"]}
+{
+  "id": "031-2015",
+  "title": "California Firm Recalls Beef Products Produced Without Benefit of Import Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-beef-products-produced-without-benefit-import-inspection",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2015-02-13",
+  "end_date": "2016-06-08",
+  "summary": "WASHINGTON, Feb. 13, 2015 ATM International USA, Inc., a Torrance, Calif. establishment, is recalling approximately 1,999 pounds of boneless beef products that were not presented at the U.S. point of entry for inspection, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced...",
+  "establishment": {
+    "id": "M27510+P27510",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/atm-international-usa-inc",
+    "slug": "atm-international-usa-inc",
+    "name": "ATM International USA, Inc.",
+    "address": "3420 Kashiwa \n  Torrance, CA 90505",
+    "telephone": "(310) 325-1710",
+    "grant_date": "2014-09-11",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 1999,
+  "quantity_unit": "pounds",
+  "states": [
+    "Arizona",
+    "California",
+    "Washington"
+  ]
+}

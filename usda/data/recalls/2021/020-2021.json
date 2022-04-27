@@ -1,1 +1,24 @@
-{"id": "020-2021", "title": "Otten's Seafood Inc. Recalls Siluriformes Fish Products Produced Without Benefit of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/ottens-seafood-inc.-recalls-siluriformes-fish-products-produced-without-benefit", "reasons": ["Produced Without Benefit of Inspection"], "status": "Closed", "risk_level": "High", "start_date": "2021-05-22", "end_date": "2022-03-17", "summary": "WASHINGTON, May 22, 2021 \u2013 Otten\u2019s Seafood Inc., a Tinley Park, Ill. establishment, is recalling approximately 46,804 pounds of Siluriformes fish (catfish) because the products were produced, packed, and distributed without the benefit of federal inspection, the U.S. Department of Agriculture\u2019s Food Safety and Inspection...", "establishment": null, "impacted_products": ["30-lb. plastic bags and cardboard boxes containing \u201cIQF Frozen Catfish Steaks Net Weight 30.00 LB\u201d and have a shelf-life of one year.", "30-lb. plastic bags and cardboard boxes containing \u201c40 + Oz Fresh Catfish Whole Net Weight 30.00 LB\u201d and have a shelf-life of one week if not frozen."], "quantity_recovered": 4140, "quantity_unit": "pounds", "states": ["Illinois", "Indiana"]}
+{
+  "id": "020-2021",
+  "title": "Otten's Seafood Inc. Recalls Siluriformes Fish Products Produced Without Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/ottens-seafood-inc.-recalls-siluriformes-fish-products-produced-without-benefit",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2021-05-22",
+  "end_date": "2022-03-17",
+  "summary": "WASHINGTON, May 22, 2021 \u2013 Otten\u2019s Seafood Inc., a Tinley Park, Ill. establishment, is recalling approximately 46,804 pounds of Siluriformes fish (catfish) because the products were produced, packed, and distributed without the benefit of federal inspection, the U.S. Department of Agriculture\u2019s Food Safety and Inspection...",
+  "establishment": null,
+  "impacted_products": [
+    "30-lb. plastic bags and cardboard boxes containing \u201cIQF Frozen Catfish Steaks Net Weight 30.00 LB\u201d and have a shelf-life of one year.",
+    "30-lb. plastic bags and cardboard boxes containing \u201c40 + Oz Fresh Catfish Whole Net Weight 30.00 LB\u201d and have a shelf-life of one week if not frozen."
+  ],
+  "quantity_recovered": 4140,
+  "quantity_unit": "pounds",
+  "states": [
+    "Illinois",
+    "Indiana"
+  ]
+}

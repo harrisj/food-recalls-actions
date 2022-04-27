@@ -1,1 +1,39 @@
-{"id": "087-2011", "title": "Recall Notification Report", "url": "https://www.fsis.usda.gov/recalls-alerts/recall-notification-report-24", "reasons": ["Misbranding"], "status": "Closed", "risk_level": "Low", "start_date": "2011-10-27", "end_date": "2012-06-03", "summary": "WASHINGTON, Oct. 27, 2011 - Original Fried Pies, Inc., a Davis, Okla., establishment, is recalling approximately 8,888 pounds of frozen meat and poultry pie products, the U.S. Department of Agriculture's (USDA) Food Safety and Inspection Service (FSIS) announced today because they are misbranded and contain...\n", "establishment": {"id": "M33883+P33883", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/original-fried-pies", "slug": "original-fried-pies", "name": "Original Fried Pies", "address": "I-35 at Hwy 77, Exit 51 \n  Davis, OK 73030", "telephone": "(580) 369-7830", "grant_date": "2012-03-15", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["4-pound sealed bags of \"CHEESE SAUCE WITH EGG & SAUSAGE.\""], "quantity_recovered": 2840, "quantity_unit": "pounds", "states": ["Arkansas", "Colorado", "Mississippi", "Missouri", "Oklahoma", "Texas"]}
+{
+  "id": "087-2011",
+  "title": "Recall Notification Report",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/recall-notification-report-24",
+  "reasons": [
+    "Misbranding"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2011-10-27",
+  "end_date": "2012-06-03",
+  "summary": "WASHINGTON, Oct. 27, 2011 - Original Fried Pies, Inc., a Davis, Okla., establishment, is recalling approximately 8,888 pounds of frozen meat and poultry pie products, the U.S. Department of Agriculture's (USDA) Food Safety and Inspection Service (FSIS) announced today because they are misbranded and contain...\n",
+  "establishment": {
+    "id": "M33883+P33883",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/original-fried-pies",
+    "slug": "original-fried-pies",
+    "name": "Original Fried Pies",
+    "address": "I-35 at Hwy 77, Exit 51 \n  Davis, OK 73030",
+    "telephone": "(580) 369-7830",
+    "grant_date": "2012-03-15",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "4-pound sealed bags of \"CHEESE SAUCE WITH EGG & SAUSAGE.\""
+  ],
+  "quantity_recovered": 2840,
+  "quantity_unit": "pounds",
+  "states": [
+    "Arkansas",
+    "Colorado",
+    "Mississippi",
+    "Missouri",
+    "Oklahoma",
+    "Texas"
+  ]
+}

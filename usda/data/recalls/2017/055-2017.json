@@ -1,1 +1,39 @@
-{"id": "055-2017", "title": "Golden Gourmet Recalls Frozen Waffle and Turkey Sausage Products Due to Possible Listeria Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/golden-gourmet-recalls-frozen-waffle-and-turkey-sausage-products-due-possible", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2017-05-25", "end_date": "2017-07-20", "summary": "WASHINGTON, May 25, 2017 Golden Gourmet, an Americus, Ga. establishment, is recalling approximately 5,248 pounds of frozen entree products that may be adulterated with Listeria monocytogenes, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The frozen waffles with turkey sausage...\n", "establishment": {"id": "M51269+P51269", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/golden-gourmet-llc", "slug": "golden-gourmet-llc", "name": "Golden Gourmet, LLC", "address": "107 Industrial Blvd. \n  Americus, GA 31719", "telephone": "(229) 389-2392", "grant_date": "2019-09-16", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["5,248 lbs. of 7.1 oz. trays with clear film in cardboard box packages containing \u201cWaffles, Turkey Sausage Patty with Sliced Apple Seasoned w/Brown Sugar and Cinnamon\u201d on the label, lot codes of  \u201c2016355,\u201d \u201c2016363,\u201d \u201c2016364\u201d and \u201c2016362,\u201d and Use By da"], "quantity_recovered": 6158, "quantity_unit": "pounds", "states": ["Georgia", "Illinois", "Iowa", "Ohio", "South Carolina", "Tennessee"]}
+{
+  "id": "055-2017",
+  "title": "Golden Gourmet Recalls Frozen Waffle and Turkey Sausage Products Due to Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/golden-gourmet-recalls-frozen-waffle-and-turkey-sausage-products-due-possible",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2017-05-25",
+  "end_date": "2017-07-20",
+  "summary": "WASHINGTON, May 25, 2017 Golden Gourmet, an Americus, Ga. establishment, is recalling approximately 5,248 pounds of frozen entree products that may be adulterated with Listeria monocytogenes, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The frozen waffles with turkey sausage...\n",
+  "establishment": {
+    "id": "M51269+P51269",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/golden-gourmet-llc",
+    "slug": "golden-gourmet-llc",
+    "name": "Golden Gourmet, LLC",
+    "address": "107 Industrial Blvd. \n  Americus, GA 31719",
+    "telephone": "(229) 389-2392",
+    "grant_date": "2019-09-16",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "5,248 lbs. of 7.1 oz. trays with clear film in cardboard box packages containing \u201cWaffles, Turkey Sausage Patty with Sliced Apple Seasoned w/Brown Sugar and Cinnamon\u201d on the label, lot codes of  \u201c2016355,\u201d \u201c2016363,\u201d \u201c2016364\u201d and \u201c2016362,\u201d and Use By da"
+  ],
+  "quantity_recovered": 6158,
+  "quantity_unit": "pounds",
+  "states": [
+    "Georgia",
+    "Illinois",
+    "Iowa",
+    "Ohio",
+    "South Carolina",
+    "Tennessee"
+  ]
+}

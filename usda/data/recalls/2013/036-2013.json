@@ -1,1 +1,41 @@
-{"id": "036-2013", "title": "California Firm Recalls Ready-To-Eat Grilled Chicken Strips Due To Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-ready-eat-grilled-chicken-strips-due-misbranding-and", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "Low", "start_date": "2013-05-21", "end_date": "2018-05-10", "summary": "WASHINGTON, May 21, 2013 Foster Farms, a Porterville, Calif. establishment, is recalling approximately 6,165 pounds of ready-to-eat grilled chicken breast strips that contain wheat and soy, known allergens, which are not declared on the product label, the U.S. Department of Agriculture's Food Safety and Inspection...\n", "establishment": {"id": "M20923+P20923", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/foster-farms-8", "slug": "foster-farms-8", "name": "Foster Farms", "address": "770 North Plano Rd \n  Porterville, CA 93257", "telephone": "(559) 793-5501", "grant_date": "2010-04-15", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["4.5 lb. cases containing 12, 6-oz. trays of \"FOSTER FARMS GRILLED CHICKEN BREAST STRIPS BONELESS & SKINLESS WITH RIB MEAT 97% FAT FREE,\" with an identifying case code of \"000606.\""], "quantity_recovered": 902, "quantity_unit": "pounds", "states": ["Arizona", "California", "Hawaii", "Nevada", "Oregon", "Utah", "Washington"]}
+{
+  "id": "036-2013",
+  "title": "California Firm Recalls Ready-To-Eat Grilled Chicken Strips Due To Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-ready-eat-grilled-chicken-strips-due-misbranding-and",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2013-05-21",
+  "end_date": "2018-05-10",
+  "summary": "WASHINGTON, May 21, 2013 Foster Farms, a Porterville, Calif. establishment, is recalling approximately 6,165 pounds of ready-to-eat grilled chicken breast strips that contain wheat and soy, known allergens, which are not declared on the product label, the U.S. Department of Agriculture's Food Safety and Inspection...\n",
+  "establishment": {
+    "id": "M20923+P20923",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/foster-farms-8",
+    "slug": "foster-farms-8",
+    "name": "Foster Farms",
+    "address": "770 North Plano Rd \n  Porterville, CA 93257",
+    "telephone": "(559) 793-5501",
+    "grant_date": "2010-04-15",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "4.5 lb. cases containing 12, 6-oz. trays of \"FOSTER FARMS GRILLED CHICKEN BREAST STRIPS BONELESS & SKINLESS WITH RIB MEAT 97% FAT FREE,\" with an identifying case code of \"000606.\""
+  ],
+  "quantity_recovered": 902,
+  "quantity_unit": "pounds",
+  "states": [
+    "Arizona",
+    "California",
+    "Hawaii",
+    "Nevada",
+    "Oregon",
+    "Utah",
+    "Washington"
+  ]
+}

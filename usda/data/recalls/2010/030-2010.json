@@ -1,1 +1,35 @@
-{"id": "030-2010", "title": "Massachusetts Firm Recalls Buffalo Style Chicken Salad Products That May Contain Foreign Materials", "url": "https://www.fsis.usda.gov/recalls-alerts/massachusetts-firm-recalls-buffalo-style-chicken-salad-products-may-contain-foreign", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "Low", "start_date": "2010-05-05", "end_date": "2012-06-03", "summary": "Editor's Note, May 11, 2010: The recall release issued May 5, 2010 has been corrected, as it inadvertently stated that \"the retail distribution list(s) will be posted on the FSIS Web site.\" FSIS does not post retail distribution lists for Class II and III recalls...\n", "establishment": {"id": "M17999+P17999", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/boston-salads-and-provisions-company-inc", "slug": "boston-salads-and-provisions-company-inc", "name": "Boston Salads and Provisions Company Inc.", "address": "24 Chesterton Street \n  Boston, MA 2119", "telephone": "(617) 541-9046", "grant_date": "2011-07-08", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["5-pound containers of \"BOSTON SALADS BUFFALO STYLE CHICKEN SALAD.\""], "quantity_recovered": 6, "quantity_unit": "pounds", "states": ["Maine", "Massachusetts"]}
+{
+  "id": "030-2010",
+  "title": "Massachusetts Firm Recalls Buffalo Style Chicken Salad Products That May Contain Foreign Materials",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/massachusetts-firm-recalls-buffalo-style-chicken-salad-products-may-contain-foreign",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2010-05-05",
+  "end_date": "2012-06-03",
+  "summary": "Editor's Note, May 11, 2010: The recall release issued May 5, 2010 has been corrected, as it inadvertently stated that \"the retail distribution list(s) will be posted on the FSIS Web site.\" FSIS does not post retail distribution lists for Class II and III recalls...\n",
+  "establishment": {
+    "id": "M17999+P17999",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/boston-salads-and-provisions-company-inc",
+    "slug": "boston-salads-and-provisions-company-inc",
+    "name": "Boston Salads and Provisions Company Inc.",
+    "address": "24 Chesterton Street \n  Boston, MA 2119",
+    "telephone": "(617) 541-9046",
+    "grant_date": "2011-07-08",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "5-pound containers of \"BOSTON SALADS BUFFALO STYLE CHICKEN SALAD.\""
+  ],
+  "quantity_recovered": 6,
+  "quantity_unit": "pounds",
+  "states": [
+    "Maine",
+    "Massachusetts"
+  ]
+}

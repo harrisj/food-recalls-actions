@@ -1,1 +1,24 @@
-{"id": "066-2011", "title": "Recall Notification Report", "url": "https://www.fsis.usda.gov/recalls-alerts/recall-notification-report-23", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "Low", "start_date": "2011-08-19", "end_date": "2012-06-03", "summary": "WASHINGTON, August 19, 2011 - Vantage Foods, a Lenoir, N.C. establishment is recalling approximately 1,642 pounds of ground beef products that may contain foreign material, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The product subject to recall is: 2-pound...\n", "establishment": null, "impacted_products": ["2-pound trays of LOWE'S FOODS fresh ground beef 93/7with establishment number \"EST. 34176\" inside the USDA mark of inspection and a sell by date of 8/29/11 on the label."], "quantity_recovered": 5459, "quantity_unit": "pounds", "states": ["North Carolina", "South Carolina", "Virginia"]}
+{
+  "id": "066-2011",
+  "title": "Recall Notification Report",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/recall-notification-report-23",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2011-08-19",
+  "end_date": "2012-06-03",
+  "summary": "WASHINGTON, August 19, 2011 - Vantage Foods, a Lenoir, N.C. establishment is recalling approximately 1,642 pounds of ground beef products that may contain foreign material, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The product subject to recall is: 2-pound...\n",
+  "establishment": null,
+  "impacted_products": [
+    "2-pound trays of LOWE'S FOODS fresh ground beef 93/7with establishment number \"EST. 34176\" inside the USDA mark of inspection and a sell by date of 8/29/11 on the label."
+  ],
+  "quantity_recovered": 5459,
+  "quantity_unit": "pounds",
+  "states": [
+    "North Carolina",
+    "South Carolina",
+    "Virginia"
+  ]
+}

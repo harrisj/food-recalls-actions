@@ -1,1 +1,32 @@
-{"id": "120-2018", "title": "CTI Foods LLC, Recalls Ready-To-Eat Pork and Poultry Sausage Products due to Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/cti-foods-llc-recalls-ready-eat-pork-and-poultry-sausage-products-due-possible", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2018-12-10", "end_date": "2020-02-14", "summary": "WASHINGTON, Dec. 10, 2018 CTI Foods LLC, an Owingsville, Ky. establishment, is recalling approximately 29,028 pounds of frozen, ready-to-eat (RTE) pork and poultry sausage links products that may be contaminated with extraneous materials, specifically pieces of metal, the U.S. Department of Agricultures Food Safety and...", "establishment": {"id": "M19085+P19085", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/cti-foods-llc-0", "slug": "cti-foods-llc-0", "name": "CTI Foods LLC.", "address": "59 Custom Food Drive \n  Owingsville, KY 40360", "telephone": "(606) 674-6772", "grant_date": "2019-07-16", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": 7207, "quantity_unit": "pounds", "states": ["Tennessee"]}
+{
+  "id": "120-2018",
+  "title": "CTI Foods LLC, Recalls Ready-To-Eat Pork and Poultry Sausage Products due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/cti-foods-llc-recalls-ready-eat-pork-and-poultry-sausage-products-due-possible",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2018-12-10",
+  "end_date": "2020-02-14",
+  "summary": "WASHINGTON, Dec. 10, 2018 CTI Foods LLC, an Owingsville, Ky. establishment, is recalling approximately 29,028 pounds of frozen, ready-to-eat (RTE) pork and poultry sausage links products that may be contaminated with extraneous materials, specifically pieces of metal, the U.S. Department of Agricultures Food Safety and...",
+  "establishment": {
+    "id": "M19085+P19085",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/cti-foods-llc-0",
+    "slug": "cti-foods-llc-0",
+    "name": "CTI Foods LLC.",
+    "address": "59 Custom Food Drive \n  Owingsville, KY 40360",
+    "telephone": "(606) 674-6772",
+    "grant_date": "2019-07-16",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 7207,
+  "quantity_unit": "pounds",
+  "states": [
+    "Tennessee"
+  ]
+}

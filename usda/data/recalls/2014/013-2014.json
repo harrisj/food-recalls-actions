@@ -1,1 +1,34 @@
-{"id": "013-2014", "title": "California Firm Recalls Unwholesome Meat Products Produced Without the Benefit of Full Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-unwholesome-meat-products-produced-without-benefit-full-0", "reasons": ["Produced Without Benefit of Inspection"], "status": "Active", "risk_level": "High", "start_date": "2014-02-14", "end_date": null, "summary": "EDITOR'S NOTE: FSIS has updated the recall release issued on Feb. 8, 2014 to reflect that beef products associated with recall 13 were shipped to distribution centers and retail establishments in California, Florida, Illinois, Oregon, Texas and Washington. FSIS continues to update the distribution list...\n", "establishment": null, "impacted_products": ["\"Beef Carcasses\u201d (wholesale and custom sales only)", "2 per box \"Beef (Market) Heads\" (retail only)"], "quantity_recovered": null, "quantity_unit": null, "states": ["California", "Florida", "Illinois", "Oregon", "Texas", "Washington", "California", "Florida", "Illinois", "Oregon", "Texas", "Washington"]}
+{
+  "id": "013-2014",
+  "title": "California Firm Recalls Unwholesome Meat Products Produced Without the Benefit of Full Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-unwholesome-meat-products-produced-without-benefit-full-0",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2014-02-14",
+  "end_date": null,
+  "summary": "EDITOR'S NOTE: FSIS has updated the recall release issued on Feb. 8, 2014 to reflect that beef products associated with recall 13 were shipped to distribution centers and retail establishments in California, Florida, Illinois, Oregon, Texas and Washington. FSIS continues to update the distribution list...\n",
+  "establishment": null,
+  "impacted_products": [
+    "\"Beef Carcasses\u201d (wholesale and custom sales only)",
+    "2 per box \"Beef (Market) Heads\" (retail only)"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "California",
+    "Florida",
+    "Illinois",
+    "Oregon",
+    "Texas",
+    "Washington",
+    "California",
+    "Florida",
+    "Illinois",
+    "Oregon",
+    "Texas",
+    "Washington"
+  ]
+}

@@ -1,1 +1,16 @@
-{"id": "072-2015", "title": "Ohanyan's Bastirma and Soujouk, Co. Recalls Sausage Products Due To Misbranding and an Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/ohanyans-bastirma-and-soujouk-co.-recalls-sausage-products-due-misbranding-and", "reasons": [], "status": "Closed", "risk_level": "Low", "start_date": "2015-04-30", "end_date": "2016-06-08", "summary": "WASHINGTON, April 30, 2015 Ohanyans Bastirma & Soujouk Co., a Fresno, Calif. establishment, is recalling approximately 159,291 pounds of sausage products due to misbranding and an undeclared allergen, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product contains soy...", "establishment": null, "impacted_products": [], "quantity_recovered": 1176, "quantity_unit": "pounds", "states": null}
+{
+  "id": "072-2015",
+  "title": "Ohanyan's Bastirma and Soujouk, Co. Recalls Sausage Products Due To Misbranding and an Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/ohanyans-bastirma-and-soujouk-co.-recalls-sausage-products-due-misbranding-and",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2015-04-30",
+  "end_date": "2016-06-08",
+  "summary": "WASHINGTON, April 30, 2015 Ohanyans Bastirma & Soujouk Co., a Fresno, Calif. establishment, is recalling approximately 159,291 pounds of sausage products due to misbranding and an undeclared allergen, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product contains soy...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 1176,
+  "quantity_unit": "pounds",
+  "states": null
+}

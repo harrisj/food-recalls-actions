@@ -1,1 +1,30 @@
-{"id": "055-2013-EXP2", "title": "Wisconsin Firm Recalls Ready-To-Eat Chicken And Ham Products Due To Potential Listeria Monocytogenes Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/wisconsin-firm-recalls-ready-eat-chicken-and-ham-products-due-potential-listeria", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2013-10-25", "end_date": "2015-10-29", "summary": "EDITOR'S NOTE: This release is being reissued to reflect an additional 103,080 pounds of products produced on dates not included in the Sept. 25, 2013 release and the Oct. 17 expansion. WASHINGTON, Oct. 25, 2013 Garden Fresh Foods, a Milwaukee, WI. establishment, is recalling approximately...\n", "establishment": {"id": "M17256+P17256", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/garden-fresh-foods-inc", "slug": "garden-fresh-foods-inc", "name": "Garden Fresh Foods, Inc.", "address": "726 S. 12th Street \n  Milwaukee, WI 53204", "telephone": "(414) 645-1000", "grant_date": "2004-11-15", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": 107206, "quantity_unit": "pounds", "states": null}
+{
+  "id": "055-2013-EXP2",
+  "title": "Wisconsin Firm Recalls Ready-To-Eat Chicken And Ham Products Due To Potential Listeria Monocytogenes Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/wisconsin-firm-recalls-ready-eat-chicken-and-ham-products-due-potential-listeria",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2013-10-25",
+  "end_date": "2015-10-29",
+  "summary": "EDITOR'S NOTE: This release is being reissued to reflect an additional 103,080 pounds of products produced on dates not included in the Sept. 25, 2013 release and the Oct. 17 expansion. WASHINGTON, Oct. 25, 2013 Garden Fresh Foods, a Milwaukee, WI. establishment, is recalling approximately...\n",
+  "establishment": {
+    "id": "M17256+P17256",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/garden-fresh-foods-inc",
+    "slug": "garden-fresh-foods-inc",
+    "name": "Garden Fresh Foods, Inc.",
+    "address": "726 S. 12th Street \n  Milwaukee, WI 53204",
+    "telephone": "(414) 645-1000",
+    "grant_date": "2004-11-15",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 107206,
+  "quantity_unit": "pounds",
+  "states": null
+}

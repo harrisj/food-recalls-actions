@@ -1,1 +1,39 @@
-{"id": "009-2011", "title": "Alabama Firm Recalls Barbecue Pork Products Due To Mislabeling and an Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/alabama-firm-recalls-barbecue-pork-products-due-mislabeling-and-undeclared-allergen", "reasons": ["Unreported Allergens", "Mislabeling"], "status": "Closed", "risk_level": "High", "start_date": "2011-02-09", "end_date": "2012-06-02", "summary": "WASHINGTON, Feb. 9, 2011 - Simmons' Barbecue, Inc. a Guntersville, Ala., establishment is recalling approximately 4,680 pounds of barbecue pork products because they contain an undeclared allergen, whey, which is not declared on the label. Whey is a known allergen. The products subject to recall...\n", "establishment": {"id": "M19523+P19523", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/simmons-barbecue-inc", "slug": "simmons-barbecue-inc", "name": "Simmons' Barbecue Inc", "address": "2200 Gilbreath Street \n  Guntersville, AL 35976", "telephone": "(256) 582-7675", "grant_date": "1996-02-29", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["5-lb. vacuum sealed packages of \"Simmons' BARBECUE, INC. Bar-be-cue Pork With Sauce\"", "5-lb. vacuum sealed packages of \"Simmons' BARBECUE, INC. Bar-be-cue Pork With Thick Sauce.\""], "quantity_recovered": null, "quantity_unit": null, "states": ["Alabama", "Georgia", "Tennessee", "Mississippi"]}
+{
+  "id": "009-2011",
+  "title": "Alabama Firm Recalls Barbecue Pork Products Due To Mislabeling and an Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/alabama-firm-recalls-barbecue-pork-products-due-mislabeling-and-undeclared-allergen",
+  "reasons": [
+    "Unreported Allergens",
+    "Mislabeling"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2011-02-09",
+  "end_date": "2012-06-02",
+  "summary": "WASHINGTON, Feb. 9, 2011 - Simmons' Barbecue, Inc. a Guntersville, Ala., establishment is recalling approximately 4,680 pounds of barbecue pork products because they contain an undeclared allergen, whey, which is not declared on the label. Whey is a known allergen. The products subject to recall...\n",
+  "establishment": {
+    "id": "M19523+P19523",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/simmons-barbecue-inc",
+    "slug": "simmons-barbecue-inc",
+    "name": "Simmons' Barbecue Inc",
+    "address": "2200 Gilbreath Street \n  Guntersville, AL 35976",
+    "telephone": "(256) 582-7675",
+    "grant_date": "1996-02-29",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "5-lb. vacuum sealed packages of \"Simmons' BARBECUE, INC. Bar-be-cue Pork With Sauce\"",
+    "5-lb. vacuum sealed packages of \"Simmons' BARBECUE, INC. Bar-be-cue Pork With Thick Sauce.\""
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Alabama",
+    "Georgia",
+    "Tennessee",
+    "Mississippi"
+  ]
+}

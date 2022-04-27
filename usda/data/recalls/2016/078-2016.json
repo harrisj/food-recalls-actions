@@ -1,1 +1,30 @@
-{"id": "078-2016", "title": "PT Farm, LLC Recalls Lamb Products Due To Possible E. Coli Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/pt-farm-llc-recalls-lamb-products-due-possible-e.-coli-contamination", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2016-09-09", "end_date": "2016-10-13", "summary": "WASHINGTON, Sept. 9, 2016 PT Farm, LLC, a North Haverhill, N.H. establishment, is recalling approximately 15 pounds of lamb products that may be contaminated with E. coli, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today.The lamb products, a neck and...", "establishment": {"id": "M8868", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/pt-farm-llc", "slug": "pt-farm-llc", "name": "PT Farm LLC", "address": "500 Benton Rd \n  North Haverhill, NH 3774", "telephone": "(603) 787-9199", "grant_date": "2022-02-28", "activities": ["Meat Processing", "Meat Slaughter"]}, "impacted_products": [], "quantity_recovered": 13, "quantity_unit": "pounds", "states": ["Massachusetts"]}
+{
+  "id": "078-2016",
+  "title": "PT Farm, LLC Recalls Lamb Products Due To Possible E. Coli Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/pt-farm-llc-recalls-lamb-products-due-possible-e.-coli-contamination",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2016-09-09",
+  "end_date": "2016-10-13",
+  "summary": "WASHINGTON, Sept. 9, 2016 PT Farm, LLC, a North Haverhill, N.H. establishment, is recalling approximately 15 pounds of lamb products that may be contaminated with E. coli, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today.The lamb products, a neck and...",
+  "establishment": {
+    "id": "M8868",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/pt-farm-llc",
+    "slug": "pt-farm-llc",
+    "name": "PT Farm LLC",
+    "address": "500 Benton Rd \n  North Haverhill, NH 3774",
+    "telephone": "(603) 787-9199",
+    "grant_date": "2022-02-28",
+    "activities": [
+      "Meat Processing",
+      "Meat Slaughter"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 13,
+  "quantity_unit": "pounds",
+  "states": [
+    "Massachusetts"
+  ]
+}

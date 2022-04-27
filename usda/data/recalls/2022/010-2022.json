@@ -1,1 +1,32 @@
-{"id": "010-2022", "title": "Tennessee Brown Bag, LLC Recalls Beef Jerky Products Produced without Benefit of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/tennessee-brown-bag-llc-recalls-beef-jerky-products-produced-without-benefit", "reasons": ["Produced Without Benefit of Inspection"], "status": "Active", "risk_level": "High", "start_date": "2022-04-22", "end_date": null, "summary": "WASHINGTON, April 22, 2022 - Tennessee Brown Bag, LLC, a Hixson, Tenn. establishment, is recalling approximately 4,590 pounds of beef jerky products that were produced without the benefit of federal inspection, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The...", "establishment": null, "impacted_products": ["3.0 oz. and 1.5 oz. brown zippered packages containing \u201cTENNESSEE BROWN BAG ORIGINAL\u201d and \u201cBest by\u201d dates through April 2023.", "3.0 oz. and 1.5 oz. brown zippered packages containing \u201cTENNESSEE BROWN BAG PEPPERED\u201d and \u201cBest by\u201d dates through April 2023.", "3.0 oz. and 1.5 oz. brown zippered packages containing \u201cTENNESSEE BROWN BAG Spicy\u201d and \u201cBest by\u201d dates through April 2023.", "3.0 oz. and 1.5 oz. brown zippered packages containing \u201cTENNESSEE BROWN BAG TERIYAKI\u201d and \u201cBest by\u201d dates through April 2023.", "3.0 oz. and 1.5 oz. brown zippered packages containing \u201cTENNESSEE BROWN BAG HOTIYAKI SWEET HEAT\u201d and \u201cBest by\u201d dates through April 2023.", "3.0 oz. and 1.5 oz. brown zippered packages containing \u201cTENNESSEE BROWN BAG DILL PICKLE\u201d and \u201cBest by\u201d dates through April 2023.", "3.0 oz. and 1.5 oz. brown zippered packages containing \u201cTENNESSEE BROWN BAG JALEPENO DILL\u201d and \u201cBest by\u201d dates through April 2023. "], "quantity_recovered": null, "quantity_unit": null, "states": ["Alabama", "Georgia", "South Carolina", "Tennessee", "Virginia"]}
+{
+  "id": "010-2022",
+  "title": "Tennessee Brown Bag, LLC Recalls Beef Jerky Products Produced without Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/tennessee-brown-bag-llc-recalls-beef-jerky-products-produced-without-benefit",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2022-04-22",
+  "end_date": null,
+  "summary": "WASHINGTON, April 22, 2022 - Tennessee Brown Bag, LLC, a Hixson, Tenn. establishment, is recalling approximately 4,590 pounds of beef jerky products that were produced without the benefit of federal inspection, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The...",
+  "establishment": null,
+  "impacted_products": [
+    "3.0 oz. and 1.5 oz. brown zippered packages containing \u201cTENNESSEE BROWN BAG ORIGINAL\u201d and \u201cBest by\u201d dates through April 2023.",
+    "3.0 oz. and 1.5 oz. brown zippered packages containing \u201cTENNESSEE BROWN BAG PEPPERED\u201d and \u201cBest by\u201d dates through April 2023.",
+    "3.0 oz. and 1.5 oz. brown zippered packages containing \u201cTENNESSEE BROWN BAG Spicy\u201d and \u201cBest by\u201d dates through April 2023.",
+    "3.0 oz. and 1.5 oz. brown zippered packages containing \u201cTENNESSEE BROWN BAG TERIYAKI\u201d and \u201cBest by\u201d dates through April 2023.",
+    "3.0 oz. and 1.5 oz. brown zippered packages containing \u201cTENNESSEE BROWN BAG HOTIYAKI SWEET HEAT\u201d and \u201cBest by\u201d dates through April 2023.",
+    "3.0 oz. and 1.5 oz. brown zippered packages containing \u201cTENNESSEE BROWN BAG DILL PICKLE\u201d and \u201cBest by\u201d dates through April 2023.",
+    "3.0 oz. and 1.5 oz. brown zippered packages containing \u201cTENNESSEE BROWN BAG JALEPENO DILL\u201d and \u201cBest by\u201d dates through April 2023. "
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Alabama",
+    "Georgia",
+    "South Carolina",
+    "Tennessee",
+    "Virginia"
+  ]
+}

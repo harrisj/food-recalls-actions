@@ -1,1 +1,16 @@
-{"id": "064-2018", "title": "Win Opportunity Knocks Recalls Fresh and Frozen, Raw Ground Beef Products Due to Possible E. coli O45, O103 and O145 Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/win-opportunity-knocks-recalls-fresh-and-frozen-raw-ground-beef-products-due", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2018-07-18", "end_date": "2019-04-26", "summary": "WASHINGTON, July 18, 2018 Win Opportunity Knocks, doing business as Ottomanelli Wholesale Meats Inc., a St. Petersburg, Fla. establishment, is recalling approximately 6,020 pounds of fresh and frozen, raw ground beef products that may be contaminated with Shiga toxin-producing E. coli (STEC) O45, O103 and...", "establishment": null, "impacted_products": [], "quantity_recovered": 1908, "quantity_unit": "pounds", "states": null}
+{
+  "id": "064-2018",
+  "title": "Win Opportunity Knocks Recalls Fresh and Frozen, Raw Ground Beef Products Due to Possible E. coli O45, O103 and O145 Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/win-opportunity-knocks-recalls-fresh-and-frozen-raw-ground-beef-products-due",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2018-07-18",
+  "end_date": "2019-04-26",
+  "summary": "WASHINGTON, July 18, 2018 Win Opportunity Knocks, doing business as Ottomanelli Wholesale Meats Inc., a St. Petersburg, Fla. establishment, is recalling approximately 6,020 pounds of fresh and frozen, raw ground beef products that may be contaminated with Shiga toxin-producing E. coli (STEC) O45, O103 and...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 1908,
+  "quantity_unit": "pounds",
+  "states": null
+}

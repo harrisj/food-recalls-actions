@@ -1,1 +1,18 @@
-{"id": "130-2015", "title": "Rustico Foods Recalls Packaged Soup Products Produced Without Benefit of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/rustico-foods-recalls-packaged-soup-products-produced-without-benefit-inspection", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2015-10-22", "end_date": "2016-06-08", "summary": "WASHINGTON, Oct. 22, 2015 Rustico Foods, a Los Angeles, Calif. establishment, is recalling approximately 2,659 pounds of packaged soup products that were produced without the benefit of federal inspection and outside inspection hours, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced...", "establishment": null, "impacted_products": [], "quantity_recovered": 312, "quantity_unit": "lbs", "states": ["California"]}
+{
+  "id": "130-2015",
+  "title": "Rustico Foods Recalls Packaged Soup Products Produced Without Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/rustico-foods-recalls-packaged-soup-products-produced-without-benefit-inspection",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2015-10-22",
+  "end_date": "2016-06-08",
+  "summary": "WASHINGTON, Oct. 22, 2015 Rustico Foods, a Los Angeles, Calif. establishment, is recalling approximately 2,659 pounds of packaged soup products that were produced without the benefit of federal inspection and outside inspection hours, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 312,
+  "quantity_unit": "lbs",
+  "states": [
+    "California"
+  ]
+}

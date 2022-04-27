@@ -1,1 +1,35 @@
-{"id": "062-2012", "title": "Illinois Firm Recalls Bratwurst Products Due to Misbranding and Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/illinois-firm-recalls-bratwurst-products-due-misbranding-and-undeclared-allergen", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2012-09-21", "end_date": "2013-05-29", "summary": "WASHINGTON, September 21, 2012 - Makowski's Real Sausage Co., a Chicago, Ill., establishment is recalling approximately 1,305 pounds of cooked bratwurst sausage products because of misbranding and the undeclared allergen, milk, that is not declared on the label. The following products are subject to recall...\n", "establishment": {"id": "M6844+P6844+V6844", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/makowskis-real-sausage-company", "slug": "makowskis-real-sausage-company", "name": "Makowski's Real Sausage Company", "address": "2710 S. Poplar Ave. \n  Chicago, IL 60608", "telephone": "(312) 842-5330", "grant_date": "2010-11-18", "activities": ["Certification - Export", "Meat Processing", "Poultry Processing"]}, "impacted_products": ["10-lb. packages of \"Real Sausage Co. COOKED WHITE BRATWURST 4-1\"", "10-lb. packages of \"Real Sausage Co. COOKED WHITE BRATWURST 3-1\""], "quantity_recovered": 575, "quantity_unit": "pounds", "states": null}
+{
+  "id": "062-2012",
+  "title": "Illinois Firm Recalls Bratwurst Products Due to Misbranding and Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/illinois-firm-recalls-bratwurst-products-due-misbranding-and-undeclared-allergen",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2012-09-21",
+  "end_date": "2013-05-29",
+  "summary": "WASHINGTON, September 21, 2012 - Makowski's Real Sausage Co., a Chicago, Ill., establishment is recalling approximately 1,305 pounds of cooked bratwurst sausage products because of misbranding and the undeclared allergen, milk, that is not declared on the label. The following products are subject to recall...\n",
+  "establishment": {
+    "id": "M6844+P6844+V6844",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/makowskis-real-sausage-company",
+    "slug": "makowskis-real-sausage-company",
+    "name": "Makowski's Real Sausage Company",
+    "address": "2710 S. Poplar Ave. \n  Chicago, IL 60608",
+    "telephone": "(312) 842-5330",
+    "grant_date": "2010-11-18",
+    "activities": [
+      "Certification - Export",
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "10-lb. packages of \"Real Sausage Co. COOKED WHITE BRATWURST 4-1\"",
+    "10-lb. packages of \"Real Sausage Co. COOKED WHITE BRATWURST 3-1\""
+  ],
+  "quantity_recovered": 575,
+  "quantity_unit": "pounds",
+  "states": null
+}

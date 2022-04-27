@@ -1,1 +1,26 @@
-{"id": "027-2014", "title": "Missouri Firm Recalls Curry Chicken Salad for Possible Listeria Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/missouri-firm-recalls-curry-chicken-salad-possible-listeria-contamination", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2014-05-03", "end_date": "2016-08-03", "summary": "WASHINGTON, May, 3, 2014 Schnucks Kitchen, an O'Fallon, Mo., establishment, is recalling approximately 130 pounds of Curry White Meat Chicken Salad product due to possible contamination with Listeria monocytogenes, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The Chicken salad...\n", "establishment": null, "impacted_products": ["3-lb. sealed plastic bags containing \u201cCURRY WHITE MEAT CHICKEN SALAD WITH WALNUTS.\u201d"], "quantity_recovered": 70, "quantity_unit": "pounds", "states": ["Illinois", "Indiana", "Iowa", "Missouri", "Wisconsin"]}
+{
+  "id": "027-2014",
+  "title": "Missouri Firm Recalls Curry Chicken Salad for Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/missouri-firm-recalls-curry-chicken-salad-possible-listeria-contamination",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2014-05-03",
+  "end_date": "2016-08-03",
+  "summary": "WASHINGTON, May, 3, 2014 Schnucks Kitchen, an O'Fallon, Mo., establishment, is recalling approximately 130 pounds of Curry White Meat Chicken Salad product due to possible contamination with Listeria monocytogenes, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The Chicken salad...\n",
+  "establishment": null,
+  "impacted_products": [
+    "3-lb. sealed plastic bags containing \u201cCURRY WHITE MEAT CHICKEN SALAD WITH WALNUTS.\u201d"
+  ],
+  "quantity_recovered": 70,
+  "quantity_unit": "pounds",
+  "states": [
+    "Illinois",
+    "Indiana",
+    "Iowa",
+    "Missouri",
+    "Wisconsin"
+  ]
+}

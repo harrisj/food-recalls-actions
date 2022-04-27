@@ -1,1 +1,36 @@
-{"id": "053-2013", "title": "Oregon Firm Recalls Meat and Poultry Ravioli Products Produced Without Benefit of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/oregon-firm-recalls-meat-and-poultry-ravioli-products-produced-without-benefit-0", "reasons": ["Produced Without Benefit of Inspection"], "status": "Closed", "risk_level": "High", "start_date": "2013-09-16", "end_date": "2015-03-24", "summary": "WASHINGTON, September 16, 2013 Siberoni, a Portland, Ore. firm, is recalling 169,655 pounds of raw and frozen meat and poultry ipelmeni\u201d (Eastern European-style ravioli products) which were produced without the benefit of inspection, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced...\n", "establishment": {"id": "M33788+P33788", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/siberoni", "slug": "siberoni", "name": "Siberoni", "address": "2845 S.E. 131st Avenue \n  Portland, OR 97236", "telephone": "(503) 830-5230", "grant_date": "2005-12-12", "activities": ["Poultry Processing"]}, "impacted_products": ["1 lb. packages, in 40 pound cases, of \u201cSiberoni\u201d brand Chicken Pelmeni", "1 lb. packages, in 40 pound cases, of \u201cSiberoni\u201d brand Beef Pelmeni", "1 lb. packages, in 40 pound cases, of \u201cSiberoni\u201d brand Beef and Pork Pelmeni"], "quantity_recovered": 2509, "quantity_unit": "pounds", "states": ["Oregon", "Washington"]}
+{
+  "id": "053-2013",
+  "title": "Oregon Firm Recalls Meat and Poultry Ravioli Products Produced Without Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/oregon-firm-recalls-meat-and-poultry-ravioli-products-produced-without-benefit-0",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2013-09-16",
+  "end_date": "2015-03-24",
+  "summary": "WASHINGTON, September 16, 2013 Siberoni, a Portland, Ore. firm, is recalling 169,655 pounds of raw and frozen meat and poultry ipelmeni\u201d (Eastern European-style ravioli products) which were produced without the benefit of inspection, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced...\n",
+  "establishment": {
+    "id": "M33788+P33788",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/siberoni",
+    "slug": "siberoni",
+    "name": "Siberoni",
+    "address": "2845 S.E. 131st Avenue \n  Portland, OR 97236",
+    "telephone": "(503) 830-5230",
+    "grant_date": "2005-12-12",
+    "activities": [
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "1 lb. packages, in 40 pound cases, of \u201cSiberoni\u201d brand Chicken Pelmeni",
+    "1 lb. packages, in 40 pound cases, of \u201cSiberoni\u201d brand Beef Pelmeni",
+    "1 lb. packages, in 40 pound cases, of \u201cSiberoni\u201d brand Beef and Pork Pelmeni"
+  ],
+  "quantity_recovered": 2509,
+  "quantity_unit": "pounds",
+  "states": [
+    "Oregon",
+    "Washington"
+  ]
+}

@@ -1,1 +1,20 @@
-{"id": "103-2015", "title": "Recall Notification Report (Salad Products)", "url": "https://www.fsis.usda.gov/recalls-alerts/recall-notification-report-salad-products", "reasons": [], "status": "Closed", "risk_level": "Low", "start_date": "2015-07-20", "end_date": "2016-06-07", "summary": "WASHINGTON, July 20, 2015 Huxtables Kitchen, Inc., a Fife, Wash. establishment, is recalling approximately 778 pounds of salad products due to misbranding, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products may contain nitrites in the bacon that were...", "establishment": null, "impacted_products": [], "quantity_recovered": 381, "quantity_unit": "pounds", "states": ["Idaho", "Oregon", "Washington"]}
+{
+  "id": "103-2015",
+  "title": "Recall Notification Report (Salad Products)",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/recall-notification-report-salad-products",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2015-07-20",
+  "end_date": "2016-06-07",
+  "summary": "WASHINGTON, July 20, 2015 Huxtables Kitchen, Inc., a Fife, Wash. establishment, is recalling approximately 778 pounds of salad products due to misbranding, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products may contain nitrites in the bacon that were...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 381,
+  "quantity_unit": "pounds",
+  "states": [
+    "Idaho",
+    "Oregon",
+    "Washington"
+  ]
+}

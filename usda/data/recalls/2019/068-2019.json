@@ -1,1 +1,22 @@
-{"id": "068-2019", "title": "Pasture Raised Foods, LLC Recalls Raw Whole Poultry Products Produced Without Benefit of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/pasture-raised-foods-llc-recalls-raw-whole-poultry-products-produced-without-benefit", "reasons": ["Produced Without Benefit of Inspection"], "status": "Closed", "risk_level": "High", "start_date": "2019-06-12", "end_date": "2020-02-13", "summary": "WASHINGTON, June 12, 2019 Pasture Raised Foods, LLC, doing business as Greener Pastures Chicken, a grower/non-inspected processor located in Elgin, Texas, is recalling an undetermined amount of frozen raw whole poultry products that were produced without the benefit of federal inspection, the U.S. Department of...\n", "establishment": null, "impacted_products": ["Varying weight vacuum sealed packages containing one whole \u201cGREENER PASTURES CHICKEN\u201d with the head and feet removed. "], "quantity_recovered": 0, "quantity_unit": "pounds", "states": ["Texas"]}
+{
+  "id": "068-2019",
+  "title": "Pasture Raised Foods, LLC Recalls Raw Whole Poultry Products Produced Without Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/pasture-raised-foods-llc-recalls-raw-whole-poultry-products-produced-without-benefit",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2019-06-12",
+  "end_date": "2020-02-13",
+  "summary": "WASHINGTON, June 12, 2019 Pasture Raised Foods, LLC, doing business as Greener Pastures Chicken, a grower/non-inspected processor located in Elgin, Texas, is recalling an undetermined amount of frozen raw whole poultry products that were produced without the benefit of federal inspection, the U.S. Department of...\n",
+  "establishment": null,
+  "impacted_products": [
+    "Varying weight vacuum sealed packages containing one whole \u201cGREENER PASTURES CHICKEN\u201d with the head and feet removed. "
+  ],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": [
+    "Texas"
+  ]
+}

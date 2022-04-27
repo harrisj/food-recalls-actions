@@ -1,1 +1,25 @@
-{"id": "PHA-11212020-01", "title": "FSIS Issues Public Health Alert for Chicken and Beef Samosa Products Containing Pastry Ingredients That Have Been Recalled Due to Misbranding ", "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-chicken-and-beef-samosa-products-containing-pastry", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Active", "risk_level": null, "start_date": "2020-11-21", "end_date": null, "summary": "The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for chicken and beef samosa products containing spring roll pastries that have been recalled by the manufacturer, Tee Yih Jia (TYJ) Food Manufacturing, due to misbranding and an...\n", "establishment": null, "impacted_products": ["Tee Yih Jia Food Manfacturer chicken and beef samosas "], "quantity_recovered": null, "quantity_unit": null, "states": ["California", "New York", "Texas"]}
+{
+  "id": "PHA-11212020-01",
+  "title": "FSIS Issues Public Health Alert for Chicken and Beef Samosa Products Containing Pastry Ingredients That Have Been Recalled Due to Misbranding ",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-chicken-and-beef-samosa-products-containing-pastry",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2020-11-21",
+  "end_date": null,
+  "summary": "The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for chicken and beef samosa products containing spring roll pastries that have been recalled by the manufacturer, Tee Yih Jia (TYJ) Food Manufacturing, due to misbranding and an...\n",
+  "establishment": null,
+  "impacted_products": [
+    "Tee Yih Jia Food Manfacturer chicken and beef samosas "
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "California",
+    "New York",
+    "Texas"
+  ]
+}

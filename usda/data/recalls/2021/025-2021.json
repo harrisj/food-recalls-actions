@@ -1,1 +1,25 @@
-{"id": "025-2021", "title": "Top Notch Jerky LLC. Recalls Beef Jerky Products Due to Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/top-notch-jerky-llc.-recalls-beef-jerky-products-due-misbranding-and-undeclared", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "Low", "start_date": "2021-07-24", "end_date": "2021-08-17", "summary": "WASHINGTON, July 24, 2021 \u2013 Top Notch Jerky LLC., a Sugar City, Idaho establishment, is recalling approximately 107 pounds of ready-to-eat (RTE) beef jerky due to misbranding and undeclared allergens, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The product...", "establishment": null, "impacted_products": ["2.25 oz plastic bags containing KINGMADE JERKY BUFFALO STYLE with BEST BY JAN 13 2023 and Lot 071221 located on the back lower half of the bag.", "1.0 oz plastic bags containing KINGMADE JERKY BUFFALO STYLE and BEST BY JAN 13 2023 and Lot 071221 located on the back lower half of the bag."], "quantity_recovered": 25, "quantity_unit": "pounds of product", "states": ["Minnesota", "Tennessee"]}
+{
+  "id": "025-2021",
+  "title": "Top Notch Jerky LLC. Recalls Beef Jerky Products Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/top-notch-jerky-llc.-recalls-beef-jerky-products-due-misbranding-and-undeclared",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2021-07-24",
+  "end_date": "2021-08-17",
+  "summary": "WASHINGTON, July 24, 2021 \u2013 Top Notch Jerky LLC., a Sugar City, Idaho establishment, is recalling approximately 107 pounds of ready-to-eat (RTE) beef jerky due to misbranding and undeclared allergens, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The product...",
+  "establishment": null,
+  "impacted_products": [
+    "2.25 oz plastic bags containing KINGMADE JERKY BUFFALO STYLE with BEST BY JAN 13 2023 and Lot 071221 located on the back lower half of the bag.",
+    "1.0 oz plastic bags containing KINGMADE JERKY BUFFALO STYLE and BEST BY JAN 13 2023 and Lot 071221 located on the back lower half of the bag."
+  ],
+  "quantity_recovered": 25,
+  "quantity_unit": "pounds of product",
+  "states": [
+    "Minnesota",
+    "Tennessee"
+  ]
+}

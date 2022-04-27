@@ -1,1 +1,22 @@
-{"id": "pha-100713", "title": "FSIS Issues Public Health Alert for Chicken Products Produced at Three Foster Farms Facilities", "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-chicken-products-produced-three-foster-farms", "reasons": ["Product Contamination"], "status": "Active", "risk_level": null, "start_date": "2013-10-07", "end_date": null, "summary": "CDC Update: This outbreak investigation continues. Previously, the outbreak appeared to be over, but recent findings indicate otherwise. The number of reported infections from all seven outbreak strains of Salmonella Heidelberg returned to baseline levels in January and the outbreak appeared to be over, as...\n", "establishment": null, "impacted_products": [], "quantity_recovered": null, "quantity_unit": null, "states": ["California", "Oregon", "Washington"]}
+{
+  "id": "pha-100713",
+  "title": "FSIS Issues Public Health Alert for Chicken Products Produced at Three Foster Farms Facilities",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-chicken-products-produced-three-foster-farms",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2013-10-07",
+  "end_date": null,
+  "summary": "CDC Update: This outbreak investigation continues. Previously, the outbreak appeared to be over, but recent findings indicate otherwise. The number of reported infections from all seven outbreak strains of Salmonella Heidelberg returned to baseline levels in January and the outbreak appeared to be over, as...\n",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "California",
+    "Oregon",
+    "Washington"
+  ]
+}

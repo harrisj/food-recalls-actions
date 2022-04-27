@@ -1,1 +1,32 @@
-{"id": "067-2013", "title": "Utah Firm Recalls Fully-Cooked-Not-Shelf-Stable, Ready-To-Eat Pork Roast Products Produced Under The Wrong Haccp Plan And For Mislabeling", "url": "https://www.fsis.usda.gov/recalls-alerts/utah-firm-recalls-fully-cooked-not-shelf-stable-ready-eat-pork-roast-products", "reasons": ["Mislabeling", "Processing Defect"], "status": "Closed", "risk_level": "Low", "start_date": "2013-11-22", "end_date": "2016-08-29", "summary": "WASHINGTON, Nov. 22, 2013 Creminelli Fine Meats, LLC, a Salt Lake City, Utah, establishment, is recalling 31 pieces (approximately 101 pounds) of fully-cooked-not-shelf-stable, ready-to-eat pork roast products because they were produced under the wrong Hazard Analysis and Critical Control Point (HACCP) plan and for mislabeling...\n", "establishment": {"id": "M34644", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/creminelli-fine-meats", "slug": "creminelli-fine-meats", "name": "Creminelli Fine Meats", "address": "310 Wright Brothers Dr. \n  Salt Lake City, UT 84116", "telephone": "(801) 428-1820", "grant_date": "2010-09-27", "activities": ["Meat Processing"]}, "impacted_products": ["3-4-lb. packages of \u201cCreminelli Artisan Deli Porchetta Seasoned Boneless Pork Roast\u201d"], "quantity_recovered": 0, "quantity_unit": " pounds", "states": null}
+{
+  "id": "067-2013",
+  "title": "Utah Firm Recalls Fully-Cooked-Not-Shelf-Stable, Ready-To-Eat Pork Roast Products Produced Under The Wrong Haccp Plan And For Mislabeling",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/utah-firm-recalls-fully-cooked-not-shelf-stable-ready-eat-pork-roast-products",
+  "reasons": [
+    "Mislabeling",
+    "Processing Defect"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2013-11-22",
+  "end_date": "2016-08-29",
+  "summary": "WASHINGTON, Nov. 22, 2013 Creminelli Fine Meats, LLC, a Salt Lake City, Utah, establishment, is recalling 31 pieces (approximately 101 pounds) of fully-cooked-not-shelf-stable, ready-to-eat pork roast products because they were produced under the wrong Hazard Analysis and Critical Control Point (HACCP) plan and for mislabeling...\n",
+  "establishment": {
+    "id": "M34644",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/creminelli-fine-meats",
+    "slug": "creminelli-fine-meats",
+    "name": "Creminelli Fine Meats",
+    "address": "310 Wright Brothers Dr. \n  Salt Lake City, UT 84116",
+    "telephone": "(801) 428-1820",
+    "grant_date": "2010-09-27",
+    "activities": [
+      "Meat Processing"
+    ]
+  },
+  "impacted_products": [
+    "3-4-lb. packages of \u201cCreminelli Artisan Deli Porchetta Seasoned Boneless Pork Roast\u201d"
+  ],
+  "quantity_recovered": 0,
+  "quantity_unit": " pounds",
+  "states": null
+}

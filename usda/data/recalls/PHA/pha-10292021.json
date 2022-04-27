@@ -1,1 +1,20 @@
-{"id": "PHA-10292021", "title": " FSIS Issues Public Health Alert for Salame Stick Products  Due to Possible Salmonella Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-salame-stick-products-due-possible-salmonella", "reasons": ["Product Contamination"], "status": "Active", "risk_level": null, "start_date": "2021-10-29", "end_date": null, "summary": "WASHINGTON, Oct. 29, 2021 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert because Euro Foods, a Freeland, Penn. establishment, produced ready-to-eat (RTE) Italian-style salame stick products that may be contaminated with Salmonella. A recall was...\n", "establishment": null, "impacted_products": ["\u2022\t2-oz packages containing Citterio \u201cPremium Italian-Style Salame Sticks ALL NATURAL\u201d with \u201cbest by\u201d dates up to January 23, 2022, located next to the barcode. "], "quantity_recovered": null, "quantity_unit": null, "states": null}
+{
+  "id": "PHA-10292021",
+  "title": " FSIS Issues Public Health Alert for Salame Stick Products  Due to Possible Salmonella Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-salame-stick-products-due-possible-salmonella",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2021-10-29",
+  "end_date": null,
+  "summary": "WASHINGTON, Oct. 29, 2021 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert because Euro Foods, a Freeland, Penn. establishment, produced ready-to-eat (RTE) Italian-style salame stick products that may be contaminated with Salmonella. A recall was...\n",
+  "establishment": null,
+  "impacted_products": [
+    "\u2022\t2-oz packages containing Citterio \u201cPremium Italian-Style Salame Sticks ALL NATURAL\u201d with \u201cbest by\u201d dates up to January 23, 2022, located next to the barcode. "
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}

@@ -1,1 +1,36 @@
-{"id": "055-2016", "title": "Winter Gardens Quality Foods, Inc. Recalls Lemongrass Basil Chicken Products Due To Possible Listeria Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/winter-gardens-quality-foods-inc.-recalls-lemongrass-basil-chicken-products-due", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2016-07-01", "end_date": "2016-07-25", "summary": "WASHINGTON, July 1, 2016 Winter Gardens Quality Foods, Inc., a New Oxford, Pa. establishment, is recalling approximately 42 pounds of Lemongrass Basil Chicken entr\u00c3\u0087es that may be adulterated with Listeria monocytogenes, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today.The ready-to-eat...", "establishment": {"id": "M9815+P9815", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/winter-gardens-quality-foods-inc", "slug": "winter-gardens-quality-foods-inc", "name": "Winter Gardens Quality Foods, Inc.", "address": "304 Commerce Street \n  New Oxford, PA 17350", "telephone": "(717) 624-4911", "grant_date": "2017-04-17", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": 0, "quantity_unit": "pounds", "states": ["Maryland", "Massachusetts", "New Jersey", "North Carolina", "Pennsylvania", "Virginia", "Washington"]}
+{
+  "id": "055-2016",
+  "title": "Winter Gardens Quality Foods, Inc. Recalls Lemongrass Basil Chicken Products Due To Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/winter-gardens-quality-foods-inc.-recalls-lemongrass-basil-chicken-products-due",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2016-07-01",
+  "end_date": "2016-07-25",
+  "summary": "WASHINGTON, July 1, 2016 Winter Gardens Quality Foods, Inc., a New Oxford, Pa. establishment, is recalling approximately 42 pounds of Lemongrass Basil Chicken entr\u00c3\u0087es that may be adulterated with Listeria monocytogenes, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today.The ready-to-eat...",
+  "establishment": {
+    "id": "M9815+P9815",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/winter-gardens-quality-foods-inc",
+    "slug": "winter-gardens-quality-foods-inc",
+    "name": "Winter Gardens Quality Foods, Inc.",
+    "address": "304 Commerce Street \n  New Oxford, PA 17350",
+    "telephone": "(717) 624-4911",
+    "grant_date": "2017-04-17",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": [
+    "Maryland",
+    "Massachusetts",
+    "New Jersey",
+    "North Carolina",
+    "Pennsylvania",
+    "Virginia",
+    "Washington"
+  ]
+}

@@ -1,1 +1,35 @@
-{"id": "018-2011", "title": "New York Firm Recalls Bologna Products Due To a Processing Deviation and Possible Contamination with Staphylococcus aureus Enterotoxin", "url": "https://www.fsis.usda.gov/recalls-alerts/new-york-firm-recalls-bologna-products-due-processing-deviation-and-possible", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2011-03-09", "end_date": "2012-06-02", "summary": "WASHINGTON, March 9, 2011 - Zweigle's Inc., a Rochester, N.Y., establishment, is recalling approximately 2,997 pounds of bologna products that may be contaminated with Staphylococcus aureus enterotoxin, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The following products are subject...\n", "establishment": {"id": "M5333+P5333+V5333", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/zweigles-inc", "slug": "zweigles-inc", "name": "Zweigle's Inc.", "address": "651 Plymouth Ave North \n  Rochester, NY 14608", "telephone": "(585) 546-1740", "grant_date": "2015-02-19", "activities": ["Meat Processing", "Poultry Processing", "Voluntary Processing - Meat"]}, "impacted_products": ["Cases containing two 10-pound packages of \"PRICE CHOPPER German Brand Bologna Made With Pork & Chicken.\""], "quantity_recovered": 77, "quantity_unit": "pounds", "states": ["New York"]}
+{
+  "id": "018-2011",
+  "title": "New York Firm Recalls Bologna Products Due To a Processing Deviation and Possible Contamination with Staphylococcus aureus Enterotoxin",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/new-york-firm-recalls-bologna-products-due-processing-deviation-and-possible",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2011-03-09",
+  "end_date": "2012-06-02",
+  "summary": "WASHINGTON, March 9, 2011 - Zweigle's Inc., a Rochester, N.Y., establishment, is recalling approximately 2,997 pounds of bologna products that may be contaminated with Staphylococcus aureus enterotoxin, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The following products are subject...\n",
+  "establishment": {
+    "id": "M5333+P5333+V5333",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/zweigles-inc",
+    "slug": "zweigles-inc",
+    "name": "Zweigle's Inc.",
+    "address": "651 Plymouth Ave North \n  Rochester, NY 14608",
+    "telephone": "(585) 546-1740",
+    "grant_date": "2015-02-19",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing",
+      "Voluntary Processing - Meat"
+    ]
+  },
+  "impacted_products": [
+    "Cases containing two 10-pound packages of \"PRICE CHOPPER German Brand Bologna Made With Pork & Chicken.\""
+  ],
+  "quantity_recovered": 77,
+  "quantity_unit": "pounds",
+  "states": [
+    "New York"
+  ]
+}

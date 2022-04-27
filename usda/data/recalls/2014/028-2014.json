@@ -1,1 +1,20 @@
-{"id": "028-2014", "title": "New York Firm Recalls Pork and Poultry Products Due To Lack of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/new-york-firm-recalls-pork-and-poultry-products-due-lack-inspection", "reasons": ["Produced Without Benefit of Inspection"], "status": "Closed", "risk_level": "High", "start_date": "2014-05-16", "end_date": "2016-06-14", "summary": "WASHINGTON, May 16, 2014 Transatlantic Foods, Inc., a New York company, is recalling approximately 222,000 pounds of pork and poultry products that did not receive the full benefit of inspection, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. Transatlantic Foods...\n", "establishment": null, "impacted_products": ["The products subject to recall include: Duck fat, Bacon, Fresh Sausage"], "quantity_recovered": 1098, "quantity_unit": "pounds", "states": null}
+{
+  "id": "028-2014",
+  "title": "New York Firm Recalls Pork and Poultry Products Due To Lack of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/new-york-firm-recalls-pork-and-poultry-products-due-lack-inspection",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2014-05-16",
+  "end_date": "2016-06-14",
+  "summary": "WASHINGTON, May 16, 2014 Transatlantic Foods, Inc., a New York company, is recalling approximately 222,000 pounds of pork and poultry products that did not receive the full benefit of inspection, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. Transatlantic Foods...\n",
+  "establishment": null,
+  "impacted_products": [
+    "The products subject to recall include: Duck fat, Bacon, Fresh Sausage"
+  ],
+  "quantity_recovered": 1098,
+  "quantity_unit": "pounds",
+  "states": null
+}

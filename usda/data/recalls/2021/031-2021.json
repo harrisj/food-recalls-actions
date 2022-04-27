@@ -1,1 +1,27 @@
-{"id": "031-2021", "title": "SAS Foods Enterprises Inc. Recalls Frozen, Fully Cooked Beef and Chicken Empanada Products Packaged without Benefit of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/sas-foods-enterprises-inc.-recalls-frozen-fully-cooked-beef-and-chicken-empanada", "reasons": ["Produced Without Benefit of Inspection"], "status": "Closed", "risk_level": "High", "start_date": "2021-09-13", "end_date": "2022-03-10", "summary": "WASHINGTON, Sept. 13, 2021 \u2013 SAS Foods Enterprises Inc., an Elk Grove Village, Ill., establishment, is recalling approximately 3,768 pounds of beef and chicken empanada products that were produced without the benefit of federal inspection and bearing a label with a false USDA mark of...\n", "establishment": null, "impacted_products": ["1-lb. zip-lock bags or clear, plastic containers with \u201cSAS Food EMPANADAS DE POLLO CHICKEN PATTIES.\u201d", "1-lb. zip-lock bags or clear, plastic containers with \u201cSAS Food EMPANADAS DE CARNE BEEF PATTIES.\u201d"], "quantity_recovered": 288, "quantity_unit": "pounds", "states": ["Illinois", "Indiana", "Minnesota", "Ohio", "Wisconsin"]}
+{
+  "id": "031-2021",
+  "title": "SAS Foods Enterprises Inc. Recalls Frozen, Fully Cooked Beef and Chicken Empanada Products Packaged without Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/sas-foods-enterprises-inc.-recalls-frozen-fully-cooked-beef-and-chicken-empanada",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2021-09-13",
+  "end_date": "2022-03-10",
+  "summary": "WASHINGTON, Sept. 13, 2021 \u2013 SAS Foods Enterprises Inc., an Elk Grove Village, Ill., establishment, is recalling approximately 3,768 pounds of beef and chicken empanada products that were produced without the benefit of federal inspection and bearing a label with a false USDA mark of...\n",
+  "establishment": null,
+  "impacted_products": [
+    "1-lb. zip-lock bags or clear, plastic containers with \u201cSAS Food EMPANADAS DE POLLO CHICKEN PATTIES.\u201d",
+    "1-lb. zip-lock bags or clear, plastic containers with \u201cSAS Food EMPANADAS DE CARNE BEEF PATTIES.\u201d"
+  ],
+  "quantity_recovered": 288,
+  "quantity_unit": "pounds",
+  "states": [
+    "Illinois",
+    "Indiana",
+    "Minnesota",
+    "Ohio",
+    "Wisconsin"
+  ]
+}

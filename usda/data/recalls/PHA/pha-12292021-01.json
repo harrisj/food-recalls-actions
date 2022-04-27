@@ -1,1 +1,18 @@
-{"id": "PHA-12292021-01", "title": "FSIS Issues Public Health Alert for Ineligible Imported Meat and Poultry Products from China ", "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ineligible-imported-meat-and-poultry-products-china", "reasons": ["Import Violation"], "status": "Active", "risk_level": null, "start_date": "2021-12-29", "end_date": null, "summary": "Chinese Translation (Simplified Chinese | Traditional Chinese | Updated Products and Labels: Part 1 | Part 2) Editor\u2019s note: Feb. 7, 2022: Upon further investigation, FSIS has identified additional meat and poultry products that were produced with ineligible sources of meat and poultry and were...", "establishment": null, "impacted_products": [], "quantity_recovered": null, "quantity_unit": null, "states": null}
+{
+  "id": "PHA-12292021-01",
+  "title": "FSIS Issues Public Health Alert for Ineligible Imported Meat and Poultry Products from China ",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ineligible-imported-meat-and-poultry-products-china",
+  "reasons": [
+    "Import Violation"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2021-12-29",
+  "end_date": null,
+  "summary": "Chinese Translation (Simplified Chinese | Traditional Chinese | Updated Products and Labels: Part 1 | Part 2) Editor\u2019s note: Feb. 7, 2022: Upon further investigation, FSIS has identified additional meat and poultry products that were produced with ineligible sources of meat and poultry and were...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}

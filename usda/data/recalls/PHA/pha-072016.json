@@ -1,1 +1,18 @@
-{"id": "pha-072016", "title": "FSIS Issues Public Health Alert For Pork Product Due To Possible Salmonella Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-pork-product-due-possible-salmonella-contamination", "reasons": ["Product Contamination"], "status": "Active", "risk_level": null, "start_date": "2016-07-20", "end_date": null, "summary": "WASHINGTON, July 20, 2016The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) is issuing a public health alert today due to concerns about illnesses caused by Salmonella I 4,[5],12:i:- that may be associated with use and consumption of whole hog roasters prepared for...", "establishment": null, "impacted_products": [], "quantity_recovered": null, "quantity_unit": null, "states": null}
+{
+  "id": "pha-072016",
+  "title": "FSIS Issues Public Health Alert For Pork Product Due To Possible Salmonella Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-pork-product-due-possible-salmonella-contamination",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2016-07-20",
+  "end_date": null,
+  "summary": "WASHINGTON, July 20, 2016The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) is issuing a public health alert today due to concerns about illnesses caused by Salmonella I 4,[5],12:i:- that may be associated with use and consumption of whole hog roasters prepared for...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}

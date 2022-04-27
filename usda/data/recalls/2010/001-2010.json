@@ -1,1 +1,35 @@
-{"id": "001-2010", "title": "California Firm Recalls Pork Skin Products Due to Mislabeling and an Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-pork-skin-products-due-mislabeling-and-undeclared-allergen", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2010-01-09", "end_date": "2012-06-03", "summary": "January 9, 2010 - Rudolph Foods Company, Inc., a San Bernardino, Calif., establishment, is recalling approximately 205 pounds of pork skin products because they were inadvertently mislabeled and contain an undeclared allergen, milk, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced...\n", "establishment": {"id": "M525+P2854", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/rudolph-foods-company-inc", "slug": "rudolph-foods-company-inc", "name": "Rudolph Foods Company Inc.", "address": "920 West 4th Street \n  Beaumont, CA 92223", "telephone": "(909) 388-2202", "grant_date": "2016-08-01", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["3.5-ounce packages of \"Pepe's Gigante Louisiana Hot Sauce Flavored Cracklins.\" Each package bears a use by date of \"03/19/2010,\" as well as the establishment number \"EST. 0525\" inside the USDA mark of inspection."], "quantity_recovered": 117, "quantity_unit": "pounds", "states": ["California"]}
+{
+  "id": "001-2010",
+  "title": "California Firm Recalls Pork Skin Products Due to Mislabeling and an Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-pork-skin-products-due-mislabeling-and-undeclared-allergen",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2010-01-09",
+  "end_date": "2012-06-03",
+  "summary": "January 9, 2010 - Rudolph Foods Company, Inc., a San Bernardino, Calif., establishment, is recalling approximately 205 pounds of pork skin products because they were inadvertently mislabeled and contain an undeclared allergen, milk, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced...\n",
+  "establishment": {
+    "id": "M525+P2854",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/rudolph-foods-company-inc",
+    "slug": "rudolph-foods-company-inc",
+    "name": "Rudolph Foods Company Inc.",
+    "address": "920 West 4th Street \n  Beaumont, CA 92223",
+    "telephone": "(909) 388-2202",
+    "grant_date": "2016-08-01",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "3.5-ounce packages of \"Pepe's Gigante Louisiana Hot Sauce Flavored Cracklins.\" Each package bears a use by date of \"03/19/2010,\" as well as the establishment number \"EST. 0525\" inside the USDA mark of inspection."
+  ],
+  "quantity_recovered": 117,
+  "quantity_unit": "pounds",
+  "states": [
+    "California"
+  ]
+}

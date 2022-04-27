@@ -1,1 +1,38 @@
-{"id": "012-2020", "title": "Lakeside Refrigerated Services Recalls Beef Products due to Possible E.coli O157:H7 Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/lakeside-refrigerated-services-recalls-beef-products-due-possible-e.coli-o157h7", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2020-06-13", "end_date": "2021-09-21", "summary": "WASHINGTON, June 13, 2020 \u2013 Lakeside Refrigerated Services, a Swedesboro, N.J. establishment, is recalling approximately 42,922 pounds of ground beef products that may be contaminated with E. coli O157:H7, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The raw ground...\n", "establishment": {"id": "M46841+P46841+V46841", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/lakeside-refrigerated-services", "slug": "lakeside-refrigerated-services", "name": "Lakeside Refrigerated Services", "address": "2600 Oldmans Creek Road \n  Swedesboro, NJ 8085", "telephone": "(856) 832-3255", "grant_date": "2020-09-30", "activities": ["Meat Processing", "Poultry Processing", "Voluntary Processing - Meat", "Voluntary Processing - Poultry"]}, "impacted_products": ["\u2022 1 lb. vacuum packages containing \u201cMARKETSIDE BUTCHER ORGANIC GRASS-FED GROUND BEEF\u201d ", "\u2022 1-lb. vacuum packages containing four \u00bc lb. pieces of \u201cMARKETSIDE BUTCHER ORGANIC GRASS-FED GROUND BEEF PATTIES\u201d ", "\u2022 3-lb. vacuum packages containing three 1 lb. pieces of \u201cMARKETSIDE BUTCHER ORGANIC GRASS-FED GROUND BEEF 93% LEAN / 7% FAT\u201d", "\u2022 1-lb. tray packages containing four \u00bc lb. pieces of \u201cTHOMAS FARMS GRASS-FED GROUND BEEF PATTIES 85% LEAN / 15% FAT\u201d ", "\u2022 2.5-lb. tray packages containing 10 \u00bc lb. pieces of \u201cTHOMAS FARMS GRASS-FED GROUND BEEF PATTIES 80% LEAN / 20% FAT\u201d"], "quantity_recovered": 14784, "quantity_unit": "pounds", "states": null}
+{
+  "id": "012-2020",
+  "title": "Lakeside Refrigerated Services Recalls Beef Products due to Possible E.coli O157:H7 Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/lakeside-refrigerated-services-recalls-beef-products-due-possible-e.coli-o157h7",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2020-06-13",
+  "end_date": "2021-09-21",
+  "summary": "WASHINGTON, June 13, 2020 \u2013 Lakeside Refrigerated Services, a Swedesboro, N.J. establishment, is recalling approximately 42,922 pounds of ground beef products that may be contaminated with E. coli O157:H7, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The raw ground...\n",
+  "establishment": {
+    "id": "M46841+P46841+V46841",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/lakeside-refrigerated-services",
+    "slug": "lakeside-refrigerated-services",
+    "name": "Lakeside Refrigerated Services",
+    "address": "2600 Oldmans Creek Road \n  Swedesboro, NJ 8085",
+    "telephone": "(856) 832-3255",
+    "grant_date": "2020-09-30",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing",
+      "Voluntary Processing - Meat",
+      "Voluntary Processing - Poultry"
+    ]
+  },
+  "impacted_products": [
+    "\u2022 1 lb. vacuum packages containing \u201cMARKETSIDE BUTCHER ORGANIC GRASS-FED GROUND BEEF\u201d ",
+    "\u2022 1-lb. vacuum packages containing four \u00bc lb. pieces of \u201cMARKETSIDE BUTCHER ORGANIC GRASS-FED GROUND BEEF PATTIES\u201d ",
+    "\u2022 3-lb. vacuum packages containing three 1 lb. pieces of \u201cMARKETSIDE BUTCHER ORGANIC GRASS-FED GROUND BEEF 93% LEAN / 7% FAT\u201d",
+    "\u2022 1-lb. tray packages containing four \u00bc lb. pieces of \u201cTHOMAS FARMS GRASS-FED GROUND BEEF PATTIES 85% LEAN / 15% FAT\u201d ",
+    "\u2022 2.5-lb. tray packages containing 10 \u00bc lb. pieces of \u201cTHOMAS FARMS GRASS-FED GROUND BEEF PATTIES 80% LEAN / 20% FAT\u201d"
+  ],
+  "quantity_recovered": 14784,
+  "quantity_unit": "pounds",
+  "states": null
+}

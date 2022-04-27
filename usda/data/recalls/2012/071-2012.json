@@ -1,1 +1,24 @@
-{"id": "071-2012", "title": "Virginia Firm Recalls Chicken Breast Nugget Products Due To Misbranding And Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/virginia-firm-recalls-chicken-breast-nugget-products-due-misbranding-and-undeclared", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2012-11-01", "end_date": "2013-06-01", "summary": "WASHINGTON, November 1, 2012 \u2013Perdue Foods, LLC, a Bridgewater, Va. establishment, is recalling approximately 1,440 pounds of chicken breast nugget products because of misbranding and an undeclared allergen, milk, not declared on the label, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS)...\n", "establishment": null, "impacted_products": ["Bundled packages containing 3 12-oz. tray packs of \u201cPerdue Original Chicken Breast Nuggets.\u201d Each package bears the establishment number \u201cP. 369\u201d inside the USDA mark of inspection and a \u201cSell By\u201d of Dec. 16, 2012."], "quantity_recovered": 932, "quantity_unit": "pounds", "states": ["North Carolina", "Connecticut"]}
+{
+  "id": "071-2012",
+  "title": "Virginia Firm Recalls Chicken Breast Nugget Products Due To Misbranding And Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/virginia-firm-recalls-chicken-breast-nugget-products-due-misbranding-and-undeclared",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2012-11-01",
+  "end_date": "2013-06-01",
+  "summary": "WASHINGTON, November 1, 2012 \u2013Perdue Foods, LLC, a Bridgewater, Va. establishment, is recalling approximately 1,440 pounds of chicken breast nugget products because of misbranding and an undeclared allergen, milk, not declared on the label, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS)...\n",
+  "establishment": null,
+  "impacted_products": [
+    "Bundled packages containing 3 12-oz. tray packs of \u201cPerdue Original Chicken Breast Nuggets.\u201d Each package bears the establishment number \u201cP. 369\u201d inside the USDA mark of inspection and a \u201cSell By\u201d of Dec. 16, 2012."
+  ],
+  "quantity_recovered": 932,
+  "quantity_unit": "pounds",
+  "states": [
+    "North Carolina",
+    "Connecticut"
+  ]
+}

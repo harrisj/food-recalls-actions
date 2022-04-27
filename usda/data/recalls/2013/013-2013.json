@@ -1,1 +1,36 @@
-{"id": "013-2013", "title": "Texas Firm Recalls Chicken and Pork Tamale Products Due to Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/texas-firm-recalls-chicken-and-pork-tamale-products-due-misbranding-and-undeclared", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "Low", "start_date": "2013-01-31", "end_date": "2016-08-22", "summary": "WASHINGTON, Jan. 31, 2013 - Isabella Foods, an El Paso, Texas establishment, is recalling approximately 685 pounds of tamale products because of misbranding and undeclared allergens. The products contain wheat or soy, known allergens which are not declared on the label. The following products are...\n", "establishment": {"id": "M1960+P13389", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/isabella-foods-inc", "slug": "isabella-foods-inc", "name": "Isabella Foods, Inc.", "address": "1133 Barranca Drive \n  El Paso, TX 79935", "telephone": "(915) 590-1899", "grant_date": "2021-04-30", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["36-oz. packages containing 12 \"Isabella Foods of El Paso Green Chicken Tamales\" and bearing the establishment number \"P-13389\" inside the USDA mark of inspection.", "36-oz. packages containing 12 \"Isabella Foods of El Paso Red Pork Tamales\" and bearing the establishment number \"EST. 1960\" inside the USDA mark of inspection."], "quantity_recovered": 668, "quantity_unit": "pounds", "states": ["Texas"]}
+{
+  "id": "013-2013",
+  "title": "Texas Firm Recalls Chicken and Pork Tamale Products Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/texas-firm-recalls-chicken-and-pork-tamale-products-due-misbranding-and-undeclared",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2013-01-31",
+  "end_date": "2016-08-22",
+  "summary": "WASHINGTON, Jan. 31, 2013 - Isabella Foods, an El Paso, Texas establishment, is recalling approximately 685 pounds of tamale products because of misbranding and undeclared allergens. The products contain wheat or soy, known allergens which are not declared on the label. The following products are...\n",
+  "establishment": {
+    "id": "M1960+P13389",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/isabella-foods-inc",
+    "slug": "isabella-foods-inc",
+    "name": "Isabella Foods, Inc.",
+    "address": "1133 Barranca Drive \n  El Paso, TX 79935",
+    "telephone": "(915) 590-1899",
+    "grant_date": "2021-04-30",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "36-oz. packages containing 12 \"Isabella Foods of El Paso Green Chicken Tamales\" and bearing the establishment number \"P-13389\" inside the USDA mark of inspection.",
+    "36-oz. packages containing 12 \"Isabella Foods of El Paso Red Pork Tamales\" and bearing the establishment number \"EST. 1960\" inside the USDA mark of inspection."
+  ],
+  "quantity_recovered": 668,
+  "quantity_unit": "pounds",
+  "states": [
+    "Texas"
+  ]
+}

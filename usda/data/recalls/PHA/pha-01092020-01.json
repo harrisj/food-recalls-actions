@@ -1,1 +1,32 @@
-{"id": "PHA-01092020-01", "title": "FSIS Issues Public Health Alert for Swedish Meatball Products Due to Misbranding and an Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-swedish-meatball-products-due-misbranding-and", "reasons": ["Misbranding"], "status": "Active", "risk_level": null, "start_date": "2020-01-09", "end_date": null, "summary": "WASHINGTON, Jan. 9, 2020 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert because Carso\u2019s Pasta Company, a Lynnwood, Wash. establishment, sold 636 pounds of ready-to-eat (RTE) Swedish meatball products that were misbranded. The products contain...\n", "establishment": {"id": "M20790+P20790", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/carsos-pasta-company", "slug": "carsos-pasta-company", "name": "Carso's Pasta Company", "address": "5530 - 208th Street SW \n  Lynnwood, WA 98036", "telephone": "(425) 670-1302", "grant_date": "1999-08-25", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": null, "quantity_unit": null, "states": ["Washington"]}
+{
+  "id": "PHA-01092020-01",
+  "title": "FSIS Issues Public Health Alert for Swedish Meatball Products Due to Misbranding and an Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-swedish-meatball-products-due-misbranding-and",
+  "reasons": [
+    "Misbranding"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2020-01-09",
+  "end_date": null,
+  "summary": "WASHINGTON, Jan. 9, 2020 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert because Carso\u2019s Pasta Company, a Lynnwood, Wash. establishment, sold 636 pounds of ready-to-eat (RTE) Swedish meatball products that were misbranded. The products contain...\n",
+  "establishment": {
+    "id": "M20790+P20790",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/carsos-pasta-company",
+    "slug": "carsos-pasta-company",
+    "name": "Carso's Pasta Company",
+    "address": "5530 - 208th Street SW \n  Lynnwood, WA 98036",
+    "telephone": "(425) 670-1302",
+    "grant_date": "1999-08-25",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Washington"
+  ]
+}

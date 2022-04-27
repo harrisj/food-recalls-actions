@@ -1,1 +1,22 @@
-{"id": "008-2011", "title": "California Firm Recalls Ground Beef Products Due to Possible E. coli O157:H7 Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-ground-beef-products-due-possible-e.-coli-o157h7", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2011-02-05", "end_date": "2012-06-01", "summary": "WASHINGTON, Feb. 5, 2011 - American Food Service, a Pico Rivera, Calif. establishment, is recalling approximately 3,170 pounds of fresh ground beef patties and other bulk packages of ground beef products that may be contaminated with E. coli O157:H7, the U.S. Department of Agriculture's Food...\n", "establishment": null, "impacted_products": ["(559002) American Companies 100% Pure Ground Beef 30-lb. case"], "quantity_recovered": 1788, "quantity_unit": "pounds", "states": ["California"]}
+{
+  "id": "008-2011",
+  "title": "California Firm Recalls Ground Beef Products Due to Possible E. coli O157:H7 Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-ground-beef-products-due-possible-e.-coli-o157h7",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2011-02-05",
+  "end_date": "2012-06-01",
+  "summary": "WASHINGTON, Feb. 5, 2011 - American Food Service, a Pico Rivera, Calif. establishment, is recalling approximately 3,170 pounds of fresh ground beef patties and other bulk packages of ground beef products that may be contaminated with E. coli O157:H7, the U.S. Department of Agriculture's Food...\n",
+  "establishment": null,
+  "impacted_products": [
+    "(559002) American Companies 100% Pure Ground Beef 30-lb. case"
+  ],
+  "quantity_recovered": 1788,
+  "quantity_unit": "pounds",
+  "states": [
+    "California"
+  ]
+}

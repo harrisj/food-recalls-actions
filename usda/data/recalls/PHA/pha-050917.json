@@ -1,1 +1,21 @@
-{"id": "pha-050917", "title": "FSIS Issues Public Health Alert for Pork and Poultry Products Due to Possible Listeria Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-pork-and-poultry-products-due-possible-listeria", "reasons": ["Product Contamination"], "status": "Active", "risk_level": null, "start_date": "2017-05-09", "end_date": null, "summary": "Retail Distribution List (Jun 7, 2017) WASHINGTON, May 9, 2017 The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) is issuing a public health alert due to concerns that frozen ready-to-eat fried chicken and pork sausage products produced by Pinnacle Foods, Inc., a...\n", "establishment": null, "impacted_products": ["5.5-oz. individual frozen microwavable dinners containing French toast and a pork sausage patty with Aunt Jemima FRENCH TOAST AND SAUSAGE printed on the label and bearing UPC code 051000063915.", "16-oz. individual frozen microwavable dinners containing a waffle and a fried chicken piece with HUNGRY-MAN Selects BONELESS FRIED CHICKEN & WAFFLES printed on the label and bearing UPC code 658276202903."], "quantity_recovered": null, "quantity_unit": null, "states": null}
+{
+  "id": "pha-050917",
+  "title": "FSIS Issues Public Health Alert for Pork and Poultry Products Due to Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-pork-and-poultry-products-due-possible-listeria",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2017-05-09",
+  "end_date": null,
+  "summary": "Retail Distribution List (Jun 7, 2017) WASHINGTON, May 9, 2017 The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) is issuing a public health alert due to concerns that frozen ready-to-eat fried chicken and pork sausage products produced by Pinnacle Foods, Inc., a...\n",
+  "establishment": null,
+  "impacted_products": [
+    "5.5-oz. individual frozen microwavable dinners containing French toast and a pork sausage patty with Aunt Jemima FRENCH TOAST AND SAUSAGE printed on the label and bearing UPC code 051000063915.",
+    "16-oz. individual frozen microwavable dinners containing a waffle and a fried chicken piece with HUNGRY-MAN Selects BONELESS FRIED CHICKEN & WAFFLES printed on the label and bearing UPC code 658276202903."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}

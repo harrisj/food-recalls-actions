@@ -1,1 +1,31 @@
-{"id": "002-2019", "title": "Perdue Foods LLC Recalls Simplysmart Organics Gluten Free Chicken Nugget Products Due to Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/perdue-foods-llc-recalls-simplysmart-organics-gluten-free-chicken-nugget-products", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2019-01-17", "end_date": "2019-03-08", "summary": "WASHINGTON, Jan. 17, 2019 Perdue Foods, LLC, a Perry, Ga. establishment, is recalling approximately 68,244 pounds of ready-to-eat chicken nugget products that may be contaminated with extraneous materials, specifically wood, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The ready-to-eat...\n", "establishment": {"id": "P33944", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/perdue-foods-llc-9", "slug": "perdue-foods-llc-9", "name": "Perdue Foods LLC", "address": "240 GA Highway 247 Spur \n  Perry, GA 31069", "telephone": "(478) 988-5900", "grant_date": "2019-01-23", "activities": ["Poultry Processing"]}, "impacted_products": ["22-oz. plastic bag packages of frozen \u201cPERDUE SimplySmart ORGANICS BREADED CHICKEN BREAST NUGGETS GLUTEN FREE\u201d with \u201cBest By: Date 10/25/19\u201d and UPC Bar Code \u201c72745-80656\u201d represented on the label. "], "quantity_recovered": 11280, "quantity_unit": "pounds", "states": null}
+{
+  "id": "002-2019",
+  "title": "Perdue Foods LLC Recalls Simplysmart Organics Gluten Free Chicken Nugget Products Due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/perdue-foods-llc-recalls-simplysmart-organics-gluten-free-chicken-nugget-products",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2019-01-17",
+  "end_date": "2019-03-08",
+  "summary": "WASHINGTON, Jan. 17, 2019 Perdue Foods, LLC, a Perry, Ga. establishment, is recalling approximately 68,244 pounds of ready-to-eat chicken nugget products that may be contaminated with extraneous materials, specifically wood, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The ready-to-eat...\n",
+  "establishment": {
+    "id": "P33944",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/perdue-foods-llc-9",
+    "slug": "perdue-foods-llc-9",
+    "name": "Perdue Foods LLC",
+    "address": "240 GA Highway 247 Spur \n  Perry, GA 31069",
+    "telephone": "(478) 988-5900",
+    "grant_date": "2019-01-23",
+    "activities": [
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "22-oz. plastic bag packages of frozen \u201cPERDUE SimplySmart ORGANICS BREADED CHICKEN BREAST NUGGETS GLUTEN FREE\u201d with \u201cBest By: Date 10/25/19\u201d and UPC Bar Code \u201c72745-80656\u201d represented on the label. "
+  ],
+  "quantity_recovered": 11280,
+  "quantity_unit": "pounds",
+  "states": null
+}

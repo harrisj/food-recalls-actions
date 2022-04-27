@@ -1,1 +1,33 @@
-{"id": "088-2018", "title": "Malone's Fine Sausage, Inc. Recalls Pork Head Cheese Products due to Possible Listeria Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/malones-fine-sausage-inc.-recalls-pork-head-cheese-products-due-possible-listeria", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2018-10-10", "end_date": "2020-02-14", "summary": "WASHINGTON, Oct. 10, 2018 Malones Fine Sausage Inc., a Milwaukee, Wis. establishment, is recalling approximately 26,323 pounds of ready-to-eat pork head cheese product that may be adulterated with Listeria monocytogenes, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The ready-to-eat...", "establishment": {"id": "M15702", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/malones-fine-sausage-inc", "slug": "malones-fine-sausage-inc", "name": "Malone's Fine Sausage, Inc.", "address": "300 W. Walnut Street \n  Milwaukee, WI 53212", "telephone": "(414) 264-9894", "grant_date": "2016-08-11", "activities": ["Meat Processing"]}, "impacted_products": [], "quantity_recovered": 4242, "quantity_unit": "pounds", "states": ["Illinois", "Michigan", "Wisconsin"]}
+{
+  "id": "088-2018",
+  "title": "Malone's Fine Sausage, Inc. Recalls Pork Head Cheese Products due to Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/malones-fine-sausage-inc.-recalls-pork-head-cheese-products-due-possible-listeria",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2018-10-10",
+  "end_date": "2020-02-14",
+  "summary": "WASHINGTON, Oct. 10, 2018 Malones Fine Sausage Inc., a Milwaukee, Wis. establishment, is recalling approximately 26,323 pounds of ready-to-eat pork head cheese product that may be adulterated with Listeria monocytogenes, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The ready-to-eat...",
+  "establishment": {
+    "id": "M15702",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/malones-fine-sausage-inc",
+    "slug": "malones-fine-sausage-inc",
+    "name": "Malone's Fine Sausage, Inc.",
+    "address": "300 W. Walnut Street \n  Milwaukee, WI 53212",
+    "telephone": "(414) 264-9894",
+    "grant_date": "2016-08-11",
+    "activities": [
+      "Meat Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 4242,
+  "quantity_unit": "pounds",
+  "states": [
+    "Illinois",
+    "Michigan",
+    "Wisconsin"
+  ]
+}

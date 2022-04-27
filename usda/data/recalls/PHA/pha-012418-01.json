@@ -1,1 +1,34 @@
-{"id": "pha-012418-01", "title": "FSIS Issues Public Health Alert for Chicken and Pork Products Produced without the Benefit of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-chicken-and-pork-products-produced-without-benefit", "reasons": ["Produced Without Benefit of Inspection"], "status": "Active", "risk_level": null, "start_date": "2018-01-24", "end_date": null, "summary": "WASHINGTON, Jan. 24, 2018 The U.S. Department of Agriculture's (USDA) Food Safety and Inspection Service (FSIS) is issuing a public health alert because Pigeon Caterers, Inc., doing business as Carnival Brands, a New Orleans, La. establishment, produced and distributed approximately 140 pounds of a chicken...\n", "establishment": {"id": "M20103+P20103", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/pigeon-caterers-inc", "slug": "pigeon-caterers-inc", "name": "Pigeon Caterers, Inc", "address": "5900 S. Front St. \n  New Orleans, LA 70115", "telephone": "(504) 899-2460", "grant_date": "2009-06-15", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["6 oz. plastic containers containing CAJUN MAC with ENJOY BY dates of May 17, 2017 through Jan. 20, 2018."], "quantity_recovered": null, "quantity_unit": null, "states": ["Louisiana"]}
+{
+  "id": "pha-012418-01",
+  "title": "FSIS Issues Public Health Alert for Chicken and Pork Products Produced without the Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-chicken-and-pork-products-produced-without-benefit",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2018-01-24",
+  "end_date": null,
+  "summary": "WASHINGTON, Jan. 24, 2018 The U.S. Department of Agriculture's (USDA) Food Safety and Inspection Service (FSIS) is issuing a public health alert because Pigeon Caterers, Inc., doing business as Carnival Brands, a New Orleans, La. establishment, produced and distributed approximately 140 pounds of a chicken...\n",
+  "establishment": {
+    "id": "M20103+P20103",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/pigeon-caterers-inc",
+    "slug": "pigeon-caterers-inc",
+    "name": "Pigeon Caterers, Inc",
+    "address": "5900 S. Front St. \n  New Orleans, LA 70115",
+    "telephone": "(504) 899-2460",
+    "grant_date": "2009-06-15",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "6 oz. plastic containers containing CAJUN MAC with ENJOY BY dates of May 17, 2017 through Jan. 20, 2018."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Louisiana"
+  ]
+}

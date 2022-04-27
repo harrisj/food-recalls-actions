@@ -1,1 +1,19 @@
-{"id": "061-2018", "title": "The Beautiful Pig, Inc. Recalls Ready-To-Eat And Raw Pork And Beef Products Produced Without The Benefit Of Inspection And Shipped Under U.S. Retention", "url": "https://www.fsis.usda.gov/recalls-alerts/beautiful-pig-inc.-recalls-ready-eat-and-raw-pork-and-beef-products-produced-without", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2018-07-14", "end_date": "2018-07-30", "summary": "WASHINGTON, July 14, 2018 The Beautiful Pig, Inc., a Longview, Wash. establishment, is recalling an undetermined amount of ready-to-eat and raw pork and beef products because the products were produced, packed and distributed without the benefit of inspection and were also under U.S. retention when...", "establishment": null, "impacted_products": [], "quantity_recovered": 226, "quantity_unit": "pounds", "states": ["Oregon", "Washington"]}
+{
+  "id": "061-2018",
+  "title": "The Beautiful Pig, Inc. Recalls Ready-To-Eat And Raw Pork And Beef Products Produced Without The Benefit Of Inspection And Shipped Under U.S. Retention",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/beautiful-pig-inc.-recalls-ready-eat-and-raw-pork-and-beef-products-produced-without",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2018-07-14",
+  "end_date": "2018-07-30",
+  "summary": "WASHINGTON, July 14, 2018 The Beautiful Pig, Inc., a Longview, Wash. establishment, is recalling an undetermined amount of ready-to-eat and raw pork and beef products because the products were produced, packed and distributed without the benefit of inspection and were also under U.S. retention when...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 226,
+  "quantity_unit": "pounds",
+  "states": [
+    "Oregon",
+    "Washington"
+  ]
+}

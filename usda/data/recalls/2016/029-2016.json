@@ -1,1 +1,18 @@
-{"id": "029-2016", "title": "Perfect Fit Meals Recalls Poultry Products Due to Misbranding and Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/perfect-fit-meals-recalls-poultry-products-due-misbranding-and-undeclared-allergen", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2016-04-14", "end_date": "2017-06-22", "summary": "WASHINGTON, April 14, 2016 Perfect Fit Meals, LLC, a Houston, Texas establishment, is recalling approximately 10,455 pounds of poultry entrees due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products are mislabeled and one...", "establishment": null, "impacted_products": [], "quantity_recovered": 6922, "quantity_unit": "pounds", "states": ["Texas"]}
+{
+  "id": "029-2016",
+  "title": "Perfect Fit Meals Recalls Poultry Products Due to Misbranding and Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/perfect-fit-meals-recalls-poultry-products-due-misbranding-and-undeclared-allergen",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2016-04-14",
+  "end_date": "2017-06-22",
+  "summary": "WASHINGTON, April 14, 2016 Perfect Fit Meals, LLC, a Houston, Texas establishment, is recalling approximately 10,455 pounds of poultry entrees due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products are mislabeled and one...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 6922,
+  "quantity_unit": "pounds",
+  "states": [
+    "Texas"
+  ]
+}

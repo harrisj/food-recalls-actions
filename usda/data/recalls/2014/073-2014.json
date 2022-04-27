@@ -1,1 +1,22 @@
-{"id": "073-2014", "title": "Illinois Firm Recalls Chicken Products Due to Possible Salmonella Enteritidis Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/illinois-firm-recalls-chicken-products-due-possible-salmonella-enteritidis", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2014-10-24", "end_date": "2015-03-24", "summary": "WASHINGTON, October 24, 2014 Aspen Foods Division of Koch Meats, a Chicago, Il., based establishment, is recalling 28,980 pounds of chicken products that may be contaminated with a particular strain of Salmonella Enteritidis, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced...\n", "establishment": null, "impacted_products": ["Single 5 once plastic packets of Raw Stuffed Chicken Breast Breaded, Boneless Breast of Chicken with Rib Meat \u201cA La Kiev\u201d"], "quantity_recovered": 1234, "quantity_unit": "pounds", "states": ["Minnesota"]}
+{
+  "id": "073-2014",
+  "title": "Illinois Firm Recalls Chicken Products Due to Possible Salmonella Enteritidis Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/illinois-firm-recalls-chicken-products-due-possible-salmonella-enteritidis",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2014-10-24",
+  "end_date": "2015-03-24",
+  "summary": "WASHINGTON, October 24, 2014 Aspen Foods Division of Koch Meats, a Chicago, Il., based establishment, is recalling 28,980 pounds of chicken products that may be contaminated with a particular strain of Salmonella Enteritidis, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced...\n",
+  "establishment": null,
+  "impacted_products": [
+    "Single 5 once plastic packets of Raw Stuffed Chicken Breast Breaded, Boneless Breast of Chicken with Rib Meat \u201cA La Kiev\u201d"
+  ],
+  "quantity_recovered": 1234,
+  "quantity_unit": "pounds",
+  "states": [
+    "Minnesota"
+  ]
+}

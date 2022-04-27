@@ -1,1 +1,18 @@
-{"id": "072-2016", "title": "Panna Caf\u00c7 Express To Go Inc. Recalls Various Meat and Poultry Products Produced Without Benefit of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/panna-cafc-express-go-inc.-recalls-various-meat-and-poultry-products-produced", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2016-08-21", "end_date": "2016-09-14", "summary": "WASHINGTON, AUG. 21, 2016 Panna Caf\u00c3\u0087 Express To Go Inc., a North Miami Beach, Fla., establishment, is recalling approximately 1,951 pounds of various meat and poultry products that were produced without the benefit of federal inspection and used the USDA marks of inspection without authorization...", "establishment": null, "impacted_products": [], "quantity_recovered": 361, "quantity_unit": "pounds", "states": ["Florida"]}
+{
+  "id": "072-2016",
+  "title": "Panna Caf\u00c7 Express To Go Inc. Recalls Various Meat and Poultry Products Produced Without Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/panna-cafc-express-go-inc.-recalls-various-meat-and-poultry-products-produced",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2016-08-21",
+  "end_date": "2016-09-14",
+  "summary": "WASHINGTON, AUG. 21, 2016 Panna Caf\u00c3\u0087 Express To Go Inc., a North Miami Beach, Fla., establishment, is recalling approximately 1,951 pounds of various meat and poultry products that were produced without the benefit of federal inspection and used the USDA marks of inspection without authorization...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 361,
+  "quantity_unit": "pounds",
+  "states": [
+    "Florida"
+  ]
+}

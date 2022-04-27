@@ -1,1 +1,23 @@
-{"id": "019-2016", "title": "Flying Food Group, LLC Recalls Ready-To-Eat Wraps Due to Adulteration, Misbranding, and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/flying-food-group-llc-recalls-ready-eat-wraps-due-adulteration-misbranding-and", "reasons": ["Misbranding"], "status": "Closed", "risk_level": "High", "start_date": "2016-02-19", "end_date": "2016-05-25", "summary": "WASHINGTON, Feb. 19, 2016 Flying Food Group, LLC, a Grapevine, Texas establishment, is recalling approximately 1,006 pounds of Edamame Hummus Wrap products due to adulteration and misbranding, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The Edamame Hummus Wrap products...\n", "establishment": null, "impacted_products": ["6.8-oz. container of Starbucks brand Edamame Hummus Wrap"], "quantity_recovered": 0, "quantity_unit": "pounds", "states": ["Oklahoma", "Texas"]}
+{
+  "id": "019-2016",
+  "title": "Flying Food Group, LLC Recalls Ready-To-Eat Wraps Due to Adulteration, Misbranding, and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/flying-food-group-llc-recalls-ready-eat-wraps-due-adulteration-misbranding-and",
+  "reasons": [
+    "Misbranding"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2016-02-19",
+  "end_date": "2016-05-25",
+  "summary": "WASHINGTON, Feb. 19, 2016 Flying Food Group, LLC, a Grapevine, Texas establishment, is recalling approximately 1,006 pounds of Edamame Hummus Wrap products due to adulteration and misbranding, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The Edamame Hummus Wrap products...\n",
+  "establishment": null,
+  "impacted_products": [
+    "6.8-oz. container of Starbucks brand Edamame Hummus Wrap"
+  ],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": [
+    "Oklahoma",
+    "Texas"
+  ]
+}

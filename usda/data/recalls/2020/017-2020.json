@@ -1,1 +1,26 @@
-{"id": "017-2020", "title": "Jamaican Tastee Patties, LLC Recalls Meat and Poultry Patty Products Produced without Benefit of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/jamaican-tastee-patties-llc-recalls-meat-and-poultry-patty-products-produced-without", "reasons": ["Produced Without Benefit of Inspection"], "status": "Closed", "risk_level": "High", "start_date": "2020-07-28", "end_date": "2020-10-01", "summary": "WASHINGTON, July 28, 2020 \u2013 Jamaican Tastee Patties, LLC, a Miami, Fla. firm, is recalling approximately 60,457 pounds of meat and poultry patty products that were repackaged, relabeled and redistributed without the benefit of federal inspection, the U.S. Department of Agriculture\u2019s Food Safety and Inspection...\n", "establishment": null, "impacted_products": ["\u2022 18-oz. boxes containing 4 pieces of \u201cAUTHENTIC Jamaican STYLE TASTEE Patties JERK CHICKEN TURNOVERS BAKED\u201d", "\u2022 18-oz. boxes containing 4 pieces of \u201cAUTHENTIC Jamaican STYLE TASTEE Patties BEEF TURNOVERS SPICY BEEF BAKED\u201d", "\u2022 18-oz. boxes containing 4 pieces of \u201cJamaican STYLE TASTEE Patties TURNOVERS CURRY CHICKEN BAKED\u201d", "\u2022 18-oz. boxes containing 4 pieces of \u201cAUTHENTIC Jamaican STYLE TASTEE Patties BEEF TURNOVERS MILD BEEF BAKED\u201d", "\u2022 112-oz. (7-lb.) cases containing 24 pieces of \u201cAuthentic Jamaican STYLE TASTEE Patties BEEF TURNOVERS SPICY BEEF UNBAKED\u201d"], "quantity_recovered": 210, "quantity_unit": "pounds", "states": ["Florida"]}
+{
+  "id": "017-2020",
+  "title": "Jamaican Tastee Patties, LLC Recalls Meat and Poultry Patty Products Produced without Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/jamaican-tastee-patties-llc-recalls-meat-and-poultry-patty-products-produced-without",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2020-07-28",
+  "end_date": "2020-10-01",
+  "summary": "WASHINGTON, July 28, 2020 \u2013 Jamaican Tastee Patties, LLC, a Miami, Fla. firm, is recalling approximately 60,457 pounds of meat and poultry patty products that were repackaged, relabeled and redistributed without the benefit of federal inspection, the U.S. Department of Agriculture\u2019s Food Safety and Inspection...\n",
+  "establishment": null,
+  "impacted_products": [
+    "\u2022 18-oz. boxes containing 4 pieces of \u201cAUTHENTIC Jamaican STYLE TASTEE Patties JERK CHICKEN TURNOVERS BAKED\u201d",
+    "\u2022 18-oz. boxes containing 4 pieces of \u201cAUTHENTIC Jamaican STYLE TASTEE Patties BEEF TURNOVERS SPICY BEEF BAKED\u201d",
+    "\u2022 18-oz. boxes containing 4 pieces of \u201cJamaican STYLE TASTEE Patties TURNOVERS CURRY CHICKEN BAKED\u201d",
+    "\u2022 18-oz. boxes containing 4 pieces of \u201cAUTHENTIC Jamaican STYLE TASTEE Patties BEEF TURNOVERS MILD BEEF BAKED\u201d",
+    "\u2022 112-oz. (7-lb.) cases containing 24 pieces of \u201cAuthentic Jamaican STYLE TASTEE Patties BEEF TURNOVERS SPICY BEEF UNBAKED\u201d"
+  ],
+  "quantity_recovered": 210,
+  "quantity_unit": "pounds",
+  "states": [
+    "Florida"
+  ]
+}

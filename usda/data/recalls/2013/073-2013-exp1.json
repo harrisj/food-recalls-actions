@@ -1,1 +1,26 @@
-{"id": "073-2013-EXP1", "title": "Colorado Firm Recalls Meat And Poultry Products That Were Produced Under Insanitary Conditions", "url": "https://www.fsis.usda.gov/recalls-alerts/colorado-firm-recalls-meat-and-poultry-products-were-produced-under-insanitary-0", "reasons": ["Insanitary Conditions"], "status": "Closed", "risk_level": "High", "start_date": "2013-12-12", "end_date": "2016-09-19", "summary": "EDITOR'S NOTE: This release is being reissued to include an undetermined amount of product produced under additional brand names. WASHINGTON, Dec. 12, 2013 Yauk's Specialty Meats, a Windsor, Colo., establishment, is expanding its recall to include an undetermined amount of various meat and poultry products...\n", "establishment": null, "impacted_products": ["Products subject to the recall expansion include various meat and/or poultry products"], "quantity_recovered": 14415, "quantity_unit": " pounds", "states": ["Colorado", "Nebraska", "New Mexico", "Utah", "Wyoming"]}
+{
+  "id": "073-2013-EXP1",
+  "title": "Colorado Firm Recalls Meat And Poultry Products That Were Produced Under Insanitary Conditions",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/colorado-firm-recalls-meat-and-poultry-products-were-produced-under-insanitary-0",
+  "reasons": [
+    "Insanitary Conditions"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2013-12-12",
+  "end_date": "2016-09-19",
+  "summary": "EDITOR'S NOTE: This release is being reissued to include an undetermined amount of product produced under additional brand names. WASHINGTON, Dec. 12, 2013 Yauk's Specialty Meats, a Windsor, Colo., establishment, is expanding its recall to include an undetermined amount of various meat and poultry products...\n",
+  "establishment": null,
+  "impacted_products": [
+    "Products subject to the recall expansion include various meat and/or poultry products"
+  ],
+  "quantity_recovered": 14415,
+  "quantity_unit": " pounds",
+  "states": [
+    "Colorado",
+    "Nebraska",
+    "New Mexico",
+    "Utah",
+    "Wyoming"
+  ]
+}

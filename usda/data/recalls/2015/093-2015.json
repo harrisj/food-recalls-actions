@@ -1,1 +1,16 @@
-{"id": "093-2015", "title": "Recall Notification Report 093-2015 (Poultry Products )", "url": "https://www.fsis.usda.gov/recalls-alerts/recall-notification-report-093-2015-poultry-products", "reasons": [], "status": "Closed", "risk_level": null, "start_date": "2015-06-17", "end_date": "2017-08-14", "summary": "WASHINGTON, June 17, 2015 Pinnacle Foods Group, LLC, a Fayetteville, Ark. establishment, is recalling approximately 668,316 pounds of poultry products due to misbranding. The product contains monosodium glutamate (MSG), which is not declared on the label, the U.S. Department of Agricultures Food Safety and Inspection...", "establishment": null, "impacted_products": [], "quantity_recovered": 74210, "quantity_unit": "pounds", "states": null}
+{
+  "id": "093-2015",
+  "title": "Recall Notification Report 093-2015 (Poultry Products )",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/recall-notification-report-093-2015-poultry-products",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": null,
+  "start_date": "2015-06-17",
+  "end_date": "2017-08-14",
+  "summary": "WASHINGTON, June 17, 2015 Pinnacle Foods Group, LLC, a Fayetteville, Ark. establishment, is recalling approximately 668,316 pounds of poultry products due to misbranding. The product contains monosodium glutamate (MSG), which is not declared on the label, the U.S. Department of Agricultures Food Safety and Inspection...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 74210,
+  "quantity_unit": "pounds",
+  "states": null
+}

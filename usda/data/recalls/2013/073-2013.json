@@ -1,1 +1,27 @@
-{"id": "073-2013", "title": "Colorado Firm Recalls Meat And Poultry Products That Were Produced Under Insanitary Conditions", "url": "https://www.fsis.usda.gov/recalls-alerts/colorado-firm-recalls-meat-and-poultry-products-were-produced-under-insanitary-1", "reasons": ["Insanitary Conditions"], "status": "Closed", "risk_level": "High", "start_date": "2013-12-09", "end_date": "2015-03-24", "summary": "WASHINGTON, Dec. 9, 2013 Yauk's Specialty Meats, a Windsor, Colo., establishment, is recalling approximately 90,000 pounds of various meat and poultry products that were produced under insanitary conditions, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The following products are...\n", "establishment": null, "impacted_products": ["\u201cColorado Best Beef\u201d brand various fresh, smoked and shelf-stable meat products.", "\u201cJames Ranch\u201d brand jerky and summer sausage."], "quantity_recovered": 14415, "quantity_unit": " pounds", "states": ["Colorado", "Nebraska", "New Mexico", "Utah", "Wyoming"]}
+{
+  "id": "073-2013",
+  "title": "Colorado Firm Recalls Meat And Poultry Products That Were Produced Under Insanitary Conditions",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/colorado-firm-recalls-meat-and-poultry-products-were-produced-under-insanitary-1",
+  "reasons": [
+    "Insanitary Conditions"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2013-12-09",
+  "end_date": "2015-03-24",
+  "summary": "WASHINGTON, Dec. 9, 2013 Yauk's Specialty Meats, a Windsor, Colo., establishment, is recalling approximately 90,000 pounds of various meat and poultry products that were produced under insanitary conditions, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The following products are...\n",
+  "establishment": null,
+  "impacted_products": [
+    "\u201cColorado Best Beef\u201d brand various fresh, smoked and shelf-stable meat products.",
+    "\u201cJames Ranch\u201d brand jerky and summer sausage."
+  ],
+  "quantity_recovered": 14415,
+  "quantity_unit": " pounds",
+  "states": [
+    "Colorado",
+    "Nebraska",
+    "New Mexico",
+    "Utah",
+    "Wyoming"
+  ]
+}

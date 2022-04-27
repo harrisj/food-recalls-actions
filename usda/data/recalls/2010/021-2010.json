@@ -1,1 +1,44 @@
-{"id": "021-2010", "title": "Indiana Firm Recalls Fresh Sweet Italian Turkey Sausage Products Due To an Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/indiana-firm-recalls-fresh-sweet-italian-turkey-sausage-products-due-undeclared", "reasons": ["Unreported Allergens"], "status": "Closed", "risk_level": "Low", "start_date": "2010-03-19", "end_date": "2012-06-03", "summary": "WASHINGTON, March 19, 2010 - Perdue Farms, Inc., a Washington, Ind., establishment, is recalling approximately 10,368 pounds of fresh sweet Italian turkey sausage products because they contain an undeclared allergen. The product was prepared using an ingredient blend that contained milk, a known potential allergen...\n", "establishment": {"id": "P286", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/perdue-foods-llc-7", "slug": "perdue-foods-llc-7", "name": "Perdue Foods LLC", "address": "65 South 200 West \n  Washington, IN 47501", "telephone": "(812) 254-8562", "grant_date": "2017-11-03", "activities": ["Poultry Processing", "Poultry Slaughter"]}, "impacted_products": ["16-ounce packages of \"PERDUE, Sweet Italian, Lean, Turkey Sausage.\" Each package bears a use by date of \"USE BY 03/30/10\" or before, a UPC Code \"72745-10301,\" and the establishment number \"Est. P-286\" inside the USDA mark of inspection."], "quantity_recovered": 4124, "quantity_unit": "pounds", "states": ["Florida", "Illinois", "Indiana", "Kentucky", "Maryland", "Missouri", "New Jersey", "New York", "Ohio", "Pennsylvania", "Virginia"]}
+{
+  "id": "021-2010",
+  "title": "Indiana Firm Recalls Fresh Sweet Italian Turkey Sausage Products Due To an Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/indiana-firm-recalls-fresh-sweet-italian-turkey-sausage-products-due-undeclared",
+  "reasons": [
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2010-03-19",
+  "end_date": "2012-06-03",
+  "summary": "WASHINGTON, March 19, 2010 - Perdue Farms, Inc., a Washington, Ind., establishment, is recalling approximately 10,368 pounds of fresh sweet Italian turkey sausage products because they contain an undeclared allergen. The product was prepared using an ingredient blend that contained milk, a known potential allergen...\n",
+  "establishment": {
+    "id": "P286",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/perdue-foods-llc-7",
+    "slug": "perdue-foods-llc-7",
+    "name": "Perdue Foods LLC",
+    "address": "65 South 200 West \n  Washington, IN 47501",
+    "telephone": "(812) 254-8562",
+    "grant_date": "2017-11-03",
+    "activities": [
+      "Poultry Processing",
+      "Poultry Slaughter"
+    ]
+  },
+  "impacted_products": [
+    "16-ounce packages of \"PERDUE, Sweet Italian, Lean, Turkey Sausage.\" Each package bears a use by date of \"USE BY 03/30/10\" or before, a UPC Code \"72745-10301,\" and the establishment number \"Est. P-286\" inside the USDA mark of inspection."
+  ],
+  "quantity_recovered": 4124,
+  "quantity_unit": "pounds",
+  "states": [
+    "Florida",
+    "Illinois",
+    "Indiana",
+    "Kentucky",
+    "Maryland",
+    "Missouri",
+    "New Jersey",
+    "New York",
+    "Ohio",
+    "Pennsylvania",
+    "Virginia"
+  ]
+}

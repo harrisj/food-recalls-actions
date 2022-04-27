@@ -1,1 +1,32 @@
-{"id": "006-2010-EXP1", "title": "Rhode Island Firm Recalls Italian Sausage Products Due to Possible Salmonella Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/rhode-island-firm-recalls-italian-sausage-products-due-possible-salmonella-0", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2010-01-31", "end_date": "2013-06-03", "summary": "Editor's Note: This recall release is being reissued to expand the January 23 recall to include approximately 17,235 pounds of Italian sausage products. WASHINGTON, January 31, 2010 - Daniele International Inc., an establishment with operations in Pascoag and Mapleville, R.I., is expanding its January 23...\n", "establishment": {"id": "M54+P54", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/daniele-international", "slug": "daniele-international", "name": "Daniele International", "address": "1000 Daniele Drive \n  Mapleville, RI 2839", "telephone": "(401) 568-6228", "grant_date": "2020-07-17", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["Packages of \"DANIELE HOT SOPRESSATA CALABRESE,\" produced on 11/7/09, 12/16/09 and 12/18/09."], "quantity_recovered": 234686, "quantity_unit": "pounds", "states": null}
+{
+  "id": "006-2010-EXP1",
+  "title": "Rhode Island Firm Recalls Italian Sausage Products Due to Possible Salmonella Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/rhode-island-firm-recalls-italian-sausage-products-due-possible-salmonella-0",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2010-01-31",
+  "end_date": "2013-06-03",
+  "summary": "Editor's Note: This recall release is being reissued to expand the January 23 recall to include approximately 17,235 pounds of Italian sausage products. WASHINGTON, January 31, 2010 - Daniele International Inc., an establishment with operations in Pascoag and Mapleville, R.I., is expanding its January 23...\n",
+  "establishment": {
+    "id": "M54+P54",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/daniele-international",
+    "slug": "daniele-international",
+    "name": "Daniele International",
+    "address": "1000 Daniele Drive \n  Mapleville, RI 2839",
+    "telephone": "(401) 568-6228",
+    "grant_date": "2020-07-17",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "Packages of \"DANIELE HOT SOPRESSATA CALABRESE,\" produced on 11/7/09, 12/16/09 and 12/18/09."
+  ],
+  "quantity_recovered": 234686,
+  "quantity_unit": "pounds",
+  "states": null
+}

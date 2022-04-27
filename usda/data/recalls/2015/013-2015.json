@@ -1,1 +1,18 @@
-{"id": "013-2015", "title": "California Firm Recalls Pork Products Produced Without Benefit of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-pork-products-produced-without-benefit-inspection", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2015-01-17", "end_date": "2017-08-15", "summary": "WASHINGTON, Jan. 17, 2015 Food Club Corp., the importer of record which was formerly located in Los Altos, Calif., and is now located in Key Biscayne, Fla., is recalling approximately 3,233 pounds of pork products that were produced in Spain and were not presented at...", "establishment": null, "impacted_products": [], "quantity_recovered": 341, "quantity_unit": "pounds", "states": ["California"]}
+{
+  "id": "013-2015",
+  "title": "California Firm Recalls Pork Products Produced Without Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-pork-products-produced-without-benefit-inspection",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2015-01-17",
+  "end_date": "2017-08-15",
+  "summary": "WASHINGTON, Jan. 17, 2015 Food Club Corp., the importer of record which was formerly located in Los Altos, Calif., and is now located in Key Biscayne, Fla., is recalling approximately 3,233 pounds of pork products that were produced in Spain and were not presented at...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 341,
+  "quantity_unit": "pounds",
+  "states": [
+    "California"
+  ]
+}

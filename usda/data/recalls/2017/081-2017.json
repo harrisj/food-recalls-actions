@@ -1,1 +1,34 @@
-{"id": "081-2017", "title": "Custom Culinary, Inc. Recalls Chicken and Beef Products Due to Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/custom-culinary-inc.-recalls-chicken-and-beef-products-due-misbranding-and", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "Low", "start_date": "2017-07-14", "end_date": "2017-08-29", "summary": "WASHINGTON, July 14, 2017 Custom Culinary, Inc., an Oswego, Ill. establishment, is recalling approximately 9,444 pounds of chicken and beef base products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products labels incorrectly...\n", "establishment": {"id": "M2016+P1278", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/custom-culinary-inc-0", "slug": "custom-culinary-inc-0", "name": "Custom Culinary, Inc.", "address": "2100 Wiesbrook Drive \n  Oswego, IL 60543", "telephone": "(630) 299-0500", "grant_date": "2015-07-20", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["6-lb. corrugate case \u201cMolly\u2019s Kitchen Soup Base Paste Beef Base Paste - NO MSG Added with a lot code of 72505 239497 or 72505 239498.", "1-lb. white plastic jars of \u201cMolly\u2019s Kitchen Chicken Base Paste / 301817 / No MSG Added with a lot code of 72505 239497 or 72505 239498"], "quantity_recovered": 9396, "quantity_unit": "pounds", "states": null}
+{
+  "id": "081-2017",
+  "title": "Custom Culinary, Inc. Recalls Chicken and Beef Products Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/custom-culinary-inc.-recalls-chicken-and-beef-products-due-misbranding-and",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2017-07-14",
+  "end_date": "2017-08-29",
+  "summary": "WASHINGTON, July 14, 2017 Custom Culinary, Inc., an Oswego, Ill. establishment, is recalling approximately 9,444 pounds of chicken and beef base products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products labels incorrectly...\n",
+  "establishment": {
+    "id": "M2016+P1278",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/custom-culinary-inc-0",
+    "slug": "custom-culinary-inc-0",
+    "name": "Custom Culinary, Inc.",
+    "address": "2100 Wiesbrook Drive \n  Oswego, IL 60543",
+    "telephone": "(630) 299-0500",
+    "grant_date": "2015-07-20",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "6-lb. corrugate case \u201cMolly\u2019s Kitchen Soup Base Paste Beef Base Paste - NO MSG Added with a lot code of 72505 239497 or 72505 239498.",
+    "1-lb. white plastic jars of \u201cMolly\u2019s Kitchen Chicken Base Paste / 301817 / No MSG Added with a lot code of 72505 239497 or 72505 239498"
+  ],
+  "quantity_recovered": 9396,
+  "quantity_unit": "pounds",
+  "states": null
+}

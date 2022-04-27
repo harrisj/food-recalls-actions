@@ -1,1 +1,31 @@
-{"id": "PHA-08012020", "title": "FSIS Issues Public Health Alert for Meat and Poultry Taquitos and Chimichangas Containing FDA-Regulated Diced Green Chilies That Have Been Recalled Due to Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-meat-and-poultry-taquitos-and-chimichangas", "reasons": ["Product Contamination", "Unfit for Human Consumption"], "status": "Active", "risk_level": null, "start_date": "2020-08-01", "end_date": null, "summary": "WASHINGTON, Aug. 1, 2020 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for ready-to-eat (RTE) beef and chicken taquitos and chimichangas products containing Food and Drug Administration (FDA) regulated diced green chilies that have been...\n", "establishment": {"id": "M5590+P5590", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/ajinomoto-foods-north-america", "slug": "ajinomoto-foods-north-america", "name": "Ajinomoto Foods North America", "address": "601 East 3rd Street \n  Lampasas, TX 76550", "telephone": "(512) 528-7500", "grant_date": "2018-09-18", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": null, "quantity_unit": null, "states": null}
+{
+  "id": "PHA-08012020",
+  "title": "FSIS Issues Public Health Alert for Meat and Poultry Taquitos and Chimichangas Containing FDA-Regulated Diced Green Chilies That Have Been Recalled Due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-meat-and-poultry-taquitos-and-chimichangas",
+  "reasons": [
+    "Product Contamination",
+    "Unfit for Human Consumption"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2020-08-01",
+  "end_date": null,
+  "summary": "WASHINGTON, Aug. 1, 2020 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for ready-to-eat (RTE) beef and chicken taquitos and chimichangas products containing Food and Drug Administration (FDA) regulated diced green chilies that have been...\n",
+  "establishment": {
+    "id": "M5590+P5590",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/ajinomoto-foods-north-america",
+    "slug": "ajinomoto-foods-north-america",
+    "name": "Ajinomoto Foods North America",
+    "address": "601 East 3rd Street \n  Lampasas, TX 76550",
+    "telephone": "(512) 528-7500",
+    "grant_date": "2018-09-18",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}

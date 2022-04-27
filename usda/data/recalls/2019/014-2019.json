@@ -1,1 +1,43 @@
-{"id": "014-2019", "title": "VICS Acquisition, LLC Recalls Chicken Products  due to Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/vics-acquisition-llc-recalls-chicken-products-due-misbranding-and-undeclared", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2019-02-10", "end_date": "2019-11-26", "summary": "WASHINGTON, Feb. 10, 2019 VICS Acquisition, LLC, a Harlingen, Texas, establishment, is recalling approximately 99,975 pounds of chicken products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products contain eggs, a known allergen...\n", "establishment": {"id": "M34622+P34622", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/vics-acquisition-llc", "slug": "vics-acquisition-llc", "name": "VICS Acquisition, LLC", "address": "200 N FM 509 \n  Harlingen, TX 78550", "telephone": "(956) 423-7799", "grant_date": "2019-03-27", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["21 oz. packages containing one frozen steam bag meal of \u201chappi foodi BLOODY MARY INSPIRED CHICKEN\u201d with lot codes 14528 and 15092 and use by dates of March 2, 2020 and April 15, 2020. ", "21 oz. packages containing one frozen steam bag meal of \u201cSE Grocers MARSALA CHICKEN\u201d with lot codes 14177 and 14532 and use by dates of Feb. 8, 2020 and March 3, 2020. ", "21 oz. packages containing one frozen steam bag meal of \u201cSE Grocers MEDITERRANEAN STYLE HERB CHICKEN\u201d with lot codes 14145 and 14531 and use by dates of Feb. 7, 2020 and March 4, 2020. "], "quantity_recovered": 28586, "quantity_unit": "pounds", "states": ["Alabama", "Florida", "Georgia", "Louisiana", "Mississippi", "North Carolina", "South Carolina"]}
+{
+  "id": "014-2019",
+  "title": "VICS Acquisition, LLC Recalls Chicken Products  due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/vics-acquisition-llc-recalls-chicken-products-due-misbranding-and-undeclared",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2019-02-10",
+  "end_date": "2019-11-26",
+  "summary": "WASHINGTON, Feb. 10, 2019 VICS Acquisition, LLC, a Harlingen, Texas, establishment, is recalling approximately 99,975 pounds of chicken products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products contain eggs, a known allergen...\n",
+  "establishment": {
+    "id": "M34622+P34622",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/vics-acquisition-llc",
+    "slug": "vics-acquisition-llc",
+    "name": "VICS Acquisition, LLC",
+    "address": "200 N FM 509 \n  Harlingen, TX 78550",
+    "telephone": "(956) 423-7799",
+    "grant_date": "2019-03-27",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "21 oz. packages containing one frozen steam bag meal of \u201chappi foodi BLOODY MARY INSPIRED CHICKEN\u201d with lot codes 14528 and 15092 and use by dates of March 2, 2020 and April 15, 2020. ",
+    "21 oz. packages containing one frozen steam bag meal of \u201cSE Grocers MARSALA CHICKEN\u201d with lot codes 14177 and 14532 and use by dates of Feb. 8, 2020 and March 3, 2020. ",
+    "21 oz. packages containing one frozen steam bag meal of \u201cSE Grocers MEDITERRANEAN STYLE HERB CHICKEN\u201d with lot codes 14145 and 14531 and use by dates of Feb. 7, 2020 and March 4, 2020. "
+  ],
+  "quantity_recovered": 28586,
+  "quantity_unit": "pounds",
+  "states": [
+    "Alabama",
+    "Florida",
+    "Georgia",
+    "Louisiana",
+    "Mississippi",
+    "North Carolina",
+    "South Carolina"
+  ]
+}

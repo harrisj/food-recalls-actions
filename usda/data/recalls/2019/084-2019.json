@@ -1,1 +1,34 @@
-{"id": "084-2019", "title": "Tyson Foods, Inc. Recalls Weaver Brand Ready-To-Eat Chicken Patty Products due to Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/tyson-foods-inc.-recalls-weaver-brand-ready-eat-chicken-patty-products-due-possible", "reasons": ["Product Contamination"], "status": "Active", "risk_level": "High", "start_date": "2019-08-15", "end_date": null, "summary": "WASHINGTON, Aug. 15, 2019 Tyson Foods Inc., a Pine Bluff, Ark. establishment, is recalling approximately 39,078 pounds of Weaver brand frozen chicken patty product that may be contaminated with extraneous materials, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The...\n", "establishment": {"id": "M13456+P13456+V13456", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/tyson-foods-inc-37", "slug": "tyson-foods-inc-37", "name": "Tyson Foods, Inc.", "address": "5505 Jefferson Parkway \n  Pine Bluff, AR 71602", "telephone": "(870) 247-9127", "grant_date": "2018-10-15", "activities": ["Certification - Export", "Meat Processing", "Poultry Processing", "Poultry Slaughter"]}, "impacted_products": ["Weaver CHICKEN BREAST PATTIES BREADED CHICKEN BREAST PATTIES WITH RIB MEAT"], "quantity_recovered": null, "quantity_unit": null, "states": null}
+{
+  "id": "084-2019",
+  "title": "Tyson Foods, Inc. Recalls Weaver Brand Ready-To-Eat Chicken Patty Products due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/tyson-foods-inc.-recalls-weaver-brand-ready-eat-chicken-patty-products-due-possible",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2019-08-15",
+  "end_date": null,
+  "summary": "WASHINGTON, Aug. 15, 2019 Tyson Foods Inc., a Pine Bluff, Ark. establishment, is recalling approximately 39,078 pounds of Weaver brand frozen chicken patty product that may be contaminated with extraneous materials, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The...\n",
+  "establishment": {
+    "id": "M13456+P13456+V13456",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/tyson-foods-inc-37",
+    "slug": "tyson-foods-inc-37",
+    "name": "Tyson Foods, Inc.",
+    "address": "5505 Jefferson Parkway \n  Pine Bluff, AR 71602",
+    "telephone": "(870) 247-9127",
+    "grant_date": "2018-10-15",
+    "activities": [
+      "Certification - Export",
+      "Meat Processing",
+      "Poultry Processing",
+      "Poultry Slaughter"
+    ]
+  },
+  "impacted_products": [
+    "Weaver CHICKEN BREAST PATTIES BREADED CHICKEN BREAST PATTIES WITH RIB MEAT"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}

@@ -1,1 +1,41 @@
-{"id": "028-2013", "title": "Louisiana Firm Recalls Roast Beef Deli Meat Due To Possible Listeria Monocytogenes Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/louisiana-firm-recalls-roast-beef-deli-meat-due-possible-listeria-monocytogenes", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2013-04-10", "end_date": "2016-10-05", "summary": "WASHINGTON, April 10, 2013 - Manda Packing Company, a Baker, La., establishment, is recalling approximately 20,166 pounds of cooked roast beef deli meat due to possible contamination with Listeria monocytogenes, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. Various weights...\n", "establishment": {"id": "M8746+P8746", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/manda-packing-company", "slug": "manda-packing-company", "name": "Manda Packing Company", "address": "2442 Sorrel Ave \n  Baton Rouge, LA 70802", "telephone": "(504) 344-7636", "grant_date": "1999-11-03", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["Various weights of the following products are subject to recall: Manda Supreme Roast Beef, Four Star Cajun Roast Beef..."], "quantity_recovered": 189117, "quantity_unit": "pounds", "states": ["Alabama", "Florida", "Illinois", "Louisiana", "Mississippi", "Oklahoma", "Tennessee", "Texas"]}
+{
+  "id": "028-2013",
+  "title": "Louisiana Firm Recalls Roast Beef Deli Meat Due To Possible Listeria Monocytogenes Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/louisiana-firm-recalls-roast-beef-deli-meat-due-possible-listeria-monocytogenes",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2013-04-10",
+  "end_date": "2016-10-05",
+  "summary": "WASHINGTON, April 10, 2013 - Manda Packing Company, a Baker, La., establishment, is recalling approximately 20,166 pounds of cooked roast beef deli meat due to possible contamination with Listeria monocytogenes, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. Various weights...\n",
+  "establishment": {
+    "id": "M8746+P8746",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/manda-packing-company",
+    "slug": "manda-packing-company",
+    "name": "Manda Packing Company",
+    "address": "2442 Sorrel Ave \n  Baton Rouge, LA 70802",
+    "telephone": "(504) 344-7636",
+    "grant_date": "1999-11-03",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "Various weights of the following products are subject to recall: Manda Supreme Roast Beef, Four Star Cajun Roast Beef..."
+  ],
+  "quantity_recovered": 189117,
+  "quantity_unit": "pounds",
+  "states": [
+    "Alabama",
+    "Florida",
+    "Illinois",
+    "Louisiana",
+    "Mississippi",
+    "Oklahoma",
+    "Tennessee",
+    "Texas"
+  ]
+}

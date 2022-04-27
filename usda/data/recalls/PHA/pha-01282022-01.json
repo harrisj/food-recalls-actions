@@ -1,1 +1,22 @@
-{"id": "PHA-01282022-01", "title": "FSIS Issues Public Health Alert for Ready-To-Eat Chicken Salad Products Due to Possible Listeria Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-chicken-salad-products-due-possible", "reasons": ["Product Contamination"], "status": "Active", "risk_level": null, "start_date": "2022-01-28", "end_date": null, "summary": "WASHINGTON, Jan. 28, 2022 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert due to concerns that ready-to-eat (RTE) chicken salad products produced by Simply Fresh Market, a Marietta, Ga. establishment, may be contaminated with Listeria...\n", "establishment": null, "impacted_products": ["8-oz and 16-oz. deli hinged containers of \u201csimply fresh MARKET CHICKEN SALAD Apples & Walnuts"], "quantity_recovered": null, "quantity_unit": null, "states": ["Georgia"]}
+{
+  "id": "PHA-01282022-01",
+  "title": "FSIS Issues Public Health Alert for Ready-To-Eat Chicken Salad Products Due to Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-chicken-salad-products-due-possible",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2022-01-28",
+  "end_date": null,
+  "summary": "WASHINGTON, Jan. 28, 2022 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert due to concerns that ready-to-eat (RTE) chicken salad products produced by Simply Fresh Market, a Marietta, Ga. establishment, may be contaminated with Listeria...\n",
+  "establishment": null,
+  "impacted_products": [
+    "8-oz and 16-oz. deli hinged containers of \u201csimply fresh MARKET CHICKEN SALAD Apples & Walnuts"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Georgia"
+  ]
+}

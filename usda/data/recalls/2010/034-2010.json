@@ -1,1 +1,23 @@
-{"id": "034-2010", "title": "California Firm Recalls Ground Beef Products Due To Possible E. coli O157:H7 Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-ground-beef-products-due-possible-e.-coli-o157h7-0", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2010-05-15", "end_date": "2012-06-04", "summary": "Editor's Note, May 20, 2010: The distribution of the product subject to recall has been amended to wholesalers, restaurants, institutions, and federal establishments for further processing. WASHINGTON, May 15, 2010 - Montclair Meat Co., Inc., a Montclair, Calif., establishment is recalling approximately 53,000 pounds of...\n", "establishment": null, "impacted_products": ["Various pound packages of \"MONTCLAIR MEAT CO. GROUND BEEF\"", "Various pound packages of \"MONTCLAIR MEAT CO. ALL BEEF PATTIES\""], "quantity_recovered": 11985, "quantity_unit": "pounds", "states": ["California"]}
+{
+  "id": "034-2010",
+  "title": "California Firm Recalls Ground Beef Products Due To Possible E. coli O157:H7 Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-ground-beef-products-due-possible-e.-coli-o157h7-0",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2010-05-15",
+  "end_date": "2012-06-04",
+  "summary": "Editor's Note, May 20, 2010: The distribution of the product subject to recall has been amended to wholesalers, restaurants, institutions, and federal establishments for further processing. WASHINGTON, May 15, 2010 - Montclair Meat Co., Inc., a Montclair, Calif., establishment is recalling approximately 53,000 pounds of...\n",
+  "establishment": null,
+  "impacted_products": [
+    "Various pound packages of \"MONTCLAIR MEAT CO. GROUND BEEF\"",
+    "Various pound packages of \"MONTCLAIR MEAT CO. ALL BEEF PATTIES\""
+  ],
+  "quantity_recovered": 11985,
+  "quantity_unit": "pounds",
+  "states": [
+    "California"
+  ]
+}

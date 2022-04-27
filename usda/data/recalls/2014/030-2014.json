@@ -1,1 +1,32 @@
-{"id": "030-2014", "title": "Michigan Firm Recalls Ground Beef Products Due To Possible E. Coli O157:H7", "url": "https://www.fsis.usda.gov/recalls-alerts/michigan-firm-recalls-ground-beef-products-due-possible-e.-coli-o157h7", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2014-05-19", "end_date": "2016-06-14", "summary": "EDITOR'S NOTE added on May 19, 2014: Upon further investigation, FSIS now believes the product was sent to distribution centers nationwide. EDITOR'S NOTE added on May 21, 2014: The illness onset date has been corrected to May 8, 2014. EDITOR'S NOTE added on May 23...\n", "establishment": {"id": "M2574B+P2574B", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/wolverine-packing-co-0", "slug": "wolverine-packing-co-0", "name": "Wolverine Packing Co.", "address": "1337 Winder \n  Detroit, MI 48207", "telephone": "(313) 259-7500", "grant_date": "2007-02-26", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["The ground beef products were produced between March 31, 2014 and April 18, 2014. For a full list of products that were recalled please see the attached document."], "quantity_recovered": 35024, "quantity_unit": "pounds", "states": null}
+{
+  "id": "030-2014",
+  "title": "Michigan Firm Recalls Ground Beef Products Due To Possible E. Coli O157:H7",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/michigan-firm-recalls-ground-beef-products-due-possible-e.-coli-o157h7",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2014-05-19",
+  "end_date": "2016-06-14",
+  "summary": "EDITOR'S NOTE added on May 19, 2014: Upon further investigation, FSIS now believes the product was sent to distribution centers nationwide. EDITOR'S NOTE added on May 21, 2014: The illness onset date has been corrected to May 8, 2014. EDITOR'S NOTE added on May 23...\n",
+  "establishment": {
+    "id": "M2574B+P2574B",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/wolverine-packing-co-0",
+    "slug": "wolverine-packing-co-0",
+    "name": "Wolverine Packing Co.",
+    "address": "1337 Winder \n  Detroit, MI 48207",
+    "telephone": "(313) 259-7500",
+    "grant_date": "2007-02-26",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "The ground beef products were produced between March 31, 2014 and April 18, 2014. For a full list of products that were recalled please see the attached document."
+  ],
+  "quantity_recovered": 35024,
+  "quantity_unit": "pounds",
+  "states": null
+}

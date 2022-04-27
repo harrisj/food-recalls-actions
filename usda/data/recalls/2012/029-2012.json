@@ -1,1 +1,22 @@
-{"id": "029-2012", "title": "Texas Firm Recalls Beef Samosa Products Due To Lack of Federal Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/texas-firm-recalls-beef-samosa-products-due-lack-federal-inspection", "reasons": ["Produced Without Benefit of Inspection"], "status": "Closed", "risk_level": "Low", "start_date": "2012-05-17", "end_date": "2013-05-28", "summary": "Editor's Note: (May 17, 2012): This Recall Notification Report was issued May 16, 2012. On May 17, 2012, FSIS determined a change in status from a Class III to a Class II recall was warranted because a meat ingredient did not receive federal inspection. Although...\n", "establishment": null, "impacted_products": ["12-oz. bags of \"Raj Foods Halal Beef Samosa(s),\" containing 12, 1-oz. beef samosas per bag"], "quantity_recovered": 155, "quantity_unit": "pounds", "states": ["Texas"]}
+{
+  "id": "029-2012",
+  "title": "Texas Firm Recalls Beef Samosa Products Due To Lack of Federal Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/texas-firm-recalls-beef-samosa-products-due-lack-federal-inspection",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2012-05-17",
+  "end_date": "2013-05-28",
+  "summary": "Editor's Note: (May 17, 2012): This Recall Notification Report was issued May 16, 2012. On May 17, 2012, FSIS determined a change in status from a Class III to a Class II recall was warranted because a meat ingredient did not receive federal inspection. Although...\n",
+  "establishment": null,
+  "impacted_products": [
+    "12-oz. bags of \"Raj Foods Halal Beef Samosa(s),\" containing 12, 1-oz. beef samosas per bag"
+  ],
+  "quantity_recovered": 155,
+  "quantity_unit": "pounds",
+  "states": [
+    "Texas"
+  ]
+}

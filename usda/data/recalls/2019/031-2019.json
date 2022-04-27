@@ -1,1 +1,35 @@
-{"id": "031-2019", "title": "Productos La Aguadillana, Inc. Recalls Breaded Chicken Products Due to Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/productos-la-aguadillana-inc.-recalls-breaded-chicken-products-due-possible-foreign", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2019-03-14", "end_date": "2019-11-27", "summary": "WASHINGTON, March 14, 2019 Productos La Aguadillana, Inc., an Aguadilla, Puerto Rico establishment, is recalling approximately 35,870 pounds of breaded chicken patty products that may be contaminated with extraneous materials, specifically pieces of metal, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS)...\n", "establishment": {"id": "M7360+P7360", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/productos-la-aguadillana-inc", "slug": "productos-la-aguadillana-inc", "name": "Productos La Aguadillana, Inc.", "address": "Carr. 467 Km 1.4 Bo. Borinquen \n  Aguadilla, PR 603", "telephone": "(787) 891-5720", "grant_date": "2017-02-27", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["10-lb. boxes containing 47 portions of \u201cProductos La Aguadillana, Inc. Breaded Chicken Patty,\u201d with a case code of TCE03060A, a packaging date of 03/01/2019, and an expiration date of 02/29/2020 represented on the label. ", "10-lb. boxes containing 47 portions of \u201cProductos La Aguadillana, Inc. Breaded Chicken Patty,\u201d with a case code of TCE03058A, a packaging date of 02/27/2019, and an expiration date of 02/27/2020 represented on the label. "], "quantity_recovered": 3246, "quantity_unit": "pounds", "states": ["Puerto Rico"]}
+{
+  "id": "031-2019",
+  "title": "Productos La Aguadillana, Inc. Recalls Breaded Chicken Products Due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/productos-la-aguadillana-inc.-recalls-breaded-chicken-products-due-possible-foreign",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2019-03-14",
+  "end_date": "2019-11-27",
+  "summary": "WASHINGTON, March 14, 2019 Productos La Aguadillana, Inc., an Aguadilla, Puerto Rico establishment, is recalling approximately 35,870 pounds of breaded chicken patty products that may be contaminated with extraneous materials, specifically pieces of metal, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS)...\n",
+  "establishment": {
+    "id": "M7360+P7360",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/productos-la-aguadillana-inc",
+    "slug": "productos-la-aguadillana-inc",
+    "name": "Productos La Aguadillana, Inc.",
+    "address": "Carr. 467 Km 1.4 Bo. Borinquen \n  Aguadilla, PR 603",
+    "telephone": "(787) 891-5720",
+    "grant_date": "2017-02-27",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "10-lb. boxes containing 47 portions of \u201cProductos La Aguadillana, Inc. Breaded Chicken Patty,\u201d with a case code of TCE03060A, a packaging date of 03/01/2019, and an expiration date of 02/29/2020 represented on the label. ",
+    "10-lb. boxes containing 47 portions of \u201cProductos La Aguadillana, Inc. Breaded Chicken Patty,\u201d with a case code of TCE03058A, a packaging date of 02/27/2019, and an expiration date of 02/27/2020 represented on the label. "
+  ],
+  "quantity_recovered": 3246,
+  "quantity_unit": "pounds",
+  "states": [
+    "Puerto Rico"
+  ]
+}

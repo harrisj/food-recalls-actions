@@ -1,1 +1,21 @@
-{"id": "017-2010", "title": "Texas Firm Recalls Ready-To-Eat Beef Taquito and Chicken Quesadilla Products due to Possible Salmonella Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/texas-firm-recalls-ready-eat-beef-taquito-and-chicken-quesadilla-products-due", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2010-03-09", "end_date": "2012-06-03", "summary": "WASHINGTON, March 9, 2010 - Windsor Foods, a firm with operations in Lampasas, Texas, and Oakland, Miss., is recalling approximately 1.7 million pounds of ready-to-eat (RTE) beef taquito and chicken quesadilla products that may be contaminated with Salmonella. The packages of beef taquito and chicken...\n", "establishment": null, "impacted_products": ["Beef Taquito Products", "Chicken Quesadilla Products"], "quantity_recovered": 517705, "quantity_unit": "pounds", "states": null}
+{
+  "id": "017-2010",
+  "title": "Texas Firm Recalls Ready-To-Eat Beef Taquito and Chicken Quesadilla Products due to Possible Salmonella Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/texas-firm-recalls-ready-eat-beef-taquito-and-chicken-quesadilla-products-due",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2010-03-09",
+  "end_date": "2012-06-03",
+  "summary": "WASHINGTON, March 9, 2010 - Windsor Foods, a firm with operations in Lampasas, Texas, and Oakland, Miss., is recalling approximately 1.7 million pounds of ready-to-eat (RTE) beef taquito and chicken quesadilla products that may be contaminated with Salmonella. The packages of beef taquito and chicken...\n",
+  "establishment": null,
+  "impacted_products": [
+    "Beef Taquito Products",
+    "Chicken Quesadilla Products"
+  ],
+  "quantity_recovered": 517705,
+  "quantity_unit": "pounds",
+  "states": null
+}

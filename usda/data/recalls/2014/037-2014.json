@@ -1,1 +1,35 @@
-{"id": "037-2014", "title": "Michigan Firm Recalls Bacon Product Due To Misbranding and Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/michigan-firm-recalls-bacon-product-due-misbranding-and-undeclared-allergen", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "Low", "start_date": "2014-06-19", "end_date": "2016-06-14", "summary": "WASHINGTON, June 19, 2014 Dearborn Sausage Co., a Dearborn, Mich., establishment, is recalling approximately 3,660 pounds of slab bacon due to misbranding and an undeclared allergen, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The product was formulated with hydrolyzed...\n", "establishment": {"id": "M10002+P10002+V10002", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/dearborn-sausage-company-inc", "slug": "dearborn-sausage-company-inc", "name": "Dearborn Sausage Company Inc", "address": "2471 Wyoming  Avenue \n  Dearborn, MI 48120", "telephone": "(313) 842-2375", "grant_date": "2007-03-14", "activities": ["Meat Processing", "Poultry Processing", "Voluntary Processing - Exotic", "Voluntary Processing - Meat"]}, "impacted_products": ["Cases of \u201cRandy\u2019s Slab Bacon\u201d with package codes \u201c114070, 114094, and 114122\u201d"], "quantity_recovered": 0, "quantity_unit": "pounds", "states": null}
+{
+  "id": "037-2014",
+  "title": "Michigan Firm Recalls Bacon Product Due To Misbranding and Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/michigan-firm-recalls-bacon-product-due-misbranding-and-undeclared-allergen",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2014-06-19",
+  "end_date": "2016-06-14",
+  "summary": "WASHINGTON, June 19, 2014 Dearborn Sausage Co., a Dearborn, Mich., establishment, is recalling approximately 3,660 pounds of slab bacon due to misbranding and an undeclared allergen, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The product was formulated with hydrolyzed...\n",
+  "establishment": {
+    "id": "M10002+P10002+V10002",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/dearborn-sausage-company-inc",
+    "slug": "dearborn-sausage-company-inc",
+    "name": "Dearborn Sausage Company Inc",
+    "address": "2471 Wyoming  Avenue \n  Dearborn, MI 48120",
+    "telephone": "(313) 842-2375",
+    "grant_date": "2007-03-14",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing",
+      "Voluntary Processing - Exotic",
+      "Voluntary Processing - Meat"
+    ]
+  },
+  "impacted_products": [
+    "Cases of \u201cRandy\u2019s Slab Bacon\u201d with package codes \u201c114070, 114094, and 114122\u201d"
+  ],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": null
+}

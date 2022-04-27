@@ -1,1 +1,32 @@
-{"id": "017-2021", "title": "Bellisio Foods, Inc. Recalls Beef Pasta Products Due to Misbranding and an Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/bellisio-foods-inc.-recalls-beef-pasta-products-due-misbranding-and-undeclared", "reasons": ["Misbranding"], "status": "Closed", "risk_level": "High", "start_date": "2021-05-04", "end_date": "2021-06-14", "summary": "WASHINGTON, May 4, 2021 \u2013 Bellisio Foods, Inc., a Jackson, Ohio establishment, is recalling approximately 3,927 pounds of not-ready-to-eat (NRTE) spaghetti with meat sauce product due to misbranding and an undeclared allergen, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today...\n", "establishment": {"id": "M18297+P18297", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/bellisio-foods-inc", "slug": "bellisio-foods-inc", "name": "Bellisio Foods, Inc.", "address": "100 E. Broadway Street \n  Jackson, OH 45640", "telephone": "(740) 286-5505", "grant_date": "2017-09-05", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["\u2022\t8.5-oz paperboard tray with lid packages containing \u201cMichelina\u2019s Spaghetti with Meat Sauce\u201d with lot code J1112N8, \u201cBEST BY 22APR2022\u201d, and a UPC code of \u201c7 17854 10503 9\u201d on the bottom label. "], "quantity_recovered": 1977, "quantity_unit": "pounds", "states": null}
+{
+  "id": "017-2021",
+  "title": "Bellisio Foods, Inc. Recalls Beef Pasta Products Due to Misbranding and an Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/bellisio-foods-inc.-recalls-beef-pasta-products-due-misbranding-and-undeclared",
+  "reasons": [
+    "Misbranding"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2021-05-04",
+  "end_date": "2021-06-14",
+  "summary": "WASHINGTON, May 4, 2021 \u2013 Bellisio Foods, Inc., a Jackson, Ohio establishment, is recalling approximately 3,927 pounds of not-ready-to-eat (NRTE) spaghetti with meat sauce product due to misbranding and an undeclared allergen, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today...\n",
+  "establishment": {
+    "id": "M18297+P18297",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/bellisio-foods-inc",
+    "slug": "bellisio-foods-inc",
+    "name": "Bellisio Foods, Inc.",
+    "address": "100 E. Broadway Street \n  Jackson, OH 45640",
+    "telephone": "(740) 286-5505",
+    "grant_date": "2017-09-05",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022\t8.5-oz paperboard tray with lid packages containing \u201cMichelina\u2019s Spaghetti with Meat Sauce\u201d with lot code J1112N8, \u201cBEST BY 22APR2022\u201d, and a UPC code of \u201c7 17854 10503 9\u201d on the bottom label. "
+  ],
+  "quantity_recovered": 1977,
+  "quantity_unit": "pounds",
+  "states": null
+}

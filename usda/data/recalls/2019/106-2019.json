@@ -1,1 +1,20 @@
-{"id": "106-2019", "title": "Cay Thi Queentrees Food USA Recalls Poultry Products Produced Without Benefit of Import Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/cay-thi-queentrees-food-usa-recalls-poultry-products-produced-without-benefit-import", "reasons": ["Import Violation"], "status": "Active", "risk_level": "High", "start_date": "2019-11-04", "end_date": null, "summary": "WASHINGTON, Nov. 4, 2019 Cay Thi Queentrees Food USA, the importer of record, a Garden Grove, Calif. firm, is recalling approximately 43,848 pounds of poultry products that were imported and distributed in the United States without the benefit of FSIS import re-inspection, the U.S. Department...", "establishment": null, "impacted_products": [], "quantity_recovered": null, "quantity_unit": null, "states": ["California"]}
+{
+  "id": "106-2019",
+  "title": "Cay Thi Queentrees Food USA Recalls Poultry Products Produced Without Benefit of Import Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/cay-thi-queentrees-food-usa-recalls-poultry-products-produced-without-benefit-import",
+  "reasons": [
+    "Import Violation"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2019-11-04",
+  "end_date": null,
+  "summary": "WASHINGTON, Nov. 4, 2019 Cay Thi Queentrees Food USA, the importer of record, a Garden Grove, Calif. firm, is recalling approximately 43,848 pounds of poultry products that were imported and distributed in the United States without the benefit of FSIS import re-inspection, the U.S. Department...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "California"
+  ]
+}

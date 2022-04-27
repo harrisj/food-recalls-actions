@@ -1,1 +1,36 @@
-{"id": "031-2014", "title": "Georgia Firm Recalls Chicken Breast and Tender Products Due to Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/georgia-firm-recalls-chicken-breast-and-tender-products-due-misbranding-and", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2014-05-21", "end_date": "2016-06-14", "summary": "WASHINGTON, May 21, 2014 Prime Pak Foods, a Gainesville, Ga., establishment, is recalling approximately 23,250 pounds of fully cooked breaded chicken breast and tender products due to misbranding and undeclared allergens, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The...\n", "establishment": {"id": "M9165+P9165", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/gold-creek-foods-llc", "slug": "gold-creek-foods-llc", "name": "Gold Creek Foods LLC", "address": "2076 Memorial Park Road \n  Gainesville, GA 30504", "telephone": "(678) 928-6960", "grant_date": "2021-09-27", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["Two 5-lb. bags in a 10-lb. box of \u201cWegmans Fully Cooked Breaded Chicken Breast Strips\u201d with the product code \u201c77064\u201d printed on the box.", "Two 5-lb. bags in a 10-lb. box of \u201cWegmans Fully Cooked Breaded Chicken Breast Strips\u201d with the product code \u201c77065\u201d printed on the box.", "Two 5-lb. bags in a 10-lb. box of \u201cSugar Lake Farms Fully Cooked Breaded Chicken Tender\u201d with the product code \u201c77409\u201d printed on the box.", "Two 5-lb. bags in a 10-lb. box of \u201cWegmans Fully Cooked Breaded Chicken Breast Fillets\u201d with the product code \u201c77425\u201d printed on the box."], "quantity_recovered": 15070, "quantity_unit": "pounds", "states": null}
+{
+  "id": "031-2014",
+  "title": "Georgia Firm Recalls Chicken Breast and Tender Products Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/georgia-firm-recalls-chicken-breast-and-tender-products-due-misbranding-and",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2014-05-21",
+  "end_date": "2016-06-14",
+  "summary": "WASHINGTON, May 21, 2014 Prime Pak Foods, a Gainesville, Ga., establishment, is recalling approximately 23,250 pounds of fully cooked breaded chicken breast and tender products due to misbranding and undeclared allergens, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The...\n",
+  "establishment": {
+    "id": "M9165+P9165",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/gold-creek-foods-llc",
+    "slug": "gold-creek-foods-llc",
+    "name": "Gold Creek Foods LLC",
+    "address": "2076 Memorial Park Road \n  Gainesville, GA 30504",
+    "telephone": "(678) 928-6960",
+    "grant_date": "2021-09-27",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "Two 5-lb. bags in a 10-lb. box of \u201cWegmans Fully Cooked Breaded Chicken Breast Strips\u201d with the product code \u201c77064\u201d printed on the box.",
+    "Two 5-lb. bags in a 10-lb. box of \u201cWegmans Fully Cooked Breaded Chicken Breast Strips\u201d with the product code \u201c77065\u201d printed on the box.",
+    "Two 5-lb. bags in a 10-lb. box of \u201cSugar Lake Farms Fully Cooked Breaded Chicken Tender\u201d with the product code \u201c77409\u201d printed on the box.",
+    "Two 5-lb. bags in a 10-lb. box of \u201cWegmans Fully Cooked Breaded Chicken Breast Fillets\u201d with the product code \u201c77425\u201d printed on the box."
+  ],
+  "quantity_recovered": 15070,
+  "quantity_unit": "pounds",
+  "states": null
+}

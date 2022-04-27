@@ -1,1 +1,26 @@
-{"id": "034-2013", "title": "Louisiana Firm Recalls Stew Products Due To Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/louisiana-firm-recalls-stew-products-due-misbranding-and-undeclared-allergens", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2013-05-10", "end_date": "2016-08-29", "summary": "WASHINGTON, May 10, 2013 - Acadian Fine Foods, LLC, a Church Point, La. establishment, is recalling approximately 17,037 pounds of pork stew and chicken stew products because of misbranding and undeclared allergens. The products contain whey and soy, known allergens which are not declared on...\n", "establishment": null, "impacted_products": ["12-oz. single-serve bowls of \"Savoie's Cajun Singles Louisiana Pork Stew\" bearing the establishment number \"Est. 13587\" inside the USDA mark of inspection. The products were produced on various dates from May 24, 2012 through March 21, 2013. The product p", "12-oz. single-serve bowls of \"Savoie's Cajun Singles Louisiana Chicken Stew\" bearing the establishment number \"P-13587\" inside the USDA mark of inspection. The products were produced on various dates from June 6, 2012 through Feb. 25, 2013. The product pa"], "quantity_recovered": 1105, "quantity_unit": "pounds", "states": ["Louisiana", "Mississippi", "Texas"]}
+{
+  "id": "034-2013",
+  "title": "Louisiana Firm Recalls Stew Products Due To Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/louisiana-firm-recalls-stew-products-due-misbranding-and-undeclared-allergens",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2013-05-10",
+  "end_date": "2016-08-29",
+  "summary": "WASHINGTON, May 10, 2013 - Acadian Fine Foods, LLC, a Church Point, La. establishment, is recalling approximately 17,037 pounds of pork stew and chicken stew products because of misbranding and undeclared allergens. The products contain whey and soy, known allergens which are not declared on...\n",
+  "establishment": null,
+  "impacted_products": [
+    "12-oz. single-serve bowls of \"Savoie's Cajun Singles Louisiana Pork Stew\" bearing the establishment number \"Est. 13587\" inside the USDA mark of inspection. The products were produced on various dates from May 24, 2012 through March 21, 2013. The product p",
+    "12-oz. single-serve bowls of \"Savoie's Cajun Singles Louisiana Chicken Stew\" bearing the establishment number \"P-13587\" inside the USDA mark of inspection. The products were produced on various dates from June 6, 2012 through Feb. 25, 2013. The product pa"
+  ],
+  "quantity_recovered": 1105,
+  "quantity_unit": "pounds",
+  "states": [
+    "Louisiana",
+    "Mississippi",
+    "Texas"
+  ]
+}

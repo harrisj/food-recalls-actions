@@ -1,1 +1,37 @@
-{"id": "009-2020", "title": "Ideal Foods Recalls Meat and Poultry Flatbread Pizza Products Produced Without Benefit of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/ideal-foods-recalls-meat-and-poultry-flatbread-pizza-products-produced-without", "reasons": ["Produced Without Benefit of Inspection"], "status": "Closed", "risk_level": "High", "start_date": "2020-05-12", "end_date": "2020-06-09", "summary": "WASHINGTON, May 12, 2020 \u2013 Ideal Foods, a North Las Vegas, Nev. establishment, is recalling approximately 3,302 pounds of meat and poultry flatbread pizza products that were produced, packed and distributed without the benefit of federal inspection, the U.S. Department of Agriculture\u2019s Food Safety and...\n", "establishment": {"id": "M45351A+P45351A", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/ideal-foods", "slug": "ideal-foods", "name": "Ideal Foods", "address": "104-A West Mayflower Ave. \n  North Las Vegas, NV 89030", "telephone": "(702) 647-3663", "grant_date": "2020-02-20", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["\u2022 13.5-oz. plastic-wrapped cardboard trays containing \u201cculinevo Artisan Style Flatbread Pizza CARNE ASADA\u201d", "\u2022 13-oz. plastic-wrapped cardboard trays containing \u201cculinevo Artisan Style Flatbread Pizza CHICKEN SPINACH ARTICHOKE\u201d", "\u2022 16.5-oz. plastic-wrapped cardboard trays containing \u201cculinevo Artisan Style Flatbread Pizza SIZZLIN JALAPE\u00d1O\u201d", "\u2022 14.5-oz. plastic-wrapped cardboard trays containing \u201cculinevo Artisan Style Flatbread Pizza MEAT LOVERS\u201d"], "quantity_recovered": 1259, "quantity_unit": "pounds", "states": ["California"]}
+{
+  "id": "009-2020",
+  "title": "Ideal Foods Recalls Meat and Poultry Flatbread Pizza Products Produced Without Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/ideal-foods-recalls-meat-and-poultry-flatbread-pizza-products-produced-without",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2020-05-12",
+  "end_date": "2020-06-09",
+  "summary": "WASHINGTON, May 12, 2020 \u2013 Ideal Foods, a North Las Vegas, Nev. establishment, is recalling approximately 3,302 pounds of meat and poultry flatbread pizza products that were produced, packed and distributed without the benefit of federal inspection, the U.S. Department of Agriculture\u2019s Food Safety and...\n",
+  "establishment": {
+    "id": "M45351A+P45351A",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/ideal-foods",
+    "slug": "ideal-foods",
+    "name": "Ideal Foods",
+    "address": "104-A West Mayflower Ave. \n  North Las Vegas, NV 89030",
+    "telephone": "(702) 647-3663",
+    "grant_date": "2020-02-20",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022 13.5-oz. plastic-wrapped cardboard trays containing \u201cculinevo Artisan Style Flatbread Pizza CARNE ASADA\u201d",
+    "\u2022 13-oz. plastic-wrapped cardboard trays containing \u201cculinevo Artisan Style Flatbread Pizza CHICKEN SPINACH ARTICHOKE\u201d",
+    "\u2022 16.5-oz. plastic-wrapped cardboard trays containing \u201cculinevo Artisan Style Flatbread Pizza SIZZLIN JALAPE\u00d1O\u201d",
+    "\u2022 14.5-oz. plastic-wrapped cardboard trays containing \u201cculinevo Artisan Style Flatbread Pizza MEAT LOVERS\u201d"
+  ],
+  "quantity_recovered": 1259,
+  "quantity_unit": "pounds",
+  "states": [
+    "California"
+  ]
+}

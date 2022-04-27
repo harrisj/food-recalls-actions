@@ -1,1 +1,20 @@
-{"id": "086-2016", "title": "RFG Canada Inc. Recalls Meat and Poultry Pizza Products Distributed Without Benefit of Import Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/rfg-canada-inc.-recalls-meat-and-poultry-pizza-products-distributed-without-benefit", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2016-09-22", "end_date": "2017-04-12", "summary": "WASHINGTON, Sept. 22, 2016 RFG Canada Inc., a Toronto, Ontario establishment, is recalling approximately 1,250 pounds of meat and poultry pizza products imported from Canada and not presented to FSIS for re-inspection upon entry to the United States, the U.S. Department of Agricultures Food Safety...", "establishment": null, "impacted_products": [], "quantity_recovered": 445, "quantity_unit": "pounds", "states": ["Maryland", "New York", "Pennsylvania"]}
+{
+  "id": "086-2016",
+  "title": "RFG Canada Inc. Recalls Meat and Poultry Pizza Products Distributed Without Benefit of Import Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/rfg-canada-inc.-recalls-meat-and-poultry-pizza-products-distributed-without-benefit",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2016-09-22",
+  "end_date": "2017-04-12",
+  "summary": "WASHINGTON, Sept. 22, 2016 RFG Canada Inc., a Toronto, Ontario establishment, is recalling approximately 1,250 pounds of meat and poultry pizza products imported from Canada and not presented to FSIS for re-inspection upon entry to the United States, the U.S. Department of Agricultures Food Safety...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 445,
+  "quantity_unit": "pounds",
+  "states": [
+    "Maryland",
+    "New York",
+    "Pennsylvania"
+  ]
+}

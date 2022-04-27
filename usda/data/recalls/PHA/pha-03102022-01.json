@@ -1,1 +1,37 @@
-{"id": "PHA-03102022-01", "title": "FSIS Issues Public Health Alert for Chicken Salad Products Containing FDA-Regulated Dressing that has been Recalled due to Foreign Material Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-chicken-salad-products-containing-fda-regulated", "reasons": ["Product Contamination"], "status": "Active", "risk_level": null, "start_date": "2022-03-10", "end_date": null, "summary": "WASHINGTON, March 10, 2022 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for a ready-to-eat (RTE) chicken salad product containing a Food and Drug Administration (FDA) regulated salad dressing that has been recalled by the...\n", "establishment": {"id": "P6247", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/r-g-fine-foods-inc", "slug": "r-g-fine-foods-inc", "name": "R & G Fine Foods, Inc.", "address": "19441 Business Center Dr. #129 \n  Northridge, CA 91324", "telephone": "(818) 341-9981", "grant_date": "2010-10-26", "activities": ["Poultry Processing"]}, "impacted_products": ["\u2022\t12-oz. plastic tray packages containing \u201cTrader Joe\u2019s CRUNCHY SLAW with Chicken, Crispy Noodles & Peanut Dressing"], "quantity_recovered": null, "quantity_unit": null, "states": ["Arizona", "California", "Nevada", "New Mexico", "Utah"]}
+{
+  "id": "PHA-03102022-01",
+  "title": "FSIS Issues Public Health Alert for Chicken Salad Products Containing FDA-Regulated Dressing that has been Recalled due to Foreign Material Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-chicken-salad-products-containing-fda-regulated",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2022-03-10",
+  "end_date": null,
+  "summary": "WASHINGTON, March 10, 2022 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for a ready-to-eat (RTE) chicken salad product containing a Food and Drug Administration (FDA) regulated salad dressing that has been recalled by the...\n",
+  "establishment": {
+    "id": "P6247",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/r-g-fine-foods-inc",
+    "slug": "r-g-fine-foods-inc",
+    "name": "R & G Fine Foods, Inc.",
+    "address": "19441 Business Center Dr. #129 \n  Northridge, CA 91324",
+    "telephone": "(818) 341-9981",
+    "grant_date": "2010-10-26",
+    "activities": [
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022\t12-oz. plastic tray packages containing \u201cTrader Joe\u2019s CRUNCHY SLAW with Chicken, Crispy Noodles & Peanut Dressing"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Arizona",
+    "California",
+    "Nevada",
+    "New Mexico",
+    "Utah"
+  ]
+}

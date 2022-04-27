@@ -1,1 +1,24 @@
-{"id": "084-2014", "title": "Washington Firm Recalls Chef Salads with Ham and Turkey Due To Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/washington-firm-recalls-chef-salads-ham-and-turkey-due-misbranding-and-undeclared", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "Low", "start_date": "2014-12-10", "end_date": "2015-03-24", "summary": "WASHINGTON, Dec. 10, 2014 Real Foods LLC, a Kent, Wash., establishment, is recalling approximately 308 pounds of Chef Salad with Ham and Turkey due to misbranding and undeclared allergens, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The product contains...\n", "establishment": null, "impacted_products": ["12.5-ounce clear plastic containers of iCHEF SALAD WITH HAM (WATER ADDED) AND TURKEY.\u201d"], "quantity_recovered": 34, "quantity_unit": "pounds", "states": ["Oregon", "Washington"]}
+{
+  "id": "084-2014",
+  "title": "Washington Firm Recalls Chef Salads with Ham and Turkey Due To Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/washington-firm-recalls-chef-salads-ham-and-turkey-due-misbranding-and-undeclared",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2014-12-10",
+  "end_date": "2015-03-24",
+  "summary": "WASHINGTON, Dec. 10, 2014 Real Foods LLC, a Kent, Wash., establishment, is recalling approximately 308 pounds of Chef Salad with Ham and Turkey due to misbranding and undeclared allergens, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The product contains...\n",
+  "establishment": null,
+  "impacted_products": [
+    "12.5-ounce clear plastic containers of iCHEF SALAD WITH HAM (WATER ADDED) AND TURKEY.\u201d"
+  ],
+  "quantity_recovered": 34,
+  "quantity_unit": "pounds",
+  "states": [
+    "Oregon",
+    "Washington"
+  ]
+}

@@ -1,1 +1,16 @@
-{"id": "111-2015", "title": "Pleasant House Bakery Recalls Steak and Chicken Products Distributed Without the Benefit of Inspection and Due to Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/pleasant-house-bakery-recalls-steak-and-chicken-products-distributed-without-benefit", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2015-08-14", "end_date": "2017-04-12", "summary": "WASHINGTON, Aug. 14, 2015 Pleasant House Bakery, LLC, a Chicago, Ill. establishment, is recalling an undetermined amount of steak and chicken pie products distributed without the benefit of inspection. These products were also missing the ingredient statement and contained undeclared allergens, including eggs, milk, and...", "establishment": null, "impacted_products": [], "quantity_recovered": 63, "quantity_unit": "pounds", "states": null}
+{
+  "id": "111-2015",
+  "title": "Pleasant House Bakery Recalls Steak and Chicken Products Distributed Without the Benefit of Inspection and Due to Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/pleasant-house-bakery-recalls-steak-and-chicken-products-distributed-without-benefit",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2015-08-14",
+  "end_date": "2017-04-12",
+  "summary": "WASHINGTON, Aug. 14, 2015 Pleasant House Bakery, LLC, a Chicago, Ill. establishment, is recalling an undetermined amount of steak and chicken pie products distributed without the benefit of inspection. These products were also missing the ingredient statement and contained undeclared allergens, including eggs, milk, and...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 63,
+  "quantity_unit": "pounds",
+  "states": null
+}

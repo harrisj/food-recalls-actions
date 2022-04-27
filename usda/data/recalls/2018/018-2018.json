@@ -1,1 +1,31 @@
-{"id": "018-2018", "title": "Olli Salumeria Americana Firm Recalls Ready-To-Eat Meat Products due to Possible Listeria Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/olli-salumeria-americana-firm-recalls-ready-eat-meat-products-due-possible-listeria", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2018-03-02", "end_date": "2018-05-31", "summary": "WASHINGTON, March 2, 2018 Olli Salumeria Americana, an Oceanside, Calif. establishment, is recalling approximately 3,946 pounds of ready-to-eat meat products that may be adulterated with Listeria monocytogenes, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The not heat treated, shelf...", "establishment": {"id": "M45334+P45334+V45334", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/olli-salumeria-americana", "slug": "olli-salumeria-americana", "name": "OLLI SALUMERIA AMERICANA", "address": "OLLI SALUMERIA AMERICANA \n  OCEANSIDE, CA 92056", "telephone": "(804) 427-7866", "grant_date": "2016-10-17", "activities": ["Certification - Export", "Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": 2089, "quantity_unit": "lbs", "states": null}
+{
+  "id": "018-2018",
+  "title": "Olli Salumeria Americana Firm Recalls Ready-To-Eat Meat Products due to Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/olli-salumeria-americana-firm-recalls-ready-eat-meat-products-due-possible-listeria",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2018-03-02",
+  "end_date": "2018-05-31",
+  "summary": "WASHINGTON, March 2, 2018 Olli Salumeria Americana, an Oceanside, Calif. establishment, is recalling approximately 3,946 pounds of ready-to-eat meat products that may be adulterated with Listeria monocytogenes, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The not heat treated, shelf...",
+  "establishment": {
+    "id": "M45334+P45334+V45334",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/olli-salumeria-americana",
+    "slug": "olli-salumeria-americana",
+    "name": "OLLI SALUMERIA AMERICANA",
+    "address": "OLLI SALUMERIA AMERICANA \n  OCEANSIDE, CA 92056",
+    "telephone": "(804) 427-7866",
+    "grant_date": "2016-10-17",
+    "activities": [
+      "Certification - Export",
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 2089,
+  "quantity_unit": "lbs",
+  "states": null
+}

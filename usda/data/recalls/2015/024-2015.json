@@ -1,1 +1,21 @@
-{"id": "024-2015", "title": "Ohio Firm Recalls Salami Products Due To Possible Temperature Abuse", "url": "https://www.fsis.usda.gov/recalls-alerts/ohio-firm-recalls-salami-products-due-possible-temperature-abuse", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2015-01-30", "end_date": "2016-06-08", "summary": "WASHINGTON, Jan. 30, 2015 Great Lakes Smoked Meats, a Lorain, Ohio establishment, is recalling approximately 2,863 pounds of smoked salami product, which may have experienced temperature abuse and may contain Clostridium perfringens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today.The...", "establishment": null, "impacted_products": [], "quantity_recovered": 0, "quantity_unit": "pounds", "states": ["California", "New York", "Ohio", "Pennsylvania"]}
+{
+  "id": "024-2015",
+  "title": "Ohio Firm Recalls Salami Products Due To Possible Temperature Abuse",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/ohio-firm-recalls-salami-products-due-possible-temperature-abuse",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2015-01-30",
+  "end_date": "2016-06-08",
+  "summary": "WASHINGTON, Jan. 30, 2015 Great Lakes Smoked Meats, a Lorain, Ohio establishment, is recalling approximately 2,863 pounds of smoked salami product, which may have experienced temperature abuse and may contain Clostridium perfringens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today.The...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": [
+    "California",
+    "New York",
+    "Ohio",
+    "Pennsylvania"
+  ]
+}

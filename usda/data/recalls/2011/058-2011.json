@@ -1,1 +1,37 @@
-{"id": "058-2011", "title": "Ohio Firm Recalls Jerky Products Due To Misbranding And An Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/ohio-firm-recalls-jerky-products-due-misbranding-and-undeclared-allergen", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "Low", "start_date": "2011-07-29", "end_date": "2012-06-02", "summary": "WASHINGTON, July 28, 2011 - Curly's Custom Meats, a Jackson Center, Ohio establishment is recalling approximately 33 pounds of teriyaki-flavored beef jerky products because of misbranding and an undeclared allergen. The products contain an undeclared allergen, wheat, derived from a spice blend, which is not...\n", "establishment": {"id": "M27486", "url": "http://www.fsis.usda.gov/establishments/curlys-custom-meats", "slug": "curlys-custom-meats", "name": "Curly's Custom Meats", "address": "315 N. East. St. P.O. Box 123 \n  Jackson Center, OH 45334", "telephone": "(937) 596-6518", "grant_date": "2017-04-13", "activities": ["Meat Processing", "Meat Slaughter"]}, "impacted_products": ["4-oz. packages of \"Curly's Meats Beef Jerky Hickory Smoked-Teriyaki Flavor.\"", "8-oz. packages of \"Curly's Meats Beef Jerky Hickory Smoked-Teriyaki Flavor.\"", "16-oz. packages of \"Curly's Meats Beef Jerky Hickory Smoked-Teriyaki Flavor.\""], "quantity_recovered": 0, "quantity_unit": "pounds", "states": ["Ohio"]}
+{
+  "id": "058-2011",
+  "title": "Ohio Firm Recalls Jerky Products Due To Misbranding And An Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/ohio-firm-recalls-jerky-products-due-misbranding-and-undeclared-allergen",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2011-07-29",
+  "end_date": "2012-06-02",
+  "summary": "WASHINGTON, July 28, 2011 - Curly's Custom Meats, a Jackson Center, Ohio establishment is recalling approximately 33 pounds of teriyaki-flavored beef jerky products because of misbranding and an undeclared allergen. The products contain an undeclared allergen, wheat, derived from a spice blend, which is not...\n",
+  "establishment": {
+    "id": "M27486",
+    "url": "http://www.fsis.usda.gov/establishments/curlys-custom-meats",
+    "slug": "curlys-custom-meats",
+    "name": "Curly's Custom Meats",
+    "address": "315 N. East. St. P.O. Box 123 \n  Jackson Center, OH 45334",
+    "telephone": "(937) 596-6518",
+    "grant_date": "2017-04-13",
+    "activities": [
+      "Meat Processing",
+      "Meat Slaughter"
+    ]
+  },
+  "impacted_products": [
+    "4-oz. packages of \"Curly's Meats Beef Jerky Hickory Smoked-Teriyaki Flavor.\"",
+    "8-oz. packages of \"Curly's Meats Beef Jerky Hickory Smoked-Teriyaki Flavor.\"",
+    "16-oz. packages of \"Curly's Meats Beef Jerky Hickory Smoked-Teriyaki Flavor.\""
+  ],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": [
+    "Ohio"
+  ]
+}

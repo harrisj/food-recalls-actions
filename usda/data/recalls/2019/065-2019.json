@@ -1,1 +1,32 @@
-{"id": "065-2019", "title": "Table 87 Frozen, LLC Recalls Pork Pizza Products Produced Without Benefit of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/table-87-frozen-llc-recalls-pork-pizza-products-produced-without-benefit-inspection", "reasons": ["Produced Without Benefit of Inspection"], "status": "Closed", "risk_level": "High", "start_date": "2019-06-06", "end_date": "2019-08-02", "summary": "EDITORS NOTE: Details of this recall were updated on June 7, 2019, to reflect an additional UPC code for the product. Consumers should check their products for both UPC codes listed. WASHINGTON, June 6, 2019 Table 87 Frozen, LLC., a Brooklyn, N.Y. firm, is recalling...\n", "establishment": {"id": "M51192+P51192", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/table-87-frozen-llc", "slug": "table-87-frozen-llc", "name": "Table 87 Frozen, LLC", "address": "145 42nd Street \n  Brooklyn, NY 11232", "telephone": "(718) 287-8700", "grant_date": "2020-08-07", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["9.6-oz. plastic shrink-wrapped packages containing a single personal size pizza identified as \u201cTABLE 87 COAL OVEN PIZZA Home Of The Coal Oven Slice PROSCIUTTO\u201d with UPC code 804879558286 and 10804879558283. "], "quantity_recovered": 372, "quantity_unit": "pounds", "states": null}
+{
+  "id": "065-2019",
+  "title": "Table 87 Frozen, LLC Recalls Pork Pizza Products Produced Without Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/table-87-frozen-llc-recalls-pork-pizza-products-produced-without-benefit-inspection",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2019-06-06",
+  "end_date": "2019-08-02",
+  "summary": "EDITORS NOTE: Details of this recall were updated on June 7, 2019, to reflect an additional UPC code for the product. Consumers should check their products for both UPC codes listed. WASHINGTON, June 6, 2019 Table 87 Frozen, LLC., a Brooklyn, N.Y. firm, is recalling...\n",
+  "establishment": {
+    "id": "M51192+P51192",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/table-87-frozen-llc",
+    "slug": "table-87-frozen-llc",
+    "name": "Table 87 Frozen, LLC",
+    "address": "145 42nd Street \n  Brooklyn, NY 11232",
+    "telephone": "(718) 287-8700",
+    "grant_date": "2020-08-07",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "9.6-oz. plastic shrink-wrapped packages containing a single personal size pizza identified as \u201cTABLE 87 COAL OVEN PIZZA Home Of The Coal Oven Slice PROSCIUTTO\u201d with UPC code 804879558286 and 10804879558283. "
+  ],
+  "quantity_recovered": 372,
+  "quantity_unit": "pounds",
+  "states": null
+}

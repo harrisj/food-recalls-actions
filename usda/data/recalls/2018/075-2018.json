@@ -1,1 +1,36 @@
-{"id": "075-2018", "title": "Caito Foods, LLC Recalls Chicken Salad Products due to Misbranding and an Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/caito-foods-llc-recalls-chicken-salad-products-due-misbranding-and-undeclared", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Active", "risk_level": "High", "start_date": "2018-09-05", "end_date": null, "summary": "WASHINGTON, Sept. 5, 2018 Caito Foods, LLC., an Indianapolis, Ind. establishment, is recalling approximately 242 pounds of fully cooked chicken salad product due to misbranding and an undeclared allergen, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products contain...", "establishment": {"id": "M39985+P39985", "url": "http://www.fsis.usda.gov/establishments/caito-foods-llc", "slug": "caito-foods-llc", "name": "Caito Foods, LLC", "address": "3120 North Post Road \n  Indianapolis, IN 46226", "telephone": "(616) 878-2785", "grant_date": "2019-10-30", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": null, "quantity_unit": null, "states": ["Illinois", "Indiana", "Kentucky", "Ohio"]}
+{
+  "id": "075-2018",
+  "title": "Caito Foods, LLC Recalls Chicken Salad Products due to Misbranding and an Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/caito-foods-llc-recalls-chicken-salad-products-due-misbranding-and-undeclared",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2018-09-05",
+  "end_date": null,
+  "summary": "WASHINGTON, Sept. 5, 2018 Caito Foods, LLC., an Indianapolis, Ind. establishment, is recalling approximately 242 pounds of fully cooked chicken salad product due to misbranding and an undeclared allergen, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products contain...",
+  "establishment": {
+    "id": "M39985+P39985",
+    "url": "http://www.fsis.usda.gov/establishments/caito-foods-llc",
+    "slug": "caito-foods-llc",
+    "name": "Caito Foods, LLC",
+    "address": "3120 North Post Road \n  Indianapolis, IN 46226",
+    "telephone": "(616) 878-2785",
+    "grant_date": "2019-10-30",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Illinois",
+    "Indiana",
+    "Kentucky",
+    "Ohio"
+  ]
+}

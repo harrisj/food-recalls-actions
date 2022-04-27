@@ -1,1 +1,34 @@
-{"id": "007-2022", "title": "Frickenschmidt Foods LLC Recalls Ready-to-Eat Beef Stick Products Due to Misbranding ", "url": "https://www.fsis.usda.gov/recalls-alerts/frickenschmidt-foods-llc-recalls-ready-eat-beef-stick-products-due-misbranding", "reasons": ["Misbranding"], "status": "Active", "risk_level": "Low", "start_date": "2022-02-22", "end_date": null, "summary": "WASHINGTON, Feb. 22, 2022 \u2013 Frickenschmidt Foods LLC, a Lockwood, Mo. establishment, is recalling approximately 5,795 pounds of ready-to-eat beef stick products due to misbranding, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The product contains and declares wheat as...", "establishment": {"id": "M33928+P33928+V33928", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/frickenschmidt-foods-llc", "slug": "frickenschmidt-foods-llc", "name": "Frickenschmidt Foods LLC", "address": "511 W. 6th Street \n  Lockwood, MO 65682", "telephone": "(417) 232-4401", "grant_date": "2008-02-04", "activities": ["Meat Processing", "Meat Slaughter", "Voluntary Processing - Meat", "Voluntary Slaughter - Meat"]}, "impacted_products": ["1.5 oz. individually sealed packages of \u201cHIGH PROTEIN SNACK TERIYAKI BEEF WICKED CUTZ BEEF STICK\u201d with lot code 113022, 120122, or 012823 printed in blue ink on the back of the product package."], "quantity_recovered": null, "quantity_unit": null, "states": null}
+{
+  "id": "007-2022",
+  "title": "Frickenschmidt Foods LLC Recalls Ready-to-Eat Beef Stick Products Due to Misbranding ",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/frickenschmidt-foods-llc-recalls-ready-eat-beef-stick-products-due-misbranding",
+  "reasons": [
+    "Misbranding"
+  ],
+  "status": "Active",
+  "risk_level": "Low",
+  "start_date": "2022-02-22",
+  "end_date": null,
+  "summary": "WASHINGTON, Feb. 22, 2022 \u2013 Frickenschmidt Foods LLC, a Lockwood, Mo. establishment, is recalling approximately 5,795 pounds of ready-to-eat beef stick products due to misbranding, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The product contains and declares wheat as...",
+  "establishment": {
+    "id": "M33928+P33928+V33928",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/frickenschmidt-foods-llc",
+    "slug": "frickenschmidt-foods-llc",
+    "name": "Frickenschmidt Foods LLC",
+    "address": "511 W. 6th Street \n  Lockwood, MO 65682",
+    "telephone": "(417) 232-4401",
+    "grant_date": "2008-02-04",
+    "activities": [
+      "Meat Processing",
+      "Meat Slaughter",
+      "Voluntary Processing - Meat",
+      "Voluntary Slaughter - Meat"
+    ]
+  },
+  "impacted_products": [
+    "1.5 oz. individually sealed packages of \u201cHIGH PROTEIN SNACK TERIYAKI BEEF WICKED CUTZ BEEF STICK\u201d with lot code 113022, 120122, or 012823 printed in blue ink on the back of the product package."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}

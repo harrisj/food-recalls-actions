@@ -1,1 +1,35 @@
-{"id": "107-2019", "title": "Padrino Foods, LLC Recalls Beef Tamales Products due to Mislabeling", "url": "https://www.fsis.usda.gov/recalls-alerts/padrino-foods-llc-recalls-beef-tamales-products-due-mislabeling", "reasons": ["Mislabeling"], "status": "Closed", "risk_level": "Low", "start_date": "2019-11-04", "end_date": "2019-12-05", "summary": "WASHINGTON, Nov. 4, 2019 Padrino Foods, LLC, an Irving, Texas establishment, is recalling approximately 1,931 pounds of beef tamales because the products may be misbranded, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products are labeled as beef and...", "establishment": {"id": "M13136+P13136", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/padrino-foods-llc", "slug": "padrino-foods-llc", "name": "Padrino Foods LLC", "address": "3210 Conflans Road \n  Irving, TX 75061", "telephone": "(214) 905-3444", "grant_date": "2017-07-11", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": 9004, "quantity_unit": "pounds", "states": ["Kansas", "Louisiana", "Oklahoma", "Texas"]}
+{
+  "id": "107-2019",
+  "title": "Padrino Foods, LLC Recalls Beef Tamales Products due to Mislabeling",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/padrino-foods-llc-recalls-beef-tamales-products-due-mislabeling",
+  "reasons": [
+    "Mislabeling"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2019-11-04",
+  "end_date": "2019-12-05",
+  "summary": "WASHINGTON, Nov. 4, 2019 Padrino Foods, LLC, an Irving, Texas establishment, is recalling approximately 1,931 pounds of beef tamales because the products may be misbranded, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products are labeled as beef and...",
+  "establishment": {
+    "id": "M13136+P13136",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/padrino-foods-llc",
+    "slug": "padrino-foods-llc",
+    "name": "Padrino Foods LLC",
+    "address": "3210 Conflans Road \n  Irving, TX 75061",
+    "telephone": "(214) 905-3444",
+    "grant_date": "2017-07-11",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 9004,
+  "quantity_unit": "pounds",
+  "states": [
+    "Kansas",
+    "Louisiana",
+    "Oklahoma",
+    "Texas"
+  ]
+}

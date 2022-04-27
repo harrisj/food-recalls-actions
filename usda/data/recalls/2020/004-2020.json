@@ -1,1 +1,28 @@
-{"id": "004-2020", "title": "Golden Pearl Trading Corporation Recalls Ready to Eat Imported Siluriformes Products Produced Without Benefit of Import Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/golden-pearl-trading-corporation-recalls-ready-eat-imported-siluriformes-products", "reasons": ["Import Violation"], "status": "Closed", "risk_level": "High", "start_date": "2020-01-24", "end_date": "2020-05-15", "summary": "WASHINGTON, Jan. 24, 2020 \u2013 Golden Pearl Trading Corporation (doing business as Dandy Food Products), a San Lorenzo, Calif. establishment, is recalling approximately 12,054 pounds of ready-to-eat (RTE) imported Siluriformes products that were not presented for import re-inspection into the United States, the U.S. Department...\n", "establishment": null, "impacted_products": ["\u2022 113-g. foil bags containing \u201cSugar Kid SALTED EGG FISH SKIN.\u201d"], "quantity_recovered": 4507, "quantity_unit": "pounds", "states": ["California", "Hawaii", "Nevada", "New York", "Oregon", "Utah", "Washington"]}
+{
+  "id": "004-2020",
+  "title": "Golden Pearl Trading Corporation Recalls Ready to Eat Imported Siluriformes Products Produced Without Benefit of Import Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/golden-pearl-trading-corporation-recalls-ready-eat-imported-siluriformes-products",
+  "reasons": [
+    "Import Violation"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2020-01-24",
+  "end_date": "2020-05-15",
+  "summary": "WASHINGTON, Jan. 24, 2020 \u2013 Golden Pearl Trading Corporation (doing business as Dandy Food Products), a San Lorenzo, Calif. establishment, is recalling approximately 12,054 pounds of ready-to-eat (RTE) imported Siluriformes products that were not presented for import re-inspection into the United States, the U.S. Department...\n",
+  "establishment": null,
+  "impacted_products": [
+    "\u2022 113-g. foil bags containing \u201cSugar Kid SALTED EGG FISH SKIN.\u201d"
+  ],
+  "quantity_recovered": 4507,
+  "quantity_unit": "pounds",
+  "states": [
+    "California",
+    "Hawaii",
+    "Nevada",
+    "New York",
+    "Oregon",
+    "Utah",
+    "Washington"
+  ]
+}

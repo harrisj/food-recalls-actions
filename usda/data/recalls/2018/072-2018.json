@@ -1,1 +1,32 @@
-{"id": "072-2018", "title": "Publix Super Markets Inc. Recalls Ground Chuck Products Due To Possible E. coli O26 Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/publix-super-markets-inc.-recalls-ground-chuck-products-due-possible-e.-coli-o26", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2018-08-30", "end_date": "2019-04-26", "summary": "WASHINGTON, Aug. 30, 2018 Publix Super Markets Inc., a Lakeland, Fla., retail grocery store chain is voluntarily recalling an undetermined amount of ground beef products made from chuck that may be contaminated with Escherichia coli O26, the U.S. Department of Agricultures Food Safety and Inspection...", "establishment": {"id": "M17938+P17938", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/publix-supermarkets-inc-deli-plant", "slug": "publix-supermarkets-inc-deli-plant", "name": "Publix Supermarkets, Inc., Deli Plant", "address": "3045 New Tampa Highway \n  Lakeland, FL 33815", "telephone": "(863) 688-1188", "grant_date": "1995-09-09", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": 109, "quantity_unit": "pounds", "states": ["Florida"]}
+{
+  "id": "072-2018",
+  "title": "Publix Super Markets Inc. Recalls Ground Chuck Products Due To Possible E. coli O26 Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/publix-super-markets-inc.-recalls-ground-chuck-products-due-possible-e.-coli-o26",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2018-08-30",
+  "end_date": "2019-04-26",
+  "summary": "WASHINGTON, Aug. 30, 2018 Publix Super Markets Inc., a Lakeland, Fla., retail grocery store chain is voluntarily recalling an undetermined amount of ground beef products made from chuck that may be contaminated with Escherichia coli O26, the U.S. Department of Agricultures Food Safety and Inspection...",
+  "establishment": {
+    "id": "M17938+P17938",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/publix-supermarkets-inc-deli-plant",
+    "slug": "publix-supermarkets-inc-deli-plant",
+    "name": "Publix Supermarkets, Inc., Deli Plant",
+    "address": "3045 New Tampa Highway \n  Lakeland, FL 33815",
+    "telephone": "(863) 688-1188",
+    "grant_date": "1995-09-09",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 109,
+  "quantity_unit": "pounds",
+  "states": [
+    "Florida"
+  ]
+}

@@ -1,1 +1,35 @@
-{"id": "067-2014-EXP", "title": "California Firm Expands Recall of Beef Products Due To Possible Processing Flaw", "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-expands-recall-beef-products-due-possible-processing-flaw", "reasons": ["Processing Defect"], "status": "Closed", "risk_level": "High", "start_date": "2014-10-13", "end_date": "2015-02-03", "summary": "WASHINGTON, Oct. 13, 2014 Galant Food Company, a San Leandro, Calif. establishment, is recalling an additional 130 pounds of beef products because the meat filling used in the products did not meet its cooking critical limit, the U.S. Department of Agriculture's Food Safety and Inspection...\n", "establishment": {"id": "M9014+P9014", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/galant-food-company", "slug": "galant-food-company", "name": "Galant Food Company", "address": "735 Fremont Avenue \n  San Leandro, CA 94577", "telephone": "(510) 614-7150", "grant_date": "2013-05-07", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["6.5-oz. Paramount Beef and Cheese Piroshki, 12 per case, with case codes 092214", "7-oz. Galinas Original Beef and Cheese Piroshki, 12 per case, with case codes 092314 "], "quantity_recovered": 23, "quantity_unit": "pounds", "states": ["California"]}
+{
+  "id": "067-2014-EXP",
+  "title": "California Firm Expands Recall of Beef Products Due To Possible Processing Flaw",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-expands-recall-beef-products-due-possible-processing-flaw",
+  "reasons": [
+    "Processing Defect"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2014-10-13",
+  "end_date": "2015-02-03",
+  "summary": "WASHINGTON, Oct. 13, 2014 Galant Food Company, a San Leandro, Calif. establishment, is recalling an additional 130 pounds of beef products because the meat filling used in the products did not meet its cooking critical limit, the U.S. Department of Agriculture's Food Safety and Inspection...\n",
+  "establishment": {
+    "id": "M9014+P9014",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/galant-food-company",
+    "slug": "galant-food-company",
+    "name": "Galant Food Company",
+    "address": "735 Fremont Avenue \n  San Leandro, CA 94577",
+    "telephone": "(510) 614-7150",
+    "grant_date": "2013-05-07",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "6.5-oz. Paramount Beef and Cheese Piroshki, 12 per case, with case codes 092214",
+    "7-oz. Galinas Original Beef and Cheese Piroshki, 12 per case, with case codes 092314 "
+  ],
+  "quantity_recovered": 23,
+  "quantity_unit": "pounds",
+  "states": [
+    "California"
+  ]
+}

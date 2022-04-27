@@ -1,1 +1,45 @@
-{"id": "011-2010", "title": "New Jersey Firm Recalls Ready-To-Eat Sausage Products That May Contain Foreign Materials", "url": "https://www.fsis.usda.gov/recalls-alerts/new-jersey-firm-recalls-ready-eat-sausage-products-may-contain-foreign-materials", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "Low", "start_date": "2010-02-10", "end_date": "2012-06-03", "summary": "WASHINGTON, February 10, 2010 - Schmalz European Provisions, a Springfield, N.J., establishment, is recalling approximately 1,485 pounds of ready-to-eat sausage products that may contain foreign materials, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The product subject to recall includes...\n", "establishment": {"id": "M5411+P5411", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/schmalz-european-provision-inc", "slug": "schmalz-european-provision-inc", "name": "Schmalz European Provision Inc.", "address": "66 Fadem Road \n  Springfield, NJ 7081", "telephone": "(973) 379-4662", "grant_date": "2007-08-20", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["12-ounce packages of \"Applegate Farms CERTIFIED ORGANIC FIRE ROASTED RED PEPPER FULLY COOKED CHICKEN & TURKEY SAUSAGE.\" Each package also indicates \"KEEP REFRIGERATED\" and \"SKINLESS\" on the label."], "quantity_recovered": 438, "quantity_unit": "pounds", "states": ["California", "Connecticut", "Florida", "Georgia", "Indiana", "New Hampshire", "New Jersey", "New York", "North Carolina", "Ohio", "Oregon", "Texas"]}
+{
+  "id": "011-2010",
+  "title": "New Jersey Firm Recalls Ready-To-Eat Sausage Products That May Contain Foreign Materials",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/new-jersey-firm-recalls-ready-eat-sausage-products-may-contain-foreign-materials",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2010-02-10",
+  "end_date": "2012-06-03",
+  "summary": "WASHINGTON, February 10, 2010 - Schmalz European Provisions, a Springfield, N.J., establishment, is recalling approximately 1,485 pounds of ready-to-eat sausage products that may contain foreign materials, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The product subject to recall includes...\n",
+  "establishment": {
+    "id": "M5411+P5411",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/schmalz-european-provision-inc",
+    "slug": "schmalz-european-provision-inc",
+    "name": "Schmalz European Provision Inc.",
+    "address": "66 Fadem Road \n  Springfield, NJ 7081",
+    "telephone": "(973) 379-4662",
+    "grant_date": "2007-08-20",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "12-ounce packages of \"Applegate Farms CERTIFIED ORGANIC FIRE ROASTED RED PEPPER FULLY COOKED CHICKEN & TURKEY SAUSAGE.\" Each package also indicates \"KEEP REFRIGERATED\" and \"SKINLESS\" on the label."
+  ],
+  "quantity_recovered": 438,
+  "quantity_unit": "pounds",
+  "states": [
+    "California",
+    "Connecticut",
+    "Florida",
+    "Georgia",
+    "Indiana",
+    "New Hampshire",
+    "New Jersey",
+    "New York",
+    "North Carolina",
+    "Ohio",
+    "Oregon",
+    "Texas"
+  ]
+}

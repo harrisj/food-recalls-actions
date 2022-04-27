@@ -1,1 +1,23 @@
-{"id": "014-2012", "title": "California Firm Recalls Chicken Caesar Wraps Due to Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-chicken-caesar-wraps-due-misbranding-and-undeclared", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2012-03-17", "end_date": "2013-05-27", "summary": "WASHINGTON, March 17, 2012 - LSG Sky Chefs, a San Jose, Calif. establishment, is recalling approximately 1,784 pounds of grilled chicken Caesar wraps because the Caesar dressing used in the wrap products contains egg, a known allergen not declared on the wrap product label. The...\n", "establishment": null, "impacted_products": ["8\u201d x 4.5\u201d x 2.5\u201d packages of \u201c7-Eleven Fresh to Go Grilled Chicken Caesar Wrap\u201d with a \u201cFreshest Before\u201d packaging date of 3/15/2012 through 3/18/2012."], "quantity_recovered": 870, "quantity_unit": "pounds", "states": ["California"]}
+{
+  "id": "014-2012",
+  "title": "California Firm Recalls Chicken Caesar Wraps Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-chicken-caesar-wraps-due-misbranding-and-undeclared",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2012-03-17",
+  "end_date": "2013-05-27",
+  "summary": "WASHINGTON, March 17, 2012 - LSG Sky Chefs, a San Jose, Calif. establishment, is recalling approximately 1,784 pounds of grilled chicken Caesar wraps because the Caesar dressing used in the wrap products contains egg, a known allergen not declared on the wrap product label. The...\n",
+  "establishment": null,
+  "impacted_products": [
+    "8\u201d x 4.5\u201d x 2.5\u201d packages of \u201c7-Eleven Fresh to Go Grilled Chicken Caesar Wrap\u201d with a \u201cFreshest Before\u201d packaging date of 3/15/2012 through 3/18/2012."
+  ],
+  "quantity_recovered": 870,
+  "quantity_unit": "pounds",
+  "states": [
+    "California"
+  ]
+}

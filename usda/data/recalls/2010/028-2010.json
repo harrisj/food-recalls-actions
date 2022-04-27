@@ -1,1 +1,22 @@
-{"id": "028-2010", "title": "Imported Prosciutto Products (Listeria)", "url": "https://www.fsis.usda.gov/recalls-alerts/imported-prosciutto-products-listeria", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2010-05-04", "end_date": "2012-06-03", "summary": "WASHINGTON, May 4, 2010 - Orlando Greco & Son Imports, a Carol Stream, Ill., establishment, is recalling approximately 822 pounds of prosciutto products that may be contaminated with Listeria monocytogenes, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The problem...\n", "establishment": null, "impacted_products": ["Various pound cases of \" Prosciutto Boneless Casa Italia\""], "quantity_recovered": 192, "quantity_unit": "pounds", "states": ["Illinois"]}
+{
+  "id": "028-2010",
+  "title": "Imported Prosciutto Products (Listeria)",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/imported-prosciutto-products-listeria",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2010-05-04",
+  "end_date": "2012-06-03",
+  "summary": "WASHINGTON, May 4, 2010 - Orlando Greco & Son Imports, a Carol Stream, Ill., establishment, is recalling approximately 822 pounds of prosciutto products that may be contaminated with Listeria monocytogenes, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The problem...\n",
+  "establishment": null,
+  "impacted_products": [
+    "Various pound cases of \" Prosciutto Boneless Casa Italia\""
+  ],
+  "quantity_recovered": 192,
+  "quantity_unit": "pounds",
+  "states": [
+    "Illinois"
+  ]
+}

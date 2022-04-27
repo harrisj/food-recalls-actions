@@ -1,1 +1,25 @@
-{"id": "052-2016 EXP", "title": "U.S. Cado Holdings, Inc. Recalls Imported Siluriformes Fish Products Distributed Without Meeting FSIS Requirements", "url": "https://www.fsis.usda.gov/recalls-alerts/u.s.-cado-holdings-inc.-recalls-imported-siluriformes-fish-products-distributed-0", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2016-06-25", "end_date": "2016-12-12", "summary": "EDITORS NOTE: This release is being reissued to include specific identifying details on the products subject to the expansion of the recall on June 25, 2016. The first recall 052-2016 on June 20, 2016, recalled 25,760 pounds of frozen swai fillet products. The recall expansion...", "establishment": null, "impacted_products": [], "quantity_recovered": 0, "quantity_unit": "pounds", "states": ["Louisiana", "Mississippi", "Texas", "Connecticut", "Georgia", "Maryland", "Pennsylvania", "Tennessee"]}
+{
+  "id": "052-2016 EXP",
+  "title": "U.S. Cado Holdings, Inc. Recalls Imported Siluriformes Fish Products Distributed Without Meeting FSIS Requirements",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/u.s.-cado-holdings-inc.-recalls-imported-siluriformes-fish-products-distributed-0",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2016-06-25",
+  "end_date": "2016-12-12",
+  "summary": "EDITORS NOTE: This release is being reissued to include specific identifying details on the products subject to the expansion of the recall on June 25, 2016. The first recall 052-2016 on June 20, 2016, recalled 25,760 pounds of frozen swai fillet products. The recall expansion...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": [
+    "Louisiana",
+    "Mississippi",
+    "Texas",
+    "Connecticut",
+    "Georgia",
+    "Maryland",
+    "Pennsylvania",
+    "Tennessee"
+  ]
+}

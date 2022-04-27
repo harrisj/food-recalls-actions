@@ -1,1 +1,18 @@
-{"id": "050-2015", "title": "Boa Vida Imports Recalls Pork And Beef Products Imported From An Ineligible Country Without Benefit Of Import Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/boa-vida-imports-recalls-pork-and-beef-products-imported-ineligible-country-without", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2015-03-20", "end_date": "2017-04-11", "summary": "WASHINGTON, March 20, 2015 Boa Vida Imports, a New Bedford, Mass., establishment, is recalling approximately 385 pounds of pork and beef products imported from Portugal because this country is not eligible to export meat products to the United States, the U.S. Department of Agricultures Food...", "establishment": null, "impacted_products": [], "quantity_recovered": 0, "quantity_unit": "pounds", "states": ["Massachusetts"]}
+{
+  "id": "050-2015",
+  "title": "Boa Vida Imports Recalls Pork And Beef Products Imported From An Ineligible Country Without Benefit Of Import Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/boa-vida-imports-recalls-pork-and-beef-products-imported-ineligible-country-without",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2015-03-20",
+  "end_date": "2017-04-11",
+  "summary": "WASHINGTON, March 20, 2015 Boa Vida Imports, a New Bedford, Mass., establishment, is recalling approximately 385 pounds of pork and beef products imported from Portugal because this country is not eligible to export meat products to the United States, the U.S. Department of Agricultures Food...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": [
+    "Massachusetts"
+  ]
+}

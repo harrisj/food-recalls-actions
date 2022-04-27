@@ -1,1 +1,24 @@
-{"id": "pha-010617", "title": "FSIS Issues Public Health Alert For Sliced Deli Meat Products Due To Possible Listeria Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-sliced-deli-meat-products-due-possible-listeria", "reasons": ["Product Contamination"], "status": "Active", "risk_level": null, "start_date": "2017-01-06", "end_date": null, "summary": "WASHINGTON, Jan. 6, 2017 The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) is issuing a public health alert due to concerns that assorted sliced deli meat products served to customers at Dion's restaurants may be contaminated with Listeria monocytogenes. The assorted sliced...\n", "establishment": null, "impacted_products": ["The sliced roast beef, ham, pastrami, and turkey items were produced between Dec. 14, 2016 and Dec. 29, 2016"], "quantity_recovered": null, "quantity_unit": null, "states": ["Colorado", "New Mexico", "Texas"]}
+{
+  "id": "pha-010617",
+  "title": "FSIS Issues Public Health Alert For Sliced Deli Meat Products Due To Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-sliced-deli-meat-products-due-possible-listeria",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2017-01-06",
+  "end_date": null,
+  "summary": "WASHINGTON, Jan. 6, 2017 The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) is issuing a public health alert due to concerns that assorted sliced deli meat products served to customers at Dion's restaurants may be contaminated with Listeria monocytogenes. The assorted sliced...\n",
+  "establishment": null,
+  "impacted_products": [
+    "The sliced roast beef, ham, pastrami, and turkey items were produced between Dec. 14, 2016 and Dec. 29, 2016"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Colorado",
+    "New Mexico",
+    "Texas"
+  ]
+}

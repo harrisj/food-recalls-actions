@@ -1,1 +1,16 @@
-{"id": "037-2015", "title": "Oscar's Hickory House Recalls Beef Jerky Product Due To Processing Deviation", "url": "https://www.fsis.usda.gov/recalls-alerts/oscars-hickory-house-recalls-beef-jerky-product-due-processing-deviation", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2015-03-01", "end_date": "2016-12-13", "summary": "WASHINGTON, March 1, 2015 Oscars Hickory House Inc., a Warrensburg, N.Y. establishment, is recalling approximately 32 pounds of beef jerky product due to a processing deviation, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today.The following product is subject to recall:[Label]4-oz...", "establishment": null, "impacted_products": [], "quantity_recovered": 0, "quantity_unit": "pounds", "states": null}
+{
+  "id": "037-2015",
+  "title": "Oscar's Hickory House Recalls Beef Jerky Product Due To Processing Deviation",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/oscars-hickory-house-recalls-beef-jerky-product-due-processing-deviation",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2015-03-01",
+  "end_date": "2016-12-13",
+  "summary": "WASHINGTON, March 1, 2015 Oscars Hickory House Inc., a Warrensburg, N.Y. establishment, is recalling approximately 32 pounds of beef jerky product due to a processing deviation, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today.The following product is subject to recall:[Label]4-oz...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": null
+}

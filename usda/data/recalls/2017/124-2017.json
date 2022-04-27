@@ -1,1 +1,36 @@
-{"id": "124-2017", "title": "Missa Bay LLC Recalls Chicken Wrap Products Due To Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/missa-bay-llc-recalls-chicken-wrap-products-due-misbranding-and-undeclared-allergens", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2017-11-16", "end_date": "2018-02-28", "summary": "WASHINGTON, Nov. 16, 2017 Missa Bay LLC, a Swedesboro, N.J. establishment, is recalling approximately 46 pounds of chicken wrap products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product contains peanut and soy...", "establishment": {"id": "M18502B+P18502B", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/missa-bay-llc", "slug": "missa-bay-llc", "name": "Missa Bay LLC", "address": "101 Arlington Boulevard \n  Swedesboro, NJ 8085", "telephone": "(856) 241-0900", "grant_date": "2014-12-22", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["\u20222-lb packages containing 4 8-oz. trays of \u201cFresh Prep\u2019D brand Buffalo Style Ranch Wrap Kit\u201d with a \u201cUSE BY\u201d date of 11/21/17."], "quantity_recovered": 46, "quantity_unit": "pounds", "states": ["Indiana", "New Jersey"]}
+{
+  "id": "124-2017",
+  "title": "Missa Bay LLC Recalls Chicken Wrap Products Due To Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/missa-bay-llc-recalls-chicken-wrap-products-due-misbranding-and-undeclared-allergens",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2017-11-16",
+  "end_date": "2018-02-28",
+  "summary": "WASHINGTON, Nov. 16, 2017 Missa Bay LLC, a Swedesboro, N.J. establishment, is recalling approximately 46 pounds of chicken wrap products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product contains peanut and soy...",
+  "establishment": {
+    "id": "M18502B+P18502B",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/missa-bay-llc",
+    "slug": "missa-bay-llc",
+    "name": "Missa Bay LLC",
+    "address": "101 Arlington Boulevard \n  Swedesboro, NJ 8085",
+    "telephone": "(856) 241-0900",
+    "grant_date": "2014-12-22",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u20222-lb packages containing 4 8-oz. trays of \u201cFresh Prep\u2019D brand Buffalo Style Ranch Wrap Kit\u201d with a \u201cUSE BY\u201d date of 11/21/17."
+  ],
+  "quantity_recovered": 46,
+  "quantity_unit": "pounds",
+  "states": [
+    "Indiana",
+    "New Jersey"
+  ]
+}

@@ -1,1 +1,40 @@
-{"id": "023-2020", "title": "Cher-Make Sausage Company Recalls Fully Cooked Meat Sausage Products Due to Misbranding and an Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/cher-make-sausage-company-recalls-fully-cooked-meat-sausage-products-due-misbranding", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2020-09-11", "end_date": "2022-01-11", "summary": "WASHINGTON, Sept. 11, 2020 \u2013 Cher-Make Sausage Company, a Manitowoc, Wis. establishment, is recalling approximately 429-lbs of fully-cooked meat sausage products due to misbranding and an undeclared allergen, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The product contains milk...\n", "establishment": {"id": "M2420+P2420", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/cher-make-sausage-company", "slug": "cher-make-sausage-company", "name": "Cher-Make Sausage Company", "address": "2915 Calumet Avenue \n  Manitowoc, WI 54220", "telephone": "(920) 683-5980", "grant_date": "2017-01-13", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["\u2022 5-lb. vacuum sealed packages labeled as \u201cOLD FASHIONED WIENERS COURSE GROUND FULLY COOKED\u201d"], "quantity_recovered": 433, "quantity_unit": "pounds", "states": ["Illinois", "Minnesota", "Nebraska", "North Carolina", "South Dakota", "Wisconsin"]}
+{
+  "id": "023-2020",
+  "title": "Cher-Make Sausage Company Recalls Fully Cooked Meat Sausage Products Due to Misbranding and an Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/cher-make-sausage-company-recalls-fully-cooked-meat-sausage-products-due-misbranding",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2020-09-11",
+  "end_date": "2022-01-11",
+  "summary": "WASHINGTON, Sept. 11, 2020 \u2013 Cher-Make Sausage Company, a Manitowoc, Wis. establishment, is recalling approximately 429-lbs of fully-cooked meat sausage products due to misbranding and an undeclared allergen, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The product contains milk...\n",
+  "establishment": {
+    "id": "M2420+P2420",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/cher-make-sausage-company",
+    "slug": "cher-make-sausage-company",
+    "name": "Cher-Make Sausage Company",
+    "address": "2915 Calumet Avenue \n  Manitowoc, WI 54220",
+    "telephone": "(920) 683-5980",
+    "grant_date": "2017-01-13",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022 5-lb. vacuum sealed packages labeled as \u201cOLD FASHIONED WIENERS COURSE GROUND FULLY COOKED\u201d"
+  ],
+  "quantity_recovered": 433,
+  "quantity_unit": "pounds",
+  "states": [
+    "Illinois",
+    "Minnesota",
+    "Nebraska",
+    "North Carolina",
+    "South Dakota",
+    "Wisconsin"
+  ]
+}

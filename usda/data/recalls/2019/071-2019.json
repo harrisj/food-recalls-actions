@@ -1,1 +1,34 @@
-{"id": "071-2019", "title": "San Giuseppe Salami Co. by Giacomo Recalls Ready-To-Eat, Frozen Andouille Sausage Products due to Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/san-giuseppe-salami-co.-giacomo-recalls-ready-eat-frozen-andouille-sausage-products", "reasons": ["Product Contamination"], "status": "Active", "risk_level": "High", "start_date": "2019-06-24", "end_date": null, "summary": "WASHINGTON, June 24, 2019 San Giuseppe Salami Co. by Giacomo, an Elon, N.C., establishment, is recalling approximately 832 pounds of ready-to-eat (RTE), frozen andouille sausage products that may be contaminated with extraneous materials, specifically metal, the U.S. Department of Agricultures Food Safety and Inspection Service...\n", "establishment": {"id": "M21556+P21556", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/san-guiseppe-salami-co-giacomo", "slug": "san-guiseppe-salami-co-giacomo", "name": "San Guiseppe Salami Co. by Giacomo", "address": "2172 N. Hwy 87 \n  Elon, NC 27244", "telephone": "(336) 586-7003", "grant_date": "2008-02-06", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["Varying weights of vacuum-packed, individually-sealed packages containing \u201cSAN GIUSEPPE SALAMI CO. BY GIACOMO ANDOUILLE SAUSAGE (SMOKE FLAVORING ADDED)\u201d with a \u201cSell By: 11/10/2019\u201d date on the case labels. "], "quantity_recovered": null, "quantity_unit": null, "states": ["North Carolina"]}
+{
+  "id": "071-2019",
+  "title": "San Giuseppe Salami Co. by Giacomo Recalls Ready-To-Eat, Frozen Andouille Sausage Products due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/san-giuseppe-salami-co.-giacomo-recalls-ready-eat-frozen-andouille-sausage-products",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2019-06-24",
+  "end_date": null,
+  "summary": "WASHINGTON, June 24, 2019 San Giuseppe Salami Co. by Giacomo, an Elon, N.C., establishment, is recalling approximately 832 pounds of ready-to-eat (RTE), frozen andouille sausage products that may be contaminated with extraneous materials, specifically metal, the U.S. Department of Agricultures Food Safety and Inspection Service...\n",
+  "establishment": {
+    "id": "M21556+P21556",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/san-guiseppe-salami-co-giacomo",
+    "slug": "san-guiseppe-salami-co-giacomo",
+    "name": "San Guiseppe Salami Co. by Giacomo",
+    "address": "2172 N. Hwy 87 \n  Elon, NC 27244",
+    "telephone": "(336) 586-7003",
+    "grant_date": "2008-02-06",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "Varying weights of vacuum-packed, individually-sealed packages containing \u201cSAN GIUSEPPE SALAMI CO. BY GIACOMO ANDOUILLE SAUSAGE (SMOKE FLAVORING ADDED)\u201d with a \u201cSell By: 11/10/2019\u201d date on the case labels. "
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "North Carolina"
+  ]
+}

@@ -1,1 +1,22 @@
-{"id": "069-2010", "title": "Alabama Firm Recalls Breaded Chicken Wing Products Due to Mislabeling and Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/alabama-firm-recalls-breaded-chicken-wing-products-due-mislabeling-and-undeclared", "reasons": ["Unreported Allergens", "Mislabeling"], "status": "Closed", "risk_level": "High", "start_date": "2010-12-30", "end_date": "2012-06-04", "summary": "WASHINGTON, Dec. 30, 2010 - Pilgrim's Pride, a Boaz, Ala., establishment, is recalling approximately 180,000 pounds of breaded chicken wing products because they contain an undeclared allergen, egg, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. Egg is a known...\n", "establishment": null, "impacted_products": ["20 lb. boxes of \"PIERCE CHICKEN UNCOOKED HOT & SPICY BREADED CHICKEN WINGS DRUMMETTES AND WING PORTIONS\" with the USDA mark of inspection, each box containing four (4) - five lb. bags.", "10 lb. boxes of \"SWEET GEORGIA BRAND UNCOOKED HOT & SPICY BREADED CHICKEN WINGS 1st AND 2nd SECTIONS\" with the USDA mark of inspection, each box containing two (2) - five lb. bags."], "quantity_recovered": 109299, "quantity_unit": "pounds", "states": null}
+{
+  "id": "069-2010",
+  "title": "Alabama Firm Recalls Breaded Chicken Wing Products Due to Mislabeling and Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/alabama-firm-recalls-breaded-chicken-wing-products-due-mislabeling-and-undeclared",
+  "reasons": [
+    "Unreported Allergens",
+    "Mislabeling"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2010-12-30",
+  "end_date": "2012-06-04",
+  "summary": "WASHINGTON, Dec. 30, 2010 - Pilgrim's Pride, a Boaz, Ala., establishment, is recalling approximately 180,000 pounds of breaded chicken wing products because they contain an undeclared allergen, egg, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. Egg is a known...\n",
+  "establishment": null,
+  "impacted_products": [
+    "20 lb. boxes of \"PIERCE CHICKEN UNCOOKED HOT & SPICY BREADED CHICKEN WINGS DRUMMETTES AND WING PORTIONS\" with the USDA mark of inspection, each box containing four (4) - five lb. bags.",
+    "10 lb. boxes of \"SWEET GEORGIA BRAND UNCOOKED HOT & SPICY BREADED CHICKEN WINGS 1st AND 2nd SECTIONS\" with the USDA mark of inspection, each box containing two (2) - five lb. bags."
+  ],
+  "quantity_recovered": 109299,
+  "quantity_unit": "pounds",
+  "states": null
+}

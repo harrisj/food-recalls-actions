@@ -1,1 +1,39 @@
-{"id": "012-2014", "title": "Wyoming Firm Recalls Beef Jerky Products Due to a Processing Deviation", "url": "https://www.fsis.usda.gov/recalls-alerts/wyoming-firm-recalls-beef-jerky-products-due-processing-deviation", "reasons": ["Processing Defect"], "status": "Closed", "risk_level": "High", "start_date": "2014-02-08", "end_date": "2017-01-20", "summary": "Editors Note: This release is being reissued to reflect the correct production dates WASHINGTON, February 8, 2014 Wyoming Authentic Products, LLC, a Cody, Wyo. establishment, is recalling approximately 365 pounds of beef jerky products due to a processing deviation, the U.S. Department of Agriculture's Food...\n", "establishment": {"id": "M44972+V44972", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/wyoming-authentic-products-llc", "slug": "wyoming-authentic-products-llc", "name": "Wyoming Authentic Products LLC", "address": "2517 LT. Childers Street \n  Cody, WY 82414", "telephone": "(307) 587-9841", "grant_date": "2019-11-01", "activities": ["Meat Processing", "Voluntary Processing - Meat"]}, "impacted_products": ["3.5-oz. (CRYOVACED) packages of \u201cALL NATURAL ANGUS ORIGINAL FLAVOR JERKY\u201d with case code \u201c05AE30811\u201d ", "3.5-oz. (CRYOVACED) packages of \u201cALL NATURAL ANGUS PEPPERED FLAVOR JERKY\u201d with case codes \u201c06AE30821\u201d , \u201c05AE31021\u201d , \u201c05AE31711\u201d or \u201c05EIJ32511\u201d", "3.5-oz. (CRYOVACED) packages of \u201cALL NATURAL ANGUS HONEY FLAVOR JERKY\u201d with case code \u201c04AE30921\u201d"], "quantity_recovered": 365, "quantity_unit": "pounds", "states": ["Colorado", "Utah", "Washington", "Wyoming"]}
+{
+  "id": "012-2014",
+  "title": "Wyoming Firm Recalls Beef Jerky Products Due to a Processing Deviation",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/wyoming-firm-recalls-beef-jerky-products-due-processing-deviation",
+  "reasons": [
+    "Processing Defect"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2014-02-08",
+  "end_date": "2017-01-20",
+  "summary": "Editors Note: This release is being reissued to reflect the correct production dates WASHINGTON, February 8, 2014 Wyoming Authentic Products, LLC, a Cody, Wyo. establishment, is recalling approximately 365 pounds of beef jerky products due to a processing deviation, the U.S. Department of Agriculture's Food...\n",
+  "establishment": {
+    "id": "M44972+V44972",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/wyoming-authentic-products-llc",
+    "slug": "wyoming-authentic-products-llc",
+    "name": "Wyoming Authentic Products LLC",
+    "address": "2517 LT. Childers Street \n  Cody, WY 82414",
+    "telephone": "(307) 587-9841",
+    "grant_date": "2019-11-01",
+    "activities": [
+      "Meat Processing",
+      "Voluntary Processing - Meat"
+    ]
+  },
+  "impacted_products": [
+    "3.5-oz. (CRYOVACED) packages of \u201cALL NATURAL ANGUS ORIGINAL FLAVOR JERKY\u201d with case code \u201c05AE30811\u201d ",
+    "3.5-oz. (CRYOVACED) packages of \u201cALL NATURAL ANGUS PEPPERED FLAVOR JERKY\u201d with case codes \u201c06AE30821\u201d , \u201c05AE31021\u201d , \u201c05AE31711\u201d or \u201c05EIJ32511\u201d",
+    "3.5-oz. (CRYOVACED) packages of \u201cALL NATURAL ANGUS HONEY FLAVOR JERKY\u201d with case code \u201c04AE30921\u201d"
+  ],
+  "quantity_recovered": 365,
+  "quantity_unit": "pounds",
+  "states": [
+    "Colorado",
+    "Utah",
+    "Washington",
+    "Wyoming"
+  ]
+}

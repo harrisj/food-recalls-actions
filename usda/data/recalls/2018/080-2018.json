@@ -1,1 +1,32 @@
-{"id": "080-2018", "title": "Bob Evans Farms Inc. Recalls Pork Sausage Link Products due to Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/bob-evans-farms-inc.-recalls-pork-sausage-link-products-due-possible-foreign-matter", "reasons": ["Product Contamination"], "status": "Active", "risk_level": "Low", "start_date": "2018-09-13", "end_date": null, "summary": "WASHINGTON, Sept. 13, 2018 Bob Evans Farms, Inc., a Xenia, Ohio, establishment, is recalling approximately 42,246 pounds of pork sausage link products that may be contaminated with extraneous materials, specifically pieces of clear hard plastic, the U.S. Department of Agricultures Food Safety and Inspection Service...", "establishment": {"id": "M6785", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/bef-foods-inc", "slug": "bef-foods-inc", "name": "BEF Foods, Inc.", "address": "640 Birch Road \n  Xenia, OH 45385", "telephone": "(937) 372-4494", "grant_date": "2020-11-23", "activities": ["Meat Processing", "Meat Slaughter"]}, "impacted_products": [], "quantity_recovered": null, "quantity_unit": null, "states": ["Ohio"]}
+{
+  "id": "080-2018",
+  "title": "Bob Evans Farms Inc. Recalls Pork Sausage Link Products due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/bob-evans-farms-inc.-recalls-pork-sausage-link-products-due-possible-foreign-matter",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "Low",
+  "start_date": "2018-09-13",
+  "end_date": null,
+  "summary": "WASHINGTON, Sept. 13, 2018 Bob Evans Farms, Inc., a Xenia, Ohio, establishment, is recalling approximately 42,246 pounds of pork sausage link products that may be contaminated with extraneous materials, specifically pieces of clear hard plastic, the U.S. Department of Agricultures Food Safety and Inspection Service...",
+  "establishment": {
+    "id": "M6785",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/bef-foods-inc",
+    "slug": "bef-foods-inc",
+    "name": "BEF Foods, Inc.",
+    "address": "640 Birch Road \n  Xenia, OH 45385",
+    "telephone": "(937) 372-4494",
+    "grant_date": "2020-11-23",
+    "activities": [
+      "Meat Processing",
+      "Meat Slaughter"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Ohio"
+  ]
+}

@@ -1,1 +1,38 @@
-{"id": "036-2018", "title": "Eddy Packing Co., Inc. Recalls Smoked Sausage Products Due to Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/eddy-packing-co.-inc.-recalls-smoked-sausage-products-due-possible-foreign-matter", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2018-05-04", "end_date": "2019-04-04", "summary": "WASHINGTON, May 4, 2018 Eddy Packing Co., Inc., a Yoakum, Texas establishment, is recalling approximately 49,558 pounds of smoked sausage products that may be contaminated with foreign matter, specifically hard plastic, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The...", "establishment": {"id": "M4800+P4800+V4800", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/eddy-packing-co-inc", "slug": "eddy-packing-co-inc", "name": "Eddy Packing Co., Inc.", "address": "404 Airport Rd \n  Yoakum, TX 77995", "telephone": "(361) 293-2361", "grant_date": "2022-01-18", "activities": ["Certification - Export", "Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": 33058, "quantity_unit": "pounds", "states": ["California", "Georgia", "Illinois", "New Mexico", "Oklahoma", "Texas"]}
+{
+  "id": "036-2018",
+  "title": "Eddy Packing Co., Inc. Recalls Smoked Sausage Products Due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/eddy-packing-co.-inc.-recalls-smoked-sausage-products-due-possible-foreign-matter",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2018-05-04",
+  "end_date": "2019-04-04",
+  "summary": "WASHINGTON, May 4, 2018 Eddy Packing Co., Inc., a Yoakum, Texas establishment, is recalling approximately 49,558 pounds of smoked sausage products that may be contaminated with foreign matter, specifically hard plastic, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The...",
+  "establishment": {
+    "id": "M4800+P4800+V4800",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/eddy-packing-co-inc",
+    "slug": "eddy-packing-co-inc",
+    "name": "Eddy Packing Co., Inc.",
+    "address": "404 Airport Rd \n  Yoakum, TX 77995",
+    "telephone": "(361) 293-2361",
+    "grant_date": "2022-01-18",
+    "activities": [
+      "Certification - Export",
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 33058,
+  "quantity_unit": "pounds",
+  "states": [
+    "California",
+    "Georgia",
+    "Illinois",
+    "New Mexico",
+    "Oklahoma",
+    "Texas"
+  ]
+}

@@ -1,1 +1,22 @@
-{"id": "005-2021", "title": "AH Company International Distribution, Inc., Recalls Pork Products Imported Without the Benefit of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/ah-company-international-distribution-inc.-recalls-pork-products-imported-without", "reasons": ["Produced Without Benefit of Inspection"], "status": "Closed", "risk_level": "High", "start_date": "2021-02-19", "end_date": "2021-09-08", "summary": "AH Company International Distribution Inc., a Garden Grove, Calif. firm, is recalling approximately 30,081 pounds of pork p\u00e2t\u00e9 products that were imported from an ineligible establishment and distributed in the United States without the benefit of FSIS import re-inspection. The following heat-treated shelf stable pork...\n", "establishment": null, "impacted_products": ["240-gram cans of\u00a0Monique Ranou P\u00e2t\u00e9 de Foie", "240-gram cans of Monique Ranou P\u00e2t\u00e9 de Campagne", "180-gram jars of Monique Ranou P\u00e2t\u00e9 de Campagne Sup\u00e9rieur"], "quantity_recovered": 14858, "quantity_unit": "pounds", "states": null}
+{
+  "id": "005-2021",
+  "title": "AH Company International Distribution, Inc., Recalls Pork Products Imported Without the Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/ah-company-international-distribution-inc.-recalls-pork-products-imported-without",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2021-02-19",
+  "end_date": "2021-09-08",
+  "summary": "AH Company International Distribution Inc., a Garden Grove, Calif. firm, is recalling approximately 30,081 pounds of pork p\u00e2t\u00e9 products that were imported from an ineligible establishment and distributed in the United States without the benefit of FSIS import re-inspection. The following heat-treated shelf stable pork...\n",
+  "establishment": null,
+  "impacted_products": [
+    "240-gram cans of\u00a0Monique Ranou P\u00e2t\u00e9 de Foie",
+    "240-gram cans of Monique Ranou P\u00e2t\u00e9 de Campagne",
+    "180-gram jars of Monique Ranou P\u00e2t\u00e9 de Campagne Sup\u00e9rieur"
+  ],
+  "quantity_recovered": 14858,
+  "quantity_unit": "pounds",
+  "states": null
+}

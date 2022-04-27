@@ -1,1 +1,35 @@
-{"id": "044-2021", "title": "Shamrock Foods Company DBA Gold Canyon Meat Company Recalls Raw Ground Beef Products  Due To Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/shamrock-foods-company-dba-gold-canyon-meat-company-recalls-raw-ground-beef-products", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2021-11-15", "end_date": "2021-12-20", "summary": "WASHINGTON, Nov. 15, 2021\u2013 Shamrock Foods Company, doing business as Gold Canyon Meat Company, a Phoenix, Ariz., establishment, is recalling approximately 6,876 pounds of raw ground beef patties because they may be contaminated with extraneous materials, specifically pieces of hard, white plastic, the U.S. Department...\n", "establishment": {"id": "M6239+P6239+V6239", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/shamrock-foods-company", "slug": "shamrock-foods-company", "name": "Shamrock Foods Company", "address": "2540 N 29th Ave. \n  Phoenix, AZ 85009", "telephone": "(602) 233-6400", "grant_date": "2021-09-24", "activities": ["Meat Processing", "Poultry Processing", "Voluntary Processing - Meat"]}, "impacted_products": ["approximately 6,876 pounds of raw ground beef patties"], "quantity_recovered": 2185, "quantity_unit": "pounds", "states": ["California"]}
+{
+  "id": "044-2021",
+  "title": "Shamrock Foods Company DBA Gold Canyon Meat Company Recalls Raw Ground Beef Products  Due To Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/shamrock-foods-company-dba-gold-canyon-meat-company-recalls-raw-ground-beef-products",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2021-11-15",
+  "end_date": "2021-12-20",
+  "summary": "WASHINGTON, Nov. 15, 2021\u2013 Shamrock Foods Company, doing business as Gold Canyon Meat Company, a Phoenix, Ariz., establishment, is recalling approximately 6,876 pounds of raw ground beef patties because they may be contaminated with extraneous materials, specifically pieces of hard, white plastic, the U.S. Department...\n",
+  "establishment": {
+    "id": "M6239+P6239+V6239",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/shamrock-foods-company",
+    "slug": "shamrock-foods-company",
+    "name": "Shamrock Foods Company",
+    "address": "2540 N 29th Ave. \n  Phoenix, AZ 85009",
+    "telephone": "(602) 233-6400",
+    "grant_date": "2021-09-24",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing",
+      "Voluntary Processing - Meat"
+    ]
+  },
+  "impacted_products": [
+    "approximately 6,876 pounds of raw ground beef patties"
+  ],
+  "quantity_recovered": 2185,
+  "quantity_unit": "pounds",
+  "states": [
+    "California"
+  ]
+}

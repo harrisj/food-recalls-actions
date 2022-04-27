@@ -1,1 +1,32 @@
-{"id": "085-2014", "title": "Recall Notification Report 085-2014 (Spicy Sausage Pasta)", "url": "https://www.fsis.usda.gov/recalls-alerts/recall-notification-report-085-2014-spicy-sausage-pasta", "reasons": ["Misbranding"], "status": "Closed", "risk_level": "Low", "start_date": "2014-12-19", "end_date": "2015-03-24", "summary": "WASHINGTON, December 19, 2014 Katadyn North American Foods, LLC, a Rocklin, Calif. establishment, is recalling approximately 2,719 pounds of spicy sausage products due to misbranding, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The Spicy Sausage Pasta products were produced...\n", "establishment": {"id": "M8132+P8132", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/katadyn-north-america-foods-llc", "slug": "katadyn-north-america-foods-llc", "name": "Katadyn North America Foods, LLC.", "address": "130 Cyber Ct. \n  Rocklin, CA 95765", "telephone": "(916) 624-6050", "grant_date": "2019-10-10", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["5 -oz. foil laminated pouches containing \u201cALPINEAIRE SPICY SAUSAGE PASTA.\u201d"], "quantity_recovered": 958, "quantity_unit": "pounds", "states": null}
+{
+  "id": "085-2014",
+  "title": "Recall Notification Report 085-2014 (Spicy Sausage Pasta)",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/recall-notification-report-085-2014-spicy-sausage-pasta",
+  "reasons": [
+    "Misbranding"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2014-12-19",
+  "end_date": "2015-03-24",
+  "summary": "WASHINGTON, December 19, 2014 Katadyn North American Foods, LLC, a Rocklin, Calif. establishment, is recalling approximately 2,719 pounds of spicy sausage products due to misbranding, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The Spicy Sausage Pasta products were produced...\n",
+  "establishment": {
+    "id": "M8132+P8132",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/katadyn-north-america-foods-llc",
+    "slug": "katadyn-north-america-foods-llc",
+    "name": "Katadyn North America Foods, LLC.",
+    "address": "130 Cyber Ct. \n  Rocklin, CA 95765",
+    "telephone": "(916) 624-6050",
+    "grant_date": "2019-10-10",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "5 -oz. foil laminated pouches containing \u201cALPINEAIRE SPICY SAUSAGE PASTA.\u201d"
+  ],
+  "quantity_recovered": 958,
+  "quantity_unit": "pounds",
+  "states": null
+}

@@ -1,1 +1,23 @@
-{"id": "057-2010", "title": "California Firm Recalls Ready-To-Eat Pork Products Due to Possible Adulteration", "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-ready-eat-pork-products-due-possible-adulteration", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "Low", "start_date": "2010-10-27", "end_date": "2012-06-04", "summary": "WASHINGTON, October 27, 2010 - Autentico Foods, a Hawaiian Gardens, Calif., establishment, is recalling approximately 54,000 pounds of ready-to-eat pork products that it did not produce in accordance with its food safety plan, failing to take the steps it had determined were necessary to produce...\n", "establishment": null, "impacted_products": ["10-pound boxes of \u201cAutentico Foods Corp. CHICHARRON BELLIE GRUESO FRIED PORK BELLIES THICK.\u201d", "5-ounce bags of \u201cAUTENTICO FOODS Chicharron Delgado FRIED PORK SKINS.\u201d"], "quantity_recovered": null, "quantity_unit": null, "states": ["California"]}
+{
+  "id": "057-2010",
+  "title": "California Firm Recalls Ready-To-Eat Pork Products Due to Possible Adulteration",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-ready-eat-pork-products-due-possible-adulteration",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2010-10-27",
+  "end_date": "2012-06-04",
+  "summary": "WASHINGTON, October 27, 2010 - Autentico Foods, a Hawaiian Gardens, Calif., establishment, is recalling approximately 54,000 pounds of ready-to-eat pork products that it did not produce in accordance with its food safety plan, failing to take the steps it had determined were necessary to produce...\n",
+  "establishment": null,
+  "impacted_products": [
+    "10-pound boxes of \u201cAutentico Foods Corp. CHICHARRON BELLIE GRUESO FRIED PORK BELLIES THICK.\u201d",
+    "5-ounce bags of \u201cAUTENTICO FOODS Chicharron Delgado FRIED PORK SKINS.\u201d"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "California"
+  ]
+}

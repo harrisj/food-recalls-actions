@@ -1,1 +1,20 @@
-{"id": "006-2013", "title": "California Firm Recalls Frozen Pizzas Due To Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-frozen-pizzas-due-possible-foreign-matter-contamination", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "Low", "start_date": "2013-01-23", "end_date": "2014-03-07", "summary": "WASHINGTON, Jan. 23, 2013 - Annie's Homegrown Inc., a Berkeley, Calif. establishment, is recalling an undetermined amount of frozen pizzas that may be contaminated with extraneous materials and are the subject of a Food and Drug Administration (FDA) recall, the U.S. Department of Agriculture's Food...\n", "establishment": null, "impacted_products": ["All varieties of \"Annie's Homegrown RISING CRUST FROZEN PIZZA\" with a \"Best By\" date including and between \"09Jan13\" and \"14Sep13\" are affected"], "quantity_recovered": 142445, "quantity_unit": "pounds", "states": null}
+{
+  "id": "006-2013",
+  "title": "California Firm Recalls Frozen Pizzas Due To Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-frozen-pizzas-due-possible-foreign-matter-contamination",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2013-01-23",
+  "end_date": "2014-03-07",
+  "summary": "WASHINGTON, Jan. 23, 2013 - Annie's Homegrown Inc., a Berkeley, Calif. establishment, is recalling an undetermined amount of frozen pizzas that may be contaminated with extraneous materials and are the subject of a Food and Drug Administration (FDA) recall, the U.S. Department of Agriculture's Food...\n",
+  "establishment": null,
+  "impacted_products": [
+    "All varieties of \"Annie's Homegrown RISING CRUST FROZEN PIZZA\" with a \"Best By\" date including and between \"09Jan13\" and \"14Sep13\" are affected"
+  ],
+  "quantity_recovered": 142445,
+  "quantity_unit": "pounds",
+  "states": null
+}

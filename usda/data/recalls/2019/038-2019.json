@@ -1,1 +1,38 @@
-{"id": "038-2019", "title": "Aurora Packing Company, Inc. Recalls Beef Products due to Possible E. coli O157:H7 Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/aurora-packing-company-inc.-recalls-beef-products-due-possible-e.-coli-o157h7-0", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2019-03-26", "end_date": null, "summary": "WASHINGTON, March 26, 2019 Aurora Packing Company, Inc., a North Aurora, Ill. establishment, is recalling approximately 4,838 pounds of beef heel and chuck tender products that may be contaminated with E. coli O157:H7, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced...\n", "establishment": {"id": "M788", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/aurora-packing-company-inc", "slug": "aurora-packing-company-inc", "name": "Aurora Packing Company, Inc.", "address": "125 S. Grant St. \n  North Aurora, IL 60542", "telephone": "(630) 897-0551", "grant_date": "2015-12-24", "activities": ["Meat Processing", "Meat Slaughter"]}, "impacted_products": ["Varying catch weight cardboard box case packages containing bulk pieces of \u201cAURORA ANGUS BEEF BONELESS BEEF \u2013 CHUCK TENDER\u201d and case code 61150 represented on the label.   ", "Varying catch weight cardboard box case packages containing bulk pieces of \u201cBONELESS BEEF \u2013 HEEL MEAT\u201d and case code 29970 represented on the label.   ", "Varying catch weight cardboard box case packages containing bulk pieces of \u201cBONELESS BEEF \u2013 HEEL MEAT\u201d and case code 49970 represented on the label. "], "quantity_recovered": 0, "quantity_unit": "pounds", "states": ["Illinois", "Iowa", "Wisconsin"]}
+{
+  "id": "038-2019",
+  "title": "Aurora Packing Company, Inc. Recalls Beef Products due to Possible E. coli O157:H7 Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/aurora-packing-company-inc.-recalls-beef-products-due-possible-e.-coli-o157h7-0",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2019-03-26",
+  "end_date": null,
+  "summary": "WASHINGTON, March 26, 2019 Aurora Packing Company, Inc., a North Aurora, Ill. establishment, is recalling approximately 4,838 pounds of beef heel and chuck tender products that may be contaminated with E. coli O157:H7, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced...\n",
+  "establishment": {
+    "id": "M788",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/aurora-packing-company-inc",
+    "slug": "aurora-packing-company-inc",
+    "name": "Aurora Packing Company, Inc.",
+    "address": "125 S. Grant St. \n  North Aurora, IL 60542",
+    "telephone": "(630) 897-0551",
+    "grant_date": "2015-12-24",
+    "activities": [
+      "Meat Processing",
+      "Meat Slaughter"
+    ]
+  },
+  "impacted_products": [
+    "Varying catch weight cardboard box case packages containing bulk pieces of \u201cAURORA ANGUS BEEF BONELESS BEEF \u2013 CHUCK TENDER\u201d and case code 61150 represented on the label.   ",
+    "Varying catch weight cardboard box case packages containing bulk pieces of \u201cBONELESS BEEF \u2013 HEEL MEAT\u201d and case code 29970 represented on the label.   ",
+    "Varying catch weight cardboard box case packages containing bulk pieces of \u201cBONELESS BEEF \u2013 HEEL MEAT\u201d and case code 49970 represented on the label. "
+  ],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": [
+    "Illinois",
+    "Iowa",
+    "Wisconsin"
+  ]
+}

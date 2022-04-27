@@ -1,1 +1,28 @@
-{"id": "066-2017", "title": "CC Kitchens, LLC Recalls Meat and Poultry Salad Products Due to Possible Listeria Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/cc-kitchens-llc-recalls-meat-and-poultry-salad-products-due-possible-listeria", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2017-06-09", "end_date": "2017-08-24", "summary": "WASHINGTON, June 9, 2017 CC Kitchens, LLC, a Cincinnati, Ohio establishment, is recalling approximately 2,415 pounds of ready-to-eat meat and poultry salad products that may be adulterated with Listeria monocytogenes, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The ready-to-eat...\n", "establishment": null, "impacted_products": ["12.6-oz. clamshell packages containing \u201cChef Salad\u201d with case code 71001 and \u201cSell By\u201d dates of 6/5/2017, 6/6/2017, 6/7/2017, 6/8/2017, 6/9/2017 and 6/10/2017.", "13.1-oz. clamshell packages containing \u201cChicken & Bacon Cobb Salad\u201d with case code 71004 and \u201cSell By\u201d dates of 6/5/2017, 6/6/2017, 6/7/2017, 6/8/2017, 6/9/2017 and 6/10/2017.", "9.4-oz. clamshell packages containing \u201cChef Side Salad\u201d with case code 71005 and \u201cSell By\u201d dates of 6/5/2017, 6/6/2017, 6/7/2017, 6/8/2017, 6/9/2017 and 6/10/2017.", "9.65-oz. clamshell packages containing \u201cChicken & Bacon Cobb Side Salad\u201d with case code 71007 and \u201cSell By\u201d dates of 6/5/2017, 6/6/2017, 6/7/2017, 6/8/2017, 6/9/2017 and 6/10/2017."], "quantity_recovered": 174, "quantity_unit": "pounds", "states": ["Michigan", "Ohio", "Virginia", "West Virginia"]}
+{
+  "id": "066-2017",
+  "title": "CC Kitchens, LLC Recalls Meat and Poultry Salad Products Due to Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/cc-kitchens-llc-recalls-meat-and-poultry-salad-products-due-possible-listeria",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2017-06-09",
+  "end_date": "2017-08-24",
+  "summary": "WASHINGTON, June 9, 2017 CC Kitchens, LLC, a Cincinnati, Ohio establishment, is recalling approximately 2,415 pounds of ready-to-eat meat and poultry salad products that may be adulterated with Listeria monocytogenes, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The ready-to-eat...\n",
+  "establishment": null,
+  "impacted_products": [
+    "12.6-oz. clamshell packages containing \u201cChef Salad\u201d with case code 71001 and \u201cSell By\u201d dates of 6/5/2017, 6/6/2017, 6/7/2017, 6/8/2017, 6/9/2017 and 6/10/2017.",
+    "13.1-oz. clamshell packages containing \u201cChicken & Bacon Cobb Salad\u201d with case code 71004 and \u201cSell By\u201d dates of 6/5/2017, 6/6/2017, 6/7/2017, 6/8/2017, 6/9/2017 and 6/10/2017.",
+    "9.4-oz. clamshell packages containing \u201cChef Side Salad\u201d with case code 71005 and \u201cSell By\u201d dates of 6/5/2017, 6/6/2017, 6/7/2017, 6/8/2017, 6/9/2017 and 6/10/2017.",
+    "9.65-oz. clamshell packages containing \u201cChicken & Bacon Cobb Side Salad\u201d with case code 71007 and \u201cSell By\u201d dates of 6/5/2017, 6/6/2017, 6/7/2017, 6/8/2017, 6/9/2017 and 6/10/2017."
+  ],
+  "quantity_recovered": 174,
+  "quantity_unit": "pounds",
+  "states": [
+    "Michigan",
+    "Ohio",
+    "Virginia",
+    "West Virginia"
+  ]
+}

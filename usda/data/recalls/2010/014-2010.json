@@ -1,1 +1,32 @@
-{"id": "014-2010", "title": "Recall Notification Report", "url": "https://www.fsis.usda.gov/recalls-alerts/recall-notification-report-27", "reasons": ["Mislabeling"], "status": "Closed", "risk_level": "Low", "start_date": "2010-03-08", "end_date": "2012-06-03", "summary": "WASHINGTON, March 8, 2010 - Rudolph Foods Company, Inc., a San Bernardino, Calif., establishment is recalling approximately 186 pounds of Baken-ets Fried Pork Skins because the \"Hot'N Spicy\" version was packaged in a \"Traditional\" bag. The \"Hot'N Spicy\" fried pork skins contain monosodium glutamate (MSG)...\n", "establishment": {"id": "M525+P2854", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/rudolph-foods-company-inc", "slug": "rudolph-foods-company-inc", "name": "Rudolph Foods Company Inc.", "address": "920 West 4th Street \n  Beaumont, CA 92223", "telephone": "(909) 388-2202", "grant_date": "2016-08-01", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["3 \u00be-ounce packages of \"BAKEN-ETS TRADITIONAL FRIED PORK SKINS.\""], "quantity_recovered": 647, "quantity_unit": "pounds", "states": null}
+{
+  "id": "014-2010",
+  "title": "Recall Notification Report",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/recall-notification-report-27",
+  "reasons": [
+    "Mislabeling"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2010-03-08",
+  "end_date": "2012-06-03",
+  "summary": "WASHINGTON, March 8, 2010 - Rudolph Foods Company, Inc., a San Bernardino, Calif., establishment is recalling approximately 186 pounds of Baken-ets Fried Pork Skins because the \"Hot'N Spicy\" version was packaged in a \"Traditional\" bag. The \"Hot'N Spicy\" fried pork skins contain monosodium glutamate (MSG)...\n",
+  "establishment": {
+    "id": "M525+P2854",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/rudolph-foods-company-inc",
+    "slug": "rudolph-foods-company-inc",
+    "name": "Rudolph Foods Company Inc.",
+    "address": "920 West 4th Street \n  Beaumont, CA 92223",
+    "telephone": "(909) 388-2202",
+    "grant_date": "2016-08-01",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "3 \u00be-ounce packages of \"BAKEN-ETS TRADITIONAL FRIED PORK SKINS.\""
+  ],
+  "quantity_recovered": 647,
+  "quantity_unit": "pounds",
+  "states": null
+}

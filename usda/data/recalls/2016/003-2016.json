@@ -1,1 +1,23 @@
-{"id": "003-2016", "title": "Wegmans Food Markets Recalls Chicken Products Produced Without Benefit Of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/wegmans-food-markets-recalls-chicken-products-produced-without-benefit-inspection", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2016-01-05", "end_date": "2016-05-25", "summary": "WASHINGTON, Jan. 5, 2016 Wegmans Food Markets Inc., a Rochester, N.Y. establishment, is recalling approximately 1,125 pounds of chicken products that were produced without the benefit of federal inspection, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today.The chicken items were...", "establishment": null, "impacted_products": [], "quantity_recovered": 0, "quantity_unit": "pounds", "states": ["Maryland", "Massachusetts", "New Jersey", "New York", "Pennsylvania", "Virginia"]}
+{
+  "id": "003-2016",
+  "title": "Wegmans Food Markets Recalls Chicken Products Produced Without Benefit Of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/wegmans-food-markets-recalls-chicken-products-produced-without-benefit-inspection",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2016-01-05",
+  "end_date": "2016-05-25",
+  "summary": "WASHINGTON, Jan. 5, 2016 Wegmans Food Markets Inc., a Rochester, N.Y. establishment, is recalling approximately 1,125 pounds of chicken products that were produced without the benefit of federal inspection, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today.The chicken items were...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": [
+    "Maryland",
+    "Massachusetts",
+    "New Jersey",
+    "New York",
+    "Pennsylvania",
+    "Virginia"
+  ]
+}

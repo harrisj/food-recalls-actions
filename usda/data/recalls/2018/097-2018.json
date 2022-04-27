@@ -1,1 +1,37 @@
-{"id": "097-2018", "title": "GHSW, LLC Recalls Salad Products  Due To Possible Salmonella And Listeria monocytogenes Contamination In Corn", "url": "https://www.fsis.usda.gov/recalls-alerts/ghsw-llc-recalls-salad-products-due-possible-salmonella-and-listeria-monocytogenes", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2018-10-19", "end_date": "2019-07-17", "summary": "WASHINGTON, Oct. 19, 2018 GHSW, LLC, a Houston, Texas establishment, is recalling approximately 1,786 pounds of ready-to-eat salad with chicken products that contain a corn ingredient that may be contaminated with Salmonella and Listeria monocytogenes, the U.S. Department of Agricultures Food Safety and Inspection Service...", "establishment": {"id": "M44056+P44056", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/ghsw-llc", "slug": "ghsw-llc", "name": "GHSW, LLC", "address": "8255 Tewantin \n  Houston, TX 77061", "telephone": "(832) 553-5618", "grant_date": "2016-12-15", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": 1109, "quantity_unit": "pounds", "states": ["Colorado", "Louisiana", "New Mexico", "Oklahoma", "Tennessee", "Texas"]}
+{
+  "id": "097-2018",
+  "title": "GHSW, LLC Recalls Salad Products  Due To Possible Salmonella And Listeria monocytogenes Contamination In Corn",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/ghsw-llc-recalls-salad-products-due-possible-salmonella-and-listeria-monocytogenes",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2018-10-19",
+  "end_date": "2019-07-17",
+  "summary": "WASHINGTON, Oct. 19, 2018 GHSW, LLC, a Houston, Texas establishment, is recalling approximately 1,786 pounds of ready-to-eat salad with chicken products that contain a corn ingredient that may be contaminated with Salmonella and Listeria monocytogenes, the U.S. Department of Agricultures Food Safety and Inspection Service...",
+  "establishment": {
+    "id": "M44056+P44056",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/ghsw-llc",
+    "slug": "ghsw-llc",
+    "name": "GHSW, LLC",
+    "address": "8255 Tewantin \n  Houston, TX 77061",
+    "telephone": "(832) 553-5618",
+    "grant_date": "2016-12-15",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 1109,
+  "quantity_unit": "pounds",
+  "states": [
+    "Colorado",
+    "Louisiana",
+    "New Mexico",
+    "Oklahoma",
+    "Tennessee",
+    "Texas"
+  ]
+}

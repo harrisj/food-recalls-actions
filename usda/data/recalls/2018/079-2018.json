@@ -1,1 +1,24 @@
-{"id": "079-2018", "title": "Roya Foods, LLC Recalls Halal Manti Beef Dumpling Products Produced Without Benefit of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/roya-foods-llc-recalls-halal-manti-beef-dumpling-products-produced-without-benefit", "reasons": ["Produced Without Benefit of Inspection"], "status": "Closed", "risk_level": "High", "start_date": "2018-09-12", "end_date": "2018-09-28", "summary": "WASHINGTON, Sept. 12, 2018 Roya Foods, LLC, a Paterson, N.J., distribution firm, is recalling approximately 438 pounds of raw Halal Manti Beef Dumpling products that were produced without the benefit of federal inspection, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced...", "establishment": null, "impacted_products": [], "quantity_recovered": 78, "quantity_unit": "pounds", "states": ["Maryland", "Massachusetts", "Minnesota", "New Jersey", "New York"]}
+{
+  "id": "079-2018",
+  "title": "Roya Foods, LLC Recalls Halal Manti Beef Dumpling Products Produced Without Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/roya-foods-llc-recalls-halal-manti-beef-dumpling-products-produced-without-benefit",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2018-09-12",
+  "end_date": "2018-09-28",
+  "summary": "WASHINGTON, Sept. 12, 2018 Roya Foods, LLC, a Paterson, N.J., distribution firm, is recalling approximately 438 pounds of raw Halal Manti Beef Dumpling products that were produced without the benefit of federal inspection, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 78,
+  "quantity_unit": "pounds",
+  "states": [
+    "Maryland",
+    "Massachusetts",
+    "Minnesota",
+    "New Jersey",
+    "New York"
+  ]
+}

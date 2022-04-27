@@ -1,1 +1,40 @@
-{"id": "040-2012", "title": "California Firm Recalls Raw Stuffed Chicken Product Due To Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-raw-stuffed-chicken-product-due-misbranding-and-undeclared", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2012-06-13", "end_date": "2013-05-28", "summary": "Editor's Note (Jun 15, 2012): This recall release has been updated to include additional state distribution information.The product subject to recall was also distributed to retail establishments in Nevada and New Mexico. WASHINGTON, June 13, 2012 - Antonelli's and Sons, a South San Francisco, Calif...\n", "establishment": {"id": "M22018+P22018", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/pucci-foods", "slug": "pucci-foods", "name": "Pucci Foods", "address": "25447 Industrial Blvd. \n  Hayward, CA 94545", "telephone": "(650) 826-0727", "grant_date": "2017-08-07", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["Approx. 1-lb. trays of \"TRADER JOE'S CRANBERRY APPLE STUFFED CHICKEN BREAST,\" with a Use By date of 06/13/12 through 06/23/12 located on a sticker in the top right corner of the package."], "quantity_recovered": 848, "quantity_unit": "pounds", "states": ["Arizona", "California", "Nevada", "New Mexico", "Oregon", "Washington"]}
+{
+  "id": "040-2012",
+  "title": "California Firm Recalls Raw Stuffed Chicken Product Due To Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-raw-stuffed-chicken-product-due-misbranding-and-undeclared",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2012-06-13",
+  "end_date": "2013-05-28",
+  "summary": "Editor's Note (Jun 15, 2012): This recall release has been updated to include additional state distribution information.The product subject to recall was also distributed to retail establishments in Nevada and New Mexico. WASHINGTON, June 13, 2012 - Antonelli's and Sons, a South San Francisco, Calif...\n",
+  "establishment": {
+    "id": "M22018+P22018",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/pucci-foods",
+    "slug": "pucci-foods",
+    "name": "Pucci Foods",
+    "address": "25447 Industrial Blvd. \n  Hayward, CA 94545",
+    "telephone": "(650) 826-0727",
+    "grant_date": "2017-08-07",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "Approx. 1-lb. trays of \"TRADER JOE'S CRANBERRY APPLE STUFFED CHICKEN BREAST,\" with a Use By date of 06/13/12 through 06/23/12 located on a sticker in the top right corner of the package."
+  ],
+  "quantity_recovered": 848,
+  "quantity_unit": "pounds",
+  "states": [
+    "Arizona",
+    "California",
+    "Nevada",
+    "New Mexico",
+    "Oregon",
+    "Washington"
+  ]
+}

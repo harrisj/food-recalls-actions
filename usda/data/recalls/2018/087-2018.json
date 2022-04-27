@@ -1,1 +1,36 @@
-{"id": "087-2018", "title": "Ukrop's Homestyle Foods Recalls Ready-To-Eat Meat and Poultry Products Due to Possible Listeria Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/ukrops-homestyle-foods-recalls-ready-eat-meat-and-poultry-products-due-possible", "reasons": ["Product Contamination"], "status": "Active", "risk_level": "High", "start_date": "2018-10-05", "end_date": null, "summary": "WASHINGTON, Oct. 5, 2018 Ukrops Homestyle Foods, a Richmond, Va. establishment, is recalling approximately 18,296 pounds of ready-to-eat meat and poultry deli-sliced products that may be adulterated with Listeria monocytogenes, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The ready-to-eat...", "establishment": {"id": "M19979+P19979", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/ukrops-homestyle-foods", "slug": "ukrops-homestyle-foods", "name": "Ukrop's Homestyle Foods", "address": "600-A Southlake Blvd. \n  Richmond, VA 23236", "telephone": "(804) 419-1990", "grant_date": "2011-03-04", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": null, "quantity_unit": null, "states": ["Kentucky", "Ohio", "Tennessee", "Virginia", "West Virginia"]}
+{
+  "id": "087-2018",
+  "title": "Ukrop's Homestyle Foods Recalls Ready-To-Eat Meat and Poultry Products Due to Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/ukrops-homestyle-foods-recalls-ready-eat-meat-and-poultry-products-due-possible",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2018-10-05",
+  "end_date": null,
+  "summary": "WASHINGTON, Oct. 5, 2018 Ukrops Homestyle Foods, a Richmond, Va. establishment, is recalling approximately 18,296 pounds of ready-to-eat meat and poultry deli-sliced products that may be adulterated with Listeria monocytogenes, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The ready-to-eat...",
+  "establishment": {
+    "id": "M19979+P19979",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/ukrops-homestyle-foods",
+    "slug": "ukrops-homestyle-foods",
+    "name": "Ukrop's Homestyle Foods",
+    "address": "600-A Southlake Blvd. \n  Richmond, VA 23236",
+    "telephone": "(804) 419-1990",
+    "grant_date": "2011-03-04",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Kentucky",
+    "Ohio",
+    "Tennessee",
+    "Virginia",
+    "West Virginia"
+  ]
+}

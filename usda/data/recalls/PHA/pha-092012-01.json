@@ -1,1 +1,18 @@
-{"id": "PHA-092012-01", "title": "FSIS Issues Public Health Alert for Imported Canadian Raw Boneless Beef Trim from XL Foods-092012", "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-imported-canadian-raw-boneless-beef-trim-xl-foods", "reasons": ["Product Contamination"], "status": "Active", "risk_level": null, "start_date": "2012-09-20", "end_date": null, "summary": "Editor's Note: On Sept. 21, 2012, FSIS reissued this notice to clarify that the Canadian products subject to the FSIS Public Health Alert are raw boneless beef trim imported into the U.S. by one establishment (XL Foods, Inc.), and to add two additional productions days...", "establishment": null, "impacted_products": [], "quantity_recovered": null, "quantity_unit": null, "states": null}
+{
+  "id": "PHA-092012-01",
+  "title": "FSIS Issues Public Health Alert for Imported Canadian Raw Boneless Beef Trim from XL Foods-092012",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-imported-canadian-raw-boneless-beef-trim-xl-foods",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2012-09-20",
+  "end_date": null,
+  "summary": "Editor's Note: On Sept. 21, 2012, FSIS reissued this notice to clarify that the Canadian products subject to the FSIS Public Health Alert are raw boneless beef trim imported into the U.S. by one establishment (XL Foods, Inc.), and to add two additional productions days...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}

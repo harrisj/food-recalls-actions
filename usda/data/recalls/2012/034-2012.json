@@ -1,1 +1,39 @@
-{"id": "034-2012", "title": "Oregon Firm Recalls Smoked Bratwurst Product Due To Misbranding And Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/oregon-firm-recalls-smoked-bratwurst-product-due-misbranding-and-undeclared-allergen", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "Low", "start_date": "2012-05-24", "end_date": "2013-05-28", "summary": "WASHINGTON, May 24, 2012 - Zenner's Quality Meat Products, Inc., a Portland, Ore. establishment, is recalling approximately 3,660 pounds of a bratwurst product because of misbranding and an undeclared allergen. The product contains soy protein, a known allergen, not declared on the label. The following...\n", "establishment": {"id": "M6308+P6308", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/zenners-quality-meat-products-inc", "slug": "zenners-quality-meat-products-inc", "name": "Zenner's Quality Meat Products, Inc.", "address": "2131 NW Kearney Street \n  Portland, OR 97210", "telephone": "(503) 241-4113", "grant_date": "2015-05-27", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["2.25-lb. packages containing \"Zenner's Smoked Brotwurst\" with a sell by date through 7/17/12"], "quantity_recovered": 0, "quantity_unit": "pounds", "states": ["California", "Idaho", "Nevada", "Oregon", "Washington"]}
+{
+  "id": "034-2012",
+  "title": "Oregon Firm Recalls Smoked Bratwurst Product Due To Misbranding And Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/oregon-firm-recalls-smoked-bratwurst-product-due-misbranding-and-undeclared-allergen",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2012-05-24",
+  "end_date": "2013-05-28",
+  "summary": "WASHINGTON, May 24, 2012 - Zenner's Quality Meat Products, Inc., a Portland, Ore. establishment, is recalling approximately 3,660 pounds of a bratwurst product because of misbranding and an undeclared allergen. The product contains soy protein, a known allergen, not declared on the label. The following...\n",
+  "establishment": {
+    "id": "M6308+P6308",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/zenners-quality-meat-products-inc",
+    "slug": "zenners-quality-meat-products-inc",
+    "name": "Zenner's Quality Meat Products, Inc.",
+    "address": "2131 NW Kearney Street \n  Portland, OR 97210",
+    "telephone": "(503) 241-4113",
+    "grant_date": "2015-05-27",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "2.25-lb. packages containing \"Zenner's Smoked Brotwurst\" with a sell by date through 7/17/12"
+  ],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": [
+    "California",
+    "Idaho",
+    "Nevada",
+    "Oregon",
+    "Washington"
+  ]
+}

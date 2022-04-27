@@ -1,1 +1,25 @@
-{"id": "081-2014", "title": "California Firm Recalls Sausage Products Due To Misbranding and Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-sausage-products-due-misbranding-and-undeclared-allergen", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2014-11-19", "end_date": "2015-03-24", "summary": "EDITOR'S NOTE: This release is being updated but not reissued to reflect an increase in the amount of product in commerce. The total amount of product in commerce is approximately 14 pounds. WASHINGTON, Nov. 19, 2014 Sapar USA, Inc. (DBA Fabrique Delices), a Hayward, Calif...\n", "establishment": null, "impacted_products": ["Pieces of \u201cFabrique Delices, Saucisson A L\u2019ail Garlic Sausage \u2013 Nonfat Dry Milk Added,\u201d each approximately .83-lb each, with product code 5511. The misbranded products bear the label of another product, \u201cFabrique Delices, Saucisson Sec\u201d"], "quantity_recovered": 0, "quantity_unit": "pounds", "states": ["California", "Pennsylvania", "Texas"]}
+{
+  "id": "081-2014",
+  "title": "California Firm Recalls Sausage Products Due To Misbranding and Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-sausage-products-due-misbranding-and-undeclared-allergen",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2014-11-19",
+  "end_date": "2015-03-24",
+  "summary": "EDITOR'S NOTE: This release is being updated but not reissued to reflect an increase in the amount of product in commerce. The total amount of product in commerce is approximately 14 pounds. WASHINGTON, Nov. 19, 2014 Sapar USA, Inc. (DBA Fabrique Delices), a Hayward, Calif...\n",
+  "establishment": null,
+  "impacted_products": [
+    "Pieces of \u201cFabrique Delices, Saucisson A L\u2019ail Garlic Sausage \u2013 Nonfat Dry Milk Added,\u201d each approximately .83-lb each, with product code 5511. The misbranded products bear the label of another product, \u201cFabrique Delices, Saucisson Sec\u201d"
+  ],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": [
+    "California",
+    "Pennsylvania",
+    "Texas"
+  ]
+}

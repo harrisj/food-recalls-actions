@@ -1,1 +1,22 @@
-{"id": "047-2013", "title": "West Virginia Firm Recalls Beef Jerky Products Due To Processing Deviation", "url": "https://www.fsis.usda.gov/recalls-alerts/west-virginia-firm-recalls-beef-jerky-products-due-processing-deviation", "reasons": ["Processing Defect"], "status": "Closed", "risk_level": "High", "start_date": "2013-08-28", "end_date": "2015-03-24", "summary": "WASHINGTON, Aug. 28, 2013 Lone Star Western Beef, Inc., a Fairmont, W.Va., establishment, is recalling approximately 109 pounds of beef jerky products due to a processing deviation, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The products subject to recall...\n", "establishment": null, "impacted_products": ["1-oz., 3-oz. and 16-oz. packages of \u201cLone Star Western Beef Inc. W.V. Original Beef Jerky.\u201d"], "quantity_recovered": 13, "quantity_unit": "pounds", "states": ["West Virginia"]}
+{
+  "id": "047-2013",
+  "title": "West Virginia Firm Recalls Beef Jerky Products Due To Processing Deviation",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/west-virginia-firm-recalls-beef-jerky-products-due-processing-deviation",
+  "reasons": [
+    "Processing Defect"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2013-08-28",
+  "end_date": "2015-03-24",
+  "summary": "WASHINGTON, Aug. 28, 2013 Lone Star Western Beef, Inc., a Fairmont, W.Va., establishment, is recalling approximately 109 pounds of beef jerky products due to a processing deviation, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The products subject to recall...\n",
+  "establishment": null,
+  "impacted_products": [
+    "1-oz., 3-oz. and 16-oz. packages of \u201cLone Star Western Beef Inc. W.V. Original Beef Jerky.\u201d"
+  ],
+  "quantity_recovered": 13,
+  "quantity_unit": "pounds",
+  "states": [
+    "West Virginia"
+  ]
+}

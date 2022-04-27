@@ -1,1 +1,26 @@
-{"id": "010-2021", "title": "BC Food LA, LLC Recalls Ineligible Beef Products Imported From China", "url": "https://www.fsis.usda.gov/recalls-alerts/bc-food-la-llc-recalls-ineligible-beef-products-imported-china", "reasons": ["Import Violation"], "status": "Closed", "risk_level": "High", "start_date": "2021-03-24", "end_date": "2021-04-22", "summary": "WASHINGTON, March 24, 2021, BC Food LA, LLC., a South El Monte, Calif. firm, doing business as B & C Food Co., is recalling approximately 1,643 pounds of Chinese style hot pot base products containing beef tallow. The products were imported from the People\u2019s Republic...", "establishment": null, "impacted_products": ["10.5-oz. (300 g) Plastic vacuum wrapped packages containing a \u201cLee\u2019s 52\u00b0 Da Zhuang\u201d Hot Pot Base.", "10.5-oz. (300 g) Plastic vacuum wrapped packages containing a \u201cLee\u2019s 45\u00b0 Da Zhuang\u201d Hot Pot Base.", "10.5-oz. (300 g) Plastic vacuum wrapped packages containing a \u201cLee\u2019s 36\u00b0 Da Zhuang\u201d Hot Pot Base."], "quantity_recovered": 116, "quantity_unit": "pounds", "states": ["California", "Nevada", "Oklahoma"]}
+{
+  "id": "010-2021",
+  "title": "BC Food LA, LLC Recalls Ineligible Beef Products Imported From China",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/bc-food-la-llc-recalls-ineligible-beef-products-imported-china",
+  "reasons": [
+    "Import Violation"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2021-03-24",
+  "end_date": "2021-04-22",
+  "summary": "WASHINGTON, March 24, 2021, BC Food LA, LLC., a South El Monte, Calif. firm, doing business as B & C Food Co., is recalling approximately 1,643 pounds of Chinese style hot pot base products containing beef tallow. The products were imported from the People\u2019s Republic...",
+  "establishment": null,
+  "impacted_products": [
+    "10.5-oz. (300 g) Plastic vacuum wrapped packages containing a \u201cLee\u2019s 52\u00b0 Da Zhuang\u201d Hot Pot Base.",
+    "10.5-oz. (300 g) Plastic vacuum wrapped packages containing a \u201cLee\u2019s 45\u00b0 Da Zhuang\u201d Hot Pot Base.",
+    "10.5-oz. (300 g) Plastic vacuum wrapped packages containing a \u201cLee\u2019s 36\u00b0 Da Zhuang\u201d Hot Pot Base."
+  ],
+  "quantity_recovered": 116,
+  "quantity_unit": "pounds",
+  "states": [
+    "California",
+    "Nevada",
+    "Oklahoma"
+  ]
+}

@@ -1,1 +1,36 @@
-{"id": "PHA-11122020-01", "title": "FSIS Issues Public Health Alert for Beef Stock Products Imported Without Benefit of Import Re-Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-beef-stock-products-imported-without-benefit-import", "reasons": ["Produced Without Benefit of Inspection"], "status": "Active", "risk_level": null, "start_date": "2020-11-12", "end_date": null, "summary": "The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for beef stock products that were not presented for import re-inspection into the United States. A recall was not requested because it is believed that the affected product...\n", "establishment": {"id": "M7567+P7567", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/wegmans-food-markets", "slug": "wegmans-food-markets", "name": "Wegmans Food Markets", "address": "360 Wegmans Market Street \n  Rochester, NY 14624", "telephone": "(585) 328-2550", "grant_date": "2014-08-14", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["Wegmans Beef Culinary Stock no salt added"], "quantity_recovered": null, "quantity_unit": null, "states": ["Massachusetts", "New York", "Pennsylvania"]}
+{
+  "id": "PHA-11122020-01",
+  "title": "FSIS Issues Public Health Alert for Beef Stock Products Imported Without Benefit of Import Re-Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-beef-stock-products-imported-without-benefit-import",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2020-11-12",
+  "end_date": null,
+  "summary": "The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for beef stock products that were not presented for import re-inspection into the United States. A recall was not requested because it is believed that the affected product...\n",
+  "establishment": {
+    "id": "M7567+P7567",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/wegmans-food-markets",
+    "slug": "wegmans-food-markets",
+    "name": "Wegmans Food Markets",
+    "address": "360 Wegmans Market Street \n  Rochester, NY 14624",
+    "telephone": "(585) 328-2550",
+    "grant_date": "2014-08-14",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "Wegmans Beef Culinary Stock no salt added"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Massachusetts",
+    "New York",
+    "Pennsylvania"
+  ]
+}

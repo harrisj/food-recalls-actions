@@ -1,1 +1,38 @@
-{"id": "022-2010", "title": "Minnesota Firm Recalls Ham Products for Possible Listeria Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/minnesota-firm-recalls-ham-products-possible-listeria-contamination", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2010-04-04", "end_date": "2012-06-03", "summary": "WASHINGTON, April 4, 2010 - Lorentz Meats, a Cannon Falls, Minn., establishment, is recalling approximately 100 pounds of ham products that may be contaminated with Listeria monocytogenes, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The following products are subject...\n", "establishment": {"id": "M21207+P21207+V21207", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/lorentz-etc-inc", "slug": "lorentz-etc-inc", "name": "Lorentz Etc. Inc.", "address": "705 Cannon Industrial Blvd. \n  Cannon Falls, MN 55009", "telephone": "(507) 263-3618", "grant_date": "2017-08-21", "activities": ["Certification - Export", "Meat Processing", "Meat Slaughter", "Poultry Processing", "Voluntary Processing - Meat", "Voluntary Slaughter - Meat"]}, "impacted_products": ["Various sizes of whole or half ham packages of \"KOWALSKI'S Markets, FULLY COOKED, SMOKED HAM, Naturally Smoked with Hardwoods, KEEP REFRIGERATED.\" Each package bears a freeze by date \"FREEZE BY 05/14/10\" as well as the establishment number \"Est. 21207\" in"], "quantity_recovered": 28, "quantity_unit": "pounds", "states": ["Minnesota"]}
+{
+  "id": "022-2010",
+  "title": "Minnesota Firm Recalls Ham Products for Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/minnesota-firm-recalls-ham-products-possible-listeria-contamination",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2010-04-04",
+  "end_date": "2012-06-03",
+  "summary": "WASHINGTON, April 4, 2010 - Lorentz Meats, a Cannon Falls, Minn., establishment, is recalling approximately 100 pounds of ham products that may be contaminated with Listeria monocytogenes, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The following products are subject...\n",
+  "establishment": {
+    "id": "M21207+P21207+V21207",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/lorentz-etc-inc",
+    "slug": "lorentz-etc-inc",
+    "name": "Lorentz Etc. Inc.",
+    "address": "705 Cannon Industrial Blvd. \n  Cannon Falls, MN 55009",
+    "telephone": "(507) 263-3618",
+    "grant_date": "2017-08-21",
+    "activities": [
+      "Certification - Export",
+      "Meat Processing",
+      "Meat Slaughter",
+      "Poultry Processing",
+      "Voluntary Processing - Meat",
+      "Voluntary Slaughter - Meat"
+    ]
+  },
+  "impacted_products": [
+    "Various sizes of whole or half ham packages of \"KOWALSKI'S Markets, FULLY COOKED, SMOKED HAM, Naturally Smoked with Hardwoods, KEEP REFRIGERATED.\" Each package bears a freeze by date \"FREEZE BY 05/14/10\" as well as the establishment number \"Est. 21207\" in"
+  ],
+  "quantity_recovered": 28,
+  "quantity_unit": "pounds",
+  "states": [
+    "Minnesota"
+  ]
+}

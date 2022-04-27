@@ -1,1 +1,30 @@
-{"id": "044-2016", "title": "Taylor Farms Florida Inc. Recalls Salads Containing Chicken Due To Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/taylor-farms-florida-inc.-recalls-salads-containing-chicken-due-misbranding-and", "reasons": [], "status": "Closed", "risk_level": "Low", "start_date": "2016-05-26", "end_date": "2016-07-15", "summary": "WASHINGTON, May 26, 2016 Taylor Farms Florida, Inc., an Orlando, Fla. establishment, is recalling approximately 151 pounds of a chicken salad product due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product may contain...", "establishment": {"id": "M44818+P44818", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/taylor-farms-florida-inc", "slug": "taylor-farms-florida-inc", "name": "Taylor Farms Florida, Inc.", "address": "7520 Chancellor Drive \n  Orlando, FL 32809", "telephone": "(407) 859-3373", "grant_date": "2012-02-13", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": 0, "quantity_unit": "pounds", "states": ["Florida"]}
+{
+  "id": "044-2016",
+  "title": "Taylor Farms Florida Inc. Recalls Salads Containing Chicken Due To Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/taylor-farms-florida-inc.-recalls-salads-containing-chicken-due-misbranding-and",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2016-05-26",
+  "end_date": "2016-07-15",
+  "summary": "WASHINGTON, May 26, 2016 Taylor Farms Florida, Inc., an Orlando, Fla. establishment, is recalling approximately 151 pounds of a chicken salad product due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product may contain...",
+  "establishment": {
+    "id": "M44818+P44818",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/taylor-farms-florida-inc",
+    "slug": "taylor-farms-florida-inc",
+    "name": "Taylor Farms Florida, Inc.",
+    "address": "7520 Chancellor Drive \n  Orlando, FL 32809",
+    "telephone": "(407) 859-3373",
+    "grant_date": "2012-02-13",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": [
+    "Florida"
+  ]
+}

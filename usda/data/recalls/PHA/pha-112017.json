@@ -1,1 +1,33 @@
-{"id": "pha-112017", "title": "FSIS Issues Public Health Alert for Poultry Products Produced Without Benefit of Import Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-poultry-products-produced-without-benefit-import", "reasons": ["Product Contamination"], "status": "Active", "risk_level": null, "start_date": "2017-11-20", "end_date": null, "summary": "WASHINGTON, Nov. 20, 2017 - The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) is issuing a public health alert to inform consumers that approximately 6,907 pounds of chicken products produced by Productos Dany, Inc., a Hatillo P.R. establishment, may contain products that...\n", "establishment": {"id": "M45932+P45932", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/productos-dany-inc", "slug": "productos-dany-inc", "name": "Productos Dany Inc.", "address": "Road 129 km 13.8 Barrio Bayaney \n  Hatillo, PR 659", "telephone": "(787) 436-9394", "grant_date": "2016-09-19", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["6.72-lb. plastic wrapped cases containing 24-count of individually wrapped Productos Dany Inc., Cheese Dog with lot code(s) 302, 303, 304, 305, 306, 309 or 310.", "9.10-lb. plastic wrapped cases containing 24-count of individually wrapped Productos Dany Inc. Doggie Pizza with lot code(s) 302, 304, 305, 306, 309 or 310."], "quantity_recovered": null, "quantity_unit": null, "states": null}
+{
+  "id": "pha-112017",
+  "title": "FSIS Issues Public Health Alert for Poultry Products Produced Without Benefit of Import Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-poultry-products-produced-without-benefit-import",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2017-11-20",
+  "end_date": null,
+  "summary": "WASHINGTON, Nov. 20, 2017 - The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) is issuing a public health alert to inform consumers that approximately 6,907 pounds of chicken products produced by Productos Dany, Inc., a Hatillo P.R. establishment, may contain products that...\n",
+  "establishment": {
+    "id": "M45932+P45932",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/productos-dany-inc",
+    "slug": "productos-dany-inc",
+    "name": "Productos Dany Inc.",
+    "address": "Road 129 km 13.8 Barrio Bayaney \n  Hatillo, PR 659",
+    "telephone": "(787) 436-9394",
+    "grant_date": "2016-09-19",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "6.72-lb. plastic wrapped cases containing 24-count of individually wrapped Productos Dany Inc., Cheese Dog with lot code(s) 302, 303, 304, 305, 306, 309 or 310.",
+    "9.10-lb. plastic wrapped cases containing 24-count of individually wrapped Productos Dany Inc. Doggie Pizza with lot code(s) 302, 304, 305, 306, 309 or 310."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}

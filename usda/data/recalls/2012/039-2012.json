@@ -1,1 +1,35 @@
-{"id": "039-2012", "title": "Recall Notification Report", "url": "https://www.fsis.usda.gov/recalls-alerts/recall-notification-report-2", "reasons": ["Mislabeling"], "status": "Closed", "risk_level": "Low", "start_date": "2012-06-11", "end_date": "2013-05-28", "summary": "WASHINGTON, June 11, 2012 - CB Foods, Inc., an El Monte, Calif. establishment, is recalling approximately 55,757 pounds of pork dumpling products because it contains monosodium glutamate (MSG), which is not declared on the label, the U.S. Department of Agriculture's Food Safety and Inspection Service...\n", "establishment": {"id": "M39932+P39932", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/cb-foods-inc", "slug": "cb-foods-inc", "name": "CB Foods Inc.", "address": "566 Monterey Pass Road \n  Monterey Park, CA 91754", "telephone": "(626) 284-1328", "grant_date": "2017-04-20", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["12.5-lb cases or trays of \"Pork Shaomai Dumpling\" with a case code of 002"], "quantity_recovered": 400, "quantity_unit": "pounds", "states": ["California", "Nevada"]}
+{
+  "id": "039-2012",
+  "title": "Recall Notification Report",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/recall-notification-report-2",
+  "reasons": [
+    "Mislabeling"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2012-06-11",
+  "end_date": "2013-05-28",
+  "summary": "WASHINGTON, June 11, 2012 - CB Foods, Inc., an El Monte, Calif. establishment, is recalling approximately 55,757 pounds of pork dumpling products because it contains monosodium glutamate (MSG), which is not declared on the label, the U.S. Department of Agriculture's Food Safety and Inspection Service...\n",
+  "establishment": {
+    "id": "M39932+P39932",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/cb-foods-inc",
+    "slug": "cb-foods-inc",
+    "name": "CB Foods Inc.",
+    "address": "566 Monterey Pass Road \n  Monterey Park, CA 91754",
+    "telephone": "(626) 284-1328",
+    "grant_date": "2017-04-20",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "12.5-lb cases or trays of \"Pork Shaomai Dumpling\" with a case code of 002"
+  ],
+  "quantity_recovered": 400,
+  "quantity_unit": "pounds",
+  "states": [
+    "California",
+    "Nevada"
+  ]
+}

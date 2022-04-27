@@ -1,1 +1,35 @@
-{"id": "080-2011", "title": "California Firm Recalls Ground Beef Due to Possible E.Coli O157:H7 Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-ground-beef-due-possible-e.coli-o157h7-contamination", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2011-10-11", "end_date": "2012-06-03", "summary": "WASHINGTON, Oct 11, 2011 - Commercial Meat Co., a Los Angeles, Calif., establishment is recalling approximately 377,775 pounds of ground beef products that may be contaminated with E. coli O157:H7, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The following...\n", "establishment": {"id": "M4873+P4873", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/commercial-meat-company-inc", "slug": "commercial-meat-company-inc", "name": "Commercial Meat Company, Inc.", "address": "7820 Industry Avenue \n  Pico Rivera, CA 90660", "telephone": "(213) 622-6997", "grant_date": "2020-09-03", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["5,10,15,20,30,40,50 and 60 lb. cases of bulk ground beef"], "quantity_recovered": 8473, "quantity_unit": "pounds", "states": ["California", "Nevada"]}
+{
+  "id": "080-2011",
+  "title": "California Firm Recalls Ground Beef Due to Possible E.Coli O157:H7 Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-ground-beef-due-possible-e.coli-o157h7-contamination",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2011-10-11",
+  "end_date": "2012-06-03",
+  "summary": "WASHINGTON, Oct 11, 2011 - Commercial Meat Co., a Los Angeles, Calif., establishment is recalling approximately 377,775 pounds of ground beef products that may be contaminated with E. coli O157:H7, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The following...\n",
+  "establishment": {
+    "id": "M4873+P4873",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/commercial-meat-company-inc",
+    "slug": "commercial-meat-company-inc",
+    "name": "Commercial Meat Company, Inc.",
+    "address": "7820 Industry Avenue \n  Pico Rivera, CA 90660",
+    "telephone": "(213) 622-6997",
+    "grant_date": "2020-09-03",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "5,10,15,20,30,40,50 and 60 lb. cases of bulk ground beef"
+  ],
+  "quantity_recovered": 8473,
+  "quantity_unit": "pounds",
+  "states": [
+    "California",
+    "Nevada"
+  ]
+}

@@ -1,1 +1,18 @@
-{"id": "118-2018", "title": "Amboy Group, LLC Recalls Poultry Products due to Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/amboy-group-llc-recalls-poultry-products-due-misbranding-and-undeclared-allergens", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2018-12-07", "end_date": "2019-04-15", "summary": "WASHINGTON, Dec. 7, 2018 - Amboy Group, LLC, a Woodbridge, N.J. establishment, is recalling an undetermined amount of raw boneless and skinless poultry products because the products are misbranded and may contain milk, egg, and soy, known allergens, which are not declared on the finished...", "establishment": null, "impacted_products": [], "quantity_recovered": 698, "quantity_unit": "pounds", "states": ["New Jersey"]}
+{
+  "id": "118-2018",
+  "title": "Amboy Group, LLC Recalls Poultry Products due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/amboy-group-llc-recalls-poultry-products-due-misbranding-and-undeclared-allergens",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2018-12-07",
+  "end_date": "2019-04-15",
+  "summary": "WASHINGTON, Dec. 7, 2018 - Amboy Group, LLC, a Woodbridge, N.J. establishment, is recalling an undetermined amount of raw boneless and skinless poultry products because the products are misbranded and may contain milk, egg, and soy, known allergens, which are not declared on the finished...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 698,
+  "quantity_unit": "pounds",
+  "states": [
+    "New Jersey"
+  ]
+}

@@ -1,1 +1,36 @@
-{"id": "074-2017-EXP", "title": "Embutidos Fanguito, Inc. Recalls Pork Products Due To Mislabeling, Misbranding, and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/embutidos-fanguito-inc.-recalls-pork-products-due-mislabeling-misbranding-and", "reasons": ["Misbranding", "Unreported Allergens", "Mislabeling"], "status": "Closed", "risk_level": "High", "start_date": "2017-06-20", "end_date": "2017-07-26", "summary": "EDITORS NOTE: This release is being reissued as an expansion of the June 16, 2017 recall to include additional products. Details of this release were also updated to reflect a change in poundage. WASHINGTON, June 20, 2017 Embutidos Fanguito, Inc., a Miami, Fla. establishment, is...\n", "establishment": {"id": "M45659+P45659", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/embutidos-fanguito-inc", "slug": "embutidos-fanguito-inc", "name": "Embutidos Fanguito Inc.", "address": "1423 NW 23rd Street \n  Miami, FL 33142", "telephone": "(305) 300-2902", "grant_date": "2015-07-23", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["2-oz. sealed packages containing \u201cEmbutidos El Fanguito Chorizo\u201d with a sell by date of Sept. 17, 2017."], "quantity_recovered": 78, "quantity_unit": "pounds", "states": ["Florida"]}
+{
+  "id": "074-2017-EXP",
+  "title": "Embutidos Fanguito, Inc. Recalls Pork Products Due To Mislabeling, Misbranding, and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/embutidos-fanguito-inc.-recalls-pork-products-due-mislabeling-misbranding-and",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens",
+    "Mislabeling"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2017-06-20",
+  "end_date": "2017-07-26",
+  "summary": "EDITORS NOTE: This release is being reissued as an expansion of the June 16, 2017 recall to include additional products. Details of this release were also updated to reflect a change in poundage. WASHINGTON, June 20, 2017 Embutidos Fanguito, Inc., a Miami, Fla. establishment, is...\n",
+  "establishment": {
+    "id": "M45659+P45659",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/embutidos-fanguito-inc",
+    "slug": "embutidos-fanguito-inc",
+    "name": "Embutidos Fanguito Inc.",
+    "address": "1423 NW 23rd Street \n  Miami, FL 33142",
+    "telephone": "(305) 300-2902",
+    "grant_date": "2015-07-23",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "2-oz. sealed packages containing \u201cEmbutidos El Fanguito Chorizo\u201d with a sell by date of Sept. 17, 2017."
+  ],
+  "quantity_recovered": 78,
+  "quantity_unit": "pounds",
+  "states": [
+    "Florida"
+  ]
+}

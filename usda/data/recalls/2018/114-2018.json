@@ -1,1 +1,37 @@
-{"id": "114-2018", "title": "Swift Beef Company Recalls Ground Beef Products due to Possible E. coli O157:H7 Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/swift-beef-company-recalls-ground-beef-products-due-possible-e.-coli-o157h7", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2018-11-17", "end_date": "2020-02-14", "summary": "WASHINGTON, Nov. 17, 2018 Swift Beef Co., a Hyrum, Utah establishment, is recalling approximately 99,260 pounds of raw non-intact ground beef products that may be contaminated with E. coli O157:H7, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The bulk...", "establishment": {"id": "M628+P628", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/swift-beef-company-0", "slug": "swift-beef-company-0", "name": "Swift Beef Company", "address": "410 North 200 West \n  Hyrum, UT 84319", "telephone": "(435) 245-6456", "grant_date": "2017-01-25", "activities": ["Meat Processing", "Meat Slaughter", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": 23436, "quantity_unit": "pounds", "states": ["California", "Nevada", "Oregon", "Utah", "Washington"]}
+{
+  "id": "114-2018",
+  "title": "Swift Beef Company Recalls Ground Beef Products due to Possible E. coli O157:H7 Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/swift-beef-company-recalls-ground-beef-products-due-possible-e.-coli-o157h7",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2018-11-17",
+  "end_date": "2020-02-14",
+  "summary": "WASHINGTON, Nov. 17, 2018 Swift Beef Co., a Hyrum, Utah establishment, is recalling approximately 99,260 pounds of raw non-intact ground beef products that may be contaminated with E. coli O157:H7, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The bulk...",
+  "establishment": {
+    "id": "M628+P628",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/swift-beef-company-0",
+    "slug": "swift-beef-company-0",
+    "name": "Swift Beef Company",
+    "address": "410 North 200 West \n  Hyrum, UT 84319",
+    "telephone": "(435) 245-6456",
+    "grant_date": "2017-01-25",
+    "activities": [
+      "Meat Processing",
+      "Meat Slaughter",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 23436,
+  "quantity_unit": "pounds",
+  "states": [
+    "California",
+    "Nevada",
+    "Oregon",
+    "Utah",
+    "Washington"
+  ]
+}

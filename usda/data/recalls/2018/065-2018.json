@@ -1,1 +1,30 @@
-{"id": "065-2018", "title": "Van Oriental Foods Inc. Recalls Pork Egg Rolls Due to Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/van-oriental-foods-inc.-recalls-pork-egg-rolls-due-possible-foreign-matter", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "Low", "start_date": "2018-08-03", "end_date": "2018-09-18", "summary": "WASHINGTON, Aug. 3, 2018 Van Oriental Foods Inc., a Dallas, Texas establishment, is recalling approximately 10,385 pounds of heat treated but not fully cooked and not shelf stable pork egg rolls that may be contaminated with extraneous materials, specifically soft plastic, the U.S. Department of...", "establishment": {"id": "M13219+P13219", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/van-oriental-food-inc", "slug": "van-oriental-food-inc", "name": "Van Oriental Food, Inc.", "address": "4828 Reading Street \n  Dallas, TX 75247", "telephone": "(214) 630-0333", "grant_date": "2018-05-31", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": 5257, "quantity_unit": "pounds", "states": null}
+{
+  "id": "065-2018",
+  "title": "Van Oriental Foods Inc. Recalls Pork Egg Rolls Due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/van-oriental-foods-inc.-recalls-pork-egg-rolls-due-possible-foreign-matter",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2018-08-03",
+  "end_date": "2018-09-18",
+  "summary": "WASHINGTON, Aug. 3, 2018 Van Oriental Foods Inc., a Dallas, Texas establishment, is recalling approximately 10,385 pounds of heat treated but not fully cooked and not shelf stable pork egg rolls that may be contaminated with extraneous materials, specifically soft plastic, the U.S. Department of...",
+  "establishment": {
+    "id": "M13219+P13219",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/van-oriental-food-inc",
+    "slug": "van-oriental-food-inc",
+    "name": "Van Oriental Food, Inc.",
+    "address": "4828 Reading Street \n  Dallas, TX 75247",
+    "telephone": "(214) 630-0333",
+    "grant_date": "2018-05-31",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 5257,
+  "quantity_unit": "pounds",
+  "states": null
+}

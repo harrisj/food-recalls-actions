@@ -1,1 +1,35 @@
-{"id": "101-2017-EXP", "title": "America New York RI Wang Food Group Recalls Sausage Products Due To Misbranding and an Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/america-new-york-ri-wang-food-group-recalls-sausage-products-due-misbranding-and-0", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2017-09-27", "end_date": "2017-11-08", "summary": "EDITORS NOTE: This release is being reissued as an expansion of the September 15, 2017, recall to include additional products and production dates. Details of this release were also updated to reflect a change in poundage. WASHINGTON, Sept. 27, 2017 America New York RI Wang...", "establishment": {"id": "M40200+P40200", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/america-new-york-ri-wang-food-group", "slug": "america-new-york-ri-wang-food-group", "name": "America New York Ri Wang Food Group", "address": "58-85 58th Avenue \n  Maspeth, NY 11378", "telephone": "(718) 628-8999", "grant_date": "2018-02-12", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["\u202225-lb. institutional pack of \u201cBeef Balls,\u201d with the following lot codes and package dates: ", "\u202225-lb. institutional pack of \u201cBeef Tendon Balls,\u201d with the following lot codes and package dates: ", "\u202225-lb. institutional pack of \u201cPork Patty Balls,\u201d with the following lot codes and package dates: "], "quantity_recovered": 6121, "quantity_unit": "pounds", "states": null}
+{
+  "id": "101-2017-EXP",
+  "title": "America New York RI Wang Food Group Recalls Sausage Products Due To Misbranding and an Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/america-new-york-ri-wang-food-group-recalls-sausage-products-due-misbranding-and-0",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2017-09-27",
+  "end_date": "2017-11-08",
+  "summary": "EDITORS NOTE: This release is being reissued as an expansion of the September 15, 2017, recall to include additional products and production dates. Details of this release were also updated to reflect a change in poundage. WASHINGTON, Sept. 27, 2017 America New York RI Wang...",
+  "establishment": {
+    "id": "M40200+P40200",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/america-new-york-ri-wang-food-group",
+    "slug": "america-new-york-ri-wang-food-group",
+    "name": "America New York Ri Wang Food Group",
+    "address": "58-85 58th Avenue \n  Maspeth, NY 11378",
+    "telephone": "(718) 628-8999",
+    "grant_date": "2018-02-12",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u202225-lb. institutional pack of \u201cBeef Balls,\u201d with the following lot codes and package dates: ",
+    "\u202225-lb. institutional pack of \u201cBeef Tendon Balls,\u201d with the following lot codes and package dates: ",
+    "\u202225-lb. institutional pack of \u201cPork Patty Balls,\u201d with the following lot codes and package dates: "
+  ],
+  "quantity_recovered": 6121,
+  "quantity_unit": "pounds",
+  "states": null
+}

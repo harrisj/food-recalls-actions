@@ -1,1 +1,35 @@
-{"id": "026-2017", "title": "Flagship Food Group Recalls Frozen Burrito Product Due to Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/flagship-food-group-recalls-frozen-burrito-product-due-possible-foreign-matter", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2017-03-16", "end_date": "2017-04-13", "summary": "WASHINGTON, March 16, 2017 Flagship Food Group, an Albuquerque, N.M. establishment, is recalling approximately 8,622 pounds of a frozen burrito product that may be contaminated with extraneous materials, specifically hard clear plastic, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today...\n", "establishment": {"id": "M45574+P45574", "url": "http://www.fsis.usda.gov/establishments/flagship-food-group", "slug": "flagship-food-group", "name": "Flagship Food Group", "address": "1700 Desert Surf Circle NE \n  Albuquerque, NM 87107", "telephone": "(505) 345-9644", "grant_date": "2015-09-03", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["12-oz. 12\u201dx5\u201d paper card with plastic overwrap package labeled as \u201cTRADER JOSE\u2019S BREAKFAST BURRITOS Eggs, Potatoes, Cheese, Turkey Bacon,\u201d lot code 266, SKU 96132 with package code A26616PFFG3 and case code 100-101280.  "], "quantity_recovered": 11232, "quantity_unit": "pounds", "states": ["Illinois", "Pennsylvania"]}
+{
+  "id": "026-2017",
+  "title": "Flagship Food Group Recalls Frozen Burrito Product Due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/flagship-food-group-recalls-frozen-burrito-product-due-possible-foreign-matter",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2017-03-16",
+  "end_date": "2017-04-13",
+  "summary": "WASHINGTON, March 16, 2017 Flagship Food Group, an Albuquerque, N.M. establishment, is recalling approximately 8,622 pounds of a frozen burrito product that may be contaminated with extraneous materials, specifically hard clear plastic, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today...\n",
+  "establishment": {
+    "id": "M45574+P45574",
+    "url": "http://www.fsis.usda.gov/establishments/flagship-food-group",
+    "slug": "flagship-food-group",
+    "name": "Flagship Food Group",
+    "address": "1700 Desert Surf Circle NE \n  Albuquerque, NM 87107",
+    "telephone": "(505) 345-9644",
+    "grant_date": "2015-09-03",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "12-oz. 12\u201dx5\u201d paper card with plastic overwrap package labeled as \u201cTRADER JOSE\u2019S BREAKFAST BURRITOS Eggs, Potatoes, Cheese, Turkey Bacon,\u201d lot code 266, SKU 96132 with package code A26616PFFG3 and case code 100-101280.  "
+  ],
+  "quantity_recovered": 11232,
+  "quantity_unit": "pounds",
+  "states": [
+    "Illinois",
+    "Pennsylvania"
+  ]
+}

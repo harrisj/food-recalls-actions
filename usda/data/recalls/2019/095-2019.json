@@ -1,1 +1,20 @@
-{"id": "095-2019", "title": "Fisher Packing Company Recalls Ready-To-Eat Pork Products Due to Possible Listeria Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/fisher-packing-company-recalls-ready-eat-pork-products-due-possible-listeria", "reasons": ["Product Contamination"], "status": "Active", "risk_level": "High", "start_date": "2019-09-28", "end_date": null, "summary": "WASHINGTON, Sept. 28, 2019 Fisher Packing Company, a Redkey, Ind. establishment, is recalling approximately 744 pounds of ready-to-eat (RTE) pork products that may be adulterated with Listeria monocytogenes, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The RTE pork products...", "establishment": null, "impacted_products": [], "quantity_recovered": null, "quantity_unit": null, "states": ["Indiana"]}
+{
+  "id": "095-2019",
+  "title": "Fisher Packing Company Recalls Ready-To-Eat Pork Products Due to Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fisher-packing-company-recalls-ready-eat-pork-products-due-possible-listeria",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2019-09-28",
+  "end_date": null,
+  "summary": "WASHINGTON, Sept. 28, 2019 Fisher Packing Company, a Redkey, Ind. establishment, is recalling approximately 744 pounds of ready-to-eat (RTE) pork products that may be adulterated with Listeria monocytogenes, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The RTE pork products...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Indiana"
+  ]
+}

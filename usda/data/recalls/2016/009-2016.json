@@ -1,1 +1,18 @@
-{"id": "009-2016", "title": "Home Maid Ravioli Company, Inc. Recalls Beef Ravioli Products Due to Misbranding and Undeclared Allergens and Produced Without Benefit of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/home-maid-ravioli-company-inc.-recalls-beef-ravioli-products-due-misbranding-and", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2016-01-23", "end_date": "2017-06-19", "summary": "WASHINGTON, Jan. 23, 2016 Home Maid Ravioli Company, Inc., a San Francisco, Calif. establishment, is recalling approximately 34,200 pounds of beef ravioli products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products contain...", "establishment": null, "impacted_products": [], "quantity_recovered": 3475, "quantity_unit": "pounds", "states": ["California"]}
+{
+  "id": "009-2016",
+  "title": "Home Maid Ravioli Company, Inc. Recalls Beef Ravioli Products Due to Misbranding and Undeclared Allergens and Produced Without Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/home-maid-ravioli-company-inc.-recalls-beef-ravioli-products-due-misbranding-and",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2016-01-23",
+  "end_date": "2017-06-19",
+  "summary": "WASHINGTON, Jan. 23, 2016 Home Maid Ravioli Company, Inc., a San Francisco, Calif. establishment, is recalling approximately 34,200 pounds of beef ravioli products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products contain...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 3475,
+  "quantity_unit": "pounds",
+  "states": [
+    "California"
+  ]
+}

@@ -1,1 +1,38 @@
-{"id": "070-2018", "title": "Taylor Farms Illinois, Inc. Recalls Beef and Pork Meatloaf Products Due To Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/taylor-farms-illinois-inc.-recalls-beef-and-pork-meatloaf-products-due-misbranding", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2018-08-29", "end_date": "2018-12-13", "summary": "WASHINGTON, Aug. 29, 2018 Taylor Farms Illinois, Inc., a Chicago, Ill. establishment, is recalling approximately 75 pounds of beef and pork meatloaf products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product contains...", "establishment": {"id": "M21794+P21794", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/taylor-farms-illinois-inc", "slug": "taylor-farms-illinois-inc", "name": "Taylor Farms Illinois, Inc", "address": "200 N. Artesian Ave. \n  Chicago, IL 60612", "telephone": "(312) 432-6800", "grant_date": "2017-10-12", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": 44, "quantity_unit": "pounds", "states": ["Alabama", "Arkansas", "Kentucky", "Mississippi", "Ohio", "Tennessee"]}
+{
+  "id": "070-2018",
+  "title": "Taylor Farms Illinois, Inc. Recalls Beef and Pork Meatloaf Products Due To Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/taylor-farms-illinois-inc.-recalls-beef-and-pork-meatloaf-products-due-misbranding",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2018-08-29",
+  "end_date": "2018-12-13",
+  "summary": "WASHINGTON, Aug. 29, 2018 Taylor Farms Illinois, Inc., a Chicago, Ill. establishment, is recalling approximately 75 pounds of beef and pork meatloaf products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product contains...",
+  "establishment": {
+    "id": "M21794+P21794",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/taylor-farms-illinois-inc",
+    "slug": "taylor-farms-illinois-inc",
+    "name": "Taylor Farms Illinois, Inc",
+    "address": "200 N. Artesian Ave. \n  Chicago, IL 60612",
+    "telephone": "(312) 432-6800",
+    "grant_date": "2017-10-12",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 44,
+  "quantity_unit": "pounds",
+  "states": [
+    "Alabama",
+    "Arkansas",
+    "Kentucky",
+    "Mississippi",
+    "Ohio",
+    "Tennessee"
+  ]
+}

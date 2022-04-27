@@ -1,1 +1,35 @@
-{"id": "006-2012", "title": "New Jersey Firm Recalls Cobb and Spinach Salads Due to Possible Listeria Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/new-jersey-firm-recalls-cobb-and-spinach-salads-due-possible-listeria-contamination", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2012-02-03", "end_date": "2013-05-27", "summary": "WASHINGTON, Feb. 3, 2012 - F&S Produce Company Inc., a Deerfield, N.J. establishment, is recalling approximately 389 pounds of Cobb and spinach salads. The salads contain eggs that are the subject of a Food and Drug Administration (FDA) recall due to concerns about contamination with...\n", "establishment": {"id": "M39897+P39897", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/fs-produce-co-inc", "slug": "fs-produce-co-inc", "name": "F&S Produce Co., Inc.", "address": "500 W. Elmer Road \n  Vineland, NJ 8360", "telephone": "(856) 453-0316", "grant_date": "2018-11-08", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["10-oz. plastic containers of \"Fresh Garden Highway Spinach Salad with Bacon\"", "10.75-oz plastic containers of \"Fresh Garden Highway Cobb Salad\""], "quantity_recovered": 245, "quantity_unit": "pounds", "states": ["New Jersey"]}
+{
+  "id": "006-2012",
+  "title": "New Jersey Firm Recalls Cobb and Spinach Salads Due to Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/new-jersey-firm-recalls-cobb-and-spinach-salads-due-possible-listeria-contamination",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2012-02-03",
+  "end_date": "2013-05-27",
+  "summary": "WASHINGTON, Feb. 3, 2012 - F&S Produce Company Inc., a Deerfield, N.J. establishment, is recalling approximately 389 pounds of Cobb and spinach salads. The salads contain eggs that are the subject of a Food and Drug Administration (FDA) recall due to concerns about contamination with...\n",
+  "establishment": {
+    "id": "M39897+P39897",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/fs-produce-co-inc",
+    "slug": "fs-produce-co-inc",
+    "name": "F&S Produce Co., Inc.",
+    "address": "500 W. Elmer Road \n  Vineland, NJ 8360",
+    "telephone": "(856) 453-0316",
+    "grant_date": "2018-11-08",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "10-oz. plastic containers of \"Fresh Garden Highway Spinach Salad with Bacon\"",
+    "10.75-oz plastic containers of \"Fresh Garden Highway Cobb Salad\""
+  ],
+  "quantity_recovered": 245,
+  "quantity_unit": "pounds",
+  "states": [
+    "New Jersey"
+  ]
+}

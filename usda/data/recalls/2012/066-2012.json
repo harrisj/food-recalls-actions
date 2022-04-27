@@ -1,1 +1,27 @@
-{"id": "066-2012", "title": "Texas Firm Recalls Beef and Pork Products Produced Without Benefit of Inspection and Misbranding", "url": "https://www.fsis.usda.gov/recalls-alerts/texas-firm-recalls-beef-and-pork-products-produced-without-benefit-inspection-and", "reasons": ["Misbranding", "Produced Without Benefit of Inspection"], "status": "Closed", "risk_level": "High", "start_date": "2012-10-15", "end_date": "2013-05-29", "summary": "WASHINGTON, Oct. 15, 2012 - Lao Chareune Foods, a Dallas, Texas, establishment, is recalling approximately 8,200 pounds of various beef and pork products because they were produced without the benefit of federal inspection and misbranded, the U.S. Department of Agriculture's Food Safety and Inspection Service...\n", "establishment": null, "impacted_products": ["3-oz. and 8-oz. packages containing \"Pork Snack Stick\"", "3.20-oz. packages containing \"Seasoned Fried Beef\"", "1.76-oz. packages containing \"Fried Pork Skins\"", "1.20-oz. packages containing \"Sliced Fried Pork Ears.\""], "quantity_recovered": 183, "quantity_unit": "pounds", "states": ["Louisiana", "Texas"]}
+{
+  "id": "066-2012",
+  "title": "Texas Firm Recalls Beef and Pork Products Produced Without Benefit of Inspection and Misbranding",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/texas-firm-recalls-beef-and-pork-products-produced-without-benefit-inspection-and",
+  "reasons": [
+    "Misbranding",
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2012-10-15",
+  "end_date": "2013-05-29",
+  "summary": "WASHINGTON, Oct. 15, 2012 - Lao Chareune Foods, a Dallas, Texas, establishment, is recalling approximately 8,200 pounds of various beef and pork products because they were produced without the benefit of federal inspection and misbranded, the U.S. Department of Agriculture's Food Safety and Inspection Service...\n",
+  "establishment": null,
+  "impacted_products": [
+    "3-oz. and 8-oz. packages containing \"Pork Snack Stick\"",
+    "3.20-oz. packages containing \"Seasoned Fried Beef\"",
+    "1.76-oz. packages containing \"Fried Pork Skins\"",
+    "1.20-oz. packages containing \"Sliced Fried Pork Ears.\""
+  ],
+  "quantity_recovered": 183,
+  "quantity_unit": "pounds",
+  "states": [
+    "Louisiana",
+    "Texas"
+  ]
+}

@@ -1,1 +1,41 @@
-{"id": "004-2015", "title": "California Firm Recalls Beef and Pork Products  Due to Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-beef-and-pork-products-due-foreign-matter-contamination", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2015-01-08", "end_date": "2016-06-08", "summary": "WASHINGTON, Jan 8, 2015 Unibright Foods Inc., a Bell Gardens, Calif., establishment, is recalling approximately 48,139 pounds of frozen, ready-to-eat sukiyaki beef and gingered pork products that may be contaminated with metal extraneous materials, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS)...\n", "establishment": {"id": "M1163+P1163+V1163", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/unibright-foods-inc", "slug": "unibright-foods-inc", "name": "Unibright Foods, Inc.", "address": "7101 Scout Avenue \n  Bell Gardens, CA 90201", "telephone": "(310) 806-3221", "grant_date": "2013-06-17", "activities": ["Certification - Export", "Meat Processing", "Poultry Processing"]}, "impacted_products": ["Beef and pork products"], "quantity_recovered": 16398, "quantity_unit": "pounds", "states": ["Arizona", "California", "Colorado", "Hawaii", "Illinois", "New Jersey", "New York"]}
+{
+  "id": "004-2015",
+  "title": "California Firm Recalls Beef and Pork Products  Due to Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-beef-and-pork-products-due-foreign-matter-contamination",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2015-01-08",
+  "end_date": "2016-06-08",
+  "summary": "WASHINGTON, Jan 8, 2015 Unibright Foods Inc., a Bell Gardens, Calif., establishment, is recalling approximately 48,139 pounds of frozen, ready-to-eat sukiyaki beef and gingered pork products that may be contaminated with metal extraneous materials, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS)...\n",
+  "establishment": {
+    "id": "M1163+P1163+V1163",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/unibright-foods-inc",
+    "slug": "unibright-foods-inc",
+    "name": "Unibright Foods, Inc.",
+    "address": "7101 Scout Avenue \n  Bell Gardens, CA 90201",
+    "telephone": "(310) 806-3221",
+    "grant_date": "2013-06-17",
+    "activities": [
+      "Certification - Export",
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "Beef and pork products"
+  ],
+  "quantity_recovered": 16398,
+  "quantity_unit": "pounds",
+  "states": [
+    "Arizona",
+    "California",
+    "Colorado",
+    "Hawaii",
+    "Illinois",
+    "New Jersey",
+    "New York"
+  ]
+}

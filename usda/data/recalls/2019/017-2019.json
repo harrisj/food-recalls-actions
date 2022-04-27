@@ -1,1 +1,35 @@
-{"id": "017-2019", "title": "J Bar B Foods Recalls Ready-To-Eat Smoked Sausage Products due to Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/j-bar-b-foods-recalls-ready-eat-smoked-sausage-products-due-misbranding-and", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2019-02-21", "end_date": "2019-05-06", "summary": "WASHINGTON, Feb. 21, 2019 J Bar B Foods, a Weimar, Texas establishment, is recalling approximately 51,188 pounds of ready-to-eat (RTE) cheddar smoked sausage products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product...\n", "establishment": {"id": "M7066A+P7066A+V7066A", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/j-bar-b-foods-0", "slug": "j-bar-b-foods-0", "name": "J Bar B Foods", "address": "1078 Highway 90 West \n  Weimar, TX 78962", "telephone": "(830) 788-7511", "grant_date": "2013-08-09", "activities": ["Certification - Export", "Meat Processing"]}, "impacted_products": ["14-oz. vacuum-sealed packages of \u201cH-E-B MADE IN TEXAS ORIGINAL Smoked Sausage\u201d with a sell by date of 5/19/19 and lot code LN2 90149.   "], "quantity_recovered": 11360, "quantity_unit": "pounds", "states": ["Texas"]}
+{
+  "id": "017-2019",
+  "title": "J Bar B Foods Recalls Ready-To-Eat Smoked Sausage Products due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/j-bar-b-foods-recalls-ready-eat-smoked-sausage-products-due-misbranding-and",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2019-02-21",
+  "end_date": "2019-05-06",
+  "summary": "WASHINGTON, Feb. 21, 2019 J Bar B Foods, a Weimar, Texas establishment, is recalling approximately 51,188 pounds of ready-to-eat (RTE) cheddar smoked sausage products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product...\n",
+  "establishment": {
+    "id": "M7066A+P7066A+V7066A",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/j-bar-b-foods-0",
+    "slug": "j-bar-b-foods-0",
+    "name": "J Bar B Foods",
+    "address": "1078 Highway 90 West \n  Weimar, TX 78962",
+    "telephone": "(830) 788-7511",
+    "grant_date": "2013-08-09",
+    "activities": [
+      "Certification - Export",
+      "Meat Processing"
+    ]
+  },
+  "impacted_products": [
+    "14-oz. vacuum-sealed packages of \u201cH-E-B MADE IN TEXAS ORIGINAL Smoked Sausage\u201d with a sell by date of 5/19/19 and lot code LN2 90149.   "
+  ],
+  "quantity_recovered": 11360,
+  "quantity_unit": "pounds",
+  "states": [
+    "Texas"
+  ]
+}

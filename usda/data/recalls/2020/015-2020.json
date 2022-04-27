@@ -1,1 +1,40 @@
-{"id": "015-2020 ", "title": "Hafiz Foods, Inc. Recalls Samosas Containing Chicken Produced Without Benefit of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/hafiz-foods-inc.-recalls-samosas-containing-chicken-produced-without-benefit", "reasons": ["Produced Without Benefit of Inspection"], "status": "Closed", "risk_level": "High", "start_date": "2020-07-17", "end_date": "2020-12-15", "summary": "WASHINGTON, July 17, 2020 \u2013 Hafiz Foods, Inc., a Houston, Texas establishment, is recalling approximately 675 pounds of chicken samosas that contain poultry produced without the benefit of federal inspection, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The ready-to-cook...\n", "establishment": {"id": "M44163+P44163", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/tempura-foods-spices-llc", "slug": "tempura-foods-spices-llc", "name": "Tempura Foods & Spices LLC", "address": "9207 Emmott Rd.  Suite 125 \n  Houston, TX 77040", "telephone": "(832) 955-6579", "grant_date": "2021-07-08", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["\u202212-oz. box packages labeled \u201cRAZA FOODS Chicken Samosa\u201d ", "\u202212-oz. box packages labeled \u201cTAZA CHICKEN SAMOSAS\u201d", "\u2022100-oz clear plastic bags containing approximately 100 chicken samosas that do not bear any labeling or codes"], "quantity_recovered": 0, "quantity_unit": "pounds", "states": ["New Jersey", "New York", "Pennsylvania", "Texas", "Virginia"]}
+{
+  "id": "015-2020 ",
+  "title": "Hafiz Foods, Inc. Recalls Samosas Containing Chicken Produced Without Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/hafiz-foods-inc.-recalls-samosas-containing-chicken-produced-without-benefit",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2020-07-17",
+  "end_date": "2020-12-15",
+  "summary": "WASHINGTON, July 17, 2020 \u2013 Hafiz Foods, Inc., a Houston, Texas establishment, is recalling approximately 675 pounds of chicken samosas that contain poultry produced without the benefit of federal inspection, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The ready-to-cook...\n",
+  "establishment": {
+    "id": "M44163+P44163",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/tempura-foods-spices-llc",
+    "slug": "tempura-foods-spices-llc",
+    "name": "Tempura Foods & Spices LLC",
+    "address": "9207 Emmott Rd.  Suite 125 \n  Houston, TX 77040",
+    "telephone": "(832) 955-6579",
+    "grant_date": "2021-07-08",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u202212-oz. box packages labeled \u201cRAZA FOODS Chicken Samosa\u201d ",
+    "\u202212-oz. box packages labeled \u201cTAZA CHICKEN SAMOSAS\u201d",
+    "\u2022100-oz clear plastic bags containing approximately 100 chicken samosas that do not bear any labeling or codes"
+  ],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": [
+    "New Jersey",
+    "New York",
+    "Pennsylvania",
+    "Texas",
+    "Virginia"
+  ]
+}

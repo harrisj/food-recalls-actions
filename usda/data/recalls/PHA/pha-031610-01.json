@@ -1,1 +1,18 @@
-{"id": "PHA-031610-01", "title": "FSIS Issues Public Health Alert For Ready-To-Eat Deli Meat Products", "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-deli-meat-products", "reasons": ["Product Contamination"], "status": "Active", "risk_level": null, "start_date": "2010-03-16", "end_date": null, "summary": "WASHINGTON, March 16, 2010 - The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) is issuing a public health alert due to illnesses possibly associated with ready-to-eat (RTE) deli meat products that may be contaminated with Listeria monocytogenes. FSIS was informed by the...", "establishment": null, "impacted_products": [], "quantity_recovered": null, "quantity_unit": null, "states": null}
+{
+  "id": "PHA-031610-01",
+  "title": "FSIS Issues Public Health Alert For Ready-To-Eat Deli Meat Products",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-deli-meat-products",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2010-03-16",
+  "end_date": null,
+  "summary": "WASHINGTON, March 16, 2010 - The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) is issuing a public health alert due to illnesses possibly associated with ready-to-eat (RTE) deli meat products that may be contaminated with Listeria monocytogenes. FSIS was informed by the...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}

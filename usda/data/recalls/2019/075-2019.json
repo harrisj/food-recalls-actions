@@ -1,1 +1,36 @@
-{"id": "075-2019", "title": "Koch Foods Recalls Breaded Poultry Products Due to Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/koch-foods-recalls-breaded-poultry-products-due-misbranding-and-undeclared-allergens", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Active", "risk_level": "High", "start_date": "2019-07-18", "end_date": null, "summary": "WASHINGTON, July 18, 2019 Koch Foods, a Fairfield, Ohio establishment, is recalling approximately 743 pounds of fully cooked boneless chicken bites due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products contain soy, milk...\n", "establishment": {"id": "M20795+P20795+V20795", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/koch-foods-0", "slug": "koch-foods-0", "name": "Koch Foods", "address": "4100 Port Union Rd. \n  Fairfield, OH 45014", "telephone": "(513) 874-3500", "grant_date": "2003-09-20", "activities": ["Certification - Export", "Meat Processing", "Poultry Processing"]}, "impacted_products": ["SCHWAN\u2019S FULLY COOKED Crispy Chicken Breast Strips"], "quantity_recovered": null, "quantity_unit": null, "states": ["Minnesota"]}
+{
+  "id": "075-2019",
+  "title": "Koch Foods Recalls Breaded Poultry Products Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/koch-foods-recalls-breaded-poultry-products-due-misbranding-and-undeclared-allergens",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2019-07-18",
+  "end_date": null,
+  "summary": "WASHINGTON, July 18, 2019 Koch Foods, a Fairfield, Ohio establishment, is recalling approximately 743 pounds of fully cooked boneless chicken bites due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products contain soy, milk...\n",
+  "establishment": {
+    "id": "M20795+P20795+V20795",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/koch-foods-0",
+    "slug": "koch-foods-0",
+    "name": "Koch Foods",
+    "address": "4100 Port Union Rd. \n  Fairfield, OH 45014",
+    "telephone": "(513) 874-3500",
+    "grant_date": "2003-09-20",
+    "activities": [
+      "Certification - Export",
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "SCHWAN\u2019S FULLY COOKED Crispy Chicken Breast Strips"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Minnesota"
+  ]
+}

@@ -1,1 +1,30 @@
-{"id": "085-2018", "title": "JBS Tolleson, Inc. Recalls Raw Beef Products Due to Possible Salmonella Newport Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/jbs-tolleson-inc.-recalls-raw-beef-products-due-possible-salmonella-newport-0", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2018-10-04", "end_date": "2019-04-16", "summary": "EDITORS NOTE: -Details of this recall were updated Oct. 5, 2018 to reflect additional product codes and increases in the poundage of products being recalled; -Details of this recall were updated Oct. 4, 2018 to reflect increases in the poundage of products being recalled. WASHINGTON...", "establishment": {"id": "M267", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/jbs-tolleson-inc", "slug": "jbs-tolleson-inc", "name": "JBS Tolleson Inc.", "address": "651 S. 91st Ave \n  Tolleson, AZ 85353", "telephone": "(623) 936-7177", "grant_date": "2020-05-20", "activities": ["Meat Processing", "Meat Slaughter"]}, "impacted_products": [], "quantity_recovered": 166662, "quantity_unit": "pounds", "states": null}
+{
+  "id": "085-2018",
+  "title": "JBS Tolleson, Inc. Recalls Raw Beef Products Due to Possible Salmonella Newport Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/jbs-tolleson-inc.-recalls-raw-beef-products-due-possible-salmonella-newport-0",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2018-10-04",
+  "end_date": "2019-04-16",
+  "summary": "EDITORS NOTE: -Details of this recall were updated Oct. 5, 2018 to reflect additional product codes and increases in the poundage of products being recalled; -Details of this recall were updated Oct. 4, 2018 to reflect increases in the poundage of products being recalled. WASHINGTON...",
+  "establishment": {
+    "id": "M267",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/jbs-tolleson-inc",
+    "slug": "jbs-tolleson-inc",
+    "name": "JBS Tolleson Inc.",
+    "address": "651 S. 91st Ave \n  Tolleson, AZ 85353",
+    "telephone": "(623) 936-7177",
+    "grant_date": "2020-05-20",
+    "activities": [
+      "Meat Processing",
+      "Meat Slaughter"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 166662,
+  "quantity_unit": "pounds",
+  "states": null
+}

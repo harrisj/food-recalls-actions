@@ -1,1 +1,26 @@
-{"id": "047-2012", "title": "California Firm Recalls BBQ Chicken Salads for Possible Listeria Monocytogenes Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-bbq-chicken-salads-possible-listeria-monocytogenes", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2012-07-27", "end_date": "2013-05-29", "summary": "WASHINGTON, July 27, 2012 - Huxtable's Kitchen, a Vernon, Calif. establishment, is recalling approximately 5,610 pounds of barbeque chicken salads. The salads contain diced onions that are the subject of a Food and Drug Administration (FDA) recall due to possible Listeria monocytogenes contamination, the U.S...\n", "establishment": null, "impacted_products": ["14.5-oz trays of \"TRADER JOE'S BBQ CHICKEN SALAD.\""], "quantity_recovered": 2681, "quantity_unit": "pounds", "states": ["Arizona", "New Mexico", "California", "Nevada", "Texas"]}
+{
+  "id": "047-2012",
+  "title": "California Firm Recalls BBQ Chicken Salads for Possible Listeria Monocytogenes Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-bbq-chicken-salads-possible-listeria-monocytogenes",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2012-07-27",
+  "end_date": "2013-05-29",
+  "summary": "WASHINGTON, July 27, 2012 - Huxtable's Kitchen, a Vernon, Calif. establishment, is recalling approximately 5,610 pounds of barbeque chicken salads. The salads contain diced onions that are the subject of a Food and Drug Administration (FDA) recall due to possible Listeria monocytogenes contamination, the U.S...\n",
+  "establishment": null,
+  "impacted_products": [
+    "14.5-oz trays of \"TRADER JOE'S BBQ CHICKEN SALAD.\""
+  ],
+  "quantity_recovered": 2681,
+  "quantity_unit": "pounds",
+  "states": [
+    "Arizona",
+    "New Mexico",
+    "California",
+    "Nevada",
+    "Texas"
+  ]
+}

@@ -1,1 +1,28 @@
-{"id": "080-2019", "title": "Premium Foods USA, Inc., Recalls Siluriformes Products  Produced Without Benefit of Import Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/premium-foods-usa-inc.-recalls-siluriformes-products-produced-without-benefit-import", "reasons": ["Produced Without Benefit of Inspection"], "status": "Active", "risk_level": "High", "start_date": "2019-07-27", "end_date": null, "summary": "EDITORS NOTE: This release is being reissued to include additional products, that can be found in the linked spreadsheet, to extend the date range of when products were imported, and to adjust the total poundage of recalled products from 76,025 to 121,151 pounds. WASHINGTON, July...\n", "establishment": null, "impacted_products": [], "quantity_recovered": null, "quantity_unit": null, "states": ["Colorado", "Connecticut", "Florida", "Georgia", "Illinois", "Michigan", "New Jersey", "New York", "Pennsylvania"]}
+{
+  "id": "080-2019",
+  "title": "Premium Foods USA, Inc., Recalls Siluriformes Products  Produced Without Benefit of Import Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/premium-foods-usa-inc.-recalls-siluriformes-products-produced-without-benefit-import",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2019-07-27",
+  "end_date": null,
+  "summary": "EDITORS NOTE: This release is being reissued to include additional products, that can be found in the linked spreadsheet, to extend the date range of when products were imported, and to adjust the total poundage of recalled products from 76,025 to 121,151 pounds. WASHINGTON, July...\n",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Colorado",
+    "Connecticut",
+    "Florida",
+    "Georgia",
+    "Illinois",
+    "Michigan",
+    "New Jersey",
+    "New York",
+    "Pennsylvania"
+  ]
+}

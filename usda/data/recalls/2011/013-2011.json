@@ -1,1 +1,35 @@
-{"id": "013-2011", "title": "Recall Notification Report", "url": "https://www.fsis.usda.gov/recalls-alerts/recall-notification-report-16", "reasons": ["Mislabeling"], "status": "Closed", "risk_level": "Low", "start_date": "2011-02-25", "end_date": "2012-06-02", "summary": "WASHINGTON, Feb. 25, 2011 - J&J Distributing, a St. Paul, Minn., establishment, is recalling approximately 87 pounds of buffalo chicken cheese dip products because they contain monosodium glutamate (MSG) which is not declared on the label. The products subject to recall include: 16-oz. metal containers...\n", "establishment": {"id": "M38450+P38450", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/jj-distributing", "slug": "jj-distributing", "name": "J&J Distributing", "address": "653 Rice Street \n  Saint Paul, MN 55103", "telephone": "(651) 221-0560", "grant_date": "2009-05-19", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["16-oz. metal containers of \"CUB FRESH BUFFALO CHICKEN CHEESE DIP.\"", "16-oz. metal containers of \"KOWALSKI'S MARKETS PLACE BUFFALO CHICKEN CHEESE DIP.\""], "quantity_recovered": 24, "quantity_unit": "pounds", "states": ["Minnesota"]}
+{
+  "id": "013-2011",
+  "title": "Recall Notification Report",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/recall-notification-report-16",
+  "reasons": [
+    "Mislabeling"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2011-02-25",
+  "end_date": "2012-06-02",
+  "summary": "WASHINGTON, Feb. 25, 2011 - J&J Distributing, a St. Paul, Minn., establishment, is recalling approximately 87 pounds of buffalo chicken cheese dip products because they contain monosodium glutamate (MSG) which is not declared on the label. The products subject to recall include: 16-oz. metal containers...\n",
+  "establishment": {
+    "id": "M38450+P38450",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/jj-distributing",
+    "slug": "jj-distributing",
+    "name": "J&J Distributing",
+    "address": "653 Rice Street \n  Saint Paul, MN 55103",
+    "telephone": "(651) 221-0560",
+    "grant_date": "2009-05-19",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "16-oz. metal containers of \"CUB FRESH BUFFALO CHICKEN CHEESE DIP.\"",
+    "16-oz. metal containers of \"KOWALSKI'S MARKETS PLACE BUFFALO CHICKEN CHEESE DIP.\""
+  ],
+  "quantity_recovered": 24,
+  "quantity_unit": "pounds",
+  "states": [
+    "Minnesota"
+  ]
+}

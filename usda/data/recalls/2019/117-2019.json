@@ -1,1 +1,41 @@
-{"id": "117-2019", "title": "Ajinomoto Foods North America, Inc. Recalls Chicken Fried Rice Products Due To Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/ajinomoto-foods-north-america-inc.-recalls-chicken-fried-rice-products-due-possible", "reasons": ["Product Contamination"], "status": "Active", "risk_level": "Low", "start_date": "2019-11-22", "end_date": null, "summary": "WASHINGTON, Nov. 22, 2019 Ajinomoto Foods North America, Inc., an Oakland, Miss. establishment, is recalling approximately 172,692 pounds of chicken fried rice products that may be contaminated with extraneous materials, specifically pieces of plastic, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS)...", "establishment": {"id": "M34708+P34708+V34708", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/ajinomoto-foods-north-america-1", "slug": "ajinomoto-foods-north-america-1", "name": "Ajinomoto Foods North America", "address": "10646 Highway 51 \n  Oakland, MS 38948", "telephone": "(662) 712-3030", "grant_date": "2018-07-23", "activities": ["Certification - Export", "Meat Processing", "Poultry Processing"]}, "impacted_products": ["54-oz. cardboard packages containing \u201cAJINOMOTO YAKITORI CHICKEN WITH JAPANESE-STYLE FRIED RICE\u201d with date codes \u201c3559007, 3559008, 3559015, 3559190 and 3559191\u201d and best by dates of \u201c1/7/2020, 1/8/2020, 1/15/2020, 7/9/2020 and 7/10/2020.\u201d"], "quantity_recovered": null, "quantity_unit": null, "states": ["Florida", "Georgia", "Illinois", "Maryland", "Michigan", "New Jersey", "Texas"]}
+{
+  "id": "117-2019",
+  "title": "Ajinomoto Foods North America, Inc. Recalls Chicken Fried Rice Products Due To Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/ajinomoto-foods-north-america-inc.-recalls-chicken-fried-rice-products-due-possible",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "Low",
+  "start_date": "2019-11-22",
+  "end_date": null,
+  "summary": "WASHINGTON, Nov. 22, 2019 Ajinomoto Foods North America, Inc., an Oakland, Miss. establishment, is recalling approximately 172,692 pounds of chicken fried rice products that may be contaminated with extraneous materials, specifically pieces of plastic, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS)...",
+  "establishment": {
+    "id": "M34708+P34708+V34708",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/ajinomoto-foods-north-america-1",
+    "slug": "ajinomoto-foods-north-america-1",
+    "name": "Ajinomoto Foods North America",
+    "address": "10646 Highway 51 \n  Oakland, MS 38948",
+    "telephone": "(662) 712-3030",
+    "grant_date": "2018-07-23",
+    "activities": [
+      "Certification - Export",
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "54-oz. cardboard packages containing \u201cAJINOMOTO YAKITORI CHICKEN WITH JAPANESE-STYLE FRIED RICE\u201d with date codes \u201c3559007, 3559008, 3559015, 3559190 and 3559191\u201d and best by dates of \u201c1/7/2020, 1/8/2020, 1/15/2020, 7/9/2020 and 7/10/2020.\u201d"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Florida",
+    "Georgia",
+    "Illinois",
+    "Maryland",
+    "Michigan",
+    "New Jersey",
+    "Texas"
+  ]
+}

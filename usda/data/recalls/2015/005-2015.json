@@ -1,1 +1,33 @@
-{"id": "005-2015", "title": "Pennsylvania Firm Recalls Beef Products Due to Misbranding and an Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/pennsylvania-firm-recalls-beef-products-due-misbranding-and-undeclared-allergen", "reasons": ["Unreported Allergens", "Mislabeling"], "status": "Closed", "risk_level": "High", "start_date": "2015-01-08", "end_date": "2016-06-08", "summary": "WASHINGTON, Jan. 8, 2015 The Daniel Weaver Company, a Lebanon, PA establishment, is recalling approximately 7,092 pounds of Halal Beef products due to misbranding and an undeclared allergen, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product contains peanuts...\n", "establishment": {"id": "M669+P669", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/daniel-weaver-co-inc", "slug": "daniel-weaver-co-inc", "name": "The Daniel Weaver Co., Inc.", "address": "1415 Weavertown Road \n  Lebanon, PA 17046", "telephone": "(717) 274-6100", "grant_date": "2016-09-19", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": 4224, "quantity_unit": "pounds", "states": ["New Jersey"]}
+{
+  "id": "005-2015",
+  "title": "Pennsylvania Firm Recalls Beef Products Due to Misbranding and an Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/pennsylvania-firm-recalls-beef-products-due-misbranding-and-undeclared-allergen",
+  "reasons": [
+    "Unreported Allergens",
+    "Mislabeling"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2015-01-08",
+  "end_date": "2016-06-08",
+  "summary": "WASHINGTON, Jan. 8, 2015 The Daniel Weaver Company, a Lebanon, PA establishment, is recalling approximately 7,092 pounds of Halal Beef products due to misbranding and an undeclared allergen, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product contains peanuts...\n",
+  "establishment": {
+    "id": "M669+P669",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/daniel-weaver-co-inc",
+    "slug": "daniel-weaver-co-inc",
+    "name": "The Daniel Weaver Co., Inc.",
+    "address": "1415 Weavertown Road \n  Lebanon, PA 17046",
+    "telephone": "(717) 274-6100",
+    "grant_date": "2016-09-19",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 4224,
+  "quantity_unit": "pounds",
+  "states": [
+    "New Jersey"
+  ]
+}

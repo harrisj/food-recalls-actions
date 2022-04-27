@@ -1,1 +1,39 @@
-{"id": "049-2013", "title": "Texas Firm Recalls Canned Pasta Due to  Misbranding and Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/texas-firm-recalls-canned-pasta-due-misbranding-and-undeclared-allergen", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2013-08-30", "end_date": "2015-11-23", "summary": "WASHINGTON, August 30, 2013 Campbell's Soup Supply Company LLC, a Paris, TX establishment, is recalling 1,920 cans (approximately 1,740 pounds) of SpaghettiOs with Meatballs due to misbranding and undeclared allergens. The SpaghettiOs product is formulated with wheat, soy, and milk, known allergens. However, the product...\n", "establishment": {"id": "M4K+P13", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/campbell-soup-supply-company-l.l.c.", "slug": "campbell-soup-supply-company-l-l-c", "name": "Campbell Soup Supply Company L.L.C.", "address": "500 NW Loop 286 \n  Paris, TX 75461", "telephone": "(903) 784-3341", "grant_date": "2011-06-29", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["14.5-oz. Campbell\u2019s \u201cSwanson 100% Natural Chicken Broth.\u201d The establishment number \u201cEST. 4K, P-13\u201d is located on the bottom of the can along with the use-by date of Jan. 23, 2015."], "quantity_recovered": 41400, "quantity_unit": "pounds", "states": ["Texas", "Oklahoma", "Arkansas", "Louisiana", "Mississippi"]}
+{
+  "id": "049-2013",
+  "title": "Texas Firm Recalls Canned Pasta Due to  Misbranding and Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/texas-firm-recalls-canned-pasta-due-misbranding-and-undeclared-allergen",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2013-08-30",
+  "end_date": "2015-11-23",
+  "summary": "WASHINGTON, August 30, 2013 Campbell's Soup Supply Company LLC, a Paris, TX establishment, is recalling 1,920 cans (approximately 1,740 pounds) of SpaghettiOs with Meatballs due to misbranding and undeclared allergens. The SpaghettiOs product is formulated with wheat, soy, and milk, known allergens. However, the product...\n",
+  "establishment": {
+    "id": "M4K+P13",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/campbell-soup-supply-company-l.l.c.",
+    "slug": "campbell-soup-supply-company-l-l-c",
+    "name": "Campbell Soup Supply Company L.L.C.",
+    "address": "500 NW Loop 286 \n  Paris, TX 75461",
+    "telephone": "(903) 784-3341",
+    "grant_date": "2011-06-29",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "14.5-oz. Campbell\u2019s \u201cSwanson 100% Natural Chicken Broth.\u201d The establishment number \u201cEST. 4K, P-13\u201d is located on the bottom of the can along with the use-by date of Jan. 23, 2015."
+  ],
+  "quantity_recovered": 41400,
+  "quantity_unit": "pounds",
+  "states": [
+    "Texas",
+    "Oklahoma",
+    "Arkansas",
+    "Louisiana",
+    "Mississippi"
+  ]
+}

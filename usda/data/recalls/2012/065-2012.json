@@ -1,1 +1,36 @@
-{"id": "065-2012", "title": "Arkansas Firm Recalls Boneless Chicken Products Due to Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/arkansas-firm-recalls-boneless-chicken-products-due-misbranding-and-undeclared", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2012-10-10", "end_date": "2013-05-29", "summary": "WASHINGTON, October 10, 2012 - Tyson Foods, Inc., a Pine Bluff, Ark. establishment, is recalling approximately 67,269 pounds of packages labeled as Honey BBQ Flavored Boneless Chicken Wyngz because of misbranding and undeclared allergens. Buffalo Style Boneless Chicken Wyngz were packaged in bags meant for...\n", "establishment": {"id": "M13456+P13456+V13456", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/tyson-foods-inc-37", "slug": "tyson-foods-inc-37", "name": "Tyson Foods, Inc.", "address": "5505 Jefferson Parkway \n  Pine Bluff, AR 71602", "telephone": "(870) 247-9127", "grant_date": "2018-10-15", "activities": ["Certification - Export", "Meat Processing", "Poultry Processing", "Poultry Slaughter"]}, "impacted_products": ["25.5 oz. (1.59 lb.) bags of \u201cTyson any\u2019tizers Boneless Chicken Wyngz Honey BBQ Flavored.\u201d Each bag bears the USDA mark of inspection. The establishment number \u201cP13456\u201d and the use by date \u201cAug 072013\u201d or \u201cAug 082013\u201d are inkjetted on the back of the bags.", "12.75 lb. shipping cases of \u201cFully Cooked Boneless Chicken Wyngz Buffalo Style.\u201d Each case bears the USDA mark of inspection. The establishment number \u201cP13456\u201d and the use by date \u201cAug 07 2013\u201d or \u201cAug 08 2013\u201d are inkjetted on the cases. Identifying case"], "quantity_recovered": 6910, "quantity_unit": "pounds", "states": null}
+{
+  "id": "065-2012",
+  "title": "Arkansas Firm Recalls Boneless Chicken Products Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/arkansas-firm-recalls-boneless-chicken-products-due-misbranding-and-undeclared",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2012-10-10",
+  "end_date": "2013-05-29",
+  "summary": "WASHINGTON, October 10, 2012 - Tyson Foods, Inc., a Pine Bluff, Ark. establishment, is recalling approximately 67,269 pounds of packages labeled as Honey BBQ Flavored Boneless Chicken Wyngz because of misbranding and undeclared allergens. Buffalo Style Boneless Chicken Wyngz were packaged in bags meant for...\n",
+  "establishment": {
+    "id": "M13456+P13456+V13456",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/tyson-foods-inc-37",
+    "slug": "tyson-foods-inc-37",
+    "name": "Tyson Foods, Inc.",
+    "address": "5505 Jefferson Parkway \n  Pine Bluff, AR 71602",
+    "telephone": "(870) 247-9127",
+    "grant_date": "2018-10-15",
+    "activities": [
+      "Certification - Export",
+      "Meat Processing",
+      "Poultry Processing",
+      "Poultry Slaughter"
+    ]
+  },
+  "impacted_products": [
+    "25.5 oz. (1.59 lb.) bags of \u201cTyson any\u2019tizers Boneless Chicken Wyngz Honey BBQ Flavored.\u201d Each bag bears the USDA mark of inspection. The establishment number \u201cP13456\u201d and the use by date \u201cAug 072013\u201d or \u201cAug 082013\u201d are inkjetted on the back of the bags.",
+    "12.75 lb. shipping cases of \u201cFully Cooked Boneless Chicken Wyngz Buffalo Style.\u201d Each case bears the USDA mark of inspection. The establishment number \u201cP13456\u201d and the use by date \u201cAug 07 2013\u201d or \u201cAug 08 2013\u201d are inkjetted on the cases. Identifying case"
+  ],
+  "quantity_recovered": 6910,
+  "quantity_unit": "pounds",
+  "states": null
+}

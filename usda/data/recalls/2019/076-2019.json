@@ -1,1 +1,37 @@
-{"id": "076-2019", "title": "US Foods Recalls Raw Beef and Pork Products Due to Possible Product Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/us-foods-recalls-raw-beef-and-pork-products-due-possible-product-contamination", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2019-07-20", "end_date": "2019-09-18", "summary": "EDITOR'S NOTE: Details of this recall were updated on July 24, 2019, to reflect that the recalled products were also shipped to Florida. WASHINGTON, July 20, 2019 US Foods, a Birmingham, AL, establishment, is recalling approximately 712 pounds of raw beef and pork products that...\n", "establishment": {"id": "M21103+P21103", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/us-foods-inc-10", "slug": "us-foods-inc-10", "name": "US Foods Inc", "address": "1608 10th Avenue North \n  Birmingham, AL 35203", "telephone": "(205) 323-7447", "grant_date": "2018-12-06", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": 880, "quantity_unit": "pounds", "states": ["Florida", "Alabama", "Florida", "Georgia", "Mississippi", "Tennessee"]}
+{
+  "id": "076-2019",
+  "title": "US Foods Recalls Raw Beef and Pork Products Due to Possible Product Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/us-foods-recalls-raw-beef-and-pork-products-due-possible-product-contamination",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2019-07-20",
+  "end_date": "2019-09-18",
+  "summary": "EDITOR'S NOTE: Details of this recall were updated on July 24, 2019, to reflect that the recalled products were also shipped to Florida. WASHINGTON, July 20, 2019 US Foods, a Birmingham, AL, establishment, is recalling approximately 712 pounds of raw beef and pork products that...\n",
+  "establishment": {
+    "id": "M21103+P21103",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/us-foods-inc-10",
+    "slug": "us-foods-inc-10",
+    "name": "US Foods Inc",
+    "address": "1608 10th Avenue North \n  Birmingham, AL 35203",
+    "telephone": "(205) 323-7447",
+    "grant_date": "2018-12-06",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 880,
+  "quantity_unit": "pounds",
+  "states": [
+    "Florida",
+    "Alabama",
+    "Florida",
+    "Georgia",
+    "Mississippi",
+    "Tennessee"
+  ]
+}

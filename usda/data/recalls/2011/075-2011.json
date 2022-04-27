@@ -1,1 +1,20 @@
-{"id": "075-2011", "title": "Texas Firm Recalls Ground Beef Due To Possible E. Coli O157:H7 Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/texas-firm-recalls-ground-beef-due-possible-e.-coli-o157h7-contamination", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2011-09-23", "end_date": "2012-06-03", "summary": "Editor's Note: The recalled product, which bears \"LOT: 065\" on the lower right side of the label, was shipped to locations in Georgia only. No other lot numbers are affected by this recall. WASHINGTON, Sep 23, 2011 - Palo Duro Meat, an Amarillo, Texas, establishment...\n", "establishment": null, "impacted_products": ["40-lb boxes containing four 10-lb chubs of fine ground beef."], "quantity_recovered": 40000, "quantity_unit": "pounds", "states": null}
+{
+  "id": "075-2011",
+  "title": "Texas Firm Recalls Ground Beef Due To Possible E. Coli O157:H7 Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/texas-firm-recalls-ground-beef-due-possible-e.-coli-o157h7-contamination",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2011-09-23",
+  "end_date": "2012-06-03",
+  "summary": "Editor's Note: The recalled product, which bears \"LOT: 065\" on the lower right side of the label, was shipped to locations in Georgia only. No other lot numbers are affected by this recall. WASHINGTON, Sep 23, 2011 - Palo Duro Meat, an Amarillo, Texas, establishment...\n",
+  "establishment": null,
+  "impacted_products": [
+    "40-lb boxes containing four 10-lb chubs of fine ground beef."
+  ],
+  "quantity_recovered": 40000,
+  "quantity_unit": "pounds",
+  "states": null
+}

@@ -1,1 +1,20 @@
-{"id": "045-2021", "title": "Erie Meat Products Ltd. Recalls Chicken Bologna Products Imported Without Benefit of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/erie-meat-products-ltd.-recalls-chicken-bologna-products-imported-without-benefit", "reasons": ["Import Violation"], "status": "Closed", "risk_level": "High", "start_date": "2021-12-03", "end_date": "2022-03-10", "summary": "WASHINGTON, Dec. 3, 2021 \u2013 Erie Meat Products Ltd., the importer of record in Mississauga, Ontario, Canada, is recalling approximately 1,224 pounds of fully cooked chicken bologna products that were imported and distributed into the United States without the benefit of FSIS import reinspection, the...\n", "establishment": null, "impacted_products": ["\u2022\t24-lb. cases containing 12, 2-lb vacuum-packed packages of \u201cGOLDEN MAPLE Chicken Bologna\u201d with product code 91203 and \u201cBEST BEFORE\u201d dates of \u201c2023-APR-13\u201d, \u201d2023-APR-18\u201d, and \u201c2023-MAY-03\u201d."], "quantity_recovered": 1032, "quantity_unit": "pounds", "states": null}
+{
+  "id": "045-2021",
+  "title": "Erie Meat Products Ltd. Recalls Chicken Bologna Products Imported Without Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/erie-meat-products-ltd.-recalls-chicken-bologna-products-imported-without-benefit",
+  "reasons": [
+    "Import Violation"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2021-12-03",
+  "end_date": "2022-03-10",
+  "summary": "WASHINGTON, Dec. 3, 2021 \u2013 Erie Meat Products Ltd., the importer of record in Mississauga, Ontario, Canada, is recalling approximately 1,224 pounds of fully cooked chicken bologna products that were imported and distributed into the United States without the benefit of FSIS import reinspection, the...\n",
+  "establishment": null,
+  "impacted_products": [
+    "\u2022\t24-lb. cases containing 12, 2-lb vacuum-packed packages of \u201cGOLDEN MAPLE Chicken Bologna\u201d with product code 91203 and \u201cBEST BEFORE\u201d dates of \u201c2023-APR-13\u201d, \u201d2023-APR-18\u201d, and \u201c2023-MAY-03\u201d."
+  ],
+  "quantity_recovered": 1032,
+  "quantity_unit": "pounds",
+  "states": null
+}

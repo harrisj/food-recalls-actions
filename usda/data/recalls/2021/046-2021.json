@@ -1,1 +1,18 @@
-{"id": "046-2021", "title": "Alexander & Hornung Recalls Fully Cooked Pork Products  \tDue to Possible Listeria Contamination\t", "url": "https://www.fsis.usda.gov/recalls-alerts/alexander-hornung-recalls-fully-cooked-pork-products-due-possible-listeria", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2021-12-05", "end_date": "2022-03-31", "summary": "EDITOR\u2019S NOTE: Dec. 11, 2021: This product recall has been expanded from 234,391 pounds to 2,320,774 pounds, with an expanded list of fully cooked ham and pepperoni products that may be contaminated with Listeria monocytogenes. The expanded list of products are highlighted in the product...\n", "establishment": null, "impacted_products": [], "quantity_recovered": 1399545, "quantity_unit": "pounds", "states": null}
+{
+  "id": "046-2021",
+  "title": "Alexander & Hornung Recalls Fully Cooked Pork Products  \tDue to Possible Listeria Contamination\t",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/alexander-hornung-recalls-fully-cooked-pork-products-due-possible-listeria",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2021-12-05",
+  "end_date": "2022-03-31",
+  "summary": "EDITOR\u2019S NOTE: Dec. 11, 2021: This product recall has been expanded from 234,391 pounds to 2,320,774 pounds, with an expanded list of fully cooked ham and pepperoni products that may be contaminated with Listeria monocytogenes. The expanded list of products are highlighted in the product...\n",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 1399545,
+  "quantity_unit": "pounds",
+  "states": null
+}

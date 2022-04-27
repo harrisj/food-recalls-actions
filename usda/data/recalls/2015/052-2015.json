@@ -1,1 +1,18 @@
-{"id": "052-2015", "title": "Recall Notification Report 052-2015 (Flap Meat Beef)", "url": "https://www.fsis.usda.gov/recalls-alerts/recall-notification-report-052-2015-flap-meat-beef", "reasons": [], "status": "Closed", "risk_level": "Low", "start_date": "2015-03-25", "end_date": "2017-06-15", "summary": "EDITORS NOTE: This release is being reissued to include a change in the dates of production and pounds recalled. WASHINGTON, April 3, 2015 Viz Cattle, an Irvine, California establishment, is recalling 62,841 pounds of flap meat due to misbranding, the U.S. Department of Agricultures Food...", "establishment": null, "impacted_products": [], "quantity_recovered": 1234, "quantity_unit": "pounds", "states": ["California"]}
+{
+  "id": "052-2015",
+  "title": "Recall Notification Report 052-2015 (Flap Meat Beef)",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/recall-notification-report-052-2015-flap-meat-beef",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2015-03-25",
+  "end_date": "2017-06-15",
+  "summary": "EDITORS NOTE: This release is being reissued to include a change in the dates of production and pounds recalled. WASHINGTON, April 3, 2015 Viz Cattle, an Irvine, California establishment, is recalling 62,841 pounds of flap meat due to misbranding, the U.S. Department of Agricultures Food...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 1234,
+  "quantity_unit": "pounds",
+  "states": [
+    "California"
+  ]
+}

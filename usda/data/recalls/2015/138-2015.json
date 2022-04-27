@@ -1,1 +1,18 @@
-{"id": "138-2015", "title": "Maple Leaf Foods Inc. Recalls Boneless Pork Products Produced Without Benefit of Import Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/maple-leaf-foods-inc.-recalls-boneless-pork-products-produced-without-benefit-import", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2015-11-06", "end_date": "2016-06-07", "summary": "WASHINGTON, Nov. 06, 2015 - Maple Leaf Food Inc., a Manitoba, Canada establishment, is recalling approximately 4,030 pounds of boneless pork shoulders products that were not presented at the U.S. point of entry for inspection, the U.S. Department of Agricultures Food Safety and Inspection Service...", "establishment": null, "impacted_products": [], "quantity_recovered": 1054, "quantity_unit": "pounds", "states": ["California"]}
+{
+  "id": "138-2015",
+  "title": "Maple Leaf Foods Inc. Recalls Boneless Pork Products Produced Without Benefit of Import Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/maple-leaf-foods-inc.-recalls-boneless-pork-products-produced-without-benefit-import",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2015-11-06",
+  "end_date": "2016-06-07",
+  "summary": "WASHINGTON, Nov. 06, 2015 - Maple Leaf Food Inc., a Manitoba, Canada establishment, is recalling approximately 4,030 pounds of boneless pork shoulders products that were not presented at the U.S. point of entry for inspection, the U.S. Department of Agricultures Food Safety and Inspection Service...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 1054,
+  "quantity_unit": "pounds",
+  "states": [
+    "California"
+  ]
+}

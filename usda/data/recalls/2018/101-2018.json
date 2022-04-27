@@ -1,1 +1,41 @@
-{"id": "101-2018", "title": "Buddy's Kitchen, Inc. Recalls Pork and Chicken Products due to Possible Salmonella and Listeria monocytogenes Contamination in Vegetables", "url": "https://www.fsis.usda.gov/recalls-alerts/buddys-kitchen-inc.-recalls-pork-and-chicken-products-due-possible-salmonella-and", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2018-10-19", "end_date": "2019-04-10", "summary": "WASHINGTON, Oct. 19, 2018 Buddys Kitchen, Inc., a Burnsville, Minn. establishment, is recalling approximately 212,746 pounds of ready-to-eat pork and chicken products that contain vegetables that may be contaminated with Salmonella and Listeria monocytogenes, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS)...", "establishment": {"id": "M4226+P4226+V4226", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/buddys-kitchen-inc", "slug": "buddys-kitchen-inc", "name": "Buddy's Kitchen, Inc.", "address": "12105 Nicollet Ave South \n  Burnsville, MN 55337", "telephone": "(952) 894-2540", "grant_date": "2018-08-10", "activities": ["AMS RTE Canada EV Program", "Certification - Export", "Food Inspection", "Identification - Meat", "Identification - Poultry", "Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": 12541, "quantity_unit": "pounds", "states": ["Arizona", "California", "Georgia", "Illinois", "Minnesota", "Missouri", "New Jersey"]}
+{
+  "id": "101-2018",
+  "title": "Buddy's Kitchen, Inc. Recalls Pork and Chicken Products due to Possible Salmonella and Listeria monocytogenes Contamination in Vegetables",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/buddys-kitchen-inc.-recalls-pork-and-chicken-products-due-possible-salmonella-and",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2018-10-19",
+  "end_date": "2019-04-10",
+  "summary": "WASHINGTON, Oct. 19, 2018 Buddys Kitchen, Inc., a Burnsville, Minn. establishment, is recalling approximately 212,746 pounds of ready-to-eat pork and chicken products that contain vegetables that may be contaminated with Salmonella and Listeria monocytogenes, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS)...",
+  "establishment": {
+    "id": "M4226+P4226+V4226",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/buddys-kitchen-inc",
+    "slug": "buddys-kitchen-inc",
+    "name": "Buddy's Kitchen, Inc.",
+    "address": "12105 Nicollet Ave South \n  Burnsville, MN 55337",
+    "telephone": "(952) 894-2540",
+    "grant_date": "2018-08-10",
+    "activities": [
+      "AMS RTE Canada EV Program",
+      "Certification - Export",
+      "Food Inspection",
+      "Identification - Meat",
+      "Identification - Poultry",
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 12541,
+  "quantity_unit": "pounds",
+  "states": [
+    "Arizona",
+    "California",
+    "Georgia",
+    "Illinois",
+    "Minnesota",
+    "Missouri",
+    "New Jersey"
+  ]
+}

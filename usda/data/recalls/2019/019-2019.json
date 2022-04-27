@@ -1,1 +1,22 @@
-{"id": "019-2019", "title": "Fulton Seafood Inc. Recalls Siluriformes Products Produced Without Benefit of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/fulton-seafood-inc.-recalls-siluriformes-products-produced-without-benefit", "reasons": ["Produced Without Benefit of Inspection"], "status": "Closed", "risk_level": "High", "start_date": "2019-02-22", "end_date": "2020-02-14", "summary": "WASHINGTON, Feb. 22, 2019 Fulton Seafood Inc., a Houston, Texas establishment, is recalling approximately 100,924 pounds of Siluriformes fish products, specifically wild caught catfish, because the products were produced, packed, and distributed without the benefit of federal inspection, the U.S. Department of Agricultures Food Safety...\n", "establishment": null, "impacted_products": ["60-lb. brown cardboard boxes containing \u201cRiver Catfish Wild USA.\u201d Upon arrival at retail locations, the catfish were removed from boxes and placed in the seafood display case for consumer purchase. "], "quantity_recovered": 20647, "quantity_unit": "pounds", "states": ["Texas"]}
+{
+  "id": "019-2019",
+  "title": "Fulton Seafood Inc. Recalls Siluriformes Products Produced Without Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fulton-seafood-inc.-recalls-siluriformes-products-produced-without-benefit",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2019-02-22",
+  "end_date": "2020-02-14",
+  "summary": "WASHINGTON, Feb. 22, 2019 Fulton Seafood Inc., a Houston, Texas establishment, is recalling approximately 100,924 pounds of Siluriformes fish products, specifically wild caught catfish, because the products were produced, packed, and distributed without the benefit of federal inspection, the U.S. Department of Agricultures Food Safety...\n",
+  "establishment": null,
+  "impacted_products": [
+    "60-lb. brown cardboard boxes containing \u201cRiver Catfish Wild USA.\u201d Upon arrival at retail locations, the catfish were removed from boxes and placed in the seafood display case for consumer purchase. "
+  ],
+  "quantity_recovered": 20647,
+  "quantity_unit": "pounds",
+  "states": [
+    "Texas"
+  ]
+}

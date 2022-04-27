@@ -1,1 +1,33 @@
-{"id": "008-2017", "title": "Mountain View Packaging, LLC Recalls Chicken Products Due To Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/mountain-view-packaging-llc-recalls-chicken-products-due-misbranding-and-undeclared", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2017-01-19", "end_date": "2017-02-28", "summary": "WASHINGTON, Jan. 19, 2017 Mountain View Packaging, LLC, a Boise, Idaho establishment, is recalling approximately 1,080 pounds of chicken products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products contain wheat, egg and...\n", "establishment": {"id": "M39904+P39904", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/mountain-view-packaging-llc", "slug": "mountain-view-packaging-llc", "name": "Mountain View Packaging, LLC", "address": "3494 South TK Avenue \n  Boise, ID 83705", "telephone": "(208) 344-1183", "grant_date": "2009-06-03", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["18-oz packages of \u201c@ease Sweet Chili Chicken Meal Starter, Fully cooked, boneless, battered white meat chicken in a sweet chili sauce\u201d with a \u201cBest By\u201d date of 5/17/2018 and UPC code of 36800-38348."], "quantity_recovered": 0, "quantity_unit": "pounds", "states": null}
+{
+  "id": "008-2017",
+  "title": "Mountain View Packaging, LLC Recalls Chicken Products Due To Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/mountain-view-packaging-llc-recalls-chicken-products-due-misbranding-and-undeclared",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2017-01-19",
+  "end_date": "2017-02-28",
+  "summary": "WASHINGTON, Jan. 19, 2017 Mountain View Packaging, LLC, a Boise, Idaho establishment, is recalling approximately 1,080 pounds of chicken products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products contain wheat, egg and...\n",
+  "establishment": {
+    "id": "M39904+P39904",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/mountain-view-packaging-llc",
+    "slug": "mountain-view-packaging-llc",
+    "name": "Mountain View Packaging, LLC",
+    "address": "3494 South TK Avenue \n  Boise, ID 83705",
+    "telephone": "(208) 344-1183",
+    "grant_date": "2009-06-03",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "18-oz packages of \u201c@ease Sweet Chili Chicken Meal Starter, Fully cooked, boneless, battered white meat chicken in a sweet chili sauce\u201d with a \u201cBest By\u201d date of 5/17/2018 and UPC code of 36800-38348."
+  ],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": null
+}

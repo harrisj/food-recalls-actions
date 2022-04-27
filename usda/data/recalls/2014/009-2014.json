@@ -1,1 +1,36 @@
-{"id": "009-2014", "title": "Colorado Firm Recalls Various Meat Products Due To Soy Lecithin", "url": "https://www.fsis.usda.gov/recalls-alerts/colorado-firm-recalls-various-meat-products-due-soy-lecithin", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "Low", "start_date": "2014-02-01", "end_date": "2016-06-08", "summary": "Editor's Note: Details of this recall were updated Feb. 3, 2014 to reflect additional production dates and a typographical error. WASHINGTON, February 1, 2014 House of Smoke, Inc., a Fort Lupton, Colo. establishment, is recalling approximately 144,000 pounds of meat and poultry products (including bratwurst...\n", "establishment": {"id": "M6273+P6273+V6273", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/house-smoke-inc", "slug": "house-smoke-inc", "name": "House Of Smoke, Inc.", "address": "825 Denver Avenue \n  Fort Lupton, CO 80621", "telephone": "(303) 857-2750", "grant_date": "1995-05-24", "activities": ["Meat Processing", "Poultry Processing", "Voluntary Processing - Meat"]}, "impacted_products": ["Brotwurst and bratwurst, produced between January 24, 2012 and January 24, 2014, packaged in 1-pound packages, 12 per case..", "Fully cooked sausage-type products, produced between January 24, 2012 and January 24, 2014. The products may be packaged in one the following manners: 1-ounce packages, 40 per case; 6-ounce packages, 24 per case; or 1-pound packages, 20 per case.", "Raw fresh products, produced between July 24, 2013 and January 24, 2014. The products may be packaged in one the following manners: patties/three per pound, in 12 pound cases; 6-pound bags, 12-pound cases; or 12 pound boxes. "], "quantity_recovered": 1804, "quantity_unit": "pounds", "states": null}
+{
+  "id": "009-2014",
+  "title": "Colorado Firm Recalls Various Meat Products Due To Soy Lecithin",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/colorado-firm-recalls-various-meat-products-due-soy-lecithin",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2014-02-01",
+  "end_date": "2016-06-08",
+  "summary": "Editor's Note: Details of this recall were updated Feb. 3, 2014 to reflect additional production dates and a typographical error. WASHINGTON, February 1, 2014 House of Smoke, Inc., a Fort Lupton, Colo. establishment, is recalling approximately 144,000 pounds of meat and poultry products (including bratwurst...\n",
+  "establishment": {
+    "id": "M6273+P6273+V6273",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/house-smoke-inc",
+    "slug": "house-smoke-inc",
+    "name": "House Of Smoke, Inc.",
+    "address": "825 Denver Avenue \n  Fort Lupton, CO 80621",
+    "telephone": "(303) 857-2750",
+    "grant_date": "1995-05-24",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing",
+      "Voluntary Processing - Meat"
+    ]
+  },
+  "impacted_products": [
+    "Brotwurst and bratwurst, produced between January 24, 2012 and January 24, 2014, packaged in 1-pound packages, 12 per case..",
+    "Fully cooked sausage-type products, produced between January 24, 2012 and January 24, 2014. The products may be packaged in one the following manners: 1-ounce packages, 40 per case; 6-ounce packages, 24 per case; or 1-pound packages, 20 per case.",
+    "Raw fresh products, produced between July 24, 2013 and January 24, 2014. The products may be packaged in one the following manners: patties/three per pound, in 12 pound cases; 6-pound bags, 12-pound cases; or 12 pound boxes. "
+  ],
+  "quantity_recovered": 1804,
+  "quantity_unit": "pounds",
+  "states": null
+}

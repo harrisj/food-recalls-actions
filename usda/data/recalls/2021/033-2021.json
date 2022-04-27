@@ -1,1 +1,20 @@
-{"id": "033-2021", "title": "Ajinomoto Foods North America Inc Recalls Raw, Frozen Chicken and Vegetable Potsticker Products Due to Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/ajinomoto-foods-north-america-inc-recalls-raw-frozen-chicken-and-vegetable", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2021-09-25", "end_date": "2021-12-20", "summary": "WASHINGTON, Sept. 25, 2021 \u2013 Ajinomoto Foods North America Inc., a Hayward, Calif. establishment, is recalling approximately 33,567 pounds of raw, frozen chicken and vegetable potsticker products that may be contaminated with extraneous materials, specifically clear flexible and hard plastic, the U.S. Department of Agriculture\u2019s...\n", "establishment": null, "impacted_products": ["\u2022\t4.2-lb. plastic bags containing \u201cLing Ling POTSTICKERS CHICKEN & VEGETABLE\u201d with lot code 1911203 and a \u201cBEST BUY\u201d date of 22 OCT 2022 on the label."], "quantity_recovered": 120502, "quantity_unit": "pounds", "states": null}
+{
+  "id": "033-2021",
+  "title": "Ajinomoto Foods North America Inc Recalls Raw, Frozen Chicken and Vegetable Potsticker Products Due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/ajinomoto-foods-north-america-inc-recalls-raw-frozen-chicken-and-vegetable",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2021-09-25",
+  "end_date": "2021-12-20",
+  "summary": "WASHINGTON, Sept. 25, 2021 \u2013 Ajinomoto Foods North America Inc., a Hayward, Calif. establishment, is recalling approximately 33,567 pounds of raw, frozen chicken and vegetable potsticker products that may be contaminated with extraneous materials, specifically clear flexible and hard plastic, the U.S. Department of Agriculture\u2019s...\n",
+  "establishment": null,
+  "impacted_products": [
+    "\u2022\t4.2-lb. plastic bags containing \u201cLing Ling POTSTICKERS CHICKEN & VEGETABLE\u201d with lot code 1911203 and a \u201cBEST BUY\u201d date of 22 OCT 2022 on the label."
+  ],
+  "quantity_recovered": 120502,
+  "quantity_unit": "pounds",
+  "states": null
+}

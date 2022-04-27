@@ -1,1 +1,36 @@
-{"id": "004-2013", "title": "Idaho Firm Recalls Fully Cooked Meat and Poultry Products Due to Potential Listeria Monocytogenes Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/idaho-firm-recalls-fully-cooked-meat-and-poultry-products-due-potential-listeria", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2013-01-19", "end_date": "2013-08-01", "summary": "Editor's Note: (Jan 22, 2013): This recall release has been updated with the correct establishment number found on the packaging of the products subject to recall. These products bear one of the following establishment numbers: \"Est. 6266\" or \"P-6266.\" WASHINGTON, January 19, 2013 - LJD...\n", "establishment": {"id": "M6266+P6266+V6266", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/ljd-holdings-inc", "slug": "ljd-holdings-inc", "name": "LJD Holdings, Inc.", "address": "3491 S. TK Ave. \n  Boise, ID 83705", "telephone": "(208) 344-1183", "grant_date": "2008-09-29", "activities": ["Certification - Export", "Meat Processing", "Poultry Processing", "Voluntary Processing - Meat"]}, "impacted_products": ["10-lb. boxes, containing 2, 5-lb bags of \"ROYAL \"THE TEMPURA KING\" ROYAL TEMPURA CHICKEN, Fully Cooked Tempura Chicken Breast,\" bearing an identifying code of \"A-4615.\" This product was distributed to foodservice and/or institutional customers in Californ"], "quantity_recovered": 27920, "quantity_unit": "pounds", "states": ["California"]}
+{
+  "id": "004-2013",
+  "title": "Idaho Firm Recalls Fully Cooked Meat and Poultry Products Due to Potential Listeria Monocytogenes Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/idaho-firm-recalls-fully-cooked-meat-and-poultry-products-due-potential-listeria",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2013-01-19",
+  "end_date": "2013-08-01",
+  "summary": "Editor's Note: (Jan 22, 2013): This recall release has been updated with the correct establishment number found on the packaging of the products subject to recall. These products bear one of the following establishment numbers: \"Est. 6266\" or \"P-6266.\" WASHINGTON, January 19, 2013 - LJD...\n",
+  "establishment": {
+    "id": "M6266+P6266+V6266",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/ljd-holdings-inc",
+    "slug": "ljd-holdings-inc",
+    "name": "LJD Holdings, Inc.",
+    "address": "3491 S. TK Ave. \n  Boise, ID 83705",
+    "telephone": "(208) 344-1183",
+    "grant_date": "2008-09-29",
+    "activities": [
+      "Certification - Export",
+      "Meat Processing",
+      "Poultry Processing",
+      "Voluntary Processing - Meat"
+    ]
+  },
+  "impacted_products": [
+    "10-lb. boxes, containing 2, 5-lb bags of \"ROYAL \"THE TEMPURA KING\" ROYAL TEMPURA CHICKEN, Fully Cooked Tempura Chicken Breast,\" bearing an identifying code of \"A-4615.\" This product was distributed to foodservice and/or institutional customers in Californ"
+  ],
+  "quantity_recovered": 27920,
+  "quantity_unit": "pounds",
+  "states": [
+    "California"
+  ]
+}

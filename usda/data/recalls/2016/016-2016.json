@@ -1,1 +1,45 @@
-{"id": "016-2016", "title": "McCain Foods USA, Inc. Recalls Pork Products Due To Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/mccain-foods-usa-inc.-recalls-pork-products-due-possible-foreign-matter", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2016-02-12", "end_date": "2016-06-20", "summary": "WASHINGTON, Feb.12, 2016 McCain Foods USA, Inc., a Lisle, Ill. establishment, is recalling approximately 25,215 pounds of bacon fritters that may be contaminated with extraneous plastic materials, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The potato, egg, cheese, and...\n", "establishment": {"id": "M18846+P18846", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/mccain-foods-usa-inc", "slug": "mccain-foods-usa-inc", "name": "McCain Foods USA, Inc.", "address": "555 Hickory Farm Lane \n  Appleton, WI 54914", "telephone": "(920) 997-2828", "grant_date": "2004-09-22", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["1,681 cases bearing a batch code 1001487402 containing four 3.75-lb. plastic vacuum-packed packages containing \u201cMcCain EARLY RISERS Potato, Egg, Cheese & Bacon Fritters.\u201d"], "quantity_recovered": 10440, "quantity_unit": "pounds", "states": ["Arkansas", "Florida", "Illinois", "Indiana", "Iowa", "Kansas", "Maine", "Ohio", "Oklahoma", "Tennessee", "Texas", "Utah"]}
+{
+  "id": "016-2016",
+  "title": "McCain Foods USA, Inc. Recalls Pork Products Due To Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/mccain-foods-usa-inc.-recalls-pork-products-due-possible-foreign-matter",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2016-02-12",
+  "end_date": "2016-06-20",
+  "summary": "WASHINGTON, Feb.12, 2016 McCain Foods USA, Inc., a Lisle, Ill. establishment, is recalling approximately 25,215 pounds of bacon fritters that may be contaminated with extraneous plastic materials, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The potato, egg, cheese, and...\n",
+  "establishment": {
+    "id": "M18846+P18846",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/mccain-foods-usa-inc",
+    "slug": "mccain-foods-usa-inc",
+    "name": "McCain Foods USA, Inc.",
+    "address": "555 Hickory Farm Lane \n  Appleton, WI 54914",
+    "telephone": "(920) 997-2828",
+    "grant_date": "2004-09-22",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "1,681 cases bearing a batch code 1001487402 containing four 3.75-lb. plastic vacuum-packed packages containing \u201cMcCain EARLY RISERS Potato, Egg, Cheese & Bacon Fritters.\u201d"
+  ],
+  "quantity_recovered": 10440,
+  "quantity_unit": "pounds",
+  "states": [
+    "Arkansas",
+    "Florida",
+    "Illinois",
+    "Indiana",
+    "Iowa",
+    "Kansas",
+    "Maine",
+    "Ohio",
+    "Oklahoma",
+    "Tennessee",
+    "Texas",
+    "Utah"
+  ]
+}

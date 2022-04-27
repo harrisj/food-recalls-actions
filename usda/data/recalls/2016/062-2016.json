@@ -1,1 +1,18 @@
-{"id": "062-2016", "title": "Kapowsin Meats Inc. Recalls Pork Products Due To Possible Salmonella Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/kapowsin-meats-inc.-recalls-pork-products-due-possible-salmonella-contamination", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2016-07-21", "end_date": "2016-11-10", "summary": "WASHINGTON, July 21, 2016 Kapowsin Meats Inc., a Graham, Wash. establishment, is recalling approximately 11,658 pounds of pork products that may be contaminated with Salmonella I 4,[5],12:i:-, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today.The whole roaster hogs were produced...", "establishment": null, "impacted_products": [], "quantity_recovered": 500, "quantity_unit": "pounds", "states": ["Washington"]}
+{
+  "id": "062-2016",
+  "title": "Kapowsin Meats Inc. Recalls Pork Products Due To Possible Salmonella Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/kapowsin-meats-inc.-recalls-pork-products-due-possible-salmonella-contamination",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2016-07-21",
+  "end_date": "2016-11-10",
+  "summary": "WASHINGTON, July 21, 2016 Kapowsin Meats Inc., a Graham, Wash. establishment, is recalling approximately 11,658 pounds of pork products that may be contaminated with Salmonella I 4,[5],12:i:-, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today.The whole roaster hogs were produced...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 500,
+  "quantity_unit": "pounds",
+  "states": [
+    "Washington"
+  ]
+}

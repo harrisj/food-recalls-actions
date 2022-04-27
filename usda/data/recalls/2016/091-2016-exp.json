@@ -1,1 +1,16 @@
-{"id": "091-2016 EXP", "title": "Silver Springs Farms, Inc. Recalls Beef Products Due To Possible E. Coli O157:H7 Adulteration", "url": "https://www.fsis.usda.gov/recalls-alerts/silver-springs-farms-inc.-recalls-beef-products-due-possible-e.-coli-o157h7", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2016-10-07", "end_date": "2017-01-11", "summary": "EDITORS NOTE: This release is being reissued as an expansion of the Sept. 30, 2016, release to include additional product produced from and/or commingled with the source material implicated in the original recall. The original recall included 740 pounds of ground beef products. This expansion...", "establishment": null, "impacted_products": [], "quantity_recovered": 59408, "quantity_unit": "pounds", "states": null}
+{
+  "id": "091-2016 EXP",
+  "title": "Silver Springs Farms, Inc. Recalls Beef Products Due To Possible E. Coli O157:H7 Adulteration",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/silver-springs-farms-inc.-recalls-beef-products-due-possible-e.-coli-o157h7",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2016-10-07",
+  "end_date": "2017-01-11",
+  "summary": "EDITORS NOTE: This release is being reissued as an expansion of the Sept. 30, 2016, release to include additional product produced from and/or commingled with the source material implicated in the original recall. The original recall included 740 pounds of ground beef products. This expansion...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 59408,
+  "quantity_unit": "pounds",
+  "states": null
+}

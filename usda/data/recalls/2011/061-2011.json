@@ -1,1 +1,22 @@
-{"id": "061-2011", "title": "Recall Notification Report", "url": "https://www.fsis.usda.gov/recalls-alerts/recall-notification-report-22", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "Low", "start_date": "2011-08-05", "end_date": "2012-06-02", "summary": "WASHINGTON, August 5, 2011 - AdvancePierre Foods, Inc., an Orange City, Iowa, establishment, is recalling approximately 10,668 pounds of beef patty products that may contain foreign materials, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The product subject to recall...\n", "establishment": null, "impacted_products": ["12-lb packages containing 8 24-ounce bags of H-E-B FULLY COOKED LEAN BURGERS with the H-E-B item code 100538 and EST. 2568 inside the USDA mark of inspection."], "quantity_recovered": 7545, "quantity_unit": "pounds", "states": ["Texas"]}
+{
+  "id": "061-2011",
+  "title": "Recall Notification Report",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/recall-notification-report-22",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2011-08-05",
+  "end_date": "2012-06-02",
+  "summary": "WASHINGTON, August 5, 2011 - AdvancePierre Foods, Inc., an Orange City, Iowa, establishment, is recalling approximately 10,668 pounds of beef patty products that may contain foreign materials, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The product subject to recall...\n",
+  "establishment": null,
+  "impacted_products": [
+    "12-lb packages containing 8 24-ounce bags of H-E-B FULLY COOKED LEAN BURGERS with the H-E-B item code 100538 and EST. 2568 inside the USDA mark of inspection."
+  ],
+  "quantity_recovered": 7545,
+  "quantity_unit": "pounds",
+  "states": [
+    "Texas"
+  ]
+}

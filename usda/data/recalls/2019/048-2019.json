@@ -1,1 +1,35 @@
-{"id": "048-2019", "title": "Grant Park Packing Recalls Raw Ground Beef Products Due to Possible E. coli O103 Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/grant-park-packing-recalls-raw-ground-beef-products-due-possible-e.-coli-o103", "reasons": ["Product Contamination"], "status": "Active", "risk_level": "High", "start_date": "2019-04-24", "end_date": null, "summary": "EDITORS NOTE: FSIS and our public health partners, including the Centers for Disease Control and Prevention (CDC) and state public health officials, are investigating an E. coli O103 outbreak. Further testing is ongoing to determine if the recalled ground beef products are related to the...\n", "establishment": {"id": "M21781+P21781", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/grant-park-packing", "slug": "grant-park-packing", "name": "Grant Park Packing", "address": "3434 Runge St \n  Franklin Park, IL 60131", "telephone": "(312) 421-4096", "grant_date": "2017-02-01", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["40-lb. bulk cardboard boxes of \u201cNorth Star Imports & Sales, LLC. 100% GROUND BEEF BULK 80% LEAN/ 20% FAT\u201d marked \u201cFOR INSTITUTIONAL USE ONLY\u201d with lot code GP.1051.18 and pack dates 10/30/2018, 10/31/2018, and 11/01/2018. "], "quantity_recovered": null, "quantity_unit": null, "states": ["Kentucky", "Minnesota"]}
+{
+  "id": "048-2019",
+  "title": "Grant Park Packing Recalls Raw Ground Beef Products Due to Possible E. coli O103 Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/grant-park-packing-recalls-raw-ground-beef-products-due-possible-e.-coli-o103",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2019-04-24",
+  "end_date": null,
+  "summary": "EDITORS NOTE: FSIS and our public health partners, including the Centers for Disease Control and Prevention (CDC) and state public health officials, are investigating an E. coli O103 outbreak. Further testing is ongoing to determine if the recalled ground beef products are related to the...\n",
+  "establishment": {
+    "id": "M21781+P21781",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/grant-park-packing",
+    "slug": "grant-park-packing",
+    "name": "Grant Park Packing",
+    "address": "3434 Runge St \n  Franklin Park, IL 60131",
+    "telephone": "(312) 421-4096",
+    "grant_date": "2017-02-01",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "40-lb. bulk cardboard boxes of \u201cNorth Star Imports & Sales, LLC. 100% GROUND BEEF BULK 80% LEAN/ 20% FAT\u201d marked \u201cFOR INSTITUTIONAL USE ONLY\u201d with lot code GP.1051.18 and pack dates 10/30/2018, 10/31/2018, and 11/01/2018. "
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Kentucky",
+    "Minnesota"
+  ]
+}

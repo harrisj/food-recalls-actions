@@ -1,1 +1,28 @@
-{"id": "099-2015", "title": "Gourmet Culinary Solutions Recalls Turkey Sausage Products Due To Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/gourmet-culinary-solutions-recalls-turkey-sausage-products-due-possible-foreign", "reasons": [], "status": "Closed", "risk_level": "Low", "start_date": "2015-07-10", "end_date": "2016-06-07", "summary": "WASHINGTON, July 10, 2015 Gourmet Culinary Solutions, a Statham, Ga., establishment, is recalling approximately 495 pounds of turkey sausage products that are part of a frozen entr\u00c3\u0087e that also contains French toast sticks and peaches. The entr\u00c3\u0087es may be contaminated with foreign materials, the U.S...", "establishment": {"id": "M21200+P21200", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/vf-america-llc", "slug": "vf-america-llc", "name": "VF America, LLC", "address": "515 Commercial Drive \n  Statham, GA 30666", "telephone": "(770) 725-4620", "grant_date": "2021-09-01", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": 0, "quantity_unit": "pounds", "states": null}
+{
+  "id": "099-2015",
+  "title": "Gourmet Culinary Solutions Recalls Turkey Sausage Products Due To Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/gourmet-culinary-solutions-recalls-turkey-sausage-products-due-possible-foreign",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2015-07-10",
+  "end_date": "2016-06-07",
+  "summary": "WASHINGTON, July 10, 2015 Gourmet Culinary Solutions, a Statham, Ga., establishment, is recalling approximately 495 pounds of turkey sausage products that are part of a frozen entr\u00c3\u0087e that also contains French toast sticks and peaches. The entr\u00c3\u0087es may be contaminated with foreign materials, the U.S...",
+  "establishment": {
+    "id": "M21200+P21200",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/vf-america-llc",
+    "slug": "vf-america-llc",
+    "name": "VF America, LLC",
+    "address": "515 Commercial Drive \n  Statham, GA 30666",
+    "telephone": "(770) 725-4620",
+    "grant_date": "2021-09-01",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": null
+}

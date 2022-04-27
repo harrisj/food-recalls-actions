@@ -1,1 +1,49 @@
-{"id": "032-2011", "title": "North Carolina Firm Recalls Portobello Mushroom Flavored Pork Loins Due to Mislabeling and an Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/north-carolina-firm-recalls-portobello-mushroom-flavored-pork-loins-due-mislabeling", "reasons": ["Unreported Allergens", "Mislabeling"], "status": "Closed", "risk_level": "High", "start_date": "2011-05-04", "end_date": "2012-06-02", "summary": "Corrected copy, plus an Editor's note: Editor's Note: FSIS updated the release the same day of issue to reflect additional information from the recalling company, including updated poundage and revised use by dates. WASHINGTON, May 4, 2011 - Smithfield Packing Company of Clinton, NC and...\n", "establishment": {"id": "M18079+P27232", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/smithfield-fresh-meats-corp-5", "slug": "smithfield-fresh-meats-corp-5", "name": "Smithfield Fresh Meats Corp.", "address": "15855 Highway 87 West \n  Tar Heel, NC 28392", "telephone": "(910) 862-7675", "grant_date": "2021-05-28", "activities": ["Meat Processing", "Meat Slaughter"]}, "impacted_products": ["Various weight individual packages of \"Smithfield Portobello Mushroom Pork Loin Filet.\""], "quantity_recovered": 7633, "quantity_unit": "pounds", "states": ["Alabama", "Florida", "Illinois", "Kentucky", "Maryland", "Massachusetts", "Mississippi", "North Carolina", "New Jersey", "New York", "Pennsylvania", "South Carolina", "Tennessee", "Texas", "Virginia"]}
+{
+  "id": "032-2011",
+  "title": "North Carolina Firm Recalls Portobello Mushroom Flavored Pork Loins Due to Mislabeling and an Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/north-carolina-firm-recalls-portobello-mushroom-flavored-pork-loins-due-mislabeling",
+  "reasons": [
+    "Unreported Allergens",
+    "Mislabeling"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2011-05-04",
+  "end_date": "2012-06-02",
+  "summary": "Corrected copy, plus an Editor's note: Editor's Note: FSIS updated the release the same day of issue to reflect additional information from the recalling company, including updated poundage and revised use by dates. WASHINGTON, May 4, 2011 - Smithfield Packing Company of Clinton, NC and...\n",
+  "establishment": {
+    "id": "M18079+P27232",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/smithfield-fresh-meats-corp-5",
+    "slug": "smithfield-fresh-meats-corp-5",
+    "name": "Smithfield Fresh Meats Corp.",
+    "address": "15855 Highway 87 West \n  Tar Heel, NC 28392",
+    "telephone": "(910) 862-7675",
+    "grant_date": "2021-05-28",
+    "activities": [
+      "Meat Processing",
+      "Meat Slaughter"
+    ]
+  },
+  "impacted_products": [
+    "Various weight individual packages of \"Smithfield Portobello Mushroom Pork Loin Filet.\""
+  ],
+  "quantity_recovered": 7633,
+  "quantity_unit": "pounds",
+  "states": [
+    "Alabama",
+    "Florida",
+    "Illinois",
+    "Kentucky",
+    "Maryland",
+    "Massachusetts",
+    "Mississippi",
+    "North Carolina",
+    "New Jersey",
+    "New York",
+    "Pennsylvania",
+    "South Carolina",
+    "Tennessee",
+    "Texas",
+    "Virginia"
+  ]
+}

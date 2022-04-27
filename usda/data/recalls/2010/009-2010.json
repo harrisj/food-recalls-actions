@@ -1,1 +1,22 @@
-{"id": "009-2010", "title": "North Carolina Firm Recalls Pork Barbecue Products Due to an Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/north-carolina-firm-recalls-pork-barbecue-products-due-undeclared-allergen", "reasons": ["Unreported Allergens"], "status": "Closed", "risk_level": "Low", "start_date": "2010-02-05", "end_date": "2012-06-03", "summary": "WASHINGTON, February 5, 2010 - The Murphy House, a Louisburg, N.C., establishment, is recalling approximately 2,850 lbs. of pork barbecue products because they may contain an undeclared allergen, soy flour, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. Soy flour...\n", "establishment": null, "impacted_products": ["5-lbs. buckets of \"The MURPHY HOUSE PREMIUM PORK BARBECUE; COOKED, UNSKINNED, PORK WITH BARBECUE SAUCE ADDED\" Each package bears the establishment number \"EST. 2135\" inside the USDA mark of inspection."], "quantity_recovered": 350, "quantity_unit": "pounds", "states": ["North Carolina"]}
+{
+  "id": "009-2010",
+  "title": "North Carolina Firm Recalls Pork Barbecue Products Due to an Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/north-carolina-firm-recalls-pork-barbecue-products-due-undeclared-allergen",
+  "reasons": [
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2010-02-05",
+  "end_date": "2012-06-03",
+  "summary": "WASHINGTON, February 5, 2010 - The Murphy House, a Louisburg, N.C., establishment, is recalling approximately 2,850 lbs. of pork barbecue products because they may contain an undeclared allergen, soy flour, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. Soy flour...\n",
+  "establishment": null,
+  "impacted_products": [
+    "5-lbs. buckets of \"The MURPHY HOUSE PREMIUM PORK BARBECUE; COOKED, UNSKINNED, PORK WITH BARBECUE SAUCE ADDED\" Each package bears the establishment number \"EST. 2135\" inside the USDA mark of inspection."
+  ],
+  "quantity_recovered": 350,
+  "quantity_unit": "pounds",
+  "states": [
+    "North Carolina"
+  ]
+}

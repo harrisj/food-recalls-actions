@@ -1,1 +1,22 @@
-{"id": "052-2019", "title": "Crab House Trading Corp. Recalls Siluriformes Products Produced without Benefit of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/crab-house-trading-corp.-recalls-siluriformes-products-produced-without-benefit", "reasons": ["Produced Without Benefit of Inspection"], "status": "Closed", "risk_level": "High", "start_date": "2019-05-15", "end_date": "2019-12-23", "summary": "EDITORS NOTE: Details of this recall were updated on May 18, 2019, to reflect an increase from 36,040 to 49,000 pounds of product being recalled. WASHINGTON, May 15, 2019 Crab House Trading Corp., a Los Angeles, Calif. establishment, is recalling approximately 49,000 pounds of frozen...\n", "establishment": null, "impacted_products": ["Various weight vacuum-sealed packages containing frozen \u201cTRIPLE PEARL HEADLESS-CLEANED YELLOW WALKING FISH CA TRE VANG LAM SACH \u2013 CAT DAU\u201d and may have best before dates of 20210203 or 20201225 or no date at all represented on the label. "], "quantity_recovered": 8907, "quantity_unit": "pounds", "states": ["California"]}
+{
+  "id": "052-2019",
+  "title": "Crab House Trading Corp. Recalls Siluriformes Products Produced without Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/crab-house-trading-corp.-recalls-siluriformes-products-produced-without-benefit",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2019-05-15",
+  "end_date": "2019-12-23",
+  "summary": "EDITORS NOTE: Details of this recall were updated on May 18, 2019, to reflect an increase from 36,040 to 49,000 pounds of product being recalled. WASHINGTON, May 15, 2019 Crab House Trading Corp., a Los Angeles, Calif. establishment, is recalling approximately 49,000 pounds of frozen...\n",
+  "establishment": null,
+  "impacted_products": [
+    "Various weight vacuum-sealed packages containing frozen \u201cTRIPLE PEARL HEADLESS-CLEANED YELLOW WALKING FISH CA TRE VANG LAM SACH \u2013 CAT DAU\u201d and may have best before dates of 20210203 or 20201225 or no date at all represented on the label. "
+  ],
+  "quantity_recovered": 8907,
+  "quantity_unit": "pounds",
+  "states": [
+    "California"
+  ]
+}

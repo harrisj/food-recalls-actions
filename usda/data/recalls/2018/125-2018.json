@@ -1,1 +1,30 @@
-{"id": "125-2018", "title": "R. L. Zeigler Co., Inc. Recalls Chicken and Pork Red Hot Sausage Products due to Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/r.-l.-zeigler-co.-inc.-recalls-chicken-and-pork-red-hot-sausage-products-due", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2018-12-30", "end_date": "2019-04-05", "summary": "WASHINGTON, Dec. 30, 2018 R. L. Zeigler Co., Inc., a Selma, Ala. establishment, is recalling approximately 11,664 pounds of ready-to-eat (RTE) poultry and meat sausage products that may be contaminated with extraneous materials, specifically metal, the U.S. Department of Agricultures Food Safety and Inspection Service...", "establishment": {"id": "M9156S+P9156S", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/r-l-zeigler-co-inc", "slug": "r-l-zeigler-co-inc", "name": "R. L. Zeigler Co. Inc.", "address": "One Plant Street \n  Selma, AL 36702", "telephone": "(334) 874-9041", "grant_date": "2004-11-22", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": 2340, "quantity_unit": "pounds", "states": null}
+{
+  "id": "125-2018",
+  "title": "R. L. Zeigler Co., Inc. Recalls Chicken and Pork Red Hot Sausage Products due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/r.-l.-zeigler-co.-inc.-recalls-chicken-and-pork-red-hot-sausage-products-due",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2018-12-30",
+  "end_date": "2019-04-05",
+  "summary": "WASHINGTON, Dec. 30, 2018 R. L. Zeigler Co., Inc., a Selma, Ala. establishment, is recalling approximately 11,664 pounds of ready-to-eat (RTE) poultry and meat sausage products that may be contaminated with extraneous materials, specifically metal, the U.S. Department of Agricultures Food Safety and Inspection Service...",
+  "establishment": {
+    "id": "M9156S+P9156S",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/r-l-zeigler-co-inc",
+    "slug": "r-l-zeigler-co-inc",
+    "name": "R. L. Zeigler Co. Inc.",
+    "address": "One Plant Street \n  Selma, AL 36702",
+    "telephone": "(334) 874-9041",
+    "grant_date": "2004-11-22",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 2340,
+  "quantity_unit": "pounds",
+  "states": null
+}

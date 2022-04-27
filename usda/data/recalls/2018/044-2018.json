@@ -1,1 +1,20 @@
-{"id": "044-2018", "title": "Supermercado Selectos Recalls Raw, Frozen Meat and Poultry Products Produced Without Benefit of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/supermercado-selectos-recalls-raw-frozen-meat-and-poultry-products-produced-without", "reasons": ["Produced Without Benefit of Inspection"], "status": "Closed", "risk_level": "High", "start_date": "2018-06-01", "end_date": "2019-01-08", "summary": "EDITORS NOTE: This release was updated on June 2, 2018 to reflect additional products. WASHINGTON, June. 2, 2018 Supermercado Selectos, a San Sebasti\u00e2\u20ac n, Puerto Rico firm, is recalling approximately 15,315 pounds of various raw, frozen beef, pork and poultry products that were produced without...", "establishment": null, "impacted_products": [], "quantity_recovered": 7802, "quantity_unit": "pounds", "states": ["Puerto Rico"]}
+{
+  "id": "044-2018",
+  "title": "Supermercado Selectos Recalls Raw, Frozen Meat and Poultry Products Produced Without Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/supermercado-selectos-recalls-raw-frozen-meat-and-poultry-products-produced-without",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2018-06-01",
+  "end_date": "2019-01-08",
+  "summary": "EDITORS NOTE: This release was updated on June 2, 2018 to reflect additional products. WASHINGTON, June. 2, 2018 Supermercado Selectos, a San Sebasti\u00e2\u20ac n, Puerto Rico firm, is recalling approximately 15,315 pounds of various raw, frozen beef, pork and poultry products that were produced without...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 7802,
+  "quantity_unit": "pounds",
+  "states": [
+    "Puerto Rico"
+  ]
+}

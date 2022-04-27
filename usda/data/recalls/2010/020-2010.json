@@ -1,1 +1,36 @@
-{"id": "020-2010", "title": "Nevada Firm Recalls Assorted Asian-Style Products Produced Without Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/nevada-firm-recalls-assorted-asian-style-products-produced-without-inspection", "reasons": ["Produced Without Benefit of Inspection"], "status": "Closed", "risk_level": "High", "start_date": "2010-03-13", "end_date": "2012-06-03", "summary": "WASHINGTON, March 13, 2010 - CaiE Foods Limited, a Sparks, Nev., establishment, is recalling approximately 12,382 pounds of assorted Asian-style meat and poultry products, including steamed buns and oriental-style dumplings, because they were produced without the benefit of federal inspection, the U.S. Department of Agriculture's...\n", "establishment": {"id": "M40079+P40079+V40079", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/caie-foods-partnership-ltd", "slug": "caie-foods-partnership-ltd", "name": "CAIE Foods Partnership, LTD", "address": "1802-A Brierley Way \n  Sparks, NV 89434", "telephone": "(775) 356-8838", "grant_date": "2022-01-28", "activities": ["Meat Processing", "Poultry Processing", "Voluntary Processing - Meat"]}, "impacted_products": ["Various size boxes of \"CaiE Foods, ORIENTAL STYLE DUMPLING, Chicken with Vegetable, KEEP FROZEN.\" Boxes may bear the establishment number \"P-40079\" inside the USDA mark of inspection.", "Various size boxes of \"CaiE Foods, ORIENTAL STYLE DUMPLING, Pork with Vegetable, KEEP FROZEN,\" which may also be labeled \"POTSTICKER, Pork with Vegetable Dumpling, Pre-Steamed, KEEP FROZEN.\" Boxes may bear the establishment number \"EST. 40079\" inside the "], "quantity_recovered": 3026, "quantity_unit": "pounds", "states": ["Nevada"]}
+{
+  "id": "020-2010",
+  "title": "Nevada Firm Recalls Assorted Asian-Style Products Produced Without Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/nevada-firm-recalls-assorted-asian-style-products-produced-without-inspection",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2010-03-13",
+  "end_date": "2012-06-03",
+  "summary": "WASHINGTON, March 13, 2010 - CaiE Foods Limited, a Sparks, Nev., establishment, is recalling approximately 12,382 pounds of assorted Asian-style meat and poultry products, including steamed buns and oriental-style dumplings, because they were produced without the benefit of federal inspection, the U.S. Department of Agriculture's...\n",
+  "establishment": {
+    "id": "M40079+P40079+V40079",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/caie-foods-partnership-ltd",
+    "slug": "caie-foods-partnership-ltd",
+    "name": "CAIE Foods Partnership, LTD",
+    "address": "1802-A Brierley Way \n  Sparks, NV 89434",
+    "telephone": "(775) 356-8838",
+    "grant_date": "2022-01-28",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing",
+      "Voluntary Processing - Meat"
+    ]
+  },
+  "impacted_products": [
+    "Various size boxes of \"CaiE Foods, ORIENTAL STYLE DUMPLING, Chicken with Vegetable, KEEP FROZEN.\" Boxes may bear the establishment number \"P-40079\" inside the USDA mark of inspection.",
+    "Various size boxes of \"CaiE Foods, ORIENTAL STYLE DUMPLING, Pork with Vegetable, KEEP FROZEN,\" which may also be labeled \"POTSTICKER, Pork with Vegetable Dumpling, Pre-Steamed, KEEP FROZEN.\" Boxes may bear the establishment number \"EST. 40079\" inside the "
+  ],
+  "quantity_recovered": 3026,
+  "quantity_unit": "pounds",
+  "states": [
+    "Nevada"
+  ]
+}

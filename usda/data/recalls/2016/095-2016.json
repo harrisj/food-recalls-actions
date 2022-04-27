@@ -1,1 +1,18 @@
-{"id": "095-2016", "title": "National Meat and Provisions Recalls Beef and Veal Products Due To Possible E. Coli O26 Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/national-meat-and-provisions-recalls-beef-and-veal-products-due-possible-e.-coli-o26", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2016-10-14", "end_date": "2017-02-23", "summary": "WASHINGTON, Oct. 14, 2016 National Meat and Provisions, a Reserve, La. establishment, is recalling approximately 2,349 pounds of beef and veal products that may be contaminated with E. coli O26, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today.The raw non-intact...", "establishment": null, "impacted_products": [], "quantity_recovered": 395, "quantity_unit": "pounds", "states": ["Louisiana"]}
+{
+  "id": "095-2016",
+  "title": "National Meat and Provisions Recalls Beef and Veal Products Due To Possible E. Coli O26 Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/national-meat-and-provisions-recalls-beef-and-veal-products-due-possible-e.-coli-o26",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2016-10-14",
+  "end_date": "2017-02-23",
+  "summary": "WASHINGTON, Oct. 14, 2016 National Meat and Provisions, a Reserve, La. establishment, is recalling approximately 2,349 pounds of beef and veal products that may be contaminated with E. coli O26, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today.The raw non-intact...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 395,
+  "quantity_unit": "pounds",
+  "states": [
+    "Louisiana"
+  ]
+}

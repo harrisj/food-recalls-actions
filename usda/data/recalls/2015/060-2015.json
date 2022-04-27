@@ -1,1 +1,28 @@
-{"id": "060-2015", "title": "Leader Slaughterhouse, LLC Recalls Veal Carcasses Produced Without Full Benefit of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/leader-slaughterhouse-llc-recalls-veal-carcasses-produced-without-full-benefit", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2015-04-13", "end_date": "2016-06-08", "summary": "WASHINGTON, April 13, 2015 Leader Slaughterhouse, LLC, an Imler, Penn., establishment, is recalling approximately 1,800 pounds of veal carcasses that were produced without the full benefit of federal inspection and outside inspection hours, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced...", "establishment": {"id": "M45081", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/leader-slaughterhouse-llc", "slug": "leader-slaughterhouse-llc", "name": "Leader Slaughterhouse, LLC", "address": "1877 N. Imler Valley Road \n  Imler, PA 16655", "telephone": "(814) 239-0182", "grant_date": "2019-04-24", "activities": ["Meat Processing", "Meat Slaughter"]}, "impacted_products": [], "quantity_recovered": 191, "quantity_unit": "pounds", "states": null}
+{
+  "id": "060-2015",
+  "title": "Leader Slaughterhouse, LLC Recalls Veal Carcasses Produced Without Full Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/leader-slaughterhouse-llc-recalls-veal-carcasses-produced-without-full-benefit",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2015-04-13",
+  "end_date": "2016-06-08",
+  "summary": "WASHINGTON, April 13, 2015 Leader Slaughterhouse, LLC, an Imler, Penn., establishment, is recalling approximately 1,800 pounds of veal carcasses that were produced without the full benefit of federal inspection and outside inspection hours, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced...",
+  "establishment": {
+    "id": "M45081",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/leader-slaughterhouse-llc",
+    "slug": "leader-slaughterhouse-llc",
+    "name": "Leader Slaughterhouse, LLC",
+    "address": "1877 N. Imler Valley Road \n  Imler, PA 16655",
+    "telephone": "(814) 239-0182",
+    "grant_date": "2019-04-24",
+    "activities": [
+      "Meat Processing",
+      "Meat Slaughter"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 191,
+  "quantity_unit": "pounds",
+  "states": null
+}

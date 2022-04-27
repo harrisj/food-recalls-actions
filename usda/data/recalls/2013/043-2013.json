@@ -1,1 +1,33 @@
-{"id": "043-2013", "title": "Kansas Firm Recalls Ground Beef Products Due To Possible E. coli O157:H7 Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/kansas-firm-recalls-ground-beef-products-due-possible-e.-coli-o157h7-contamination", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2013-07-31", "end_date": "2015-03-24", "summary": "WASHINGTON, July 31, 2013 National Beef Packing Company, a Liberal, Kan., firm, is recalling approximately 50,100 pounds of ground beef products that may be contaminated with E. coli O157:H7, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The following products...\n", "establishment": {"id": "M208A", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/national-beef-packing-co-llc", "slug": "national-beef-packing-co-llc", "name": "National Beef Packing Co., L.L.C.", "address": "1501 East 8th Street \n  Liberal, KS 67905", "telephone": "(620) 624-1851", "grant_date": "2020-01-13", "activities": ["Meat Processing", "Meat Slaughter"]}, "impacted_products": ["10 lb. chub of \u201cNational Beef\u201d 93/ 7 Fine Ground Beef, Product Code 0707", "10 lb. chub of \u201cNatureSource\u201d 80/20 Fine Ground Chuck, Product Code 7031"], "quantity_recovered": 49136, "quantity_unit": "pounds", "states": null}
+{
+  "id": "043-2013",
+  "title": "Kansas Firm Recalls Ground Beef Products Due To Possible E. coli O157:H7 Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/kansas-firm-recalls-ground-beef-products-due-possible-e.-coli-o157h7-contamination",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2013-07-31",
+  "end_date": "2015-03-24",
+  "summary": "WASHINGTON, July 31, 2013 National Beef Packing Company, a Liberal, Kan., firm, is recalling approximately 50,100 pounds of ground beef products that may be contaminated with E. coli O157:H7, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The following products...\n",
+  "establishment": {
+    "id": "M208A",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/national-beef-packing-co-llc",
+    "slug": "national-beef-packing-co-llc",
+    "name": "National Beef Packing Co., L.L.C.",
+    "address": "1501 East 8th Street \n  Liberal, KS 67905",
+    "telephone": "(620) 624-1851",
+    "grant_date": "2020-01-13",
+    "activities": [
+      "Meat Processing",
+      "Meat Slaughter"
+    ]
+  },
+  "impacted_products": [
+    "10 lb. chub of \u201cNational Beef\u201d 93/ 7 Fine Ground Beef, Product Code 0707",
+    "10 lb. chub of \u201cNatureSource\u201d 80/20 Fine Ground Chuck, Product Code 7031"
+  ],
+  "quantity_recovered": 49136,
+  "quantity_unit": "pounds",
+  "states": null
+}

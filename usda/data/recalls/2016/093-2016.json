@@ -1,1 +1,19 @@
-{"id": "093-2016", "title": "Kraft Heinz Recalls Ready-To-Eat Lunchables Ham and American Cracker Stackers Product Due to Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/kraft-heinz-recalls-ready-eat-lunchables-ham-and-american-cracker-stackers-product", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2016-10-09", "end_date": "2017-03-08", "summary": "WASHINGTON, Oct. 9, 2016 Kraft Heinz Company, a Fullerton, Calif. establishment, is recalling approximately 959 pounds of ready-to-eat Lunchables Ham and American Cracker Stackers packaged lunch products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced...", "establishment": null, "impacted_products": [], "quantity_recovered": 1917, "quantity_unit": "pounds", "states": ["California", "Utah"]}
+{
+  "id": "093-2016",
+  "title": "Kraft Heinz Recalls Ready-To-Eat Lunchables Ham and American Cracker Stackers Product Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/kraft-heinz-recalls-ready-eat-lunchables-ham-and-american-cracker-stackers-product",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2016-10-09",
+  "end_date": "2017-03-08",
+  "summary": "WASHINGTON, Oct. 9, 2016 Kraft Heinz Company, a Fullerton, Calif. establishment, is recalling approximately 959 pounds of ready-to-eat Lunchables Ham and American Cracker Stackers packaged lunch products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 1917,
+  "quantity_unit": "pounds",
+  "states": [
+    "California",
+    "Utah"
+  ]
+}

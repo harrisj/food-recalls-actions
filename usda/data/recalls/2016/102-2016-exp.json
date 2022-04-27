@@ -1,1 +1,19 @@
-{"id": "102-2016 EXP", "title": "Flavor Trade, LLC. Recalls Beef Products Produced Without Benefit of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/flavor-trade-llc.-recalls-beef-products-produced-without-benefit-inspection", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2016-11-09", "end_date": "2016-12-13", "summary": "Editors Note: This release is being reissued as an expansion of the Nov. 3, 2016 recall to include additional products and production dates. The original recall included 113 pounds of product. This expansion includes an additional 628 pounds of product. Details of this release were...", "establishment": null, "impacted_products": [], "quantity_recovered": 0, "quantity_unit": "pounds", "states": ["Kansas", "Missouri"]}
+{
+  "id": "102-2016 EXP",
+  "title": "Flavor Trade, LLC. Recalls Beef Products Produced Without Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/flavor-trade-llc.-recalls-beef-products-produced-without-benefit-inspection",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2016-11-09",
+  "end_date": "2016-12-13",
+  "summary": "Editors Note: This release is being reissued as an expansion of the Nov. 3, 2016 recall to include additional products and production dates. The original recall included 113 pounds of product. This expansion includes an additional 628 pounds of product. Details of this release were...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": [
+    "Kansas",
+    "Missouri"
+  ]
+}

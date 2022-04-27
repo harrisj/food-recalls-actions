@@ -1,1 +1,33 @@
-{"id": "095-2018", "title": "Taylor Farms Northwest LLC Recalls Pork Carnitas Bowl Products due to Possible Salmonella and Listeria monocytogenes Contamination In Tomatillos", "url": "https://www.fsis.usda.gov/recalls-alerts/taylor-farms-northwest-llc-recalls-pork-carnitas-bowl-products-due-possible", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2018-10-17", "end_date": "2018-12-07", "summary": "WASHINGTON, Oct. 17, 2018 Taylor Farms Northwest LLC, a Kent, Wash. establishment, is recalling approximately 276 pounds of ready-to-eat (RTE) pork carnitas bowl products that contain tomatillos that may be adulterated with Salmonella and Listeria monocytogenes, the U.S. Department of Agricultures Food Safety and Inspection...", "establishment": {"id": "M34834+P34834", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/taylor-farms-northwest-llc", "slug": "taylor-farms-northwest-llc", "name": "Taylor Farms Northwest LLC", "address": "8030 S 228th Street \n  Kent, WA 98032", "telephone": "(206) 764-4499", "grant_date": "2015-09-24", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": 0, "quantity_unit": "pounds", "states": ["Oregon", "Washington"]}
+{
+  "id": "095-2018",
+  "title": "Taylor Farms Northwest LLC Recalls Pork Carnitas Bowl Products due to Possible Salmonella and Listeria monocytogenes Contamination In Tomatillos",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/taylor-farms-northwest-llc-recalls-pork-carnitas-bowl-products-due-possible",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2018-10-17",
+  "end_date": "2018-12-07",
+  "summary": "WASHINGTON, Oct. 17, 2018 Taylor Farms Northwest LLC, a Kent, Wash. establishment, is recalling approximately 276 pounds of ready-to-eat (RTE) pork carnitas bowl products that contain tomatillos that may be adulterated with Salmonella and Listeria monocytogenes, the U.S. Department of Agricultures Food Safety and Inspection...",
+  "establishment": {
+    "id": "M34834+P34834",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/taylor-farms-northwest-llc",
+    "slug": "taylor-farms-northwest-llc",
+    "name": "Taylor Farms Northwest LLC",
+    "address": "8030 S 228th Street \n  Kent, WA 98032",
+    "telephone": "(206) 764-4499",
+    "grant_date": "2015-09-24",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": [
+    "Oregon",
+    "Washington"
+  ]
+}

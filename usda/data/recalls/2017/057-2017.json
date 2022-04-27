@@ -1,1 +1,34 @@
-{"id": "057-2017", "title": "Readfield Meats, Inc. Recalls Beef Trimming Products Due to Possible Adulteration", "url": "https://www.fsis.usda.gov/recalls-alerts/readfield-meats-inc.-recalls-beef-trimming-products-due-possible-adulteration", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "Low", "start_date": "2017-05-27", "end_date": "2017-10-27", "summary": "WASHINGTON, May 27, 2017 Readfield Meats, Inc., doing business as Ruffino Meats & Food Service, a Bryan, Texas establishment, is recalling approximately 45,985 pounds of beef trimming products due to possible adulteration, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today...\n", "establishment": {"id": "M13126+P13126", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/readfield-meats-inc", "slug": "readfield-meats-inc", "name": "Readfield Meats, Inc.", "address": "2130 East William Joel Bryan Parkway \n  Bryan, TX 77802", "telephone": "(979) 776-5685", "grant_date": "2017-06-30", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["50-lb. boxes containing \u201cBEEF TRIMMINGS FOR COOKING ONLY.\u201d"], "quantity_recovered": 600, "quantity_unit": "pounds", "states": ["Texas"]}
+{
+  "id": "057-2017",
+  "title": "Readfield Meats, Inc. Recalls Beef Trimming Products Due to Possible Adulteration",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/readfield-meats-inc.-recalls-beef-trimming-products-due-possible-adulteration",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2017-05-27",
+  "end_date": "2017-10-27",
+  "summary": "WASHINGTON, May 27, 2017 Readfield Meats, Inc., doing business as Ruffino Meats & Food Service, a Bryan, Texas establishment, is recalling approximately 45,985 pounds of beef trimming products due to possible adulteration, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today...\n",
+  "establishment": {
+    "id": "M13126+P13126",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/readfield-meats-inc",
+    "slug": "readfield-meats-inc",
+    "name": "Readfield Meats, Inc.",
+    "address": "2130 East William Joel Bryan Parkway \n  Bryan, TX 77802",
+    "telephone": "(979) 776-5685",
+    "grant_date": "2017-06-30",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "50-lb. boxes containing \u201cBEEF TRIMMINGS FOR COOKING ONLY.\u201d"
+  ],
+  "quantity_recovered": 600,
+  "quantity_unit": "pounds",
+  "states": [
+    "Texas"
+  ]
+}

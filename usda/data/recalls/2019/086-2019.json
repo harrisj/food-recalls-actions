@@ -1,1 +1,38 @@
-{"id": "086-2019", "title": "Olympia Meats Recalls Ready-To-Eat Pork Sausage Products due to Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/olympia-meats-recalls-ready-eat-pork-sausage-products-due-misbranding-and-undeclared", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2019-08-24", "end_date": "2019-09-23", "summary": "WASHINGTON, August 24, 2019 Olympia Meats, a Portland, Ore., establishment is recalling approximately 198 pounds of ready-to-eat (RTE) pork sausage products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product contains pistachios (tree...\n", "establishment": {"id": "M39928+P39930+V39928", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/olympia-meats", "slug": "olympia-meats", "name": "Olympia Meats", "address": "123 SE 2nd Ave. \n  Portland, OR 97214", "telephone": "(503) 894-8275", "grant_date": "2017-01-11", "activities": ["Meat Processing", "Poultry Processing", "Voluntary Processing - Meat"]}, "impacted_products": ["Varying weights of vacuum packed OLYMPIA PROVISIONS MORTADELLA CLASSICA WITH GARLIC AND SPICES with a best by date of l2-30-2019."], "quantity_recovered": 93, "quantity_unit": "pounds", "states": ["California", "Oregon", "Washington"]}
+{
+  "id": "086-2019",
+  "title": "Olympia Meats Recalls Ready-To-Eat Pork Sausage Products due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/olympia-meats-recalls-ready-eat-pork-sausage-products-due-misbranding-and-undeclared",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2019-08-24",
+  "end_date": "2019-09-23",
+  "summary": "WASHINGTON, August 24, 2019 Olympia Meats, a Portland, Ore., establishment is recalling approximately 198 pounds of ready-to-eat (RTE) pork sausage products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product contains pistachios (tree...\n",
+  "establishment": {
+    "id": "M39928+P39930+V39928",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/olympia-meats",
+    "slug": "olympia-meats",
+    "name": "Olympia Meats",
+    "address": "123 SE 2nd Ave. \n  Portland, OR 97214",
+    "telephone": "(503) 894-8275",
+    "grant_date": "2017-01-11",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing",
+      "Voluntary Processing - Meat"
+    ]
+  },
+  "impacted_products": [
+    "Varying weights of vacuum packed OLYMPIA PROVISIONS MORTADELLA CLASSICA WITH GARLIC AND SPICES with a best by date of l2-30-2019."
+  ],
+  "quantity_recovered": 93,
+  "quantity_unit": "pounds",
+  "states": [
+    "California",
+    "Oregon",
+    "Washington"
+  ]
+}

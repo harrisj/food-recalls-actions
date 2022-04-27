@@ -1,1 +1,37 @@
-{"id": "086-2017", "title": "JBS USA Inc. Recalls Beef Products Due To Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/jbs-usa-inc.-recalls-beef-products-due-possible-foreign-matter-contamination", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "Marginal", "start_date": "2017-08-01", "end_date": "2017-09-18", "summary": "WASHINGTON, August 1, 2017 JBS USA, Inc., a Lenoir, N.C. establishment, is recalling approximately 4,922 pounds of ground beef products that may be contaminated with extraneous materials, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The ground chuck beef items...\n", "establishment": {"id": "M34092+V34092", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/plumrose-usa-inc-division-jbs-usa-food-co", "slug": "plumrose-usa-inc-division-jbs-usa-food-co", "name": "Plumrose USA, INC.  a division of JBS USA FOOD CO.", "address": "125 Coley Road \n  Tupelo, MS 38801", "telephone": "(662) 840-6831", "grant_date": "2017-05-15", "activities": ["Certification - Export", "Certification - Trichinae", "Identification - Meat", "Identification - Poultry", "Meat Processing"]}, "impacted_products": ["2-lb. black Styrofoam plastic wrapped trays containing ground beef labeled \u201cCERTIFIED ANGUS BEEF GROUND CHUCK 80% LEAN 20% FAT\u201d with a production date 7/15/17 and case code 541640."], "quantity_recovered": 412, "quantity_unit": "pounds", "states": ["North Carolina"]}
+{
+  "id": "086-2017",
+  "title": "JBS USA Inc. Recalls Beef Products Due To Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/jbs-usa-inc.-recalls-beef-products-due-possible-foreign-matter-contamination",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "Marginal",
+  "start_date": "2017-08-01",
+  "end_date": "2017-09-18",
+  "summary": "WASHINGTON, August 1, 2017 JBS USA, Inc., a Lenoir, N.C. establishment, is recalling approximately 4,922 pounds of ground beef products that may be contaminated with extraneous materials, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The ground chuck beef items...\n",
+  "establishment": {
+    "id": "M34092+V34092",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/plumrose-usa-inc-division-jbs-usa-food-co",
+    "slug": "plumrose-usa-inc-division-jbs-usa-food-co",
+    "name": "Plumrose USA, INC.  a division of JBS USA FOOD CO.",
+    "address": "125 Coley Road \n  Tupelo, MS 38801",
+    "telephone": "(662) 840-6831",
+    "grant_date": "2017-05-15",
+    "activities": [
+      "Certification - Export",
+      "Certification - Trichinae",
+      "Identification - Meat",
+      "Identification - Poultry",
+      "Meat Processing"
+    ]
+  },
+  "impacted_products": [
+    "2-lb. black Styrofoam plastic wrapped trays containing ground beef labeled \u201cCERTIFIED ANGUS BEEF GROUND CHUCK 80% LEAN 20% FAT\u201d with a production date 7/15/17 and case code 541640."
+  ],
+  "quantity_recovered": 412,
+  "quantity_unit": "pounds",
+  "states": [
+    "North Carolina"
+  ]
+}

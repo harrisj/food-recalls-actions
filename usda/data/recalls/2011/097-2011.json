@@ -1,1 +1,22 @@
-{"id": "097-2011", "title": "North Carolina Firm Recalls Oven Roasted Chicken Breast For Possible Listeria Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/north-carolina-firm-recalls-oven-roasted-chicken-breast-possible-listeria", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2011-12-09", "end_date": "2012-06-03", "summary": "WASHINGTON, Dec. 9, 2011 - House of Raeford Farms, a Raeford, N.C. establishment, is recalling approximately 4,140 pounds of cooked chicken breasts that may be contaminated with Listeria monocytogenes, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The products subject...\n", "establishment": null, "impacted_products": ["18 to 22-lb boxes containing two 9 to 11-lb. \"BONELESS OVEN ROASTED CHICKEN BREAST\""], "quantity_recovered": 547, "quantity_unit": "pounds", "states": ["Florida"]}
+{
+  "id": "097-2011",
+  "title": "North Carolina Firm Recalls Oven Roasted Chicken Breast For Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/north-carolina-firm-recalls-oven-roasted-chicken-breast-possible-listeria",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2011-12-09",
+  "end_date": "2012-06-03",
+  "summary": "WASHINGTON, Dec. 9, 2011 - House of Raeford Farms, a Raeford, N.C. establishment, is recalling approximately 4,140 pounds of cooked chicken breasts that may be contaminated with Listeria monocytogenes, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The products subject...\n",
+  "establishment": null,
+  "impacted_products": [
+    "18 to 22-lb boxes containing two 9 to 11-lb. \"BONELESS OVEN ROASTED CHICKEN BREAST\""
+  ],
+  "quantity_recovered": 547,
+  "quantity_unit": "pounds",
+  "states": [
+    "Florida"
+  ]
+}

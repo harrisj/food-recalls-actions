@@ -1,1 +1,33 @@
-{"id": "pha-12182021-02", "title": "FSIS Issues Public Health Alert for Frozen Wonton Soup Products Due to Undeclared Allergens and Misbranding ", "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-frozen-wonton-soup-products-due-undeclared-allergens", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Active", "risk_level": null, "start_date": "2021-12-18", "end_date": null, "summary": "WASHINGTON, Dec. 18, 2021 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for frozen chicken and vegetable wonton soup products due to undeclared allergens and misbranding. The product may contain shrimp, a known allergen, and...", "establishment": {"id": "M18823+P18823", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/fortune-avenue-foods-inc", "slug": "fortune-avenue-foods-inc", "name": "Fortune Avenue Foods, Inc.", "address": "2117 South Pointe Ave. \n  Ontario, CA 91761", "telephone": "(909) 930-5989", "grant_date": "2015-08-07", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["10.75-oz. containers labeled as \u201cTRADER MING\u2019S CHICKEN & VEGTABLE Wonton Soup\u201d with lot code 31FA322 located on the side of the packaging. "], "quantity_recovered": null, "quantity_unit": null, "states": null}
+{
+  "id": "pha-12182021-02",
+  "title": "FSIS Issues Public Health Alert for Frozen Wonton Soup Products Due to Undeclared Allergens and Misbranding ",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-frozen-wonton-soup-products-due-undeclared-allergens",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2021-12-18",
+  "end_date": null,
+  "summary": "WASHINGTON, Dec. 18, 2021 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for frozen chicken and vegetable wonton soup products due to undeclared allergens and misbranding. The product may contain shrimp, a known allergen, and...",
+  "establishment": {
+    "id": "M18823+P18823",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/fortune-avenue-foods-inc",
+    "slug": "fortune-avenue-foods-inc",
+    "name": "Fortune Avenue Foods, Inc.",
+    "address": "2117 South Pointe Ave. \n  Ontario, CA 91761",
+    "telephone": "(909) 930-5989",
+    "grant_date": "2015-08-07",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "10.75-oz. containers labeled as \u201cTRADER MING\u2019S CHICKEN & VEGTABLE Wonton Soup\u201d with lot code 31FA322 located on the side of the packaging. "
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}

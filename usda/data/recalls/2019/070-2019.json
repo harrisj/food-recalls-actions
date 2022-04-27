@@ -1,1 +1,26 @@
-{"id": "070-2019", "title": "C&S Wholesale Grocers Recalls Meat and Poultry Products due to Possible Temperature Abuse During Transport at Two Stores in New York", "url": "https://www.fsis.usda.gov/recalls-alerts/cs-wholesale-grocers-recalls-meat-and-poultry-products-due-possible-temperature", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2019-06-20", "end_date": "2019-07-15", "summary": "WASHINGTON, June 20, 2019 C&S Wholesale Grocers, located in Westfield, Mass. is recalling an undetermined amount of ready-to-eat and not-ready-to-eat meat and poultry products due to temperature abuse during transport, which may have resulted in the growth of spoilage organisms or pathogens, the U.S. Department...\n", "establishment": null, "impacted_products": ["COLUMBUS GENOA SALAME PANINO - 3.9OZ", "OSCAR MAYER FULLY COOKED BACON - 2.52OZ", "ULTRA THIN BLACK FOREST HAM - 16OZ - MARKET PANTRY ", "ULTRA THIN BLACK FOREST HAM - 9OZ - MARKET PANTRY", "OVEN-ROASTED TURKEY BREAST - 9OZ - MARKET PANTRY"], "quantity_recovered": 1200, "quantity_unit": "pounds", "states": ["New York"]}
+{
+  "id": "070-2019",
+  "title": "C&S Wholesale Grocers Recalls Meat and Poultry Products due to Possible Temperature Abuse During Transport at Two Stores in New York",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/cs-wholesale-grocers-recalls-meat-and-poultry-products-due-possible-temperature",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2019-06-20",
+  "end_date": "2019-07-15",
+  "summary": "WASHINGTON, June 20, 2019 C&S Wholesale Grocers, located in Westfield, Mass. is recalling an undetermined amount of ready-to-eat and not-ready-to-eat meat and poultry products due to temperature abuse during transport, which may have resulted in the growth of spoilage organisms or pathogens, the U.S. Department...\n",
+  "establishment": null,
+  "impacted_products": [
+    "COLUMBUS GENOA SALAME PANINO - 3.9OZ",
+    "OSCAR MAYER FULLY COOKED BACON - 2.52OZ",
+    "ULTRA THIN BLACK FOREST HAM - 16OZ - MARKET PANTRY ",
+    "ULTRA THIN BLACK FOREST HAM - 9OZ - MARKET PANTRY",
+    "OVEN-ROASTED TURKEY BREAST - 9OZ - MARKET PANTRY"
+  ],
+  "quantity_recovered": 1200,
+  "quantity_unit": "pounds",
+  "states": [
+    "New York"
+  ]
+}

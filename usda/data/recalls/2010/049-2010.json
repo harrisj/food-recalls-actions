@@ -1,1 +1,21 @@
-{"id": "049-2010", "title": "New York Firm Recalls Deli Meat Products for Possible Listeria Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/new-york-firm-recalls-deli-meat-products-possible-listeria-contamination", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2010-08-23", "end_date": "2012-06-04", "summary": "WASHINGTON, August 23, 2010 - Zemco Industries, a Buffalo, N.Y., establishment, is recalling approximately 380,000 pounds of deli meat products that may be contaminated with Listeria monocytogenes, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. These products were distributed to...\n", "establishment": null, "impacted_products": ["25.5-pound cases of \"Marketside Grab and Go Sandwiches BLACK FOREST HAM With Natural Juices Coated with Caramel Color\" with the number 17800 1300.", "28.49-pound cases of \"Marketside Grab and Go Sandwiches HOT HAM, HARD SALAMI, PEPPERONI, SANDWICH PEPPERS\" with the number 17803 1300."], "quantity_recovered": 168249, "quantity_unit": "pounds", "states": null}
+{
+  "id": "049-2010",
+  "title": "New York Firm Recalls Deli Meat Products for Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/new-york-firm-recalls-deli-meat-products-possible-listeria-contamination",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2010-08-23",
+  "end_date": "2012-06-04",
+  "summary": "WASHINGTON, August 23, 2010 - Zemco Industries, a Buffalo, N.Y., establishment, is recalling approximately 380,000 pounds of deli meat products that may be contaminated with Listeria monocytogenes, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. These products were distributed to...\n",
+  "establishment": null,
+  "impacted_products": [
+    "25.5-pound cases of \"Marketside Grab and Go Sandwiches BLACK FOREST HAM With Natural Juices Coated with Caramel Color\" with the number 17800 1300.",
+    "28.49-pound cases of \"Marketside Grab and Go Sandwiches HOT HAM, HARD SALAMI, PEPPERONI, SANDWICH PEPPERS\" with the number 17803 1300."
+  ],
+  "quantity_recovered": 168249,
+  "quantity_unit": "pounds",
+  "states": null
+}

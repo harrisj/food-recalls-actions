@@ -1,1 +1,34 @@
-{"id": "010-2019", "title": "Pilgrim's Pride Corporation Recalls Breaded Popcorn Chicken Products Due To Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/pilgrims-pride-corporation-recalls-breaded-popcorn-chicken-products-due-possible", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2019-02-01", "end_date": "2019-05-06", "summary": "WASHINGTON, Feb. 1, 2019 Pilgrims Pride Corporation, a Mt. Pleasant, Texas establishment, is recalling approximately 58,020 pounds of not-ready-to-eat (NRTE) breaded chicken products that may be contaminated with extraneous materials, specifically rubber, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today...\n", "establishment": {"id": "M7091A+P7091A", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/pilgrims-pride-corporation-0", "slug": "pilgrims-pride-corporation-0", "name": "Pilgrim's Pride Corporation", "address": "1000 Pilgrim&#039;s Street \n  Mount Pleasant, TX 75455", "telephone": "(903) 575-3600", "grant_date": "2022-02-22", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["20-lb. boxes containing 8 clear bags of \u201cUNCOOKED POPCORN STYLE CHICKEN BREAST CHUNK FRITTERS WITH RIB MEAT\u201d with a \u201cUSE BY 10 01 2019\u201d date and lot codes of 9004101012, 9004101013, 9004101014, 9004101015, 9004101016, 9004101017, 9004101018, 9004101019, 9"], "quantity_recovered": 97420, "quantity_unit": "pounds", "states": ["Florida"]}
+{
+  "id": "010-2019",
+  "title": "Pilgrim's Pride Corporation Recalls Breaded Popcorn Chicken Products Due To Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/pilgrims-pride-corporation-recalls-breaded-popcorn-chicken-products-due-possible",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2019-02-01",
+  "end_date": "2019-05-06",
+  "summary": "WASHINGTON, Feb. 1, 2019 Pilgrims Pride Corporation, a Mt. Pleasant, Texas establishment, is recalling approximately 58,020 pounds of not-ready-to-eat (NRTE) breaded chicken products that may be contaminated with extraneous materials, specifically rubber, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today...\n",
+  "establishment": {
+    "id": "M7091A+P7091A",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/pilgrims-pride-corporation-0",
+    "slug": "pilgrims-pride-corporation-0",
+    "name": "Pilgrim's Pride Corporation",
+    "address": "1000 Pilgrim&#039;s Street \n  Mount Pleasant, TX 75455",
+    "telephone": "(903) 575-3600",
+    "grant_date": "2022-02-22",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "20-lb. boxes containing 8 clear bags of \u201cUNCOOKED POPCORN STYLE CHICKEN BREAST CHUNK FRITTERS WITH RIB MEAT\u201d with a \u201cUSE BY 10 01 2019\u201d date and lot codes of 9004101012, 9004101013, 9004101014, 9004101015, 9004101016, 9004101017, 9004101018, 9004101019, 9"
+  ],
+  "quantity_recovered": 97420,
+  "quantity_unit": "pounds",
+  "states": [
+    "Florida"
+  ]
+}

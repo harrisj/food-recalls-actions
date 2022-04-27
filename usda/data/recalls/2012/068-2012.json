@@ -1,1 +1,36 @@
-{"id": "068-2012", "title": "Utah Firm Recalls Ground Beef Products Due To Possible E. Coli O157:H7 Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/utah-firm-recalls-ground-beef-products-due-possible-e.-coli-o157h7-contamination", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2012-10-22", "end_date": "2013-05-29", "summary": "WASHINGTON, October 22, 2012 - Main Street Quality Meats, a Salt Lake City, Utah establishment, is recalling approximately 2,310 pounds of ground beef products that may be contaminated with E. coli O157:H7, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today...\n", "establishment": {"id": "M19916+P8117+V19916", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/salt-lake-fine-foods", "slug": "salt-lake-fine-foods", "name": "Salt Lake Fine Foods", "address": "2685 South Main \n  Salt Lake City, UT 84115", "telephone": "(801) 484-5295", "grant_date": "2017-08-22", "activities": ["Meat Processing", "Poultry Processing", "Voluntary Processing - Meat"]}, "impacted_products": ["10-lb cases of \"GROUND BEEF BULK.\"", "12-lb cases of \"GROUND BEEF PATTIES.\""], "quantity_recovered": 289, "quantity_unit": "pounds", "states": ["Utah"]}
+{
+  "id": "068-2012",
+  "title": "Utah Firm Recalls Ground Beef Products Due To Possible E. Coli O157:H7 Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/utah-firm-recalls-ground-beef-products-due-possible-e.-coli-o157h7-contamination",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2012-10-22",
+  "end_date": "2013-05-29",
+  "summary": "WASHINGTON, October 22, 2012 - Main Street Quality Meats, a Salt Lake City, Utah establishment, is recalling approximately 2,310 pounds of ground beef products that may be contaminated with E. coli O157:H7, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today...\n",
+  "establishment": {
+    "id": "M19916+P8117+V19916",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/salt-lake-fine-foods",
+    "slug": "salt-lake-fine-foods",
+    "name": "Salt Lake Fine Foods",
+    "address": "2685 South Main \n  Salt Lake City, UT 84115",
+    "telephone": "(801) 484-5295",
+    "grant_date": "2017-08-22",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing",
+      "Voluntary Processing - Meat"
+    ]
+  },
+  "impacted_products": [
+    "10-lb cases of \"GROUND BEEF BULK.\"",
+    "12-lb cases of \"GROUND BEEF PATTIES.\""
+  ],
+  "quantity_recovered": 289,
+  "quantity_unit": "pounds",
+  "states": [
+    "Utah"
+  ]
+}

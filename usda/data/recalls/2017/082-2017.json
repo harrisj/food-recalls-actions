@@ -1,1 +1,31 @@
-{"id": "082-2017", "title": "Marathon Enterprises Inc. Recalls Hot Dog Products Due to Possible Extranous Material Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/marathon-enterprises-inc.-recalls-hot-dog-products-due-possible-extranous-material", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2017-07-15", "end_date": "2017-11-09", "summary": "WASHINGTON, July 15, 2017 Marathon Enterprises Inc., a Bronx, N.Y. establishment, is recalling approximately 7,196,084 pounds of hot dog products that may be contaminated with extraneous materials, specifically bone fragments, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The beef...\n", "establishment": {"id": "M8854", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/marathon-enterprises-inc", "slug": "marathon-enterprises-inc", "name": "Marathon Enterprises Inc.", "address": "787 East 138th Street \n  Bronx, NY 10454", "telephone": "(201) 935-3330", "grant_date": "2019-10-22", "activities": ["Meat Processing"]}, "impacted_products": ["Hot Dog Products"], "quantity_recovered": 1142000, "quantity_unit": "pounds", "states": null}
+{
+  "id": "082-2017",
+  "title": "Marathon Enterprises Inc. Recalls Hot Dog Products Due to Possible Extranous Material Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/marathon-enterprises-inc.-recalls-hot-dog-products-due-possible-extranous-material",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2017-07-15",
+  "end_date": "2017-11-09",
+  "summary": "WASHINGTON, July 15, 2017 Marathon Enterprises Inc., a Bronx, N.Y. establishment, is recalling approximately 7,196,084 pounds of hot dog products that may be contaminated with extraneous materials, specifically bone fragments, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The beef...\n",
+  "establishment": {
+    "id": "M8854",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/marathon-enterprises-inc",
+    "slug": "marathon-enterprises-inc",
+    "name": "Marathon Enterprises Inc.",
+    "address": "787 East 138th Street \n  Bronx, NY 10454",
+    "telephone": "(201) 935-3330",
+    "grant_date": "2019-10-22",
+    "activities": [
+      "Meat Processing"
+    ]
+  },
+  "impacted_products": [
+    "Hot Dog Products"
+  ],
+  "quantity_recovered": 1142000,
+  "quantity_unit": "pounds",
+  "states": null
+}

@@ -1,1 +1,37 @@
-{"id": "031-2010", "title": "Illinois Firm Recalls Mini Pretzel Dog Products Due To Lack Of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/illinois-firm-recalls-mini-pretzel-dog-products-due-lack-inspection", "reasons": ["Produced Without Benefit of Inspection"], "status": "Closed", "risk_level": "Low", "start_date": "2010-05-07", "end_date": "2012-06-04", "summary": "Editor's Note, May 11, 2010: The recall release issued May 7, 2010 has been corrected, as it inadvertently stated that \"the retail distribution list(s) will be posted on the FSIS Web site.\" FSIS does not post retail distribution lists for Class II and III recalls...\n", "establishment": {"id": "M1+P1370", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/vienna-beef-ltd", "slug": "vienna-beef-ltd", "name": "Vienna Beef Ltd.", "address": "1000 West Pershing Road \n  Chicago, IL 60609", "telephone": "(312) 278-7800", "grant_date": "2019-02-26", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["16-ounce bags of \"VIENNA Beef Mini Pretzel Dogs.\" Each package bears a sell-by date ranging from February 2, 2010 to July 1, 2010.", "32-ounce bags of \"VIENNA Beef Mini Pretzel Dogs.\" Each package bears a sell-by date ranging from May 31, 2010 to October 24, 2010."], "quantity_recovered": 12821, "quantity_unit": "pounds", "states": ["Illinois", "Minnesota", "Wisconsin"]}
+{
+  "id": "031-2010",
+  "title": "Illinois Firm Recalls Mini Pretzel Dog Products Due To Lack Of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/illinois-firm-recalls-mini-pretzel-dog-products-due-lack-inspection",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2010-05-07",
+  "end_date": "2012-06-04",
+  "summary": "Editor's Note, May 11, 2010: The recall release issued May 7, 2010 has been corrected, as it inadvertently stated that \"the retail distribution list(s) will be posted on the FSIS Web site.\" FSIS does not post retail distribution lists for Class II and III recalls...\n",
+  "establishment": {
+    "id": "M1+P1370",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/vienna-beef-ltd",
+    "slug": "vienna-beef-ltd",
+    "name": "Vienna Beef Ltd.",
+    "address": "1000 West Pershing Road \n  Chicago, IL 60609",
+    "telephone": "(312) 278-7800",
+    "grant_date": "2019-02-26",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "16-ounce bags of \"VIENNA Beef Mini Pretzel Dogs.\" Each package bears a sell-by date ranging from February 2, 2010 to July 1, 2010.",
+    "32-ounce bags of \"VIENNA Beef Mini Pretzel Dogs.\" Each package bears a sell-by date ranging from May 31, 2010 to October 24, 2010."
+  ],
+  "quantity_recovered": 12821,
+  "quantity_unit": "pounds",
+  "states": [
+    "Illinois",
+    "Minnesota",
+    "Wisconsin"
+  ]
+}

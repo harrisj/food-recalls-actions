@@ -1,1 +1,30 @@
-{"id": "085-2019", "title": "Tip Top Poultry, Inc. Recalls Fully Cooked Poultry Products due to Possible Listeria Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/tip-top-poultry-inc.-recalls-fully-cooked-poultry-products-due-possible-listeria", "reasons": ["Product Contamination"], "status": "Active", "risk_level": "High", "start_date": "2019-08-20", "end_date": null, "summary": "WASHINGTON, August 20, 2019 Tip Top Poultry, Inc., a Rockmart, Ga. establishment, is recalling approximately 135,810 pounds of fully cooked poultry products that may be adulterated with Listeria monocytogenes, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The frozen, diced...\n", "establishment": {"id": "M17453+P17453", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/tip-top-poultry-inc-0", "slug": "tip-top-poultry-inc-0", "name": "Tip Top Poultry, Inc.", "address": "479 Nathan Dean Parkway \n  Rockmart, GA 30153", "telephone": "(770) 684-5215", "grant_date": "2021-09-27", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": null, "quantity_unit": null, "states": null}
+{
+  "id": "085-2019",
+  "title": "Tip Top Poultry, Inc. Recalls Fully Cooked Poultry Products due to Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/tip-top-poultry-inc.-recalls-fully-cooked-poultry-products-due-possible-listeria",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2019-08-20",
+  "end_date": null,
+  "summary": "WASHINGTON, August 20, 2019 Tip Top Poultry, Inc., a Rockmart, Ga. establishment, is recalling approximately 135,810 pounds of fully cooked poultry products that may be adulterated with Listeria monocytogenes, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The frozen, diced...\n",
+  "establishment": {
+    "id": "M17453+P17453",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/tip-top-poultry-inc-0",
+    "slug": "tip-top-poultry-inc-0",
+    "name": "Tip Top Poultry, Inc.",
+    "address": "479 Nathan Dean Parkway \n  Rockmart, GA 30153",
+    "telephone": "(770) 684-5215",
+    "grant_date": "2021-09-27",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}

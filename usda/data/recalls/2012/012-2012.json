@@ -1,1 +1,34 @@
-{"id": "012-2012", "title": "Indiana Firm Recalls Ready-To-Eat Pizza Stick Products Produced Without Benefit of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/indiana-firm-recalls-ready-eat-pizza-stick-products-produced-without-benefit", "reasons": ["Produced Without Benefit of Inspection"], "status": "Closed", "risk_level": "Low", "start_date": "2012-03-02", "end_date": "2013-05-27", "summary": "WASHINGTON, March 2, 2012 - Pasou Foods, a Syracuse, Ind. establishment, is recalling approximately 147 pounds of frozen, fully cooked, ready-to-eat pizza stick products because a meat ingredient used in the product may have been produced without the benefit of federal inspection, the U.S. Department...\n", "establishment": {"id": "M1903+P1903", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/pasou-foods-inc", "slug": "pasou-foods-inc", "name": "Pasou Foods, Inc.", "address": "1103 S Huntington St \n  Syracuse, IN 46567", "telephone": "(574) 457-4092", "grant_date": "2009-11-04", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["Boxes containing 100 \"Pizza Stix.\""], "quantity_recovered": 147, "quantity_unit": "pounds", "states": ["Indiana"]}
+{
+  "id": "012-2012",
+  "title": "Indiana Firm Recalls Ready-To-Eat Pizza Stick Products Produced Without Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/indiana-firm-recalls-ready-eat-pizza-stick-products-produced-without-benefit",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2012-03-02",
+  "end_date": "2013-05-27",
+  "summary": "WASHINGTON, March 2, 2012 - Pasou Foods, a Syracuse, Ind. establishment, is recalling approximately 147 pounds of frozen, fully cooked, ready-to-eat pizza stick products because a meat ingredient used in the product may have been produced without the benefit of federal inspection, the U.S. Department...\n",
+  "establishment": {
+    "id": "M1903+P1903",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/pasou-foods-inc",
+    "slug": "pasou-foods-inc",
+    "name": "Pasou Foods, Inc.",
+    "address": "1103 S Huntington St \n  Syracuse, IN 46567",
+    "telephone": "(574) 457-4092",
+    "grant_date": "2009-11-04",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "Boxes containing 100 \"Pizza Stix.\""
+  ],
+  "quantity_recovered": 147,
+  "quantity_unit": "pounds",
+  "states": [
+    "Indiana"
+  ]
+}

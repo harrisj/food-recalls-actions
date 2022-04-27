@@ -1,1 +1,20 @@
-{"id": "011-2015", "title": "New York Firm Recalls Chorizo Products Due to Misbranding and an Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/new-york-firm-recalls-chorizo-products-due-misbranding-and-undeclared-allergen", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2015-01-16", "end_date": "2016-06-08", "summary": "WASHINGTON, Jan. 16, 2015 Buffalo Provisions, a Bronx, N.Y. establishment, is recalling approximately 48,210 pounds of chorizo product due to misbranding and an undeclared allergen, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products may contain peanuts, a known...", "establishment": null, "impacted_products": [], "quantity_recovered": 176, "quantity_unit": "pounds", "states": ["Connecticut", "New Jersey", "New York"]}
+{
+  "id": "011-2015",
+  "title": "New York Firm Recalls Chorizo Products Due to Misbranding and an Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/new-york-firm-recalls-chorizo-products-due-misbranding-and-undeclared-allergen",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2015-01-16",
+  "end_date": "2016-06-08",
+  "summary": "WASHINGTON, Jan. 16, 2015 Buffalo Provisions, a Bronx, N.Y. establishment, is recalling approximately 48,210 pounds of chorizo product due to misbranding and an undeclared allergen, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products may contain peanuts, a known...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 176,
+  "quantity_unit": "pounds",
+  "states": [
+    "Connecticut",
+    "New Jersey",
+    "New York"
+  ]
+}

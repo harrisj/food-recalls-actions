@@ -1,1 +1,16 @@
-{"id": "034-2018", "title": "Pinnacle Foods Inc. Recalls Beef Products Due to Possible Processing Deviation", "url": "https://www.fsis.usda.gov/recalls-alerts/pinnacle-foods-inc.-recalls-beef-products-due-possible-processing-deviation", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2018-04-28", "end_date": "2018-09-28", "summary": "WASHINGTON, April 28, 2018 Pinnacle Foods Inc., a Fort Madison, Iowa establishment, is recalling approximately 32,479 pounds of heat-treated, shelf stable beef products due to a possible processing deviation that may have led to staphylococcal enterotoxin and clostridial toxin contamination, the U.S. Department of Agricultures...", "establishment": null, "impacted_products": [], "quantity_recovered": 4259, "quantity_unit": "pounds", "states": null}
+{
+  "id": "034-2018",
+  "title": "Pinnacle Foods Inc. Recalls Beef Products Due to Possible Processing Deviation",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/pinnacle-foods-inc.-recalls-beef-products-due-possible-processing-deviation",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2018-04-28",
+  "end_date": "2018-09-28",
+  "summary": "WASHINGTON, April 28, 2018 Pinnacle Foods Inc., a Fort Madison, Iowa establishment, is recalling approximately 32,479 pounds of heat-treated, shelf stable beef products due to a possible processing deviation that may have led to staphylococcal enterotoxin and clostridial toxin contamination, the U.S. Department of Agricultures...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 4259,
+  "quantity_unit": "pounds",
+  "states": null
+}

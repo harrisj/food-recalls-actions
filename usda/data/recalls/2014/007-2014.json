@@ -1,1 +1,35 @@
-{"id": "007-2014", "title": "Arkansas Firm Recalls Frozen Chicken Products Due To Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/arkansas-firm-recalls-frozen-chicken-products-due-misbranding-and-undeclared", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "Low", "start_date": "2014-01-27", "end_date": "2016-06-08", "summary": "WASHINGTON, Jan. 27, 2014 George's Inc., a Springdale, Ark. establishment, is recalling approximately 1.25 million pounds of frozen par-fried chicken tender products because of misbranding and an undeclared allergen, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The products are...\n", "establishment": {"id": "P13584+V13584", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/georges-processing-inc-0", "slug": "georges-processing-inc-0", "name": "George's Processing, Inc.", "address": "701 Porter Avenue \n  Springdale, AR 72764", "telephone": "(479) 972-7500", "grant_date": "2016-07-26", "activities": ["Certification - Export", "Poultry Processing"]}, "impacted_products": ["10-lb. cases of \u201cGeorge\u2019s Uncooked Breaded Chicken Breast Tenderloins\u201d with Case Code 4831 and packaging dates between Feb. 21, 2013 and Dec. 19, 2013.", "10-lb. cases of \u201cGeorge\u2019s Uncooked Chicken Tenderloin Fritters\u201d with Case Code 4861 and packaging dates between Feb. 21, 2013 and Jan. 4, 2014.", "10-lb. cases of \u201cGeorge\u2019s Uncooked Chicken Tenderloin Fritters\u201d with Case Code 4880 and packaging dates between Feb. 21, 2013 and Jul. 19, 2013."], "quantity_recovered": 154110, "quantity_unit": "pounds", "states": null}
+{
+  "id": "007-2014",
+  "title": "Arkansas Firm Recalls Frozen Chicken Products Due To Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/arkansas-firm-recalls-frozen-chicken-products-due-misbranding-and-undeclared",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2014-01-27",
+  "end_date": "2016-06-08",
+  "summary": "WASHINGTON, Jan. 27, 2014 George's Inc., a Springdale, Ark. establishment, is recalling approximately 1.25 million pounds of frozen par-fried chicken tender products because of misbranding and an undeclared allergen, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The products are...\n",
+  "establishment": {
+    "id": "P13584+V13584",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/georges-processing-inc-0",
+    "slug": "georges-processing-inc-0",
+    "name": "George's Processing, Inc.",
+    "address": "701 Porter Avenue \n  Springdale, AR 72764",
+    "telephone": "(479) 972-7500",
+    "grant_date": "2016-07-26",
+    "activities": [
+      "Certification - Export",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "10-lb. cases of \u201cGeorge\u2019s Uncooked Breaded Chicken Breast Tenderloins\u201d with Case Code 4831 and packaging dates between Feb. 21, 2013 and Dec. 19, 2013.",
+    "10-lb. cases of \u201cGeorge\u2019s Uncooked Chicken Tenderloin Fritters\u201d with Case Code 4861 and packaging dates between Feb. 21, 2013 and Jan. 4, 2014.",
+    "10-lb. cases of \u201cGeorge\u2019s Uncooked Chicken Tenderloin Fritters\u201d with Case Code 4880 and packaging dates between Feb. 21, 2013 and Jul. 19, 2013."
+  ],
+  "quantity_recovered": 154110,
+  "quantity_unit": "pounds",
+  "states": null
+}

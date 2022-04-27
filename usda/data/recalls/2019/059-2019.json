@@ -1,1 +1,27 @@
-{"id": "059-2019", "title": "Sikorski Sausages Co., Ltd. Recalls Meat and Poultry Sausage Products Produced without Benefit of Import Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/sikorski-sausages-co.-ltd.-recalls-meat-and-poultry-sausage-products-produced", "reasons": ["Produced Without Benefit of Inspection", "Import Violation"], "status": "Closed", "risk_level": "High", "start_date": "2019-05-24", "end_date": "2019-06-05", "summary": "WASHINGTON, May 24, 2019 Sikorski Sausages Co., Ltd., a London, Ontario, Canada establishment, is recalling approximately 74 pounds of various imported meat and poultry sausage products that were not presented for import re-inspection into the United Sates, the U.S. Department of Agricultures Food Safety and...\n", "establishment": null, "impacted_products": ["Garlic Sausage", "Chorizo Sausage", "Debrecyna Sausage", "Double Smoked Sausage", "Podhalanska BBQ Sausage"], "quantity_recovered": 0, "quantity_unit": "pounds", "states": ["California"]}
+{
+  "id": "059-2019",
+  "title": "Sikorski Sausages Co., Ltd. Recalls Meat and Poultry Sausage Products Produced without Benefit of Import Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/sikorski-sausages-co.-ltd.-recalls-meat-and-poultry-sausage-products-produced",
+  "reasons": [
+    "Produced Without Benefit of Inspection",
+    "Import Violation"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2019-05-24",
+  "end_date": "2019-06-05",
+  "summary": "WASHINGTON, May 24, 2019 Sikorski Sausages Co., Ltd., a London, Ontario, Canada establishment, is recalling approximately 74 pounds of various imported meat and poultry sausage products that were not presented for import re-inspection into the United Sates, the U.S. Department of Agricultures Food Safety and...\n",
+  "establishment": null,
+  "impacted_products": [
+    "Garlic Sausage",
+    "Chorizo Sausage",
+    "Debrecyna Sausage",
+    "Double Smoked Sausage",
+    "Podhalanska BBQ Sausage"
+  ],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": [
+    "California"
+  ]
+}

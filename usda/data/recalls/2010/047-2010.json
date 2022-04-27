@@ -1,1 +1,24 @@
-{"id": "047-2010", "title": "New Jersey Firm Recalls Canned Meatball Products Due To Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/new-jersey-firm-recalls-canned-meatball-products-due-undeclared-allergen", "reasons": ["Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2010-08-03", "end_date": "2012-06-04", "summary": "WASHINGTON, August 3, 2010 - Ugo. DiLullo & Sons, a Westville, N.J., establishment, is recalling approximately 147,667 pounds of canned meatball products because they contain an allergen, egg, which is not declared on the label, the U.S. Department of Agriculture's Food Safety and Inspection Service...\n", "establishment": null, "impacted_products": ["6 lb., 10 oz cans of \"U. DILULLO'S DELUXE MEATBALLS IN SAUCE\". Each package bears the establishment number \"Est. 1153\" inside the USDA mark of inspection."], "quantity_recovered": 118892, "quantity_unit": "pounds", "states": ["Maryland", "New Jersey", "New York"]}
+{
+  "id": "047-2010",
+  "title": "New Jersey Firm Recalls Canned Meatball Products Due To Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/new-jersey-firm-recalls-canned-meatball-products-due-undeclared-allergen",
+  "reasons": [
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2010-08-03",
+  "end_date": "2012-06-04",
+  "summary": "WASHINGTON, August 3, 2010 - Ugo. DiLullo & Sons, a Westville, N.J., establishment, is recalling approximately 147,667 pounds of canned meatball products because they contain an allergen, egg, which is not declared on the label, the U.S. Department of Agriculture's Food Safety and Inspection Service...\n",
+  "establishment": null,
+  "impacted_products": [
+    "6 lb., 10 oz cans of \"U. DILULLO'S DELUXE MEATBALLS IN SAUCE\". Each package bears the establishment number \"Est. 1153\" inside the USDA mark of inspection."
+  ],
+  "quantity_recovered": 118892,
+  "quantity_unit": "pounds",
+  "states": [
+    "Maryland",
+    "New Jersey",
+    "New York"
+  ]
+}

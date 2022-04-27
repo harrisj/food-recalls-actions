@@ -1,1 +1,24 @@
-{"id": "011-2011", "title": "Recall Notification Report", "url": "https://www.fsis.usda.gov/recalls-alerts/recall-notification-report-15", "reasons": ["Misbranding"], "status": "Closed", "risk_level": "Low", "start_date": "2011-02-23", "end_date": "2012-06-02", "summary": "WASHINGTON, Feb. 23, 2011 - Cedarlane Natural Foods, Inc., a Los Angeles, Calif., establishment, is recalling approximately 1,050 pounds of chicken and noodle products, the U.S. Department of Agriculture's (USDA) Food Safety and Inspection Service (FSIS) announced today. These products are considered misbranded because the...\n", "establishment": null, "impacted_products": ["Cases containing six 16-ounce trays of \"Wholesome Home Chicken & Noodles.\" The sell-by date \"09/21/11\" is ink jetted on the side of each case, and the Julian date \"10264\" can be found on the label of each 16-ounce tray."], "quantity_recovered": 0, "quantity_unit": "pounds", "states": ["Arizona", "California", "Texas"]}
+{
+  "id": "011-2011",
+  "title": "Recall Notification Report",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/recall-notification-report-15",
+  "reasons": [
+    "Misbranding"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2011-02-23",
+  "end_date": "2012-06-02",
+  "summary": "WASHINGTON, Feb. 23, 2011 - Cedarlane Natural Foods, Inc., a Los Angeles, Calif., establishment, is recalling approximately 1,050 pounds of chicken and noodle products, the U.S. Department of Agriculture's (USDA) Food Safety and Inspection Service (FSIS) announced today. These products are considered misbranded because the...\n",
+  "establishment": null,
+  "impacted_products": [
+    "Cases containing six 16-ounce trays of \"Wholesome Home Chicken & Noodles.\" The sell-by date \"09/21/11\" is ink jetted on the side of each case, and the Julian date \"10264\" can be found on the label of each 16-ounce tray."
+  ],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": [
+    "Arizona",
+    "California",
+    "Texas"
+  ]
+}

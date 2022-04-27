@@ -1,1 +1,26 @@
-{"id": "019-2010", "title": "California Firm Recalls Enchilada Products Due to Mislabeling and an Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-enchilada-products-due-mislabeling-and-undeclared-allergen", "reasons": ["Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2010-03-12", "end_date": "2012-06-03", "summary": "WASHINGTON, March 12, 2010 - Fernando's Food Corporation, a Compton, Calif., establishment, is recalling approximately 9,400 pounds of enchilada products because they were inadvertently mislabeled and contain an undeclared allergen, milk, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. Milk...\n", "establishment": null, "impacted_products": ["9.84-pound cases of \"CASA SOLANA BEEF CHICKEN AND TEXTURED VEGETABLE PROTEIN PRODUCT ENCHILADA.\" Each case contains 90 enchiladas and bears case code numbers \"2103745\" and \"24947,\" as well as the establishment number \"EST. 6492\" inside the USDA mark of in"], "quantity_recovered": 6239, "quantity_unit": "pounds", "states": ["Alabama", "Arkansas", "California", "Tennessee", "Texas"]}
+{
+  "id": "019-2010",
+  "title": "California Firm Recalls Enchilada Products Due to Mislabeling and an Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-enchilada-products-due-mislabeling-and-undeclared-allergen",
+  "reasons": [
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2010-03-12",
+  "end_date": "2012-06-03",
+  "summary": "WASHINGTON, March 12, 2010 - Fernando's Food Corporation, a Compton, Calif., establishment, is recalling approximately 9,400 pounds of enchilada products because they were inadvertently mislabeled and contain an undeclared allergen, milk, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. Milk...\n",
+  "establishment": null,
+  "impacted_products": [
+    "9.84-pound cases of \"CASA SOLANA BEEF CHICKEN AND TEXTURED VEGETABLE PROTEIN PRODUCT ENCHILADA.\" Each case contains 90 enchiladas and bears case code numbers \"2103745\" and \"24947,\" as well as the establishment number \"EST. 6492\" inside the USDA mark of in"
+  ],
+  "quantity_recovered": 6239,
+  "quantity_unit": "pounds",
+  "states": [
+    "Alabama",
+    "Arkansas",
+    "California",
+    "Tennessee",
+    "Texas"
+  ]
+}

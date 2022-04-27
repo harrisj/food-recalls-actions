@@ -1,1 +1,31 @@
-{"id": "012-2013", "title": "California Firm Recalls Veal Trimmings Due to Possible E. Coli O157:H7 Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-veal-trimmings-due-possible-e.-coli-o157h7-contamination", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2013-01-30", "end_date": "2015-03-24", "summary": "WASHINGTON, January 30, 2013 - San Jose Valley Veal, a Santa Clara, Calif. establishment, is recalling approximately 1,260 pounds of veal trimmings that may be contaminated with E. Coli O157:H7, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The following...\n", "establishment": {"id": "M2828", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/san-jose-valley-veal-inc", "slug": "san-jose-valley-veal-inc", "name": "SAN JOSE VALLEY VEAL, INC", "address": "1820 RICHARD AVENUE \n  SANTA CLARA, CA 95050", "telephone": "(408) 727-4404", "grant_date": "1983-07-28", "activities": ["Meat Processing"]}, "impacted_products": ["60-pound, cardboard box cases of \"SAN JOSE VALLEY VEAL AND BEEF INC.\" boneless veal trimmings."], "quantity_recovered": 942, "quantity_unit": "pounds", "states": null}
+{
+  "id": "012-2013",
+  "title": "California Firm Recalls Veal Trimmings Due to Possible E. Coli O157:H7 Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-veal-trimmings-due-possible-e.-coli-o157h7-contamination",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2013-01-30",
+  "end_date": "2015-03-24",
+  "summary": "WASHINGTON, January 30, 2013 - San Jose Valley Veal, a Santa Clara, Calif. establishment, is recalling approximately 1,260 pounds of veal trimmings that may be contaminated with E. Coli O157:H7, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The following...\n",
+  "establishment": {
+    "id": "M2828",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/san-jose-valley-veal-inc",
+    "slug": "san-jose-valley-veal-inc",
+    "name": "SAN JOSE VALLEY VEAL, INC",
+    "address": "1820 RICHARD AVENUE \n  SANTA CLARA, CA 95050",
+    "telephone": "(408) 727-4404",
+    "grant_date": "1983-07-28",
+    "activities": [
+      "Meat Processing"
+    ]
+  },
+  "impacted_products": [
+    "60-pound, cardboard box cases of \"SAN JOSE VALLEY VEAL AND BEEF INC.\" boneless veal trimmings."
+  ],
+  "quantity_recovered": 942,
+  "quantity_unit": "pounds",
+  "states": null
+}

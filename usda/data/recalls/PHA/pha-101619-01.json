@@ -1,1 +1,37 @@
-{"id": "pha-101619-01", "title": "FSIS Issues Public Health Alert for Beef Products due to Possible E. coli O157:H7 Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-beef-products-due-possible-e.-coli-o157h7", "reasons": ["Product Contamination"], "status": "Active", "risk_level": null, "start_date": "2019-10-16", "end_date": null, "summary": "WASHINGTON, October 16, 2019 The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) is issuing a public health alert for raw non-intact beef products derived from imported beef from Ontario, Canada that has been recalled by Ryding-Regency Meat Packers, Ltd. because it may...", "establishment": null, "impacted_products": ["10-lb. cardboard box packages containing bulk plastic wrapped raw frozen ground beef gyros labeled DEVANCO FOODS CHICAGO'S FAVORITE GYROS SLICES (STRIPS) with a case code 159 19", "10-lb. cardboard box packages containing bulk plastic wrapped raw frozen ground beef gyros labeled KRONOS HALAL GYROS STRIPS HALAL CERTIFIED BEEF GYROS UNCOOKED, IQF STRIPS with a case code 19 159", "Retail sized (8 patties) cardboard box packages containing ZIYAD PREMIUM QUALITY Beef Hamburger Patties with a case code 911541.021541", "Retail sized (8 kabobs) cardboard box packages containing ZIYAD PREMIUM QUALITY Uncooked Kufta Kabob with a case code 911154.021154", "8-lb. cardboard box packages containing bulk plastic wrapped raw frozen ground beef patties labeled Shop Rite 100% PURE QUARTER POUND Ground Beef Hamburgers and a sell by date of 060720", "3-lb. cardboard box packages containing plastic wrapped raw frozen ground beef patties labeled Shop Rite 100% PURE Ground Beef Hamburgers and a sell by date of 060720", "2-lb. cardboard box packages containing plastic wrapped raw frozen ground beef patties labeled LANDIS BRAND 100% ALL BEEF PATTIES 8 Quarter Pound Patties and a sell by date of 060720"], "quantity_recovered": null, "quantity_unit": null, "states": ["Connecticut", "Illinois", "Maine", "Massachusetts", "New Hampshire", "New Jersey", "New York", "Pennsylvania", "Rhode Island", "Vermont"]}
+{
+  "id": "pha-101619-01",
+  "title": "FSIS Issues Public Health Alert for Beef Products due to Possible E. coli O157:H7 Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-beef-products-due-possible-e.-coli-o157h7",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2019-10-16",
+  "end_date": null,
+  "summary": "WASHINGTON, October 16, 2019 The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) is issuing a public health alert for raw non-intact beef products derived from imported beef from Ontario, Canada that has been recalled by Ryding-Regency Meat Packers, Ltd. because it may...",
+  "establishment": null,
+  "impacted_products": [
+    "10-lb. cardboard box packages containing bulk plastic wrapped raw frozen ground beef gyros labeled DEVANCO FOODS CHICAGO'S FAVORITE GYROS SLICES (STRIPS) with a case code 159 19",
+    "10-lb. cardboard box packages containing bulk plastic wrapped raw frozen ground beef gyros labeled KRONOS HALAL GYROS STRIPS HALAL CERTIFIED BEEF GYROS UNCOOKED, IQF STRIPS with a case code 19 159",
+    "Retail sized (8 patties) cardboard box packages containing ZIYAD PREMIUM QUALITY Beef Hamburger Patties with a case code 911541.021541",
+    "Retail sized (8 kabobs) cardboard box packages containing ZIYAD PREMIUM QUALITY Uncooked Kufta Kabob with a case code 911154.021154",
+    "8-lb. cardboard box packages containing bulk plastic wrapped raw frozen ground beef patties labeled Shop Rite 100% PURE QUARTER POUND Ground Beef Hamburgers and a sell by date of 060720",
+    "3-lb. cardboard box packages containing plastic wrapped raw frozen ground beef patties labeled Shop Rite 100% PURE Ground Beef Hamburgers and a sell by date of 060720",
+    "2-lb. cardboard box packages containing plastic wrapped raw frozen ground beef patties labeled LANDIS BRAND 100% ALL BEEF PATTIES 8 Quarter Pound Patties and a sell by date of 060720"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Connecticut",
+    "Illinois",
+    "Maine",
+    "Massachusetts",
+    "New Hampshire",
+    "New Jersey",
+    "New York",
+    "Pennsylvania",
+    "Rhode Island",
+    "Vermont"
+  ]
+}

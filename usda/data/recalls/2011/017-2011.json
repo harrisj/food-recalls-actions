@@ -1,1 +1,22 @@
-{"id": "017-2011", "title": "Kansas Firm Recalls Ground Beef Products Due To Possible E. coli O157:H7 Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/kansas-firm-recalls-ground-beef-products-due-possible-e.-coli-o157h7-contamination-1", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2011-03-08", "end_date": "2012-06-02", "summary": "WASHINGTON, March 8, 2011 - Creekstone Farms Premium Beef, an Arkansas City, Kan., establishment, is recalling approximately 14,158 pounds of ground beef products that may be contaminated with E. coli O157:H7, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The...\n", "establishment": null, "impacted_products": ["Approx. 40-pound cases of \"BEEF FINE GRIND 81/19 NATURAL,\" containing 10-pound chubs. These products have an identifying product code of \"80185.\""], "quantity_recovered": 7445, "quantity_unit": "pounds", "states": ["Arizona"]}
+{
+  "id": "017-2011",
+  "title": "Kansas Firm Recalls Ground Beef Products Due To Possible E. coli O157:H7 Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/kansas-firm-recalls-ground-beef-products-due-possible-e.-coli-o157h7-contamination-1",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2011-03-08",
+  "end_date": "2012-06-02",
+  "summary": "WASHINGTON, March 8, 2011 - Creekstone Farms Premium Beef, an Arkansas City, Kan., establishment, is recalling approximately 14,158 pounds of ground beef products that may be contaminated with E. coli O157:H7, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The...\n",
+  "establishment": null,
+  "impacted_products": [
+    "Approx. 40-pound cases of \"BEEF FINE GRIND 81/19 NATURAL,\" containing 10-pound chubs. These products have an identifying product code of \"80185.\""
+  ],
+  "quantity_recovered": 7445,
+  "quantity_unit": "pounds",
+  "states": [
+    "Arizona"
+  ]
+}

@@ -1,1 +1,16 @@
-{"id": "051-2016", "title": "GNP Company Recalls Chicken Products Due To Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/gnp-company-recalls-chicken-products-due-possible-foreign-matter-contamination", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2016-06-18", "end_date": "2016-12-13", "summary": "WASHINGTON, June 18, 2016 GNP Company, a Cold Spring, Minn. establishment, is recalling approximately 55,608 pounds of chicken products that may be contaminated with extraneous materials, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today.The chicken products were produced on various...", "establishment": null, "impacted_products": [], "quantity_recovered": 0, "quantity_unit": "pounds", "states": null}
+{
+  "id": "051-2016",
+  "title": "GNP Company Recalls Chicken Products Due To Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/gnp-company-recalls-chicken-products-due-possible-foreign-matter-contamination",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2016-06-18",
+  "end_date": "2016-12-13",
+  "summary": "WASHINGTON, June 18, 2016 GNP Company, a Cold Spring, Minn. establishment, is recalling approximately 55,608 pounds of chicken products that may be contaminated with extraneous materials, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today.The chicken products were produced on various...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": null
+}

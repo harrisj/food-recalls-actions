@@ -1,1 +1,36 @@
-{"id": "080-2014", "title": "Pennsylvania Firm Recalls Pork Products Due To Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/pennsylvania-firm-recalls-pork-products-due-misbranding-and-undeclared-allergens", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "Low", "start_date": "2014-11-19", "end_date": "2015-01-02", "summary": "WASHINGTON, Nov. 19, 2014 K. Heeps, Inc., an Allentown, Pa., establishment is recalling approximately 2,902 pounds of Bratwurst and Bangers sausage products due to misbranding and undeclared allergens, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The products contain soy...\n", "establishment": {"id": "M9379+P9379", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/k-heeps-inc", "slug": "k-heeps-inc", "name": "K. Heeps Inc", "address": "721 North 17th Street \n  Allentown, PA 18104", "telephone": "(610) 530-8010", "grant_date": "2012-08-22", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["1-lb. retail packages or 20-lb. Bulk Packages containing iALL NATURAL ARTISAN PORK RECIPE STRYKER FARM IRISH STYLE BANGERS.\u201d", "1-lb. retail packages or 20-lb.Bulk Packages containing iALL NATURAL ARTISAN PORK RECIPE STRYKER FARM BEER BRATWURST.\u201d"], "quantity_recovered": 307, "quantity_unit": "pounds", "states": ["Pennsylvania"]}
+{
+  "id": "080-2014",
+  "title": "Pennsylvania Firm Recalls Pork Products Due To Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/pennsylvania-firm-recalls-pork-products-due-misbranding-and-undeclared-allergens",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2014-11-19",
+  "end_date": "2015-01-02",
+  "summary": "WASHINGTON, Nov. 19, 2014 K. Heeps, Inc., an Allentown, Pa., establishment is recalling approximately 2,902 pounds of Bratwurst and Bangers sausage products due to misbranding and undeclared allergens, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The products contain soy...\n",
+  "establishment": {
+    "id": "M9379+P9379",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/k-heeps-inc",
+    "slug": "k-heeps-inc",
+    "name": "K. Heeps Inc",
+    "address": "721 North 17th Street \n  Allentown, PA 18104",
+    "telephone": "(610) 530-8010",
+    "grant_date": "2012-08-22",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "1-lb. retail packages or 20-lb. Bulk Packages containing iALL NATURAL ARTISAN PORK RECIPE STRYKER FARM IRISH STYLE BANGERS.\u201d",
+    "1-lb. retail packages or 20-lb.Bulk Packages containing iALL NATURAL ARTISAN PORK RECIPE STRYKER FARM BEER BRATWURST.\u201d"
+  ],
+  "quantity_recovered": 307,
+  "quantity_unit": "pounds",
+  "states": [
+    "Pennsylvania"
+  ]
+}

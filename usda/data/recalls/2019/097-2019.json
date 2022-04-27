@@ -1,1 +1,30 @@
-{"id": "097-2019", "title": "Kenosha Beef International Recalls Seasoned Beef Products due to Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/kenosha-beef-international-recalls-seasoned-beef-products-due-possible-foreign", "reasons": ["Product Contamination"], "status": "Active", "risk_level": "High", "start_date": "2019-10-14", "end_date": null, "summary": "WASHINGTON, Oct. 14, 2019 Kenosha Beef International, a Columbus, Ohio establishment, is recalling an undetermined amount of seasoned beef products that may be contaminated with extraneous materials, specifically metal shavings, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The seasoned...", "establishment": {"id": "M10130+P10130", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/kenosha-beef-international-ltd-0", "slug": "kenosha-beef-international-ltd-0", "name": "Kenosha Beef International, Ltd.", "address": "1821 Dividend Dr. \n  Columbus, OH 43228", "telephone": "(614) 771-1330", "grant_date": "2022-03-25", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": null, "quantity_unit": null, "states": null}
+{
+  "id": "097-2019",
+  "title": "Kenosha Beef International Recalls Seasoned Beef Products due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/kenosha-beef-international-recalls-seasoned-beef-products-due-possible-foreign",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2019-10-14",
+  "end_date": null,
+  "summary": "WASHINGTON, Oct. 14, 2019 Kenosha Beef International, a Columbus, Ohio establishment, is recalling an undetermined amount of seasoned beef products that may be contaminated with extraneous materials, specifically metal shavings, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The seasoned...",
+  "establishment": {
+    "id": "M10130+P10130",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/kenosha-beef-international-ltd-0",
+    "slug": "kenosha-beef-international-ltd-0",
+    "name": "Kenosha Beef International, Ltd.",
+    "address": "1821 Dividend Dr. \n  Columbus, OH 43228",
+    "telephone": "(614) 771-1330",
+    "grant_date": "2022-03-25",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}

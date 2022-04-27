@@ -1,1 +1,16 @@
-{"id": "084-2015", "title": "Total Packaging of KY, Inc. Recalls Turkey and Cheese Lunch Kits Due to Misbranding and Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/total-packaging-ky-inc.-recalls-turkey-and-cheese-lunch-kits-due-misbranding-and", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2015-05-29", "end_date": "2016-06-08", "summary": "WASHINGTON, May 29, 2015 Total Packaging of KY, Inc., an Owensboro, Ky., establishment, is recalling approximately 18,000 pounds of Anytime Foods Turkey and Cheese Lunch Kits due to misbranding and an undeclared allergen, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced...", "establishment": null, "impacted_products": [], "quantity_recovered": 11573, "quantity_unit": "pounds", "states": null}
+{
+  "id": "084-2015",
+  "title": "Total Packaging of KY, Inc. Recalls Turkey and Cheese Lunch Kits Due to Misbranding and Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/total-packaging-ky-inc.-recalls-turkey-and-cheese-lunch-kits-due-misbranding-and",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2015-05-29",
+  "end_date": "2016-06-08",
+  "summary": "WASHINGTON, May 29, 2015 Total Packaging of KY, Inc., an Owensboro, Ky., establishment, is recalling approximately 18,000 pounds of Anytime Foods Turkey and Cheese Lunch Kits due to misbranding and an undeclared allergen, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 11573,
+  "quantity_unit": "pounds",
+  "states": null
+}

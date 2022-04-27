@@ -1,1 +1,23 @@
-{"id": "090-2018", "title": "Valley Fine Foods Recalls Meat and Poultry Products due to Possible Adulteration", "url": "https://www.fsis.usda.gov/recalls-alerts/valley-fine-foods-recalls-meat-and-poultry-products-due-possible-adulteration", "reasons": [], "status": "Active", "risk_level": "Low", "start_date": "2018-10-11", "end_date": null, "summary": "WASHINGTON, Oct. 11, 2018 Valley Fine Foods, a Forest City, N.C. establishment, is recalling approximately 35,516 pounds of heat-treated, not fully cooked meat and poultry products that may be adulterated due to presence of spoilage organisms that have rendered it unwholesome and unfit for human...", "establishment": null, "impacted_products": [], "quantity_recovered": null, "quantity_unit": null, "states": ["California", "Connecticut", "Maryland", "Massachusetts", "Michigan", "North Carolina"]}
+{
+  "id": "090-2018",
+  "title": "Valley Fine Foods Recalls Meat and Poultry Products due to Possible Adulteration",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/valley-fine-foods-recalls-meat-and-poultry-products-due-possible-adulteration",
+  "reasons": [],
+  "status": "Active",
+  "risk_level": "Low",
+  "start_date": "2018-10-11",
+  "end_date": null,
+  "summary": "WASHINGTON, Oct. 11, 2018 Valley Fine Foods, a Forest City, N.C. establishment, is recalling approximately 35,516 pounds of heat-treated, not fully cooked meat and poultry products that may be adulterated due to presence of spoilage organisms that have rendered it unwholesome and unfit for human...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "California",
+    "Connecticut",
+    "Maryland",
+    "Massachusetts",
+    "Michigan",
+    "North Carolina"
+  ]
+}

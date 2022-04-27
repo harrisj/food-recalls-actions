@@ -1,1 +1,23 @@
-{"id": "062-2010", "title": "New York Firm Recalls Various Meat and Poultry Products Produced Without Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/new-york-firm-recalls-various-meat-and-poultry-products-produced-without-inspection", "reasons": ["Produced Without Benefit of Inspection"], "status": "Closed", "risk_level": "High", "start_date": "2010-12-02", "end_date": "2012-06-04", "summary": "WASHINGTON, Dec. 2, 2010 - N.Y. Gourmet Salads, Inc., a Brooklyn, N.Y., establishment, is recalling an undetermined amount of various meat and poultry products that were produced without the benefit of federal inspection, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced...\n", "establishment": null, "impacted_products": ["4.5-pound and 5-pound containers of \"Lemon Grilled Chicken\"", "4.5-pound and 5-pound containers of \"Meatballs\""], "quantity_recovered": 0, "quantity_unit": "pounds", "states": ["New York"]}
+{
+  "id": "062-2010",
+  "title": "New York Firm Recalls Various Meat and Poultry Products Produced Without Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/new-york-firm-recalls-various-meat-and-poultry-products-produced-without-inspection",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2010-12-02",
+  "end_date": "2012-06-04",
+  "summary": "WASHINGTON, Dec. 2, 2010 - N.Y. Gourmet Salads, Inc., a Brooklyn, N.Y., establishment, is recalling an undetermined amount of various meat and poultry products that were produced without the benefit of federal inspection, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced...\n",
+  "establishment": null,
+  "impacted_products": [
+    "4.5-pound and 5-pound containers of \"Lemon Grilled Chicken\"",
+    "4.5-pound and 5-pound containers of \"Meatballs\""
+  ],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": [
+    "New York"
+  ]
+}

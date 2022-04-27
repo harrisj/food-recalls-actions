@@ -1,1 +1,26 @@
-{"id": "004-2011", "title": "Recall Notification Report", "url": "https://www.fsis.usda.gov/recalls-alerts/recall-notification-report-13", "reasons": ["Mislabeling"], "status": "Closed", "risk_level": "Low", "start_date": "2011-01-11", "end_date": "2012-06-01", "summary": "WASHINGTON, Jan. 11, 2011 - Lettieri's Foods, Inc., a Shakopee, Minn., establishment is recalling approximately 101,629 pounds of \"Breakfast Stackers Sausage, Egg & Cheese\" products because they contain monosodium glutamate (MSG) which is not declared on the product labels. The products subject to recall include...\n", "establishment": null, "impacted_products": ["3.75 lbs. cases containing 12 individual 5.5-oz. packages of \"Lettieri's Breakfast Stackers Sausage, Egg & Cheese within a flakey biscuit.\"", "3.75 lbs. cases containing 12 individual 5.5-oz. packages of \"Real Time Caf\u00e9 Breakfast Stacker Sausage, Egg & Cheese within a flakey pastry.\""], "quantity_recovered": 15589, "quantity_unit": "pounds", "states": ["California", "Colorado", "Minnesota", "Washington"]}
+{
+  "id": "004-2011",
+  "title": "Recall Notification Report",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/recall-notification-report-13",
+  "reasons": [
+    "Mislabeling"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2011-01-11",
+  "end_date": "2012-06-01",
+  "summary": "WASHINGTON, Jan. 11, 2011 - Lettieri's Foods, Inc., a Shakopee, Minn., establishment is recalling approximately 101,629 pounds of \"Breakfast Stackers Sausage, Egg & Cheese\" products because they contain monosodium glutamate (MSG) which is not declared on the product labels. The products subject to recall include...\n",
+  "establishment": null,
+  "impacted_products": [
+    "3.75 lbs. cases containing 12 individual 5.5-oz. packages of \"Lettieri's Breakfast Stackers Sausage, Egg & Cheese within a flakey biscuit.\"",
+    "3.75 lbs. cases containing 12 individual 5.5-oz. packages of \"Real Time Caf\u00e9 Breakfast Stacker Sausage, Egg & Cheese within a flakey pastry.\""
+  ],
+  "quantity_recovered": 15589,
+  "quantity_unit": "pounds",
+  "states": [
+    "California",
+    "Colorado",
+    "Minnesota",
+    "Washington"
+  ]
+}

@@ -1,1 +1,18 @@
-{"id": "027-2018", "title": "Target Corporation Recalls Frozen Ready-To-Eat and Non-Ready-To-Eat Meat and Poultry Products due to Possible Temperature Abuse During Transport at a Single Store on Oahu, Honolulu, HI", "url": "https://www.fsis.usda.gov/recalls-alerts/target-corporation-recalls-frozen-ready-eat-and-non-ready-eat-meat-and-poultry", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2018-03-29", "end_date": "2018-04-18", "summary": "WASHINGTON, March 29, 2018 Target Corporation, located in Minneapolis, Minn. is recalling an undetermined amount of frozen ready-to-eat and not-ready-to-eat meat and poultry products due to temperature abuse during transport, which may have resulted in the growth of spoilage organisms or pathogens, the U.S. Department...", "establishment": null, "impacted_products": [], "quantity_recovered": 2, "quantity_unit": "pounds", "states": ["Hawaii"]}
+{
+  "id": "027-2018",
+  "title": "Target Corporation Recalls Frozen Ready-To-Eat and Non-Ready-To-Eat Meat and Poultry Products due to Possible Temperature Abuse During Transport at a Single Store on Oahu, Honolulu, HI",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/target-corporation-recalls-frozen-ready-eat-and-non-ready-eat-meat-and-poultry",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2018-03-29",
+  "end_date": "2018-04-18",
+  "summary": "WASHINGTON, March 29, 2018 Target Corporation, located in Minneapolis, Minn. is recalling an undetermined amount of frozen ready-to-eat and not-ready-to-eat meat and poultry products due to temperature abuse during transport, which may have resulted in the growth of spoilage organisms or pathogens, the U.S. Department...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 2,
+  "quantity_unit": "pounds",
+  "states": [
+    "Hawaii"
+  ]
+}

@@ -1,1 +1,31 @@
-{"id": "031-2018", "title": "Conagra Brands Inc. Recalls Salisbury Steak Products Due to Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/conagra-brands-inc.-recalls-salisbury-steak-products-due-possible-foreign-matter", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2018-04-11", "end_date": "2018-09-13", "summary": "WASHINGTON, April 11, 2018 Conagra Brands, Inc., a Russellville, Ark. establishment, is recalling approximately 135,159 pounds of Salisbury steak products (poultry, pork, and beef) that may be contaminated with extraneous materials, specifically bone, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced...", "establishment": {"id": "M233+P115+V233", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/conagra-brands-inc-10", "slug": "conagra-brands-inc-10", "name": "ConAgra Brands, Inc.", "address": "3100 East Main Street \n  Russellville, AR 72802", "telephone": "(479) 968-2535", "grant_date": "2018-02-12", "activities": ["Certification - Export", "Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": 38789, "quantity_unit": "pounds", "states": null}
+{
+  "id": "031-2018",
+  "title": "Conagra Brands Inc. Recalls Salisbury Steak Products Due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/conagra-brands-inc.-recalls-salisbury-steak-products-due-possible-foreign-matter",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2018-04-11",
+  "end_date": "2018-09-13",
+  "summary": "WASHINGTON, April 11, 2018 Conagra Brands, Inc., a Russellville, Ark. establishment, is recalling approximately 135,159 pounds of Salisbury steak products (poultry, pork, and beef) that may be contaminated with extraneous materials, specifically bone, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced...",
+  "establishment": {
+    "id": "M233+P115+V233",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/conagra-brands-inc-10",
+    "slug": "conagra-brands-inc-10",
+    "name": "ConAgra Brands, Inc.",
+    "address": "3100 East Main Street \n  Russellville, AR 72802",
+    "telephone": "(479) 968-2535",
+    "grant_date": "2018-02-12",
+    "activities": [
+      "Certification - Export",
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 38789,
+  "quantity_unit": "pounds",
+  "states": null
+}

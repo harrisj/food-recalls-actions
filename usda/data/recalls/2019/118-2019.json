@@ -1,1 +1,37 @@
-{"id": "118-2019", "title": "Blue Grass Quality Meats Recalls Pork and Turkey Products due to Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/blue-grass-quality-meats-recalls-pork-and-turkey-products-due-misbranding-and", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Active", "risk_level": "Low", "start_date": "2019-11-29", "end_date": null, "summary": "WASHINGTON, Nov. 29, 2019 Blue Grass Quality Meats, an Erlanger, Ky. establishment, is recalling approximately 121,083 pounds of pork bacon and ready-to-eat turkey products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products...", "establishment": {"id": "M7417+P7417", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/blue-grass-provisions-co-inc", "slug": "blue-grass-provisions-co-inc", "name": "Blue Grass Provisions Co. Inc.", "address": "2645 Commerce Drive \n  Crescent Springs, KY 41017", "telephone": "(859) 331-7100", "grant_date": "2021-10-13", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": null, "quantity_unit": null, "states": ["Kentucky", "Michigan", "Ohio", "Virginia", "West Virginia"]}
+{
+  "id": "118-2019",
+  "title": "Blue Grass Quality Meats Recalls Pork and Turkey Products due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/blue-grass-quality-meats-recalls-pork-and-turkey-products-due-misbranding-and",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": "Low",
+  "start_date": "2019-11-29",
+  "end_date": null,
+  "summary": "WASHINGTON, Nov. 29, 2019 Blue Grass Quality Meats, an Erlanger, Ky. establishment, is recalling approximately 121,083 pounds of pork bacon and ready-to-eat turkey products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products...",
+  "establishment": {
+    "id": "M7417+P7417",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/blue-grass-provisions-co-inc",
+    "slug": "blue-grass-provisions-co-inc",
+    "name": "Blue Grass Provisions Co. Inc.",
+    "address": "2645 Commerce Drive \n  Crescent Springs, KY 41017",
+    "telephone": "(859) 331-7100",
+    "grant_date": "2021-10-13",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Kentucky",
+    "Michigan",
+    "Ohio",
+    "Virginia",
+    "West Virginia"
+  ]
+}

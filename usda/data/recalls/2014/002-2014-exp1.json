@@ -1,1 +1,22 @@
-{"id": "002-2014-EXP1", "title": "California Firm Recalls Various Meat Products Produced Without The Benefit Of Full Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-various-meat-products-produced-without-benefit-full", "reasons": ["Produced Without Benefit of Inspection"], "status": "Active", "risk_level": "High", "start_date": "2014-01-16", "end_date": null, "summary": "EDITOR'S NOTE: This release is being reissued to reflect additional products. WASHINGTON, Jan. 16, 2014 Rancho Feeding Corporation,a Petaluma, Calif., establishment, is expanding its recall to include an additional 420 pounds of product that was produced without the benefit of full federal inspection, making it...\n", "establishment": null, "impacted_products": ["30-lb. boxes of \u201cBook Tripe\u201d"], "quantity_recovered": null, "quantity_unit": null, "states": ["California"]}
+{
+  "id": "002-2014-EXP1",
+  "title": "California Firm Recalls Various Meat Products Produced Without The Benefit Of Full Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-various-meat-products-produced-without-benefit-full",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2014-01-16",
+  "end_date": null,
+  "summary": "EDITOR'S NOTE: This release is being reissued to reflect additional products. WASHINGTON, Jan. 16, 2014 Rancho Feeding Corporation,a Petaluma, Calif., establishment, is expanding its recall to include an additional 420 pounds of product that was produced without the benefit of full federal inspection, making it...\n",
+  "establishment": null,
+  "impacted_products": [
+    "30-lb. boxes of \u201cBook Tripe\u201d"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "California"
+  ]
+}

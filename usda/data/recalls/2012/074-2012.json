@@ -1,1 +1,20 @@
-{"id": "074-2012", "title": "Iowa Firm Recalls Barbecue Sausage Products That May Be Undercooked", "url": "https://www.fsis.usda.gov/recalls-alerts/iowa-firm-recalls-barbecue-sausage-products-may-be-undercooked", "reasons": ["Processing Defect"], "status": "Closed", "risk_level": "High", "start_date": "2012-11-13", "end_date": "2013-06-01", "summary": "WASHINGTON, Nov 13, 2012 \u2013Pinnacle Foods Group LLC a Fort Madison, Iowa establishment, is recalling approximately 90,975 pounds of bourbon barbecue sausage products because they may have been underprocessed, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The products subject...\n", "establishment": null, "impacted_products": ["5-oz. cans of \u201cArmour Vienna Sausage Bourbon BBQ Flavored\u201d (24 per case)."], "quantity_recovered": 0, "quantity_unit": "pounds", "states": null}
+{
+  "id": "074-2012",
+  "title": "Iowa Firm Recalls Barbecue Sausage Products That May Be Undercooked",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/iowa-firm-recalls-barbecue-sausage-products-may-be-undercooked",
+  "reasons": [
+    "Processing Defect"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2012-11-13",
+  "end_date": "2013-06-01",
+  "summary": "WASHINGTON, Nov 13, 2012 \u2013Pinnacle Foods Group LLC a Fort Madison, Iowa establishment, is recalling approximately 90,975 pounds of bourbon barbecue sausage products because they may have been underprocessed, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The products subject...\n",
+  "establishment": null,
+  "impacted_products": [
+    "5-oz. cans of \u201cArmour Vienna Sausage Bourbon BBQ Flavored\u201d (24 per case)."
+  ],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": null
+}

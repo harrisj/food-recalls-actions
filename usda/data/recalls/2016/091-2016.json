@@ -1,1 +1,30 @@
-{"id": "091-2016", "title": "Silver Springs Farms, Inc. Recalls Beef Products Due to Possible E. Coli O157:H7 Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/silver-springs-farms-inc.-recalls-beef-products-due-possible-e.-coli-o157h7-0", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2016-09-30", "end_date": "2017-01-11", "summary": "WASHINGTON, Sept. 30, 2016 Silver Springs Farms, Inc., a Harleysville, Pa. establishment is recalling approximately 740 pounds of ground beef products that may be contaminated with E. coli O157:H7, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today.The ground beef items...", "establishment": {"id": "M4771+P4771", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/silver-springs-farms-inc", "slug": "silver-springs-farms-inc", "name": "Silver Springs Farms, Inc.", "address": "640 Meetinghouse Road \n  Harleysville, PA 19438", "telephone": "(215) 256-4321", "grant_date": "2016-11-03", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": 59408, "quantity_unit": "pounds", "states": ["Virginia"]}
+{
+  "id": "091-2016",
+  "title": "Silver Springs Farms, Inc. Recalls Beef Products Due to Possible E. Coli O157:H7 Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/silver-springs-farms-inc.-recalls-beef-products-due-possible-e.-coli-o157h7-0",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2016-09-30",
+  "end_date": "2017-01-11",
+  "summary": "WASHINGTON, Sept. 30, 2016 Silver Springs Farms, Inc., a Harleysville, Pa. establishment is recalling approximately 740 pounds of ground beef products that may be contaminated with E. coli O157:H7, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today.The ground beef items...",
+  "establishment": {
+    "id": "M4771+P4771",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/silver-springs-farms-inc",
+    "slug": "silver-springs-farms-inc",
+    "name": "Silver Springs Farms, Inc.",
+    "address": "640 Meetinghouse Road \n  Harleysville, PA 19438",
+    "telephone": "(215) 256-4321",
+    "grant_date": "2016-11-03",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 59408,
+  "quantity_unit": "pounds",
+  "states": [
+    "Virginia"
+  ]
+}

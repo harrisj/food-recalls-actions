@@ -1,1 +1,29 @@
-{"id": "012-2016", "title": "The Noble Spoon Recalls Chicken and Beef Products Produced Without Benefit of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/noble-spoon-recalls-chicken-and-beef-products-produced-without-benefit-inspection", "reasons": ["Produced Without Benefit of Inspection"], "status": "Closed", "risk_level": "High", "start_date": "2016-01-30", "end_date": "2017-06-19", "summary": "WASHINGTON, Jan. 30, 2016 The Noble Spoon, a Santa Rosa, Calif. establishment, is recalling approximately 289 pounds of beef and chicken entree products that were produced without the benefit of federal inspection and do not have a federal mark of inspection, the U.S. Department of...\n", "establishment": null, "impacted_products": ["12-oz. sealed plastic trays containing THE NOBLE SPOON, Chicken Carbonara.", "12.5-oz. sealed plastic trays containing \u201cTHE NOBLE SPOON, Chicken Picatta.\u201d", "12.5-oz. sealed plastic trays containing \u201cTHE NOBLE SPOON, Meatloaf & Potatoes with bacon and cheddar cheese.\u201d", "13-oz. sealed plastic trays containing \u201cTHE NOBLE SPOON, Spaghetti & Meatballs.\u201d", "13-oz. sealed plastic trays containing \u201cTHE NOBLE SPOON, John Ash Signature Dish, Campanelle Pasta Bolognese.\u201d", "13-oz. sealed plastic trays containing \u201cTHE NOBLE SPOON, John Ash Signature Dish, Mexican Pot Roast.\u201d", "14.5-oz. sealed plastic trays containing \u201cTHE NOBLE SPOON, Chicken Enchiladas.\u201d ", "15-oz. sealed plastic trays containing \u201cTHE NOBLE SPOON, Chicken Burrito.\u201d"], "quantity_recovered": 143, "quantity_unit": "pounds", "states": ["California"]}
+{
+  "id": "012-2016",
+  "title": "The Noble Spoon Recalls Chicken and Beef Products Produced Without Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/noble-spoon-recalls-chicken-and-beef-products-produced-without-benefit-inspection",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2016-01-30",
+  "end_date": "2017-06-19",
+  "summary": "WASHINGTON, Jan. 30, 2016 The Noble Spoon, a Santa Rosa, Calif. establishment, is recalling approximately 289 pounds of beef and chicken entree products that were produced without the benefit of federal inspection and do not have a federal mark of inspection, the U.S. Department of...\n",
+  "establishment": null,
+  "impacted_products": [
+    "12-oz. sealed plastic trays containing THE NOBLE SPOON, Chicken Carbonara.",
+    "12.5-oz. sealed plastic trays containing \u201cTHE NOBLE SPOON, Chicken Picatta.\u201d",
+    "12.5-oz. sealed plastic trays containing \u201cTHE NOBLE SPOON, Meatloaf & Potatoes with bacon and cheddar cheese.\u201d",
+    "13-oz. sealed plastic trays containing \u201cTHE NOBLE SPOON, Spaghetti & Meatballs.\u201d",
+    "13-oz. sealed plastic trays containing \u201cTHE NOBLE SPOON, John Ash Signature Dish, Campanelle Pasta Bolognese.\u201d",
+    "13-oz. sealed plastic trays containing \u201cTHE NOBLE SPOON, John Ash Signature Dish, Mexican Pot Roast.\u201d",
+    "14.5-oz. sealed plastic trays containing \u201cTHE NOBLE SPOON, Chicken Enchiladas.\u201d ",
+    "15-oz. sealed plastic trays containing \u201cTHE NOBLE SPOON, Chicken Burrito.\u201d"
+  ],
+  "quantity_recovered": 143,
+  "quantity_unit": "pounds",
+  "states": [
+    "California"
+  ]
+}

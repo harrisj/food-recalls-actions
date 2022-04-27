@@ -1,1 +1,24 @@
-{"id": "056-2013", "title": "Minnesota Firm Recalls Pizza Products Due To Misbranding and Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/minnesota-firm-recalls-pizza-products-due-misbranding-and-undeclared-allergen", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "Low", "start_date": "2013-09-27", "end_date": "2016-09-08", "summary": "WASHINGTON, Sept. 27, 2013 Junction Pizza, a Grey Eagle, Minn. establishment, is recalling approximately 17,194 pounds of frozen pizza products that contain soy lecithin, a known allergen, which is not declared on the product labels, the U.S. Department of Agriculture's Food Safety and Inspection Service...\n", "establishment": null, "impacted_products": ["30.5-ounce packages of \u201cThe Junction Pizza, Italian Sausage Thick Crust\u201d  ", "20-ounce packages of \u201cThe Junction Pizza, Italian Sausage Thin Crust\u201d"], "quantity_recovered": 923, "quantity_unit": "pounds", "states": ["Minnesota"]}
+{
+  "id": "056-2013",
+  "title": "Minnesota Firm Recalls Pizza Products Due To Misbranding and Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/minnesota-firm-recalls-pizza-products-due-misbranding-and-undeclared-allergen",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2013-09-27",
+  "end_date": "2016-09-08",
+  "summary": "WASHINGTON, Sept. 27, 2013 Junction Pizza, a Grey Eagle, Minn. establishment, is recalling approximately 17,194 pounds of frozen pizza products that contain soy lecithin, a known allergen, which is not declared on the product labels, the U.S. Department of Agriculture's Food Safety and Inspection Service...\n",
+  "establishment": null,
+  "impacted_products": [
+    "30.5-ounce packages of \u201cThe Junction Pizza, Italian Sausage Thick Crust\u201d  ",
+    "20-ounce packages of \u201cThe Junction Pizza, Italian Sausage Thin Crust\u201d"
+  ],
+  "quantity_recovered": 923,
+  "quantity_unit": "pounds",
+  "states": [
+    "Minnesota"
+  ]
+}

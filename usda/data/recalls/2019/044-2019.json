@@ -1,1 +1,37 @@
-{"id": "044-2019", "title": "Great American Marketing Co. Recalls Meat and Poultry Wrap and Salad Products Due to Possible Listeria Monocytogenes Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/great-american-marketing-co.-recalls-meat-and-poultry-wrap-and-salad-products-due", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2019-04-09", "end_date": "2019-12-03", "summary": "WASHINGTON, April 9, 2019 Great American Marketing, Inc., a Houston, Texas establishment, is recalling approximately 3,329 pounds of ready-to-eat meat and poultry wrap and salad products that may be adulterated with Listeria monocytogenes, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced...\n", "establishment": {"id": "M31680+P31680", "url": "http://www.fsis.usda.gov/establishments/great-american-marketing-co", "slug": "great-american-marketing-co", "name": "Great American Marketing Co.", "address": "1224 N. Post Oak Road, Suite 160B \n  Houston, TX 77055", "telephone": "(713) 682-6471", "grant_date": "2019-07-15", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["9.25-oz. plastic sealed cartons containing \u201ccorner store market CAESAR SALAD WITH GRILLED CHICKEN & CAESAR DRESSING\u201d with sell by dates of 04/09/19 through 04/15/19. ", "10.25-oz. plastic sealed cartons containing \u201ccorner store market CHEF SALAD TURKEY, HAM & CHEESE, WITH RANCH DRESSING\u201d with sell by dates of 04/09/19 through 04/15/19. ", "8.1-oz. plastic sealed cartons containing \u201ccorner store market CLUB WRAP Turkey, Ham, Roast Beef, Bacon Bits & Cheese\u201d with sell by dates of 04/08/18 through 4/20/19. ", "7.4-oz. plastic sealed carton containing \u201ccorner store market CHICKEN CAESAR WRAP Chicken Strips & Cheese with Caesar Dressing\u201d with sell by dates of 04/08/18 through 4/20/19. "], "quantity_recovered": 3329, "quantity_unit": "pounds", "states": ["Texas"]}
+{
+  "id": "044-2019",
+  "title": "Great American Marketing Co. Recalls Meat and Poultry Wrap and Salad Products Due to Possible Listeria Monocytogenes Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/great-american-marketing-co.-recalls-meat-and-poultry-wrap-and-salad-products-due",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2019-04-09",
+  "end_date": "2019-12-03",
+  "summary": "WASHINGTON, April 9, 2019 Great American Marketing, Inc., a Houston, Texas establishment, is recalling approximately 3,329 pounds of ready-to-eat meat and poultry wrap and salad products that may be adulterated with Listeria monocytogenes, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced...\n",
+  "establishment": {
+    "id": "M31680+P31680",
+    "url": "http://www.fsis.usda.gov/establishments/great-american-marketing-co",
+    "slug": "great-american-marketing-co",
+    "name": "Great American Marketing Co.",
+    "address": "1224 N. Post Oak Road, Suite 160B \n  Houston, TX 77055",
+    "telephone": "(713) 682-6471",
+    "grant_date": "2019-07-15",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "9.25-oz. plastic sealed cartons containing \u201ccorner store market CAESAR SALAD WITH GRILLED CHICKEN & CAESAR DRESSING\u201d with sell by dates of 04/09/19 through 04/15/19. ",
+    "10.25-oz. plastic sealed cartons containing \u201ccorner store market CHEF SALAD TURKEY, HAM & CHEESE, WITH RANCH DRESSING\u201d with sell by dates of 04/09/19 through 04/15/19. ",
+    "8.1-oz. plastic sealed cartons containing \u201ccorner store market CLUB WRAP Turkey, Ham, Roast Beef, Bacon Bits & Cheese\u201d with sell by dates of 04/08/18 through 4/20/19. ",
+    "7.4-oz. plastic sealed carton containing \u201ccorner store market CHICKEN CAESAR WRAP Chicken Strips & Cheese with Caesar Dressing\u201d with sell by dates of 04/08/18 through 4/20/19. "
+  ],
+  "quantity_recovered": 3329,
+  "quantity_unit": "pounds",
+  "states": [
+    "Texas"
+  ]
+}

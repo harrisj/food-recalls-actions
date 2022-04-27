@@ -1,1 +1,35 @@
-{"id": "048-2013", "title": "Florida Firm Recalls Beef Pattie and Chub Products Due to Misbranding and Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/florida-firm-recalls-beef-pattie-and-chub-products-due-misbranding-and-undeclared", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2013-08-28", "end_date": "2015-03-24", "summary": "WASHINGTON, Aug. 28, 2013 Pride Foods, a Raiford, Fla., establishment, is recallingapproximately 116,404 pounds of beef pattie and chub products because of misbranding and an undeclared allergen, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The products contain soy, a...\n", "establishment": {"id": "M18506+P18506", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/pride-enterprise-food-products", "slug": "pride-enterprise-food-products", "name": "Pride Enterprise Food Products", "address": "13518 NE 258 th CT \n  Raiford, FL 32083", "telephone": "(813) 890-6542", "grant_date": "2020-11-12", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["10-lb. cases of 3, 4, and 6 oz. \u201cSavory Beef Patties.\u201d These products were exported to the Bahamas and distributed throughout the Caribbean.", "10-lb. cases of 4 oz. \u201cBeef Patties.\u201d This product was exported to the Bahamas and distributed throughout the Caribbean.", "24-lb. cases of 1 lb. \u201cBeef Pattie Mix\u201d chubs. This product was distributed to a food bank in Pennsylvania."], "quantity_recovered": 9542, "quantity_unit": "pounds", "states": null}
+{
+  "id": "048-2013",
+  "title": "Florida Firm Recalls Beef Pattie and Chub Products Due to Misbranding and Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/florida-firm-recalls-beef-pattie-and-chub-products-due-misbranding-and-undeclared",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2013-08-28",
+  "end_date": "2015-03-24",
+  "summary": "WASHINGTON, Aug. 28, 2013 Pride Foods, a Raiford, Fla., establishment, is recallingapproximately 116,404 pounds of beef pattie and chub products because of misbranding and an undeclared allergen, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The products contain soy, a...\n",
+  "establishment": {
+    "id": "M18506+P18506",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/pride-enterprise-food-products",
+    "slug": "pride-enterprise-food-products",
+    "name": "Pride Enterprise Food Products",
+    "address": "13518 NE 258 th CT \n  Raiford, FL 32083",
+    "telephone": "(813) 890-6542",
+    "grant_date": "2020-11-12",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "10-lb. cases of 3, 4, and 6 oz. \u201cSavory Beef Patties.\u201d These products were exported to the Bahamas and distributed throughout the Caribbean.",
+    "10-lb. cases of 4 oz. \u201cBeef Patties.\u201d This product was exported to the Bahamas and distributed throughout the Caribbean.",
+    "24-lb. cases of 1 lb. \u201cBeef Pattie Mix\u201d chubs. This product was distributed to a food bank in Pennsylvania."
+  ],
+  "quantity_recovered": 9542,
+  "quantity_unit": "pounds",
+  "states": null
+}

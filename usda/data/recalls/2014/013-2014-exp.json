@@ -1,1 +1,28 @@
-{"id": "013-2014-EXP", "title": "California Firm Recalls Unwholesome Meat Products Produced Without the Benefit of Full Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-unwholesome-meat-products-produced-without-benefit-full", "reasons": ["Produced Without Benefit of Inspection"], "status": "Active", "risk_level": "High", "start_date": "2014-02-18", "end_date": null, "summary": "EDITOR'S NOTE added on March 20, 2014: As of March 14, 2014, all FSIS recall effectiveness and product disposition verification checks for FSIS Recalls 002-2014 and 013-2014 regarding Rancho Feeding Corporation have been completed. FSIS has determined, based on the number of successful checks (the...\n", "establishment": null, "impacted_products": ["\"Beef Carcasses\u201d (wholesale and custom sales only)", "2 per box \"Beef (Market) Heads\" (retail only)"], "quantity_recovered": null, "quantity_unit": null, "states": ["California", "Florida", "Illinois", "Oregon", "Texas", "Washington"]}
+{
+  "id": "013-2014-EXP",
+  "title": "California Firm Recalls Unwholesome Meat Products Produced Without the Benefit of Full Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-unwholesome-meat-products-produced-without-benefit-full",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2014-02-18",
+  "end_date": null,
+  "summary": "EDITOR'S NOTE added on March 20, 2014: As of March 14, 2014, all FSIS recall effectiveness and product disposition verification checks for FSIS Recalls 002-2014 and 013-2014 regarding Rancho Feeding Corporation have been completed. FSIS has determined, based on the number of successful checks (the...\n",
+  "establishment": null,
+  "impacted_products": [
+    "\"Beef Carcasses\u201d (wholesale and custom sales only)",
+    "2 per box \"Beef (Market) Heads\" (retail only)"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "California",
+    "Florida",
+    "Illinois",
+    "Oregon",
+    "Texas",
+    "Washington"
+  ]
+}

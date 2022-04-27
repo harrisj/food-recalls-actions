@@ -1,1 +1,43 @@
-{"id": "029-2019", "title": "Monogram Meat Snacks, LLC Recalls Pork Sausage Products Due to Possible Product Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/monogram-meat-snacks-llc-recalls-pork-sausage-products-due-possible-product", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2019-03-13", "end_date": "2020-03-24", "summary": "WASHINGTON, March 13, 2019 Monogram Meat Snacks, LLC, a Martinsville, Va. establishment, is recalling approximately 191,928 pounds of ready-to-eat pork sausage products that may be adulterated due to possible product contamination, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. This...\n", "establishment": {"id": "M795+P795+V795", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/monogram-meat-snacks-llc", "slug": "monogram-meat-snacks-llc", "name": "Monogram Meat Snacks, LLC", "address": "200 Knauss Dr. \n  Martinsville, VA 24112", "telephone": "(276) 656-3500", "grant_date": "2017-09-08", "activities": ["Animal Foods Inspection", "Certification - Export", "Identification - Meat", "Identification - Poultry", "Meat Processing", "Poultry Processing"]}, "impacted_products": ["5-oz. plastic pouches of \u201cDUKE\u2019S HICKORY PEACH BBQ SMOKED SHORTY SAUSAGES, Made with A PEACH BBQ RELISH,\u201d that contain a package and case code of 1580002003, and various BEST IF USED BY dates from Jan. 16, 2020 through Jan. 27, 2020. ", "5-oz. plastic pouches of \u201cDUKE\u2019S HOT & SPICY SMOKED SHORTY SAUSAGES, Made with FRESH-DICED SERRANO PEPPERS,\u201d that contain a package and case code of 1601201052, and various BEST IF USED BY dates from Jan. 16, 2020 through Feb. 3, 2020. ", "16-oz. plastic pouches of \u201cDUKE\u2019S ORIGINAL RECIPE SMOKED SHORTY SAUSAGES, Made with A CLASSIC BLEND OF SPICES & FRESHLY-CHOPPED HERBS,\u201d that contain a package code of 1601201182, various BEST IF USED BY dates from Jan. 11, 2020 through Feb. 27, 2020, and ", "5-oz. plastic pouches of \u201cDUKE\u2019S CAJUN STYLE ANDOUILLE SMOKED SHORTY SAUSAGES, Made with ROASTED RED PEPPERS & CAJUN SPICES,\u201d that contain a package and case code of 1580002073, and various BEST IF USED BY dates from Jan. 10, 2020 through Feb. 13, 2020. ", "5-oz. plastic pouches of \u201cDUKE\u2019S ORIGINAL RECIPE SMOKED SHORTY SAUSAGES, Made with A CLASSIC BLEND OF SPICES & FRESHLY-CHOPPED HERBS,\u201d that contain a product and case code of 1601201051, and various BEST IF USED BY dates from Feb. 14, 2020 through Feb. 29", "5-oz. plastic pouches of \u201cDUKE\u2019S HATCH GREEN CHILE SMOKED SHORTY SAUSAGES, Made with ROASTED & DICED HATCH CHILES,\u201d that contain a package and case code of 1580002002, and various BEST IF USED BY dates from Jan. 13, 2020 through Feb. 3, 2020. ", "5-oz. plastic pouches of \u201cDUKE\u2019S ORIGINAL RECIPE SMOKED SHORTY SAUSAGES, Made with A CLASSIC BLEND OF SPICES & FRESHLY-CHOPPED HERBS,\u201d that contain a package code of 1601201051, various BEST IF USED BY dates from Feb. 17, 2020 through March 1, 2020, and a", "5-oz. plastic pouches of \u201cDUKE\u2019S HOT & SPICY SMOKED SHORTY SAUSAGES, Made with FRESH-DICED SERRANO PEPPERS,\u201d that contain a package code of 1601201052, various BEST IF USED BY dates from Jan. 16, 2020 through Feb. 24, 2020, and a case code of 1601201274. "], "quantity_recovered": null, "quantity_unit": null, "states": null}
+{
+  "id": "029-2019",
+  "title": "Monogram Meat Snacks, LLC Recalls Pork Sausage Products Due to Possible Product Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/monogram-meat-snacks-llc-recalls-pork-sausage-products-due-possible-product",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2019-03-13",
+  "end_date": "2020-03-24",
+  "summary": "WASHINGTON, March 13, 2019 Monogram Meat Snacks, LLC, a Martinsville, Va. establishment, is recalling approximately 191,928 pounds of ready-to-eat pork sausage products that may be adulterated due to possible product contamination, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. This...\n",
+  "establishment": {
+    "id": "M795+P795+V795",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/monogram-meat-snacks-llc",
+    "slug": "monogram-meat-snacks-llc",
+    "name": "Monogram Meat Snacks, LLC",
+    "address": "200 Knauss Dr. \n  Martinsville, VA 24112",
+    "telephone": "(276) 656-3500",
+    "grant_date": "2017-09-08",
+    "activities": [
+      "Animal Foods Inspection",
+      "Certification - Export",
+      "Identification - Meat",
+      "Identification - Poultry",
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "5-oz. plastic pouches of \u201cDUKE\u2019S HICKORY PEACH BBQ SMOKED SHORTY SAUSAGES, Made with A PEACH BBQ RELISH,\u201d that contain a package and case code of 1580002003, and various BEST IF USED BY dates from Jan. 16, 2020 through Jan. 27, 2020. ",
+    "5-oz. plastic pouches of \u201cDUKE\u2019S HOT & SPICY SMOKED SHORTY SAUSAGES, Made with FRESH-DICED SERRANO PEPPERS,\u201d that contain a package and case code of 1601201052, and various BEST IF USED BY dates from Jan. 16, 2020 through Feb. 3, 2020. ",
+    "16-oz. plastic pouches of \u201cDUKE\u2019S ORIGINAL RECIPE SMOKED SHORTY SAUSAGES, Made with A CLASSIC BLEND OF SPICES & FRESHLY-CHOPPED HERBS,\u201d that contain a package code of 1601201182, various BEST IF USED BY dates from Jan. 11, 2020 through Feb. 27, 2020, and ",
+    "5-oz. plastic pouches of \u201cDUKE\u2019S CAJUN STYLE ANDOUILLE SMOKED SHORTY SAUSAGES, Made with ROASTED RED PEPPERS & CAJUN SPICES,\u201d that contain a package and case code of 1580002073, and various BEST IF USED BY dates from Jan. 10, 2020 through Feb. 13, 2020. ",
+    "5-oz. plastic pouches of \u201cDUKE\u2019S ORIGINAL RECIPE SMOKED SHORTY SAUSAGES, Made with A CLASSIC BLEND OF SPICES & FRESHLY-CHOPPED HERBS,\u201d that contain a product and case code of 1601201051, and various BEST IF USED BY dates from Feb. 14, 2020 through Feb. 29",
+    "5-oz. plastic pouches of \u201cDUKE\u2019S HATCH GREEN CHILE SMOKED SHORTY SAUSAGES, Made with ROASTED & DICED HATCH CHILES,\u201d that contain a package and case code of 1580002002, and various BEST IF USED BY dates from Jan. 13, 2020 through Feb. 3, 2020. ",
+    "5-oz. plastic pouches of \u201cDUKE\u2019S ORIGINAL RECIPE SMOKED SHORTY SAUSAGES, Made with A CLASSIC BLEND OF SPICES & FRESHLY-CHOPPED HERBS,\u201d that contain a package code of 1601201051, various BEST IF USED BY dates from Feb. 17, 2020 through March 1, 2020, and a",
+    "5-oz. plastic pouches of \u201cDUKE\u2019S HOT & SPICY SMOKED SHORTY SAUSAGES, Made with FRESH-DICED SERRANO PEPPERS,\u201d that contain a package code of 1601201052, various BEST IF USED BY dates from Jan. 16, 2020 through Feb. 24, 2020, and a case code of 1601201274. "
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}

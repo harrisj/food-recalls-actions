@@ -1,1 +1,23 @@
-{"id": "PHA-032412-01", "title": "FSIS Issues Public Health Alert for Imported Canadian Ground Beef Patties", "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-imported-canadian-ground-beef-patties", "reasons": ["Product Contamination"], "status": "Active", "risk_level": null, "start_date": "2012-03-24", "end_date": null, "summary": "Editor's Note: New Food Classics is based in Burlington, Ontario. The plant that produced this product is located in Saskatoon, Saskatchewan. WASHINGTON, March 24, 2012-The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) is announcing a public health alert for ground beef patties...", "establishment": null, "impacted_products": ["10 lb. boxes of PRIME RIB BEEF PATTIES 8 oz, with product code 55317, and production code 11 NO 22", "10 lb boxes of PRIME RIB BEEF PATTIES 71g, with product code 55391 and bearing a production code of 11 SE 01 or 12 JA 04"], "quantity_recovered": null, "quantity_unit": null, "states": ["Washington"]}
+{
+  "id": "PHA-032412-01",
+  "title": "FSIS Issues Public Health Alert for Imported Canadian Ground Beef Patties",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-imported-canadian-ground-beef-patties",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2012-03-24",
+  "end_date": null,
+  "summary": "Editor's Note: New Food Classics is based in Burlington, Ontario. The plant that produced this product is located in Saskatoon, Saskatchewan. WASHINGTON, March 24, 2012-The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) is announcing a public health alert for ground beef patties...",
+  "establishment": null,
+  "impacted_products": [
+    "10 lb. boxes of PRIME RIB BEEF PATTIES 8 oz, with product code 55317, and production code 11 NO 22",
+    "10 lb boxes of PRIME RIB BEEF PATTIES 71g, with product code 55391 and bearing a production code of 11 SE 01 or 12 JA 04"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Washington"
+  ]
+}

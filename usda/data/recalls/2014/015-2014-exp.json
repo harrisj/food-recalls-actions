@@ -1,1 +1,21 @@
-{"id": "015-2014-EXP", "title": "Washington Firm Recalls Dried Egg Products Due To Possible Salmonella Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/washington-firm-recalls-dried-egg-products-due-possible-salmonella-contamination", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2014-04-14", "end_date": "2016-12-13", "summary": "EDITOR'S NOTE: This release is being reissued to reflect an additional 82,884 pounds of products produced on dates that were not included in the Feb. 15, 2014 release WASHINGTON, April 14, 2014 Nutriom LLC, a Lacey, Wash. establishment, is recalling an additional 82,884 pounds of...\n", "establishment": null, "impacted_products": ["3,884-lb. super sack of \u201cOvaEasy Plain Whole Egg\u201d with the lot code \u201cH0613-B\u201d", "1.75-lb. packs of \u201cOvaEasy Plain Whole Egg\u201d with lot code 2814-A and the Julian dates \u201c0374,\u201d \u201c0384,\u201d \u201c2683\u201d and \u201c2693\u201d"], "quantity_recovered": 31804, "quantity_unit": "pounds", "states": null}
+{
+  "id": "015-2014-EXP",
+  "title": "Washington Firm Recalls Dried Egg Products Due To Possible Salmonella Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/washington-firm-recalls-dried-egg-products-due-possible-salmonella-contamination",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2014-04-14",
+  "end_date": "2016-12-13",
+  "summary": "EDITOR'S NOTE: This release is being reissued to reflect an additional 82,884 pounds of products produced on dates that were not included in the Feb. 15, 2014 release WASHINGTON, April 14, 2014 Nutriom LLC, a Lacey, Wash. establishment, is recalling an additional 82,884 pounds of...\n",
+  "establishment": null,
+  "impacted_products": [
+    "3,884-lb. super sack of \u201cOvaEasy Plain Whole Egg\u201d with the lot code \u201cH0613-B\u201d",
+    "1.75-lb. packs of \u201cOvaEasy Plain Whole Egg\u201d with lot code 2814-A and the Julian dates \u201c0374,\u201d \u201c0384,\u201d \u201c2683\u201d and \u201c2693\u201d"
+  ],
+  "quantity_recovered": 31804,
+  "quantity_unit": "pounds",
+  "states": null
+}

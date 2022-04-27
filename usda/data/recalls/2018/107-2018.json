@@ -1,1 +1,32 @@
-{"id": "107-2018", "title": "Procesadora La Hacienda, Inc., Recalls Beef Products due to Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/procesadora-la-hacienda-inc.-recalls-beef-products-due-possible-foreign-matter-0", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2018-10-31", "end_date": "2019-05-06", "summary": "EDITORS NOTE: Details of this recall were updated Dec. 19, 2018 to reflect increased poundage produced. WASHINGTON, Oct. 31, 2018 Procesadora La Hacienda, Inc., a San Lorenzo, P.R. establishment, is recalling approximately 10,200 pounds of ready-to-eat (RTE) corned beef products that may be contaminated with...", "establishment": {"id": "M21217A+P21217A", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/procesadora-la-hacienda-inc", "slug": "procesadora-la-hacienda-inc", "name": "Procesadora La Hacienda, Inc.", "address": "Bo. Cerro Gordo Carr 183 Int 916 \n  San Lorenzo, PR 754", "telephone": "(787) 734-4178", "grant_date": "2016-09-09", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": 518, "quantity_unit": "pounds", "states": ["Puerto Rico"]}
+{
+  "id": "107-2018",
+  "title": "Procesadora La Hacienda, Inc., Recalls Beef Products due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/procesadora-la-hacienda-inc.-recalls-beef-products-due-possible-foreign-matter-0",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2018-10-31",
+  "end_date": "2019-05-06",
+  "summary": "EDITORS NOTE: Details of this recall were updated Dec. 19, 2018 to reflect increased poundage produced. WASHINGTON, Oct. 31, 2018 Procesadora La Hacienda, Inc., a San Lorenzo, P.R. establishment, is recalling approximately 10,200 pounds of ready-to-eat (RTE) corned beef products that may be contaminated with...",
+  "establishment": {
+    "id": "M21217A+P21217A",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/procesadora-la-hacienda-inc",
+    "slug": "procesadora-la-hacienda-inc",
+    "name": "Procesadora La Hacienda, Inc.",
+    "address": "Bo. Cerro Gordo Carr 183 Int 916 \n  San Lorenzo, PR 754",
+    "telephone": "(787) 734-4178",
+    "grant_date": "2016-09-09",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 518,
+  "quantity_unit": "pounds",
+  "states": [
+    "Puerto Rico"
+  ]
+}

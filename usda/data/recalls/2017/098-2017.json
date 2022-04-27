@@ -1,1 +1,39 @@
-{"id": "098-2017", "title": "Blossom Foods, LLC Recalls Frozen Meat Products Due to Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/blossom-foods-llc-recalls-frozen-meat-products-due-misbranding-and-undeclared", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2017-08-26", "end_date": "2017-09-29", "summary": "WASHINGTON, Aug. 26, 2017 Blossom Foods, LLC, an Oakland, Calif. establishment, is recalling approximately 15,092 pounds of beef, chicken and pork products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products contain soy...\n", "establishment": {"id": "M51200+P51200", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/blossom-foods-llc", "slug": "blossom-foods-llc", "name": "Blossom Foods, LLC", "address": "2533 Peralta Street \n  Oakland, CA 94607", "telephone": "(510) 697-2915", "grant_date": "2015-11-12", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["6.6-lb. case of \u201cBarbequed Beef, Corn, Baked Beans\u201d", "5.5-lb. case of \u201cBarbeque Beef\u201d", "10-lb. case of \u201cSavory Beef\u201d", "5.5-lb. case of \u201cSesame chicken"], "quantity_recovered": 522, "quantity_unit": "pounds", "states": ["California", "Ohio"]}
+{
+  "id": "098-2017",
+  "title": "Blossom Foods, LLC Recalls Frozen Meat Products Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/blossom-foods-llc-recalls-frozen-meat-products-due-misbranding-and-undeclared",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2017-08-26",
+  "end_date": "2017-09-29",
+  "summary": "WASHINGTON, Aug. 26, 2017 Blossom Foods, LLC, an Oakland, Calif. establishment, is recalling approximately 15,092 pounds of beef, chicken and pork products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products contain soy...\n",
+  "establishment": {
+    "id": "M51200+P51200",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/blossom-foods-llc",
+    "slug": "blossom-foods-llc",
+    "name": "Blossom Foods, LLC",
+    "address": "2533 Peralta Street \n  Oakland, CA 94607",
+    "telephone": "(510) 697-2915",
+    "grant_date": "2015-11-12",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "6.6-lb. case of \u201cBarbequed Beef, Corn, Baked Beans\u201d",
+    "5.5-lb. case of \u201cBarbeque Beef\u201d",
+    "10-lb. case of \u201cSavory Beef\u201d",
+    "5.5-lb. case of \u201cSesame chicken"
+  ],
+  "quantity_recovered": 522,
+  "quantity_unit": "pounds",
+  "states": [
+    "California",
+    "Ohio"
+  ]
+}

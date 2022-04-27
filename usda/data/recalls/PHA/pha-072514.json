@@ -1,1 +1,28 @@
-{"id": "pha-072514", "title": "FSIS Issues Public Health Alert for Processed Breaded Chicken Products Produced Without the Benefit of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-processed-breaded-chicken-products-produced-without", "reasons": ["Unfit for Human Consumption"], "status": "Active", "risk_level": null, "start_date": "2014-07-25", "end_date": null, "summary": "WASHINGTON, July 25, 2014 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert because VU Foods, LLC, a Kansas City, Mo., establishment, refused to issue a recall of breaded chicken products for which there is reason...\n", "establishment": null, "impacted_products": ["Select Cut \u2013 Cubed Chicken Breast Meat (product code: 10800)", "Select Cut \u2013 Cubed Chicken Breast Meat (product code: 10810)", "Cubed Chicken Breast Meat (product code: 10500)", "Pre-Battered Chicken Tender (product code: 80022)", "Boneless All Natural Chicken Breast Nuggets (product code: 8550)", "Chicken Dark Meat Nuggets (product code: 20505)", "KIKKA Boneless All Natural Chicken Breast Nuggets, packed exclusively for KIKKA RESTAURANTS"], "quantity_recovered": null, "quantity_unit": null, "states": ["Missouri"]}
+{
+  "id": "pha-072514",
+  "title": "FSIS Issues Public Health Alert for Processed Breaded Chicken Products Produced Without the Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-processed-breaded-chicken-products-produced-without",
+  "reasons": [
+    "Unfit for Human Consumption"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2014-07-25",
+  "end_date": null,
+  "summary": "WASHINGTON, July 25, 2014 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert because VU Foods, LLC, a Kansas City, Mo., establishment, refused to issue a recall of breaded chicken products for which there is reason...\n",
+  "establishment": null,
+  "impacted_products": [
+    "Select Cut \u2013 Cubed Chicken Breast Meat (product code: 10800)",
+    "Select Cut \u2013 Cubed Chicken Breast Meat (product code: 10810)",
+    "Cubed Chicken Breast Meat (product code: 10500)",
+    "Pre-Battered Chicken Tender (product code: 80022)",
+    "Boneless All Natural Chicken Breast Nuggets (product code: 8550)",
+    "Chicken Dark Meat Nuggets (product code: 20505)",
+    "KIKKA Boneless All Natural Chicken Breast Nuggets, packed exclusively for KIKKA RESTAURANTS"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Missouri"
+  ]
+}

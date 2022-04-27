@@ -1,1 +1,16 @@
-{"id": "139-2015", "title": "Cloverdale Foods Company Recalls Beef and Pork Product Due to Misbranding and Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/cloverdale-foods-company-recalls-beef-and-pork-product-due-misbranding-and", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2015-11-07", "end_date": "2016-12-13", "summary": "WASHINGTON, Nov. 7, 2015 Cloverdale Foods Company, a Mandan, ND, establishment, is recalling approximately 5,208 pounds of beef and pork jalape\u00c2\u00a7o cheddar bratwurst product due to misbranding and an undeclared allergen, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The...", "establishment": null, "impacted_products": [], "quantity_recovered": 3348, "quantity_unit": "pounds", "states": null}
+{
+  "id": "139-2015",
+  "title": "Cloverdale Foods Company Recalls Beef and Pork Product Due to Misbranding and Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/cloverdale-foods-company-recalls-beef-and-pork-product-due-misbranding-and",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2015-11-07",
+  "end_date": "2016-12-13",
+  "summary": "WASHINGTON, Nov. 7, 2015 Cloverdale Foods Company, a Mandan, ND, establishment, is recalling approximately 5,208 pounds of beef and pork jalape\u00c2\u00a7o cheddar bratwurst product due to misbranding and an undeclared allergen, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 3348,
+  "quantity_unit": "pounds",
+  "states": null
+}

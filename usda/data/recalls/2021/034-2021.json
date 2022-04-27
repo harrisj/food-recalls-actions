@@ -1,1 +1,21 @@
-{"id": "034-2021", "title": "  Nestl\u00e9 USA Inc. Recalls Frozen DiGiorno Crispy Pan Crust Pepperoni Pizza Due to Misbranding and Undeclared Allergens  ", "url": "https://www.fsis.usda.gov/recalls-alerts/nestle-usa-inc.-recalls-frozen-digiorno-crispy-pan-crust-pepperoni-pizza-due", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2021-09-26", "end_date": "2022-01-07", "summary": "WASHINGTON, Sept. 26, 2021 \u2013 Nestle USA Inc., a firm in Schaumburg, Ill., is recalling approximately 27,872 pounds of frozen DiGiorno Crispy Pan Crust pepperoni pizza due to misbranding and undeclared allergens, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today...\n", "establishment": null, "impacted_products": ["26-oz. carton containing \u201cDIGIORNO PEPPERONI CRISPY PAN CRUST\u201d with lot code 1181510721 and \u201cBest Buy\u201d date of MAR2022 on the label. "], "quantity_recovered": 5239, "quantity_unit": "lbs", "states": null}
+{
+  "id": "034-2021",
+  "title": "  Nestl\u00e9 USA Inc. Recalls Frozen DiGiorno Crispy Pan Crust Pepperoni Pizza Due to Misbranding and Undeclared Allergens  ",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/nestle-usa-inc.-recalls-frozen-digiorno-crispy-pan-crust-pepperoni-pizza-due",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2021-09-26",
+  "end_date": "2022-01-07",
+  "summary": "WASHINGTON, Sept. 26, 2021 \u2013 Nestle USA Inc., a firm in Schaumburg, Ill., is recalling approximately 27,872 pounds of frozen DiGiorno Crispy Pan Crust pepperoni pizza due to misbranding and undeclared allergens, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today...\n",
+  "establishment": null,
+  "impacted_products": [
+    "26-oz. carton containing \u201cDIGIORNO PEPPERONI CRISPY PAN CRUST\u201d with lot code 1181510721 and \u201cBest Buy\u201d date of MAR2022 on the label. "
+  ],
+  "quantity_recovered": 5239,
+  "quantity_unit": "lbs",
+  "states": null
+}

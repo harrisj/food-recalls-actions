@@ -1,1 +1,34 @@
-{"id": "100-2017", "title": "Northside Noodle Company Recalls Meatball Products Due To Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/northside-noodle-company-recalls-meatball-products-due-misbranding-and-undeclared", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2017-09-08", "end_date": "2017-09-18", "summary": "WASHINGTON, Sept. 8, 2017 Northside Noodle Company, an Iron Mountain, Mich., establishment, is recalling approximately 123 pounds of meatball products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product contains soy, a known...", "establishment": {"id": "M10062", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/northside-noodle-co", "slug": "northside-noodle-co", "name": "Northside Noodle Co", "address": "609 Vulcan Street \n  Iron Mountain, MI 49801", "telephone": "(906) 396-7521", "grant_date": "2020-08-06", "activities": ["Meat Processing"]}, "impacted_products": ["\u20221-lb. polystyrene foam packages containing \u201cRagazzo\u2019s ITALIAN STYLE MEATBALL MIX,\u201d with lot codes 2008, 2024 and 2044."], "quantity_recovered": 123, "quantity_unit": "pounds", "states": ["Michigan"]}
+{
+  "id": "100-2017",
+  "title": "Northside Noodle Company Recalls Meatball Products Due To Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/northside-noodle-company-recalls-meatball-products-due-misbranding-and-undeclared",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2017-09-08",
+  "end_date": "2017-09-18",
+  "summary": "WASHINGTON, Sept. 8, 2017 Northside Noodle Company, an Iron Mountain, Mich., establishment, is recalling approximately 123 pounds of meatball products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product contains soy, a known...",
+  "establishment": {
+    "id": "M10062",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/northside-noodle-co",
+    "slug": "northside-noodle-co",
+    "name": "Northside Noodle Co",
+    "address": "609 Vulcan Street \n  Iron Mountain, MI 49801",
+    "telephone": "(906) 396-7521",
+    "grant_date": "2020-08-06",
+    "activities": [
+      "Meat Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u20221-lb. polystyrene foam packages containing \u201cRagazzo\u2019s ITALIAN STYLE MEATBALL MIX,\u201d with lot codes 2008, 2024 and 2044."
+  ],
+  "quantity_recovered": 123,
+  "quantity_unit": "pounds",
+  "states": [
+    "Michigan"
+  ]
+}

@@ -1,1 +1,32 @@
-{"id": "010-2018", "title": "Saker ShopRites, Inc. Recalls Empanadas due to Misbranding and an Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/saker-shoprites-inc.-recalls-empanadas-due-misbranding-and-undeclared-allergen", "reasons": ["Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2018-02-14", "end_date": "2018-04-11", "summary": "WASHINGTON, Feb. 14, 2018 Saker ShopRites, Inc., a Linden, N.J. establishment, is recalling approximately 19,757 pounds of pork and chicken empanadas due to misbranding and an undeclared allergen, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products contain egg...", "establishment": {"id": "M5495+P5495", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/saker-shoprites-inc", "slug": "saker-shoprites-inc", "name": "Saker Shoprites Inc", "address": "1911 Pennsylvania Avenue \n  Linden, NJ 7036", "telephone": "(908) 925-1550", "grant_date": "2018-05-02", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": 824, "quantity_unit": "pounds", "states": ["New Jersey"]}
+{
+  "id": "010-2018",
+  "title": "Saker ShopRites, Inc. Recalls Empanadas due to Misbranding and an Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/saker-shoprites-inc.-recalls-empanadas-due-misbranding-and-undeclared-allergen",
+  "reasons": [
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2018-02-14",
+  "end_date": "2018-04-11",
+  "summary": "WASHINGTON, Feb. 14, 2018 Saker ShopRites, Inc., a Linden, N.J. establishment, is recalling approximately 19,757 pounds of pork and chicken empanadas due to misbranding and an undeclared allergen, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products contain egg...",
+  "establishment": {
+    "id": "M5495+P5495",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/saker-shoprites-inc",
+    "slug": "saker-shoprites-inc",
+    "name": "Saker Shoprites Inc",
+    "address": "1911 Pennsylvania Avenue \n  Linden, NJ 7036",
+    "telephone": "(908) 925-1550",
+    "grant_date": "2018-05-02",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 824,
+  "quantity_unit": "pounds",
+  "states": [
+    "New Jersey"
+  ]
+}

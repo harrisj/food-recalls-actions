@@ -1,1 +1,26 @@
-{"id": "055-2011", "title": "New York Importer Recalls Bacon Products for Possible Listeria Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/new-york-importer-recalls-bacon-products-possible-listeria-contamination", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2011-07-22", "end_date": "2012-06-02", "summary": "WASHINGTON, July 22, 2011-\u2013 Jetro Cash and Carry Enterprises LLC/R.D. Food Services LP, an importer from New York, is recalling approximately 2,900 pounds of diced bacon products that may be contaminated with Listeria monocytogenes, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS)...\n", "establishment": null, "impacted_products": ["10 lb. shipping container with 2, 5 lb. bags boxes containing 2 5-lb bags of \u201cAssoluti Cooked Diced Bacon\u201d"], "quantity_recovered": 2300, "quantity_unit": "pounds", "states": ["Florida", "Illinois", "Indiana", "Michigan", "Ohio"]}
+{
+  "id": "055-2011",
+  "title": "New York Importer Recalls Bacon Products for Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/new-york-importer-recalls-bacon-products-possible-listeria-contamination",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2011-07-22",
+  "end_date": "2012-06-02",
+  "summary": "WASHINGTON, July 22, 2011-\u2013 Jetro Cash and Carry Enterprises LLC/R.D. Food Services LP, an importer from New York, is recalling approximately 2,900 pounds of diced bacon products that may be contaminated with Listeria monocytogenes, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS)...\n",
+  "establishment": null,
+  "impacted_products": [
+    "10 lb. shipping container with 2, 5 lb. bags boxes containing 2 5-lb bags of \u201cAssoluti Cooked Diced Bacon\u201d"
+  ],
+  "quantity_recovered": 2300,
+  "quantity_unit": "pounds",
+  "states": [
+    "Florida",
+    "Illinois",
+    "Indiana",
+    "Michigan",
+    "Ohio"
+  ]
+}

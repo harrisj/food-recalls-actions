@@ -1,1 +1,22 @@
-{"id": "087-2014", "title": "Canadian Firm Recalls Pork Products Produced Without Benefit of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/canadian-firm-recalls-pork-products-produced-without-benefit-inspection", "reasons": ["Produced Without Benefit of Inspection"], "status": "Closed", "risk_level": "High", "start_date": "2014-12-22", "end_date": "2015-03-24", "summary": "WASHINGTON, December 22, 2014 BMG Trading, Inc. an Oakville, Ontario establishment, is recalling approximately 26,108 pounds of pork products that were produced without the benefit of federal inspection, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The Pork Leg Flank...\n", "establishment": null, "impacted_products": ["1800 lb. (approximate) combo bins containing 65 \u2013 75 legs of \u201cPORK LEG FLANK ON COMBO.\u201d"], "quantity_recovered": 15236, "quantity_unit": "pounds", "states": ["Arizona"]}
+{
+  "id": "087-2014",
+  "title": "Canadian Firm Recalls Pork Products Produced Without Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/canadian-firm-recalls-pork-products-produced-without-benefit-inspection",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2014-12-22",
+  "end_date": "2015-03-24",
+  "summary": "WASHINGTON, December 22, 2014 BMG Trading, Inc. an Oakville, Ontario establishment, is recalling approximately 26,108 pounds of pork products that were produced without the benefit of federal inspection, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The Pork Leg Flank...\n",
+  "establishment": null,
+  "impacted_products": [
+    "1800 lb. (approximate) combo bins containing 65 \u2013 75 legs of \u201cPORK LEG FLANK ON COMBO.\u201d"
+  ],
+  "quantity_recovered": 15236,
+  "quantity_unit": "pounds",
+  "states": [
+    "Arizona"
+  ]
+}

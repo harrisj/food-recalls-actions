@@ -1,1 +1,20 @@
-{"id": "044-2018 Expansion", "title": "Supermercado Selectos, San Sebasti\u2020n, Recalls Raw, Frozen Siluriformes Fish, Meat and Poultry Products Produced Without Benefit of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/supermercado-selectos-san-sebastin-recalls-raw-frozen-siluriformes-fish-meat-and", "reasons": ["Produced Without Benefit of Inspection"], "status": "Closed", "risk_level": "High", "start_date": "2018-06-07", "end_date": "2019-01-08", "summary": "EDITORS NOTE: This release was updated on June 7, 2018 to reflect additional products. WASHINGTON, June. 7, 2018 Supermercado Selectos, a San Sebasti\u00e2\u20ac n, Puerto Rico firm, is recalling an undetermined amount of various raw, frozen Siluriformes fish, beef, pork and poultry products that were...", "establishment": null, "impacted_products": [], "quantity_recovered": 7802, "quantity_unit": "pounds", "states": ["Puerto Rico"]}
+{
+  "id": "044-2018 Expansion",
+  "title": "Supermercado Selectos, San Sebasti\u2020n, Recalls Raw, Frozen Siluriformes Fish, Meat and Poultry Products Produced Without Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/supermercado-selectos-san-sebastin-recalls-raw-frozen-siluriformes-fish-meat-and",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2018-06-07",
+  "end_date": "2019-01-08",
+  "summary": "EDITORS NOTE: This release was updated on June 7, 2018 to reflect additional products. WASHINGTON, June. 7, 2018 Supermercado Selectos, a San Sebasti\u00e2\u20ac n, Puerto Rico firm, is recalling an undetermined amount of various raw, frozen Siluriformes fish, beef, pork and poultry products that were...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 7802,
+  "quantity_unit": "pounds",
+  "states": [
+    "Puerto Rico"
+  ]
+}

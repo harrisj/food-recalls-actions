@@ -1,1 +1,20 @@
-{"id": "002-2021", "title": "Nestl\u00e9 Prepared Foods Recalls Not-Ready-to-Eat Pepperoni Hot Pockets Product Due to Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/nestle-prepared-foods-recalls-not-ready-eat-pepperoni-hot-pockets-product-due", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2021-01-15", "end_date": "2021-03-22", "summary": "Nestl\u00e9 Prepared Foods, a Mt. Sterling, Ky. establishment, is recalling approximately 762,615 pounds of not-ready-to-eat (NRTE) pepperoni hot pockets product that may be contaminated with extraneous materials, specifically pieces of glass and hard plastic, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS)...\n", "establishment": null, "impacted_products": ["54-oz carton packages containing 12 \u201cNestl\u00e9 HOT POCKETS BRAND SANDWICHES: PREMIUM PEPPERONI MADE WITH PORK, CHICKEN & BEEF PIZZA GARLIC BUTTERY CRUST\u201d with a \u201cBEST BEFORE FEB 2022\u201d date and lot codes 0318544624, 0319544614, 0320544614, and 0321544614."], "quantity_recovered": 219510, "quantity_unit": "pounds", "states": null}
+{
+  "id": "002-2021",
+  "title": "Nestl\u00e9 Prepared Foods Recalls Not-Ready-to-Eat Pepperoni Hot Pockets Product Due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/nestle-prepared-foods-recalls-not-ready-eat-pepperoni-hot-pockets-product-due",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2021-01-15",
+  "end_date": "2021-03-22",
+  "summary": "Nestl\u00e9 Prepared Foods, a Mt. Sterling, Ky. establishment, is recalling approximately 762,615 pounds of not-ready-to-eat (NRTE) pepperoni hot pockets product that may be contaminated with extraneous materials, specifically pieces of glass and hard plastic, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS)...\n",
+  "establishment": null,
+  "impacted_products": [
+    "54-oz carton packages containing 12 \u201cNestl\u00e9 HOT POCKETS BRAND SANDWICHES: PREMIUM PEPPERONI MADE WITH PORK, CHICKEN & BEEF PIZZA GARLIC BUTTERY CRUST\u201d with a \u201cBEST BEFORE FEB 2022\u201d date and lot codes 0318544624, 0319544614, 0320544614, and 0321544614."
+  ],
+  "quantity_recovered": 219510,
+  "quantity_unit": "pounds",
+  "states": null
+}

@@ -1,1 +1,18 @@
-{"id": "PHA-09042020-01", "title": "FSIS Issues Public Health Alert for Ineligible Imported Cooked Duck Blood Curds from China", "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ineligible-imported-cooked-duck-blood-curds-china", "reasons": ["Unfit for Human Consumption"], "status": "Active", "risk_level": null, "start_date": "2020-09-04", "end_date": null, "summary": "WASHINGTON, Sept. 4, 2020 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for an undetermined amount of imported cooked duck blood curds from China. A recall was not requested because FSIS has been unable to...\n", "establishment": null, "impacted_products": [], "quantity_recovered": null, "quantity_unit": null, "states": null}
+{
+  "id": "PHA-09042020-01",
+  "title": "FSIS Issues Public Health Alert for Ineligible Imported Cooked Duck Blood Curds from China",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ineligible-imported-cooked-duck-blood-curds-china",
+  "reasons": [
+    "Unfit for Human Consumption"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2020-09-04",
+  "end_date": null,
+  "summary": "WASHINGTON, Sept. 4, 2020 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for an undetermined amount of imported cooked duck blood curds from China. A recall was not requested because FSIS has been unable to...\n",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}

@@ -1,1 +1,38 @@
-{"id": "005-2018", "title": "Perdue Foods LLC Recalls Chicken Products due to Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/perdue-foods-llc-recalls-chicken-products-due-misbranding-and-undeclared-allergens", "reasons": ["Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2018-01-23", "end_date": "2018-02-23", "summary": "WASHINGTON, January 23, 2018 Perdue Foods LLC, a Monterey, Tenn. establishment, is recalling approximately 530 pounds of chicken products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product contains eggs, a known allergen...", "establishment": {"id": "M11507+P11507+V11507", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/perdue-foods-llc-16", "slug": "perdue-foods-llc-16", "name": "Perdue Foods LLC", "address": "2300 Industrial Dr \n  Monterey, TN 38574", "telephone": "(931) 839-5000", "grant_date": "2018-12-10", "activities": ["Meat Processing", "Poultry Processing", "Voluntary Processing - Meat", "Voluntary Processing - Poultry", "Voluntary Slaughter - Meat", "Voluntary Slaughter - Poultry"]}, "impacted_products": [], "quantity_recovered": 170, "quantity_unit": "pounds", "states": ["Florida", "Maryland", "Washington"]}
+{
+  "id": "005-2018",
+  "title": "Perdue Foods LLC Recalls Chicken Products due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/perdue-foods-llc-recalls-chicken-products-due-misbranding-and-undeclared-allergens",
+  "reasons": [
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2018-01-23",
+  "end_date": "2018-02-23",
+  "summary": "WASHINGTON, January 23, 2018 Perdue Foods LLC, a Monterey, Tenn. establishment, is recalling approximately 530 pounds of chicken products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product contains eggs, a known allergen...",
+  "establishment": {
+    "id": "M11507+P11507+V11507",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/perdue-foods-llc-16",
+    "slug": "perdue-foods-llc-16",
+    "name": "Perdue Foods LLC",
+    "address": "2300 Industrial Dr \n  Monterey, TN 38574",
+    "telephone": "(931) 839-5000",
+    "grant_date": "2018-12-10",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing",
+      "Voluntary Processing - Meat",
+      "Voluntary Processing - Poultry",
+      "Voluntary Slaughter - Meat",
+      "Voluntary Slaughter - Poultry"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 170,
+  "quantity_unit": "pounds",
+  "states": [
+    "Florida",
+    "Maryland",
+    "Washington"
+  ]
+}

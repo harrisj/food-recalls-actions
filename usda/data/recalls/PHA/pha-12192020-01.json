@@ -1,1 +1,25 @@
-{"id": "PHA-12192020-01", "title": " FSIS Issues Public Health Alert for Ineligible Imported Raw Frozen New Orleans - Roasted Chicken Wings from the Peoples Republic of China ", "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ineligible-imported-raw-frozen-new-orleans-roasted", "reasons": ["Mislabeling", "Produced Without Benefit of Inspection"], "status": "Active", "risk_level": null, "start_date": "2020-12-19", "end_date": null, "summary": "The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for raw frozen New Orleans -Roasted Chicken Wings products imported and labeled with a false USDA mark of inspection. A recall was not requested because the known affected...\n", "establishment": null, "impacted_products": ["New Orleans Organic Roasted Chicken wings "], "quantity_recovered": null, "quantity_unit": null, "states": ["California", "Oregon", "Washington"]}
+{
+  "id": "PHA-12192020-01",
+  "title": " FSIS Issues Public Health Alert for Ineligible Imported Raw Frozen New Orleans - Roasted Chicken Wings from the Peoples Republic of China ",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ineligible-imported-raw-frozen-new-orleans-roasted",
+  "reasons": [
+    "Mislabeling",
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2020-12-19",
+  "end_date": null,
+  "summary": "The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for raw frozen New Orleans -Roasted Chicken Wings products imported and labeled with a false USDA mark of inspection. A recall was not requested because the known affected...\n",
+  "establishment": null,
+  "impacted_products": [
+    "New Orleans Organic Roasted Chicken wings "
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "California",
+    "Oregon",
+    "Washington"
+  ]
+}

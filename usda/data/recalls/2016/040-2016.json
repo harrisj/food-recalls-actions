@@ -1,1 +1,29 @@
-{"id": "040-2016", "title": "Ajinomoto Windsor, Inc. Recalls Meat and Poultry Products Due to Possible Listeria Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/ajinomoto-windsor-inc.-recalls-meat-and-poultry-products-due-possible-listeria", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2016-05-11", "end_date": "2017-01-11", "summary": "WASHINGTON, May 11, 2016 Ajinomoto Windsor, Inc., with establishments in Fort Worth, Texas; Los Angeles, Calif.; Carthage, Mo.; and Portland, Ore., is recalling approximately 47,112,256 pounds of not-ready-to-eat meat and poultry products that may be adulterated with Listeria monocytogenes, the U.S. Department of Agricultures Food...", "establishment": {"id": "V18356A", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/ajinomoto-windsor-inc", "slug": "ajinomoto-windsor-inc", "name": "Ajinomoto Windsor Inc.", "address": "4901 SE 24th \n  Portland, OR 97202", "telephone": "(503) 847-2227", "grant_date": "2015-08-06", "activities": ["Certification - Export", "Identification - Meat", "Identification - Poultry"]}, "impacted_products": [], "quantity_recovered": 2058777, "quantity_unit": "pounds", "states": null}
+{
+  "id": "040-2016",
+  "title": "Ajinomoto Windsor, Inc. Recalls Meat and Poultry Products Due to Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/ajinomoto-windsor-inc.-recalls-meat-and-poultry-products-due-possible-listeria",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2016-05-11",
+  "end_date": "2017-01-11",
+  "summary": "WASHINGTON, May 11, 2016 Ajinomoto Windsor, Inc., with establishments in Fort Worth, Texas; Los Angeles, Calif.; Carthage, Mo.; and Portland, Ore., is recalling approximately 47,112,256 pounds of not-ready-to-eat meat and poultry products that may be adulterated with Listeria monocytogenes, the U.S. Department of Agricultures Food...",
+  "establishment": {
+    "id": "V18356A",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/ajinomoto-windsor-inc",
+    "slug": "ajinomoto-windsor-inc",
+    "name": "Ajinomoto Windsor Inc.",
+    "address": "4901 SE 24th \n  Portland, OR 97202",
+    "telephone": "(503) 847-2227",
+    "grant_date": "2015-08-06",
+    "activities": [
+      "Certification - Export",
+      "Identification - Meat",
+      "Identification - Poultry"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 2058777,
+  "quantity_unit": "pounds",
+  "states": null
+}

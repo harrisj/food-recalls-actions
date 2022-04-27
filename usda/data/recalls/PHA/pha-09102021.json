@@ -1,1 +1,22 @@
-{"id": "PHA-09102021", "title": "FSIS Issues Public Health Alert For Meat Snack Products Containing FDA-Regulated Breadstick Products That Have Been Recalled Due To Misbranding And An Undeclared Ingredient", "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-meat-snack-products-containing-fda-regulated", "reasons": ["Misbranding"], "status": "Active", "risk_level": null, "start_date": "2021-09-10", "end_date": null, "summary": "WASHINGTON, Sept. 10, 2021 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for ready-to-eat (RTE) breadsticks, meat and cheese products containing Food and Drug Administration (FDA) regulated breadsticks that have been recalled by the producer...\n", "establishment": null, "impacted_products": [], "quantity_recovered": null, "quantity_unit": null, "states": ["Texas", "North Carolina", "Tennessee"]}
+{
+  "id": "PHA-09102021",
+  "title": "FSIS Issues Public Health Alert For Meat Snack Products Containing FDA-Regulated Breadstick Products That Have Been Recalled Due To Misbranding And An Undeclared Ingredient",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-meat-snack-products-containing-fda-regulated",
+  "reasons": [
+    "Misbranding"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2021-09-10",
+  "end_date": null,
+  "summary": "WASHINGTON, Sept. 10, 2021 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for ready-to-eat (RTE) breadsticks, meat and cheese products containing Food and Drug Administration (FDA) regulated breadsticks that have been recalled by the producer...\n",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Texas",
+    "North Carolina",
+    "Tennessee"
+  ]
+}

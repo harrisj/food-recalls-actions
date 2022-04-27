@@ -1,1 +1,32 @@
-{"id": "124-2018", "title": "Jennie-O Turkey Store Sales, Inc. Recalls Raw Ground Turkey Products due to Possible Salmonella Reading Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/jennie-o-turkey-store-sales-inc.-recalls-raw-ground-turkey-products-due-possible", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2018-12-21", "end_date": "2019-05-06", "summary": "EDITORS NOTE: FSIS and our public health partners, including the Centers for Disease Control and Prevention (CDC) and state public health officials, are investigating a Salmonella Reading outbreak. A previous recall of raw ground turkey products associated with the outbreak occurred on Nov. 15, 2018...", "establishment": {"id": "M579+P579+V579", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/jennie-o-turkey-store-0", "slug": "jennie-o-turkey-store-0", "name": "Jennie-O Turkey Store", "address": "1116 NW 4th Avenue \n  Faribault, MN 55021", "telephone": "(507) 332-5302", "grant_date": "2019-12-04", "activities": ["Certification - Export", "Meat Processing", "Poultry Processing", "Poultry Slaughter"]}, "impacted_products": [], "quantity_recovered": 0, "quantity_unit": "pounds", "states": null}
+{
+  "id": "124-2018",
+  "title": "Jennie-O Turkey Store Sales, Inc. Recalls Raw Ground Turkey Products due to Possible Salmonella Reading Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/jennie-o-turkey-store-sales-inc.-recalls-raw-ground-turkey-products-due-possible",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2018-12-21",
+  "end_date": "2019-05-06",
+  "summary": "EDITORS NOTE: FSIS and our public health partners, including the Centers for Disease Control and Prevention (CDC) and state public health officials, are investigating a Salmonella Reading outbreak. A previous recall of raw ground turkey products associated with the outbreak occurred on Nov. 15, 2018...",
+  "establishment": {
+    "id": "M579+P579+V579",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/jennie-o-turkey-store-0",
+    "slug": "jennie-o-turkey-store-0",
+    "name": "Jennie-O Turkey Store",
+    "address": "1116 NW 4th Avenue \n  Faribault, MN 55021",
+    "telephone": "(507) 332-5302",
+    "grant_date": "2019-12-04",
+    "activities": [
+      "Certification - Export",
+      "Meat Processing",
+      "Poultry Processing",
+      "Poultry Slaughter"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": null
+}

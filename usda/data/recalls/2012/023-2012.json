@@ -1,1 +1,34 @@
-{"id": "023-2012", "title": "Recall Notification Report", "url": "https://www.fsis.usda.gov/recalls-alerts/recall-notification-report-1", "reasons": ["Mislabeling"], "status": "Closed", "risk_level": "Low", "start_date": "2012-04-06", "end_date": "2013-05-28", "summary": "WASHINGTON, April 6, 2012 - Quality Food Distributor, a Las Vegas, Nev., establishment, is recalling approximately 50,820 pounds of Steamed BBQ Flavored Pork Buns because it contains monosodium glutamate (MSG), which is not declared on the label, the U.S. Department of Agriculture's Food Safety and...\n", "establishment": {"id": "M34064+P34064", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/quality-food-distributor-inc", "slug": "quality-food-distributor-inc", "name": "QUALITY FOOD DISTRIBUTOR, INC.", "address": "4152 CAMERON STREET \n  LAS VEGAS, NV 89103", "telephone": "(702) 251-7800", "grant_date": "2021-12-21", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["Approximately 12-lb cases of \"STEAMED BBQ FLAVORED PORK BUNS,\" containing 96 pork buns per case."], "quantity_recovered": 432, "quantity_unit": "pounds", "states": ["Nevada"]}
+{
+  "id": "023-2012",
+  "title": "Recall Notification Report",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/recall-notification-report-1",
+  "reasons": [
+    "Mislabeling"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2012-04-06",
+  "end_date": "2013-05-28",
+  "summary": "WASHINGTON, April 6, 2012 - Quality Food Distributor, a Las Vegas, Nev., establishment, is recalling approximately 50,820 pounds of Steamed BBQ Flavored Pork Buns because it contains monosodium glutamate (MSG), which is not declared on the label, the U.S. Department of Agriculture's Food Safety and...\n",
+  "establishment": {
+    "id": "M34064+P34064",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/quality-food-distributor-inc",
+    "slug": "quality-food-distributor-inc",
+    "name": "QUALITY FOOD DISTRIBUTOR, INC.",
+    "address": "4152 CAMERON STREET \n  LAS VEGAS, NV 89103",
+    "telephone": "(702) 251-7800",
+    "grant_date": "2021-12-21",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "Approximately 12-lb cases of \"STEAMED BBQ FLAVORED PORK BUNS,\" containing 96 pork buns per case."
+  ],
+  "quantity_recovered": 432,
+  "quantity_unit": "pounds",
+  "states": [
+    "Nevada"
+  ]
+}

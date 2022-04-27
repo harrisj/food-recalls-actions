@@ -1,1 +1,35 @@
-{"id": "079-2019", "title": "Kent Quality Foods, Inc. Recalls Ready-To-Eat Sausage Products due to Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/kent-quality-foods-inc.-recalls-ready-eat-sausage-products-due-possible-foreign", "reasons": ["Product Contamination"], "status": "Active", "risk_level": "High", "start_date": "2019-07-26", "end_date": null, "summary": "WASHINGTON, July 26, 2019 Kent Quality Foods, Inc., a Grand Rapids, Mich. establishment, is recalling approximately 48,681 pounds of ready-to-eat polish sausage with beef products that may be contaminated with extraneous materials, specifically pieces of flexible pink rubber, the U.S. Department of Agricultures Food Safety...\n", "establishment": {"id": "M5694+P5694", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/kent-quality-foods-inc", "slug": "kent-quality-foods-inc", "name": "Kent Quality Foods Inc.", "address": "703 Leonard NW \n  Grand Rapids, MI 49504", "telephone": "(616) 459-4595", "grant_date": "1996-02-15", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["TETON WATERS RANCH COOKED UNCURED POLISH SAUSAGE MADE WITH BEEF"], "quantity_recovered": null, "quantity_unit": null, "states": ["California", "Utah"]}
+{
+  "id": "079-2019",
+  "title": "Kent Quality Foods, Inc. Recalls Ready-To-Eat Sausage Products due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/kent-quality-foods-inc.-recalls-ready-eat-sausage-products-due-possible-foreign",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2019-07-26",
+  "end_date": null,
+  "summary": "WASHINGTON, July 26, 2019 Kent Quality Foods, Inc., a Grand Rapids, Mich. establishment, is recalling approximately 48,681 pounds of ready-to-eat polish sausage with beef products that may be contaminated with extraneous materials, specifically pieces of flexible pink rubber, the U.S. Department of Agricultures Food Safety...\n",
+  "establishment": {
+    "id": "M5694+P5694",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/kent-quality-foods-inc",
+    "slug": "kent-quality-foods-inc",
+    "name": "Kent Quality Foods Inc.",
+    "address": "703 Leonard NW \n  Grand Rapids, MI 49504",
+    "telephone": "(616) 459-4595",
+    "grant_date": "1996-02-15",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "TETON WATERS RANCH COOKED UNCURED POLISH SAUSAGE MADE WITH BEEF"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "California",
+    "Utah"
+  ]
+}

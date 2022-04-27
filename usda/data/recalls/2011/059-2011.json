@@ -1,1 +1,21 @@
-{"id": "059-2011", "title": "Various Meat Products (Produced Without Inspection) ", "url": "https://www.fsis.usda.gov/recalls-alerts/various-meat-products-produced-without-inspection", "reasons": ["Produced Without Benefit of Inspection"], "status": "Closed", "risk_level": "High", "start_date": "2011-07-28", "end_date": "2012-06-02", "summary": "Editor's Note: Additional products have been added to the list of those recalled on July 28, 2011. See products marked below with an asterisk (*). The list below is not all-inclusive in that more products may be added as part of FSIS' investigation and recall...\n", "establishment": null, "impacted_products": ["The products below were sold under the brand name Stanley's Home Made Sausage Company:", "The products below were sold under the brand name Banat:"], "quantity_recovered": 218, "quantity_unit": "pounds", "states": null}
+{
+  "id": "059-2011",
+  "title": "Various Meat Products (Produced Without Inspection) ",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/various-meat-products-produced-without-inspection",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2011-07-28",
+  "end_date": "2012-06-02",
+  "summary": "Editor's Note: Additional products have been added to the list of those recalled on July 28, 2011. See products marked below with an asterisk (*). The list below is not all-inclusive in that more products may be added as part of FSIS' investigation and recall...\n",
+  "establishment": null,
+  "impacted_products": [
+    "The products below were sold under the brand name Stanley's Home Made Sausage Company:",
+    "The products below were sold under the brand name Banat:"
+  ],
+  "quantity_recovered": 218,
+  "quantity_unit": "pounds",
+  "states": null
+}

@@ -1,1 +1,35 @@
-{"id": "044-2017", "title": "Marcho Farms, Inc. Recalls Veal, Beef and Pork Products Due to Possible Non-O157 Shiga Toxin-Producing E. Coli (STEC) Adulteration", "url": "https://www.fsis.usda.gov/recalls-alerts/marcho-farms-inc.-recalls-veal-beef-and-pork-products-due-possible-non-o157-shiga", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2017-05-04", "end_date": "2017-06-13", "summary": "EDITORS NOTE (May 5, 2017): This release is being updated to reflect that the products subject to recall bear establishment number EST. 7857 inside the USDA mark of inspection. WASHINGTON, May 4, 2017 Marcho Farms, Inc., a Souderton, Pa. establishment, is recalling approximately 5,620 pounds...\n", "establishment": {"id": "M7857", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/marcho-farms-inc", "slug": "marcho-farms-inc", "name": "Marcho Farms Inc.", "address": "519 Allentown Road \n  Souderton, PA 18964", "telephone": "(215) 721-7131", "grant_date": "2020-02-19", "activities": ["Meat Processing", "Meat Slaughter"]}, "impacted_products": ["60-lb.cases of \u201cVEAL BONELESS TRIMMINGS HALAL\u201d with case code \u201c5398\u201d and \u201cMANFU. DATE\u201d of \u201c04/11/2017.\u201d", "60-lb. cases of \u201cVEAL TRIMMINGS USDA CHOICE\u201d with case code \u201c98\u201d and \u201cMANFU. DATE\u201d of \u201c04/11/17.\u201d", "9-lb. cases of \u201cVEAL, BEEF, PORK GROUND FOR MEATLOAF\u201d with case code \u201c3122\u201d and \u201cSell By\u201d date \u201c05/05/17.\u201d", "10-lb. cases of \u201cVEAL, BEEF, PORK GROUND FOR MEATLOAF BULK PACK\u201d with case code \u201c3125.\u201d"], "quantity_recovered": 6631, "quantity_unit": "pounds", "states": null}
+{
+  "id": "044-2017",
+  "title": "Marcho Farms, Inc. Recalls Veal, Beef and Pork Products Due to Possible Non-O157 Shiga Toxin-Producing E. Coli (STEC) Adulteration",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/marcho-farms-inc.-recalls-veal-beef-and-pork-products-due-possible-non-o157-shiga",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2017-05-04",
+  "end_date": "2017-06-13",
+  "summary": "EDITORS NOTE (May 5, 2017): This release is being updated to reflect that the products subject to recall bear establishment number EST. 7857 inside the USDA mark of inspection. WASHINGTON, May 4, 2017 Marcho Farms, Inc., a Souderton, Pa. establishment, is recalling approximately 5,620 pounds...\n",
+  "establishment": {
+    "id": "M7857",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/marcho-farms-inc",
+    "slug": "marcho-farms-inc",
+    "name": "Marcho Farms Inc.",
+    "address": "519 Allentown Road \n  Souderton, PA 18964",
+    "telephone": "(215) 721-7131",
+    "grant_date": "2020-02-19",
+    "activities": [
+      "Meat Processing",
+      "Meat Slaughter"
+    ]
+  },
+  "impacted_products": [
+    "60-lb.cases of \u201cVEAL BONELESS TRIMMINGS HALAL\u201d with case code \u201c5398\u201d and \u201cMANFU. DATE\u201d of \u201c04/11/2017.\u201d",
+    "60-lb. cases of \u201cVEAL TRIMMINGS USDA CHOICE\u201d with case code \u201c98\u201d and \u201cMANFU. DATE\u201d of \u201c04/11/17.\u201d",
+    "9-lb. cases of \u201cVEAL, BEEF, PORK GROUND FOR MEATLOAF\u201d with case code \u201c3122\u201d and \u201cSell By\u201d date \u201c05/05/17.\u201d",
+    "10-lb. cases of \u201cVEAL, BEEF, PORK GROUND FOR MEATLOAF BULK PACK\u201d with case code \u201c3125.\u201d"
+  ],
+  "quantity_recovered": 6631,
+  "quantity_unit": "pounds",
+  "states": null
+}

@@ -1,1 +1,18 @@
-{"id": "035-2016", "title": "Michael Angelo's Gourmet Foods, Inc. Recalls Vegetable Lasagna Products Due To Misbranding And Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/michael-angelos-gourmet-foods-inc.-recalls-vegetable-lasagna-products-due", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2016-05-04", "end_date": "2016-08-31", "summary": "WASHINGTON, May 4, 2016 Michael Angelos Gourmet Foods, Inc., an Austin, Texas establishment, is recalling approximately 1,575 pounds of vegetable lasagna products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product may contain...", "establishment": null, "impacted_products": [], "quantity_recovered": 557, "quantity_unit": "pounds", "states": ["Indiana"]}
+{
+  "id": "035-2016",
+  "title": "Michael Angelo's Gourmet Foods, Inc. Recalls Vegetable Lasagna Products Due To Misbranding And Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/michael-angelos-gourmet-foods-inc.-recalls-vegetable-lasagna-products-due",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2016-05-04",
+  "end_date": "2016-08-31",
+  "summary": "WASHINGTON, May 4, 2016 Michael Angelos Gourmet Foods, Inc., an Austin, Texas establishment, is recalling approximately 1,575 pounds of vegetable lasagna products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product may contain...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 557,
+  "quantity_unit": "pounds",
+  "states": [
+    "Indiana"
+  ]
+}

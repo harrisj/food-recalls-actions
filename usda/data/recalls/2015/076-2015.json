@@ -1,1 +1,19 @@
-{"id": "076-2015", "title": "SP Wholesale Meats Recalls Sausage Products Due To Misbranding and an Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/sp-wholesale-meats-recalls-sausage-products-due-misbranding-and-undeclared-allergen", "reasons": [], "status": "Closed", "risk_level": "Low", "start_date": "2015-05-07", "end_date": "2017-04-17", "summary": "WASHINGTON, May 7, 2015 SP Wholesale Meats, a Portland, Ore., establishment, is recalling approximately 1,729 pounds of raw pork and chicken sausage products due to misbranding and an undeclared allergen, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product...", "establishment": null, "impacted_products": [], "quantity_recovered": 150, "quantity_unit": "pounds", "states": ["Oregon", "Washington"]}
+{
+  "id": "076-2015",
+  "title": "SP Wholesale Meats Recalls Sausage Products Due To Misbranding and an Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/sp-wholesale-meats-recalls-sausage-products-due-misbranding-and-undeclared-allergen",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2015-05-07",
+  "end_date": "2017-04-17",
+  "summary": "WASHINGTON, May 7, 2015 SP Wholesale Meats, a Portland, Ore., establishment, is recalling approximately 1,729 pounds of raw pork and chicken sausage products due to misbranding and an undeclared allergen, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 150,
+  "quantity_unit": "pounds",
+  "states": [
+    "Oregon",
+    "Washington"
+  ]
+}

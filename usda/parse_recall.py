@@ -10,7 +10,7 @@ from datetime import date, datetime
 from slugify import slugify
 import re
 import os
-
+import json
 
 BASE_FSIS_URL = 'https://www.fsis.usda.gov/'
 
@@ -109,5 +109,6 @@ if __name__ == "__main__":
 
     out = parse_fsis_row(args.src, args.establishments)
     with open(args.dest, 'w') as f:
-        f.write(out.json())
-        f.write("\n")
+        pydantic_json = out.json()
+        # Ugly but pydantic json generation doesn't support pretty-printing
+        f.write(json.dumps(json.loads(pydantic_json), indent=2))

@@ -1,1 +1,18 @@
-{"id": "086-2015", "title": "Demes Gourmet Corp. Recalls Chicken and Pork Products Due To Misbranding", "url": "https://www.fsis.usda.gov/recalls-alerts/demes-gourmet-corp.-recalls-chicken-and-pork-products-due-misbranding", "reasons": [], "status": "Closed", "risk_level": "Low", "start_date": "2015-06-04", "end_date": "2016-06-08", "summary": "WASHINGTON, June 5, 2015 Demes Gourmet Corp., a Fullerton, Calif., establishment is recalling approximately 29,052 pounds of poultry and pork products due to misbranding, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The chicken sausages were wrapped in hog casings...", "establishment": null, "impacted_products": [], "quantity_recovered": 0, "quantity_unit": "pounds", "states": ["California"]}
+{
+  "id": "086-2015",
+  "title": "Demes Gourmet Corp. Recalls Chicken and Pork Products Due To Misbranding",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/demes-gourmet-corp.-recalls-chicken-and-pork-products-due-misbranding",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2015-06-04",
+  "end_date": "2016-06-08",
+  "summary": "WASHINGTON, June 5, 2015 Demes Gourmet Corp., a Fullerton, Calif., establishment is recalling approximately 29,052 pounds of poultry and pork products due to misbranding, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The chicken sausages were wrapped in hog casings...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": [
+    "California"
+  ]
+}

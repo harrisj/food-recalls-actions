@@ -1,1 +1,23 @@
-{"id": "048-2010", "title": "California Firm Recalls Frozen Ground Beef Products Due To Possible E. Coli O157: H7 Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-frozen-ground-beef-products-due-possible-e.-coli-o157-h7", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2010-08-06", "end_date": "2012-06-04", "summary": "Editor's Note, August 18, 2010: This recall release is being amended to revise the geographic distribution and that some of the recalled products were distributed to a firm in California for further processing. WASHINGTON, August 6, 2010 - Valley Meat Company, a Modesto, Calif. establishment...\n", "establishment": null, "impacted_products": ["(#2155) *IQF* 80/20% BEEF PATTIES 8/1R", "(#2503) SMASHBURGER 40/7 OZ. - VAC PACK"], "quantity_recovered": 10121, "quantity_unit": "pounds", "states": ["California"]}
+{
+  "id": "048-2010",
+  "title": "California Firm Recalls Frozen Ground Beef Products Due To Possible E. Coli O157: H7 Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-frozen-ground-beef-products-due-possible-e.-coli-o157-h7",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2010-08-06",
+  "end_date": "2012-06-04",
+  "summary": "Editor's Note, August 18, 2010: This recall release is being amended to revise the geographic distribution and that some of the recalled products were distributed to a firm in California for further processing. WASHINGTON, August 6, 2010 - Valley Meat Company, a Modesto, Calif. establishment...\n",
+  "establishment": null,
+  "impacted_products": [
+    "(#2155) *IQF* 80/20% BEEF PATTIES 8/1R",
+    "(#2503) SMASHBURGER 40/7 OZ. - VAC PACK"
+  ],
+  "quantity_recovered": 10121,
+  "quantity_unit": "pounds",
+  "states": [
+    "California"
+  ]
+}

@@ -1,1 +1,30 @@
-{"id": "088-2015", "title": "Benedetti Farms, Inc. Recalls Chicken and Turkey Sausage Products Due To Misbranding", "url": "https://www.fsis.usda.gov/recalls-alerts/benedetti-farms-inc.-recalls-chicken-and-turkey-sausage-products-due-misbranding", "reasons": [], "status": "Closed", "risk_level": "Low", "start_date": "2015-06-06", "end_date": "2016-06-08", "summary": "WASHINGTON, June 6, 2015 Benedetti Farms, Inc., a Sonoma, Calif. establishment, is recalling approximately 11,670 pounds of chicken and turkey sausage products due to misbranding, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The chicken and turkey sausages were wrapped...", "establishment": {"id": "M18216+P18216", "url": "http://www.fsis.usda.gov/establishments/benedetti-farms", "slug": "benedetti-farms", "name": "Benedetti Farms", "address": "23250 Maffei Rd. \n  Sonoma, CA 95407", "telephone": "(707) 996-6989", "grant_date": "1996-11-23", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": 3330, "quantity_unit": "pounds", "states": ["California"]}
+{
+  "id": "088-2015",
+  "title": "Benedetti Farms, Inc. Recalls Chicken and Turkey Sausage Products Due To Misbranding",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/benedetti-farms-inc.-recalls-chicken-and-turkey-sausage-products-due-misbranding",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2015-06-06",
+  "end_date": "2016-06-08",
+  "summary": "WASHINGTON, June 6, 2015 Benedetti Farms, Inc., a Sonoma, Calif. establishment, is recalling approximately 11,670 pounds of chicken and turkey sausage products due to misbranding, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The chicken and turkey sausages were wrapped...",
+  "establishment": {
+    "id": "M18216+P18216",
+    "url": "http://www.fsis.usda.gov/establishments/benedetti-farms",
+    "slug": "benedetti-farms",
+    "name": "Benedetti Farms",
+    "address": "23250 Maffei Rd. \n  Sonoma, CA 95407",
+    "telephone": "(707) 996-6989",
+    "grant_date": "1996-11-23",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 3330,
+  "quantity_unit": "pounds",
+  "states": [
+    "California"
+  ]
+}

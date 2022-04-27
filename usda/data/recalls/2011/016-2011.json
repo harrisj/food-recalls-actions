@@ -1,1 +1,38 @@
-{"id": "016-2011", "title": "California Firm Recalls Chicken and Pork Products for Possible Listeria Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-chicken-and-pork-products-possible-listeria-contamination", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2011-03-01", "end_date": "2012-06-02", "summary": "WASHINGTON, March 1, 2011 - Taylor Farms Pacific, a Tracy, Calif., establishment, has recalled approximately 64,000 pounds of chicken and pork products because the broccoli used in these products may be contaminated with Listeria monocytogenes, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service...\n", "establishment": {"id": "M34013+P34013", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/taylor-farm-pacific", "slug": "taylor-farm-pacific", "name": "Taylor Farm - Pacific", "address": "1820 N. Mac Arthur Drive \n  Tracy, CA 95376", "telephone": "(209) 835-6300", "grant_date": "2010-02-10", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["\u201cRaley\u2019s Yellow Curry Chicken Rice Bowl\u201d 17 oz."], "quantity_recovered": 5937, "quantity_unit": "pounds", "states": ["Arizona", "California", "Colorado", "Oregon", "Washington"]}
+{
+  "id": "016-2011",
+  "title": "California Firm Recalls Chicken and Pork Products for Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-chicken-and-pork-products-possible-listeria-contamination",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2011-03-01",
+  "end_date": "2012-06-02",
+  "summary": "WASHINGTON, March 1, 2011 - Taylor Farms Pacific, a Tracy, Calif., establishment, has recalled approximately 64,000 pounds of chicken and pork products because the broccoli used in these products may be contaminated with Listeria monocytogenes, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service...\n",
+  "establishment": {
+    "id": "M34013+P34013",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/taylor-farm-pacific",
+    "slug": "taylor-farm-pacific",
+    "name": "Taylor Farm - Pacific",
+    "address": "1820 N. Mac Arthur Drive \n  Tracy, CA 95376",
+    "telephone": "(209) 835-6300",
+    "grant_date": "2010-02-10",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u201cRaley\u2019s Yellow Curry Chicken Rice Bowl\u201d 17 oz."
+  ],
+  "quantity_recovered": 5937,
+  "quantity_unit": "pounds",
+  "states": [
+    "Arizona",
+    "California",
+    "Colorado",
+    "Oregon",
+    "Washington"
+  ]
+}

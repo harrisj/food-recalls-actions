@@ -1,1 +1,35 @@
-{"id": "115-2017", "title": "Taylor Farms Florida Recalls Salad with Chicken Products Due to Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/taylor-farms-florida-recalls-salad-chicken-products-due-misbranding-and-undeclared", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "Low", "start_date": "2017-10-28", "end_date": "2017-11-28", "summary": "WASHINGTON, Oct. 28, 2017 Taylor Farms Florida, an Orlando, Fla. establishment, is recalling approximately 732 pounds of salads with chicken products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products contain fish (anchovies)...", "establishment": {"id": "M44818+P44818", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/taylor-farms-florida-inc", "slug": "taylor-farms-florida-inc", "name": "Taylor Farms Florida, Inc.", "address": "7520 Chancellor Drive \n  Orlando, FL 32809", "telephone": "(407) 859-3373", "grant_date": "2012-02-13", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["\u20229.75-oz. plastic bowls containing \u201cTaylor Farms American Style Pasta Salad\u201d with a \u201cUSE BY 11/01/17\u201d and case code of TFFLD 295 L5 EA.", "\u20229.75-oz. plastic bowls containing \u201cTaylor Farms American Style Pasta Salad\u201d with a \u201cUSE BY 11/02/17\u201d and case code of TFFLD 296 L5 JP."], "quantity_recovered": 696, "quantity_unit": "pounds", "states": ["Florida"]}
+{
+  "id": "115-2017",
+  "title": "Taylor Farms Florida Recalls Salad with Chicken Products Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/taylor-farms-florida-recalls-salad-chicken-products-due-misbranding-and-undeclared",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2017-10-28",
+  "end_date": "2017-11-28",
+  "summary": "WASHINGTON, Oct. 28, 2017 Taylor Farms Florida, an Orlando, Fla. establishment, is recalling approximately 732 pounds of salads with chicken products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products contain fish (anchovies)...",
+  "establishment": {
+    "id": "M44818+P44818",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/taylor-farms-florida-inc",
+    "slug": "taylor-farms-florida-inc",
+    "name": "Taylor Farms Florida, Inc.",
+    "address": "7520 Chancellor Drive \n  Orlando, FL 32809",
+    "telephone": "(407) 859-3373",
+    "grant_date": "2012-02-13",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u20229.75-oz. plastic bowls containing \u201cTaylor Farms American Style Pasta Salad\u201d with a \u201cUSE BY 11/01/17\u201d and case code of TFFLD 295 L5 EA.",
+    "\u20229.75-oz. plastic bowls containing \u201cTaylor Farms American Style Pasta Salad\u201d with a \u201cUSE BY 11/02/17\u201d and case code of TFFLD 296 L5 JP."
+  ],
+  "quantity_recovered": 696,
+  "quantity_unit": "pounds",
+  "states": [
+    "Florida"
+  ]
+}

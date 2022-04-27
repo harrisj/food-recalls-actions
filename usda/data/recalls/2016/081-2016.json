@@ -1,1 +1,28 @@
-{"id": "081-2016", "title": "Tucson Tamale Wholesale Company, LLC Recalls Beef Tamale Products Containing Meat Produced Without Benefit of Federal Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/tucson-tamale-wholesale-company-llc-recalls-beef-tamale-products-containing-meat", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2016-09-16", "end_date": "2016-10-31", "summary": "WASHINGTON, Sept. 16, 2016 Tucson Tamale Wholesale Company, LLC, a Tucson, Ariz. establishment, is recalling approximately 915 pounds of beef tamale products that contain meat produced without the benefit of federal inspection, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today.The...", "establishment": {"id": "M45860+P45860", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/tucson-tamale-wholesale-company-llc", "slug": "tucson-tamale-wholesale-company-llc", "name": "Tucson Tamale Wholesale Company LLC", "address": "2550 N. Dragoon St. \n  Tucson, AZ 85745", "telephone": "(520) 398-6282", "grant_date": "2016-08-05", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": 915, "quantity_unit": "pounds", "states": null}
+{
+  "id": "081-2016",
+  "title": "Tucson Tamale Wholesale Company, LLC Recalls Beef Tamale Products Containing Meat Produced Without Benefit of Federal Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/tucson-tamale-wholesale-company-llc-recalls-beef-tamale-products-containing-meat",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2016-09-16",
+  "end_date": "2016-10-31",
+  "summary": "WASHINGTON, Sept. 16, 2016 Tucson Tamale Wholesale Company, LLC, a Tucson, Ariz. establishment, is recalling approximately 915 pounds of beef tamale products that contain meat produced without the benefit of federal inspection, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today.The...",
+  "establishment": {
+    "id": "M45860+P45860",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/tucson-tamale-wholesale-company-llc",
+    "slug": "tucson-tamale-wholesale-company-llc",
+    "name": "Tucson Tamale Wholesale Company LLC",
+    "address": "2550 N. Dragoon St. \n  Tucson, AZ 85745",
+    "telephone": "(520) 398-6282",
+    "grant_date": "2016-08-05",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 915,
+  "quantity_unit": "pounds",
+  "states": null
+}

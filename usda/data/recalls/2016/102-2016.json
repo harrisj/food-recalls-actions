@@ -1,1 +1,18 @@
-{"id": "102-2016", "title": "Flavor Trade, LLC. Recalls Beef Products Produced Without Benefit of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/flavor-trade-llc.-recalls-beef-products-produced-without-benefit-inspection-0", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2016-11-03", "end_date": "2016-12-08", "summary": "WASHINGTON, Nov. 3, 2016 Flavor Trade, LLC., a Kansas City, Mo. establishment, is recalling approximately 113 pounds of beef jerky products that were produced without the benefit of federal inspection and used the USDA mark of inspection without authorization, the U.S. Department of Agricultures Food...", "establishment": null, "impacted_products": [], "quantity_recovered": 0, "quantity_unit": "pounds", "states": ["Missouri"]}
+{
+  "id": "102-2016",
+  "title": "Flavor Trade, LLC. Recalls Beef Products Produced Without Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/flavor-trade-llc.-recalls-beef-products-produced-without-benefit-inspection-0",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2016-11-03",
+  "end_date": "2016-12-08",
+  "summary": "WASHINGTON, Nov. 3, 2016 Flavor Trade, LLC., a Kansas City, Mo. establishment, is recalling approximately 113 pounds of beef jerky products that were produced without the benefit of federal inspection and used the USDA mark of inspection without authorization, the U.S. Department of Agricultures Food...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": [
+    "Missouri"
+  ]
+}

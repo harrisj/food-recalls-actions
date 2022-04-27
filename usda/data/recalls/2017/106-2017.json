@@ -1,1 +1,24 @@
-{"id": "106-2017", "title": "Clair D. Thompson & Sons, Inc. Recalls Ground Beef Products Due To Possible E. Coli O157:H7 Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/clair-d.-thompson-sons-inc.-recalls-ground-beef-products-due-possible-e.-coli-o157h7", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2017-10-04", "end_date": "2017-12-06", "summary": "WASHINGTON, Oct. 4, 2017 Clair D. Thompson & Sons, Inc., a Jersey Shore, Pa. establishment, is recalling approximately 700 pounds of ground beef products that may be contaminated with E. coli O157:H7, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today...", "establishment": null, "impacted_products": ["\u20225-lb. plastic bags of \u201cThompson\u2019s GROUND BEEF.\u201d", "\u202210-lb. plastic bags of \u201cThompson\u2019s GROUND BEEF.\u201d"], "quantity_recovered": 580, "quantity_unit": "pounds", "states": ["New York", "Pennsylvania"]}
+{
+  "id": "106-2017",
+  "title": "Clair D. Thompson & Sons, Inc. Recalls Ground Beef Products Due To Possible E. Coli O157:H7 Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/clair-d.-thompson-sons-inc.-recalls-ground-beef-products-due-possible-e.-coli-o157h7",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2017-10-04",
+  "end_date": "2017-12-06",
+  "summary": "WASHINGTON, Oct. 4, 2017 Clair D. Thompson & Sons, Inc., a Jersey Shore, Pa. establishment, is recalling approximately 700 pounds of ground beef products that may be contaminated with E. coli O157:H7, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today...",
+  "establishment": null,
+  "impacted_products": [
+    "\u20225-lb. plastic bags of \u201cThompson\u2019s GROUND BEEF.\u201d",
+    "\u202210-lb. plastic bags of \u201cThompson\u2019s GROUND BEEF.\u201d"
+  ],
+  "quantity_recovered": 580,
+  "quantity_unit": "pounds",
+  "states": [
+    "New York",
+    "Pennsylvania"
+  ]
+}

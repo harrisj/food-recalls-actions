@@ -1,1 +1,23 @@
-{"id": "097-2017", "title": "Ronald A. Chisholm, Ltd. Recalls Pork Belly Products Produced Without Benefit of Import Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/ronald-.-chisholm-ltd.-recalls-pork-belly-products-produced-without-benefit-import", "reasons": ["Produced Without Benefit of Inspection", "Import Violation"], "status": "Closed", "risk_level": "High", "start_date": "2017-08-26", "end_date": "2017-09-22", "summary": "WASHINGTON, Aug. 26, 2017 - Ronald A. Chisholm, Ltd., a Toronto, Ontario establishment, is recalling approximately 12,169 pounds of skinless pork belly products that were not presented at the U.S. point of entry for inspection, the U.S. Department of Agricultures Food Safety and Inspection Service...\n", "establishment": null, "impacted_products": ["Approximately 40-lb. cardboard box containing \u201cFLANC PORC, PORK BELLY.\u201d"], "quantity_recovered": 11242, "quantity_unit": "pounds", "states": ["Hawaii"]}
+{
+  "id": "097-2017",
+  "title": "Ronald A. Chisholm, Ltd. Recalls Pork Belly Products Produced Without Benefit of Import Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/ronald-.-chisholm-ltd.-recalls-pork-belly-products-produced-without-benefit-import",
+  "reasons": [
+    "Produced Without Benefit of Inspection",
+    "Import Violation"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2017-08-26",
+  "end_date": "2017-09-22",
+  "summary": "WASHINGTON, Aug. 26, 2017 - Ronald A. Chisholm, Ltd., a Toronto, Ontario establishment, is recalling approximately 12,169 pounds of skinless pork belly products that were not presented at the U.S. point of entry for inspection, the U.S. Department of Agricultures Food Safety and Inspection Service...\n",
+  "establishment": null,
+  "impacted_products": [
+    "Approximately 40-lb. cardboard box containing \u201cFLANC PORC, PORK BELLY.\u201d"
+  ],
+  "quantity_recovered": 11242,
+  "quantity_unit": "pounds",
+  "states": [
+    "Hawaii"
+  ]
+}

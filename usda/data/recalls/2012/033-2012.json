@@ -1,1 +1,36 @@
-{"id": "033-2012", "title": "Nevada Firm Recalls Lasagna Product Due to Misbranding and an Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/nevada-firm-recalls-lasagna-product-due-misbranding-and-undeclared-allergen", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "Low", "start_date": "2012-05-22", "end_date": "2013-05-28", "summary": "WASHINGTON, May 22, 2012 - West Best Foods, Inc., a Las Vegas, Nev. establishment, is recalling approximately 13,776 pounds of lasagna products because of misbranding and an undeclared allergen. The product contains soy, which is an allergen that is not declared on the label, the...\n", "establishment": {"id": "M6080+P6080", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/west-best-foods-inc", "slug": "west-best-foods-inc", "name": "WEST BEST FOODS INC", "address": "3425 WYNN ROAD \n  LAS VEGAS, NV 89102", "telephone": "(702) 367-0662", "grant_date": "2021-07-16", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["24-lb cases of \"WEST BEST FOODS INC LASAGNA WITH MEAT SAUCE.\"", "24-lb cases of \"WEST BEST FOODS INC DELUXE BEEF LASAGNA.\""], "quantity_recovered": 5448, "quantity_unit": "pounds", "states": ["Nevada"]}
+{
+  "id": "033-2012",
+  "title": "Nevada Firm Recalls Lasagna Product Due to Misbranding and an Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/nevada-firm-recalls-lasagna-product-due-misbranding-and-undeclared-allergen",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2012-05-22",
+  "end_date": "2013-05-28",
+  "summary": "WASHINGTON, May 22, 2012 - West Best Foods, Inc., a Las Vegas, Nev. establishment, is recalling approximately 13,776 pounds of lasagna products because of misbranding and an undeclared allergen. The product contains soy, which is an allergen that is not declared on the label, the...\n",
+  "establishment": {
+    "id": "M6080+P6080",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/west-best-foods-inc",
+    "slug": "west-best-foods-inc",
+    "name": "WEST BEST FOODS INC",
+    "address": "3425 WYNN ROAD \n  LAS VEGAS, NV 89102",
+    "telephone": "(702) 367-0662",
+    "grant_date": "2021-07-16",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "24-lb cases of \"WEST BEST FOODS INC LASAGNA WITH MEAT SAUCE.\"",
+    "24-lb cases of \"WEST BEST FOODS INC DELUXE BEEF LASAGNA.\""
+  ],
+  "quantity_recovered": 5448,
+  "quantity_unit": "pounds",
+  "states": [
+    "Nevada"
+  ]
+}

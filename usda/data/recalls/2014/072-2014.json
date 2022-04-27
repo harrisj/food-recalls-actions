@@ -1,1 +1,40 @@
-{"id": "072-2014", "title": "New Jersey Firm Recalls Salad with Chicken Due To Misbranding and Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/new-jersey-firm-recalls-salad-chicken-due-misbranding-and-undeclared-allergen", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "Low", "start_date": "2014-10-24", "end_date": "2015-06-01", "summary": "WASHINGTON, Oct. 24, 2014 Taylor Farms, a Swedesboro, NJ, establishment, is recalling approximately 377 pounds of Signature CafE Broccoli Kale Salad with Chicken product because of misbranding and an undeclared allergen, tree nuts. The product contains walnuts, a tree nut, which is a known allergen...\n", "establishment": {"id": "M34513+P34513", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/taylor-farms-new-jersey-inc", "slug": "taylor-farms-new-jersey-inc", "name": "Taylor Farms New Jersey, Inc.", "address": "406-A Heron Drive \n  Swedesboro, NJ 8085", "telephone": "(856) 241-0097", "grant_date": "2012-08-21", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["9.75-oz. plastic clam shell packages of \u201cSignature Caf\u00e9 Broccoli Kale Salad with Chicken\u201d with Use by dates of \u201c10/23/14,\u201d \u201c10/25/14,\u201d and \u201c10/27/14\u201d on the lid of the product."], "quantity_recovered": 0, "quantity_unit": "pounds", "states": ["Delaware", "District of Columbia", "Maryland", "New Jersey", "Pennsylvania", "Virginia"]}
+{
+  "id": "072-2014",
+  "title": "New Jersey Firm Recalls Salad with Chicken Due To Misbranding and Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/new-jersey-firm-recalls-salad-chicken-due-misbranding-and-undeclared-allergen",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2014-10-24",
+  "end_date": "2015-06-01",
+  "summary": "WASHINGTON, Oct. 24, 2014 Taylor Farms, a Swedesboro, NJ, establishment, is recalling approximately 377 pounds of Signature CafE Broccoli Kale Salad with Chicken product because of misbranding and an undeclared allergen, tree nuts. The product contains walnuts, a tree nut, which is a known allergen...\n",
+  "establishment": {
+    "id": "M34513+P34513",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/taylor-farms-new-jersey-inc",
+    "slug": "taylor-farms-new-jersey-inc",
+    "name": "Taylor Farms New Jersey, Inc.",
+    "address": "406-A Heron Drive \n  Swedesboro, NJ 8085",
+    "telephone": "(856) 241-0097",
+    "grant_date": "2012-08-21",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "9.75-oz. plastic clam shell packages of \u201cSignature Caf\u00e9 Broccoli Kale Salad with Chicken\u201d with Use by dates of \u201c10/23/14,\u201d \u201c10/25/14,\u201d and \u201c10/27/14\u201d on the lid of the product."
+  ],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": [
+    "Delaware",
+    "District of Columbia",
+    "Maryland",
+    "New Jersey",
+    "Pennsylvania",
+    "Virginia"
+  ]
+}

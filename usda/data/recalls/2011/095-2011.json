@@ -1,1 +1,24 @@
-{"id": "095-2011", "title": "California Firm Recalls Pureed Chicken Products Due To Misbranding and Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-pureed-chicken-products-due-misbranding-and-undeclared", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "Low", "start_date": "2011-12-02", "end_date": "2012-06-03", "summary": "WASHINGTON, Dec. 2, 2011 - Popkoff Frozen Food, dba Blossom Foods, a San Francisco, Calif. establishment is recalling approximately 500 pounds of frozen, pureed chicken products because of misbranding and an undeclared allergen. The products contain the allergen, soy, which is not declared on the...\n", "establishment": null, "impacted_products": ["5-oz. single-serving cups of \"BLOSSOM FOODS-DARK AND WHITE MEAT CHICKEN WITH VEGETABLES.\"", "5-pound bags of \"BLOSSOM FOODS-DARK AND WHITE MEAT CHICKEN WITH VEGETABLES.\""], "quantity_recovered": 210, "quantity_unit": "pounds", "states": ["California"]}
+{
+  "id": "095-2011",
+  "title": "California Firm Recalls Pureed Chicken Products Due To Misbranding and Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/california-firm-recalls-pureed-chicken-products-due-misbranding-and-undeclared",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2011-12-02",
+  "end_date": "2012-06-03",
+  "summary": "WASHINGTON, Dec. 2, 2011 - Popkoff Frozen Food, dba Blossom Foods, a San Francisco, Calif. establishment is recalling approximately 500 pounds of frozen, pureed chicken products because of misbranding and an undeclared allergen. The products contain the allergen, soy, which is not declared on the...\n",
+  "establishment": null,
+  "impacted_products": [
+    "5-oz. single-serving cups of \"BLOSSOM FOODS-DARK AND WHITE MEAT CHICKEN WITH VEGETABLES.\"",
+    "5-pound bags of \"BLOSSOM FOODS-DARK AND WHITE MEAT CHICKEN WITH VEGETABLES.\""
+  ],
+  "quantity_recovered": 210,
+  "quantity_unit": "pounds",
+  "states": [
+    "California"
+  ]
+}

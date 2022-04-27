@@ -1,1 +1,24 @@
-{"id": "pha-110819", "title": "FSIS Issues Public Health Alert for Ready-to-Eat Entrees due to Possible Listeria Monocytogenes Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-entrees-due-possible-listeria", "reasons": ["Product Contamination"], "status": "Active", "risk_level": null, "start_date": "2019-11-08", "end_date": null, "summary": "WASHINGTON, Nov. 8, 2019 The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) is issuing a public health alert for ready-to-eat entrees due to the products containing FDA-regulated ingredients that have been recalled by Mann's Packing Co. due to possible Listeria monocytogenes contamination...\n", "establishment": null, "impacted_products": ["12-oz. sealed plastic trays containing CRAZY FRESH Quick & Easy Broccoli Cheddar with Bacon with sell by dates of 10/13/19 11/08/19 represented on the label.", "12-oz. sealed plastic trays containing KOWALSKI'S Quick & Easy Broccoli Cheddar with Bacon with sell by dates of 10/13/19 11/08/19 represented on the label.", "12-oz. sealed plastic trays containing quick & easy Meals Quick & Easy Broccoli Cheddar with Bacon with sell by dates of 10/13/19 11/08/19 represented on the label.", "15.8-oz. clear plastic clamshell packages containing BUTTER CHICKEN amazon go Butter Chicken with Turmeric Rice with best by dates through November 6, 2019 represented on the label.", "13.05-oz. plastic clamshell packages containing BROCCOLI CRUNCH POWER BOWL amazon go BROCCOLI CRUNCH POWER BOWL WITH CHICKEN with best by dates through November 6, 2019 represented on the label."], "quantity_recovered": null, "quantity_unit": null, "states": null}
+{
+  "id": "pha-110819",
+  "title": "FSIS Issues Public Health Alert for Ready-to-Eat Entrees due to Possible Listeria Monocytogenes Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-entrees-due-possible-listeria",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2019-11-08",
+  "end_date": null,
+  "summary": "WASHINGTON, Nov. 8, 2019 The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) is issuing a public health alert for ready-to-eat entrees due to the products containing FDA-regulated ingredients that have been recalled by Mann's Packing Co. due to possible Listeria monocytogenes contamination...\n",
+  "establishment": null,
+  "impacted_products": [
+    "12-oz. sealed plastic trays containing CRAZY FRESH Quick & Easy Broccoli Cheddar with Bacon with sell by dates of 10/13/19 11/08/19 represented on the label.",
+    "12-oz. sealed plastic trays containing KOWALSKI'S Quick & Easy Broccoli Cheddar with Bacon with sell by dates of 10/13/19 11/08/19 represented on the label.",
+    "12-oz. sealed plastic trays containing quick & easy Meals Quick & Easy Broccoli Cheddar with Bacon with sell by dates of 10/13/19 11/08/19 represented on the label.",
+    "15.8-oz. clear plastic clamshell packages containing BUTTER CHICKEN amazon go Butter Chicken with Turmeric Rice with best by dates through November 6, 2019 represented on the label.",
+    "13.05-oz. plastic clamshell packages containing BROCCOLI CRUNCH POWER BOWL amazon go BROCCOLI CRUNCH POWER BOWL WITH CHICKEN with best by dates through November 6, 2019 represented on the label."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}

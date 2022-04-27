@@ -1,1 +1,18 @@
-{"id": "118-2015", "title": "Recall Notification Report 118-2015 (Beef Patties)", "url": "https://www.fsis.usda.gov/recalls-alerts/recall-notification-report-118-2015-beef-patties", "reasons": ["Misbranding"], "status": "Closed", "risk_level": "Marginal", "start_date": "2015-08-31", "end_date": "2016-06-08", "summary": "WASHINGTON, Aug. 31, 2015 Holten Meat Inc., a Sauget, Ill. establishment, is recalling approximately 501,509 pounds of Extra Value Meats Quarter Pound Beef Patties products due to misbranding, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The individually frozen patties...\n", "establishment": null, "impacted_products": [], "quantity_recovered": 118881, "quantity_unit": "pounds", "states": null}
+{
+  "id": "118-2015",
+  "title": "Recall Notification Report 118-2015 (Beef Patties)",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/recall-notification-report-118-2015-beef-patties",
+  "reasons": [
+    "Misbranding"
+  ],
+  "status": "Closed",
+  "risk_level": "Marginal",
+  "start_date": "2015-08-31",
+  "end_date": "2016-06-08",
+  "summary": "WASHINGTON, Aug. 31, 2015 Holten Meat Inc., a Sauget, Ill. establishment, is recalling approximately 501,509 pounds of Extra Value Meats Quarter Pound Beef Patties products due to misbranding, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The individually frozen patties...\n",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 118881,
+  "quantity_unit": "pounds",
+  "states": null
+}

@@ -1,1 +1,37 @@
-{"id": "005-2019", "title": "Custom Made Meals, LLC Recalls Chicken Skewer Products Due to Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/custom-made-meals-llc-recalls-chicken-skewer-products-due-misbranding-and-undeclared", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2019-01-18", "end_date": "2019-03-28", "summary": "WASHINGTON, Jan. 18, 2019 Custom Made Meals, LLC, a Denver, Colo., establishment, is recalling approximately 7,954 pounds of chicken skewer products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products contain coconut, a...\n", "establishment": {"id": "M4121A+P4121A+V4121A", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/custom-made-meals", "slug": "custom-made-meals", "name": "Custom Made Meals", "address": "5575 Logan Ct. \n  Denver, CO 80216", "telephone": "(303) 227-4993", "grant_date": "2017-04-20", "activities": ["Meat Processing", "Poultry Processing", "Voluntary Processing - Meat"]}, "impacted_products": ["9.11-lbs. cases containing four plastic packages of \u201cRed Chili Orange Chicken Skewers\u201d with case code 79073, and various Use By dates between Oct. 15, 2018 and Jan. 28, 2019. "], "quantity_recovered": 550, "quantity_unit": "pounds", "states": ["Illinois", "Wisconsin"]}
+{
+  "id": "005-2019",
+  "title": "Custom Made Meals, LLC Recalls Chicken Skewer Products Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/custom-made-meals-llc-recalls-chicken-skewer-products-due-misbranding-and-undeclared",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2019-01-18",
+  "end_date": "2019-03-28",
+  "summary": "WASHINGTON, Jan. 18, 2019 Custom Made Meals, LLC, a Denver, Colo., establishment, is recalling approximately 7,954 pounds of chicken skewer products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products contain coconut, a...\n",
+  "establishment": {
+    "id": "M4121A+P4121A+V4121A",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/custom-made-meals",
+    "slug": "custom-made-meals",
+    "name": "Custom Made Meals",
+    "address": "5575 Logan Ct. \n  Denver, CO 80216",
+    "telephone": "(303) 227-4993",
+    "grant_date": "2017-04-20",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing",
+      "Voluntary Processing - Meat"
+    ]
+  },
+  "impacted_products": [
+    "9.11-lbs. cases containing four plastic packages of \u201cRed Chili Orange Chicken Skewers\u201d with case code 79073, and various Use By dates between Oct. 15, 2018 and Jan. 28, 2019. "
+  ],
+  "quantity_recovered": 550,
+  "quantity_unit": "pounds",
+  "states": [
+    "Illinois",
+    "Wisconsin"
+  ]
+}

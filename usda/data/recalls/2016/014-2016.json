@@ -1,1 +1,36 @@
-{"id": "014-2016", "title": "Vosges, LTD Recalls Uncured Bacon Ganache Chocolate Products Due to Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/vosges-ltd-recalls-uncured-bacon-ganache-chocolate-products-due-misbranding-and", "reasons": ["Misbranding"], "status": "Closed", "risk_level": "High", "start_date": "2016-02-08", "end_date": "2016-05-25", "summary": "WASHINGTON, Feb. 8, 2016 Vosges, LTD, a Chicago, Ill. establishment, is recalling approximately 135 pounds of Uncured Bacon Ganache chocolate products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product contains coconut, a...\n", "establishment": {"id": "M34647", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/vosges-ltd", "slug": "vosges-ltd", "name": "Vosges, LTD", "address": "2950 N. Oakley \n  Chicago, IL 60618", "telephone": "(773) 388-5560", "grant_date": "2013-07-02", "activities": ["Meat Processing"]}, "impacted_products": ["135-lb. (720 bars) individual paper carton containing 3oz. flow wrapped bars of \u201cTrader Joe\u2019s Uncured Bacon Ganache Bar\u201d (SKU 55001)."], "quantity_recovered": 7758, "quantity_unit": "pounds", "states": ["Florida", "Georgia", "North Carolina", "South Carolina"]}
+{
+  "id": "014-2016",
+  "title": "Vosges, LTD Recalls Uncured Bacon Ganache Chocolate Products Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/vosges-ltd-recalls-uncured-bacon-ganache-chocolate-products-due-misbranding-and",
+  "reasons": [
+    "Misbranding"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2016-02-08",
+  "end_date": "2016-05-25",
+  "summary": "WASHINGTON, Feb. 8, 2016 Vosges, LTD, a Chicago, Ill. establishment, is recalling approximately 135 pounds of Uncured Bacon Ganache chocolate products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product contains coconut, a...\n",
+  "establishment": {
+    "id": "M34647",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/vosges-ltd",
+    "slug": "vosges-ltd",
+    "name": "Vosges, LTD",
+    "address": "2950 N. Oakley \n  Chicago, IL 60618",
+    "telephone": "(773) 388-5560",
+    "grant_date": "2013-07-02",
+    "activities": [
+      "Meat Processing"
+    ]
+  },
+  "impacted_products": [
+    "135-lb. (720 bars) individual paper carton containing 3oz. flow wrapped bars of \u201cTrader Joe\u2019s Uncured Bacon Ganache Bar\u201d (SKU 55001)."
+  ],
+  "quantity_recovered": 7758,
+  "quantity_unit": "pounds",
+  "states": [
+    "Florida",
+    "Georgia",
+    "North Carolina",
+    "South Carolina"
+  ]
+}

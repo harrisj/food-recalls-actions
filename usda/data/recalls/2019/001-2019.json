@@ -1,1 +1,44 @@
-{"id": "001-2019", "title": "J. H. Routh Packing Co. Recalls Pork Sausage Products due to Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/j.-h.-routh-packing-co.-recalls-pork-sausage-products-due-possible-foreign-matter", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2019-01-09", "end_date": "2020-02-14", "summary": "WASHINGTON, Jan. 9, 2019 J. H. Routh Packing Co., a Sandusky, Ohio establishment, is recalling approximately 1,719 pounds of raw pork sausage products that may be contaminated with extraneous materials, specifically rubber, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today...\n", "establishment": {"id": "M818+V818", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/hk-cooperative-inc", "slug": "hk-cooperative-inc", "name": "HK Cooperative, Inc.", "address": "4413 W. Bogart Rd \n  Sandusky, OH 44870", "telephone": "(419) 626-2251", "grant_date": "2020-05-05", "activities": ["Certification - Export", "Meat Processing", "Meat Slaughter", "Voluntary Processing - Meat"]}, "impacted_products": ["5-lb. plastic packages containing loose, bulk \u201cDaisyfield Brand FRESH PORK SAUSAGE\u201d with production dates \u201c010119\u201d or \u201c010219\u201d or \u201c010319\u201d or \u201c010419\u201d on the label. ", "5-lb. paper-lined cardboard packages containing large link \u201cDaisyfield Brand FRESH PORK SAUSAGE\u201d with production dates \u201c010119\u201d or \u201c010219\u201d or \u201c010319\u201d or \u201c010419\u201d on the label. ", "5-lb. paper-lined cardboard packages containing country-style rope \u201cDaisyfield Brand FRESH PORK SAUSAGE\u201d with production dates \u201c010119\u201d or \u201c010219\u201d or \u201c010319\u201d or \u201c010419\u201d on the label. ", "5-lb. paper-lined cardboard packages containing small, breakfast-style link \u201cDaisyfield Brand FRESH PORK SAUSAGE\u201d with production dates \u201c010119\u201d or \u201c010219\u201d or \u201c010319\u201d or \u201c010419\u201d on the label. ", "5-lb. plastic packages containing loose, bulk \u201cDaisyfield Brand ITALIAN SAUSAGE\u201d with production dates \u201c010119\u201d or \u201c010219\u201d or \u201c010319\u201d or \u201c010419\u201d on the label. ", "5-lb. paper-lined cardboard packages containing large link \u201cDaisyfield Brand ITALIAN SAUSAGE\u201d links with production dates \u201c010119\u201d or \u201c010219\u201d or \u201c010319\u201d or \u201c010419\u201d on the label. ", "5-lb. paper-lined cardboard packages containing country-style rope \u201cDaisyfield Brand ITALIAN SAUSAGE\u201d links with production dates \u201c010119\u201d or \u201c010219\u201d or \u201c010319\u201d or \u201c010419\u201d on the label. "], "quantity_recovered": 628, "quantity_unit": "pounds", "states": ["Kentucky", "Ohio", "Pennsylvania"]}
+{
+  "id": "001-2019",
+  "title": "J. H. Routh Packing Co. Recalls Pork Sausage Products due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/j.-h.-routh-packing-co.-recalls-pork-sausage-products-due-possible-foreign-matter",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2019-01-09",
+  "end_date": "2020-02-14",
+  "summary": "WASHINGTON, Jan. 9, 2019 J. H. Routh Packing Co., a Sandusky, Ohio establishment, is recalling approximately 1,719 pounds of raw pork sausage products that may be contaminated with extraneous materials, specifically rubber, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today...\n",
+  "establishment": {
+    "id": "M818+V818",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/hk-cooperative-inc",
+    "slug": "hk-cooperative-inc",
+    "name": "HK Cooperative, Inc.",
+    "address": "4413 W. Bogart Rd \n  Sandusky, OH 44870",
+    "telephone": "(419) 626-2251",
+    "grant_date": "2020-05-05",
+    "activities": [
+      "Certification - Export",
+      "Meat Processing",
+      "Meat Slaughter",
+      "Voluntary Processing - Meat"
+    ]
+  },
+  "impacted_products": [
+    "5-lb. plastic packages containing loose, bulk \u201cDaisyfield Brand FRESH PORK SAUSAGE\u201d with production dates \u201c010119\u201d or \u201c010219\u201d or \u201c010319\u201d or \u201c010419\u201d on the label. ",
+    "5-lb. paper-lined cardboard packages containing large link \u201cDaisyfield Brand FRESH PORK SAUSAGE\u201d with production dates \u201c010119\u201d or \u201c010219\u201d or \u201c010319\u201d or \u201c010419\u201d on the label. ",
+    "5-lb. paper-lined cardboard packages containing country-style rope \u201cDaisyfield Brand FRESH PORK SAUSAGE\u201d with production dates \u201c010119\u201d or \u201c010219\u201d or \u201c010319\u201d or \u201c010419\u201d on the label. ",
+    "5-lb. paper-lined cardboard packages containing small, breakfast-style link \u201cDaisyfield Brand FRESH PORK SAUSAGE\u201d with production dates \u201c010119\u201d or \u201c010219\u201d or \u201c010319\u201d or \u201c010419\u201d on the label. ",
+    "5-lb. plastic packages containing loose, bulk \u201cDaisyfield Brand ITALIAN SAUSAGE\u201d with production dates \u201c010119\u201d or \u201c010219\u201d or \u201c010319\u201d or \u201c010419\u201d on the label. ",
+    "5-lb. paper-lined cardboard packages containing large link \u201cDaisyfield Brand ITALIAN SAUSAGE\u201d links with production dates \u201c010119\u201d or \u201c010219\u201d or \u201c010319\u201d or \u201c010419\u201d on the label. ",
+    "5-lb. paper-lined cardboard packages containing country-style rope \u201cDaisyfield Brand ITALIAN SAUSAGE\u201d links with production dates \u201c010119\u201d or \u201c010219\u201d or \u201c010319\u201d or \u201c010419\u201d on the label. "
+  ],
+  "quantity_recovered": 628,
+  "quantity_unit": "pounds",
+  "states": [
+    "Kentucky",
+    "Ohio",
+    "Pennsylvania"
+  ]
+}

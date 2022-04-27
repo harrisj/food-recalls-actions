@@ -1,1 +1,28 @@
-{"id": "129-2015", "title": "Shuler Meats Recalls Turkey Products Packaged Without the Benefit of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/shuler-meats-recalls-turkey-products-packaged-without-benefit-inspection", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2015-10-22", "end_date": "2016-06-08", "summary": "WASHINGTON, Oct. 22, 2015 Shuler Meats, a Thomasville, N.C. establishment, is recalling approximately 25,920 pounds of turkey products that were reconditioned without the benefit of FSIS inspection, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today.The fully cooked smoked turkey legs...", "establishment": {"id": "M40367+P40367", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/shuler-meats-inc", "slug": "shuler-meats-inc", "name": "Shuler Meats, Inc.", "address": "124 Shuler Road \n  Thomasville, NC 27360", "telephone": "(336) 476-6477", "grant_date": "2010-09-28", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": 0, "quantity_unit": "pounds", "states": null}
+{
+  "id": "129-2015",
+  "title": "Shuler Meats Recalls Turkey Products Packaged Without the Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/shuler-meats-recalls-turkey-products-packaged-without-benefit-inspection",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2015-10-22",
+  "end_date": "2016-06-08",
+  "summary": "WASHINGTON, Oct. 22, 2015 Shuler Meats, a Thomasville, N.C. establishment, is recalling approximately 25,920 pounds of turkey products that were reconditioned without the benefit of FSIS inspection, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today.The fully cooked smoked turkey legs...",
+  "establishment": {
+    "id": "M40367+P40367",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/shuler-meats-inc",
+    "slug": "shuler-meats-inc",
+    "name": "Shuler Meats, Inc.",
+    "address": "124 Shuler Road \n  Thomasville, NC 27360",
+    "telephone": "(336) 476-6477",
+    "grant_date": "2010-09-28",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": null
+}

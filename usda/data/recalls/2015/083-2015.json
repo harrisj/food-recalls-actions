@@ -1,1 +1,16 @@
-{"id": "083-2015", "title": "Culinary Brands Inc. Recalls Pork Products Due to Misbranding and Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/culinary-brands-inc.-recalls-pork-products-due-misbranding-and-undeclared-allergen", "reasons": [], "status": "Closed", "risk_level": "Low", "start_date": "2015-05-22", "end_date": "2016-06-08", "summary": "WASHINGTON, May 22, 2015 Culinary Brands Inc., a Vernon, Calif. establishment, is recalling approximately 4,038 pounds of pork products due to misbranding and an undeclared allergen, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The pork product was mistakenly mislabeled...", "establishment": null, "impacted_products": [], "quantity_recovered": 0, "quantity_unit": "pounds", "states": null}
+{
+  "id": "083-2015",
+  "title": "Culinary Brands Inc. Recalls Pork Products Due to Misbranding and Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/culinary-brands-inc.-recalls-pork-products-due-misbranding-and-undeclared-allergen",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2015-05-22",
+  "end_date": "2016-06-08",
+  "summary": "WASHINGTON, May 22, 2015 Culinary Brands Inc., a Vernon, Calif. establishment, is recalling approximately 4,038 pounds of pork products due to misbranding and an undeclared allergen, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The pork product was mistakenly mislabeled...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": null
+}

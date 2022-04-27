@@ -1,1 +1,22 @@
-{"id": "pha-100916", "title": "FSIS Issues Public Health Alert for Chicken Product Due to Possible Salmonella Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-chicken-product-due-possible-salmonella", "reasons": ["Product Contamination"], "status": "Active", "risk_level": null, "start_date": "2016-10-09", "end_date": null, "summary": "WASHINGTON, Oct. 9, 2016 The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) is issuing a public health alert out of an abundance of caution due to concerns about illnesses caused by Salmonella that may be associated with a chicken salad product sold...", "establishment": null, "impacted_products": ["Varying weights of Costco Rotisserie Chicken Salad"], "quantity_recovered": null, "quantity_unit": null, "states": ["Washington"]}
+{
+  "id": "pha-100916",
+  "title": "FSIS Issues Public Health Alert for Chicken Product Due to Possible Salmonella Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-chicken-product-due-possible-salmonella",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2016-10-09",
+  "end_date": null,
+  "summary": "WASHINGTON, Oct. 9, 2016 The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) is issuing a public health alert out of an abundance of caution due to concerns about illnesses caused by Salmonella that may be associated with a chicken salad product sold...",
+  "establishment": null,
+  "impacted_products": [
+    "Varying weights of Costco Rotisserie Chicken Salad"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Washington"
+  ]
+}

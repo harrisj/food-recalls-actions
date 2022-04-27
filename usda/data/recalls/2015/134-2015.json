@@ -1,1 +1,18 @@
-{"id": "134-2015", "title": "Joseph Epstein Food Enterprises, Inc. Recalls Gluten-Free Turkey Meatball Products Due to Misbranding", "url": "https://www.fsis.usda.gov/recalls-alerts/joseph-epstein-food-enterprises-inc.-recalls-gluten-free-turkey-meatball-products", "reasons": [], "status": "Closed", "risk_level": "Low", "start_date": "2015-10-30", "end_date": "2016-06-07", "summary": "WASHINGTON, Oct. 30, 2015 Joseph Epstein Food Enterprises, Inc., an East Rutherford, N.J. establishment, is recalling approximately 190 pounds of turkey meatball products due to misbranding, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The label declares the product as...", "establishment": null, "impacted_products": [], "quantity_recovered": 190, "quantity_unit": "pounds", "states": ["New Jersey"]}
+{
+  "id": "134-2015",
+  "title": "Joseph Epstein Food Enterprises, Inc. Recalls Gluten-Free Turkey Meatball Products Due to Misbranding",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/joseph-epstein-food-enterprises-inc.-recalls-gluten-free-turkey-meatball-products",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2015-10-30",
+  "end_date": "2016-06-07",
+  "summary": "WASHINGTON, Oct. 30, 2015 Joseph Epstein Food Enterprises, Inc., an East Rutherford, N.J. establishment, is recalling approximately 190 pounds of turkey meatball products due to misbranding, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The label declares the product as...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 190,
+  "quantity_unit": "pounds",
+  "states": [
+    "New Jersey"
+  ]
+}

@@ -1,1 +1,22 @@
-{"id": "028-2020", "title": "Continental Glatt Kosher Meats Corp. Recalls Ready-To-Eat Meat and Poultry Products Produced Without Benefit of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/continental-glatt-kosher-meats-corp.-recalls-ready-eat-meat-and-poultry-products", "reasons": ["Mislabeling"], "status": "Closed", "risk_level": "High", "start_date": "2020-12-04", "end_date": "2020-12-30", "summary": "Continental Glatt Kosher Meats Corp., doing business as First Choice Kosher Meat & Deli Inc., a Spring Valley, N.Y. firm, is recalling approximately 61,504 pounds of ready-to-eat (RTE) meat and poultry products that were produced without the benefit of federal inspection, the U.S. Department of...\n", "establishment": null, "impacted_products": ["Various ready to eat meat and poultry items "], "quantity_recovered": 0, "quantity_unit": "pounds", "states": ["New York"]}
+{
+  "id": "028-2020",
+  "title": "Continental Glatt Kosher Meats Corp. Recalls Ready-To-Eat Meat and Poultry Products Produced Without Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/continental-glatt-kosher-meats-corp.-recalls-ready-eat-meat-and-poultry-products",
+  "reasons": [
+    "Mislabeling"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2020-12-04",
+  "end_date": "2020-12-30",
+  "summary": "Continental Glatt Kosher Meats Corp., doing business as First Choice Kosher Meat & Deli Inc., a Spring Valley, N.Y. firm, is recalling approximately 61,504 pounds of ready-to-eat (RTE) meat and poultry products that were produced without the benefit of federal inspection, the U.S. Department of...\n",
+  "establishment": null,
+  "impacted_products": [
+    "Various ready to eat meat and poultry items "
+  ],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": [
+    "New York"
+  ]
+}

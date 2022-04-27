@@ -1,1 +1,19 @@
-{"id": "058-2015", "title": "Cargill Recalls Beef Products Due To Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/cargill-recalls-beef-products-due-possible-foreign-matter-contamination", "reasons": [], "status": "Closed", "risk_level": null, "start_date": "2015-04-10", "end_date": "2016-06-08", "summary": "WASHINGTON, April 10, 2015 Cargill Meat Solutions, a Wyalusing, Pa. establishment, is recalling approximately 8,294 pounds of ground beef product that may be contaminated with blue string, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today.The ground beef patties were produced...", "establishment": null, "impacted_products": [], "quantity_recovered": 4117, "quantity_unit": "pounds", "states": ["Connecticut", "Maryland"]}
+{
+  "id": "058-2015",
+  "title": "Cargill Recalls Beef Products Due To Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/cargill-recalls-beef-products-due-possible-foreign-matter-contamination",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": null,
+  "start_date": "2015-04-10",
+  "end_date": "2016-06-08",
+  "summary": "WASHINGTON, April 10, 2015 Cargill Meat Solutions, a Wyalusing, Pa. establishment, is recalling approximately 8,294 pounds of ground beef product that may be contaminated with blue string, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today.The ground beef patties were produced...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 4117,
+  "quantity_unit": "pounds",
+  "states": [
+    "Connecticut",
+    "Maryland"
+  ]
+}

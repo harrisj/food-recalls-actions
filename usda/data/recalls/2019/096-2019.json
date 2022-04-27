@@ -1,1 +1,32 @@
-{"id": "096-2019", "title": "YOUBITE, LLC Recalls Pork Sausage and Turkey Sausage Products due to Mislabeling", "url": "https://www.fsis.usda.gov/recalls-alerts/youbite-llc-recalls-pork-sausage-and-turkey-sausage-products-due-mislabeling", "reasons": ["Mislabeling"], "status": "Closed", "risk_level": "Low", "start_date": "2019-10-11", "end_date": "2020-01-09", "summary": "WASHINGTON, Oct. 11, 2019 YOUBITE, LLC, a Camarillo, Calif. establishment, is recalling approximately 7,197 pounds of raw and ready-to-eat, pork sausage and turkey sausage products that contain either natural sheep or natural pork casings that were not declared on the product label, the U.S. Department...", "establishment": {"id": "M45475+P45475", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/youbite-llc", "slug": "youbite-llc", "name": "YouBite, LLC", "address": "745 W. Ventura Blvd. \n  Camarillo, CA 93010", "telephone": "(805) 388-1780", "grant_date": "2015-09-14", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": 1, "quantity_unit": "pound", "states": ["California"]}
+{
+  "id": "096-2019",
+  "title": "YOUBITE, LLC Recalls Pork Sausage and Turkey Sausage Products due to Mislabeling",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/youbite-llc-recalls-pork-sausage-and-turkey-sausage-products-due-mislabeling",
+  "reasons": [
+    "Mislabeling"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2019-10-11",
+  "end_date": "2020-01-09",
+  "summary": "WASHINGTON, Oct. 11, 2019 YOUBITE, LLC, a Camarillo, Calif. establishment, is recalling approximately 7,197 pounds of raw and ready-to-eat, pork sausage and turkey sausage products that contain either natural sheep or natural pork casings that were not declared on the product label, the U.S. Department...",
+  "establishment": {
+    "id": "M45475+P45475",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/youbite-llc",
+    "slug": "youbite-llc",
+    "name": "YouBite, LLC",
+    "address": "745 W. Ventura Blvd. \n  Camarillo, CA 93010",
+    "telephone": "(805) 388-1780",
+    "grant_date": "2015-09-14",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 1,
+  "quantity_unit": "pound",
+  "states": [
+    "California"
+  ]
+}

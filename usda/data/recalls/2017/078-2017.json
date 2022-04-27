@@ -1,1 +1,35 @@
-{"id": "078-2017", "title": "Overhill Farms, Inc. Recalls Chicken Products Due To Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/overhill-farms-inc.-recalls-chicken-products-due-possible-foreign-matter", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2017-06-24", "end_date": "2017-10-04", "summary": "WASHINGTON, June 24, 2017Overhill Farms, Inc., a Vernon, Calif. establishment, is recalling approximately 54,630 pounds of chicken bites products that may be contaminated with extraneous materials, specifically bone, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The frozen chicken bites...\n", "establishment": {"id": "M1722+P2824+V2824", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/overhill-farms-inc-0", "slug": "overhill-farms-inc-0", "name": "Overhill Farms, Inc.", "address": "3055 E. 44th St. \n  Vernon, CA 90058", "telephone": "(323) 582-5985", "grant_date": "2019-11-01", "activities": ["AMS RTE Canada EV Program", "Food Inspection", "Meat Processing", "Poultry Processing"]}, "impacted_products": ["3-oz. boxes containing \u201cyummy spoonfuls chicken carrot bites,\u201d with \u201cBest Before\u201d dates of 02/01/18, 02/09/18 and 4/26/2018.", "30-lb. bulk cases containing Overhill Farms brand \u201cFULLY COOKED ORGANIC CHICKEN BROCCOLI BITES CHICKEN AND VEGETABLE PATTY,\u201d with case code 320422 and packaging date 08/30/16."], "quantity_recovered": 30575, "quantity_unit": "pounds", "states": null}
+{
+  "id": "078-2017",
+  "title": "Overhill Farms, Inc. Recalls Chicken Products Due To Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/overhill-farms-inc.-recalls-chicken-products-due-possible-foreign-matter",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2017-06-24",
+  "end_date": "2017-10-04",
+  "summary": "WASHINGTON, June 24, 2017Overhill Farms, Inc., a Vernon, Calif. establishment, is recalling approximately 54,630 pounds of chicken bites products that may be contaminated with extraneous materials, specifically bone, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The frozen chicken bites...\n",
+  "establishment": {
+    "id": "M1722+P2824+V2824",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/overhill-farms-inc-0",
+    "slug": "overhill-farms-inc-0",
+    "name": "Overhill Farms, Inc.",
+    "address": "3055 E. 44th St. \n  Vernon, CA 90058",
+    "telephone": "(323) 582-5985",
+    "grant_date": "2019-11-01",
+    "activities": [
+      "AMS RTE Canada EV Program",
+      "Food Inspection",
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "3-oz. boxes containing \u201cyummy spoonfuls chicken carrot bites,\u201d with \u201cBest Before\u201d dates of 02/01/18, 02/09/18 and 4/26/2018.",
+    "30-lb. bulk cases containing Overhill Farms brand \u201cFULLY COOKED ORGANIC CHICKEN BROCCOLI BITES CHICKEN AND VEGETABLE PATTY,\u201d with case code 320422 and packaging date 08/30/16."
+  ],
+  "quantity_recovered": 30575,
+  "quantity_unit": "pounds",
+  "states": null
+}

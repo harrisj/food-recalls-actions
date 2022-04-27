@@ -1,1 +1,23 @@
-{"id": "058-2013-EXP", "title": "California Wholesale Store Recalls Rotisserie Chicken Products Due To Possible Salmonella Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/california-wholesale-store-recalls-rotisserie-chicken-products-due-possible", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2013-10-17", "end_date": "2015-03-24", "summary": "EDITOR'S NOTE: This release is being reissued to reflect an additional 14,093 units of products produced on dates not included in the Oct. 12, 2013 release. WASHINGTON, Oct. 17, 2013 Costco's El Camino Real store in San Francisco, Calif., is recalling an additional 14,093 units...\n", "establishment": null, "impacted_products": ["13,455 iKirkland Signature Foster Farms\u201d rotisserie chickens", "638 total units of \u201cKirkland Farm\u201d rotisserie chicken soup, rotisserie chicken leg quarters, and rotisserie chicken salad."], "quantity_recovered": 1260, "quantity_unit": "pounds", "states": ["California"]}
+{
+  "id": "058-2013-EXP",
+  "title": "California Wholesale Store Recalls Rotisserie Chicken Products Due To Possible Salmonella Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/california-wholesale-store-recalls-rotisserie-chicken-products-due-possible",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2013-10-17",
+  "end_date": "2015-03-24",
+  "summary": "EDITOR'S NOTE: This release is being reissued to reflect an additional 14,093 units of products produced on dates not included in the Oct. 12, 2013 release. WASHINGTON, Oct. 17, 2013 Costco's El Camino Real store in San Francisco, Calif., is recalling an additional 14,093 units...\n",
+  "establishment": null,
+  "impacted_products": [
+    "13,455 iKirkland Signature Foster Farms\u201d rotisserie chickens",
+    "638 total units of \u201cKirkland Farm\u201d rotisserie chicken soup, rotisserie chicken leg quarters, and rotisserie chicken salad."
+  ],
+  "quantity_recovered": 1260,
+  "quantity_unit": "pounds",
+  "states": [
+    "California"
+  ]
+}

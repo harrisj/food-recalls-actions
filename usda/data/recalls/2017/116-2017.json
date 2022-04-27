@@ -1,1 +1,29 @@
-{"id": "116-2017", "title": "Chelsea Food Services Firm Recalls Pork and Chicken Products Due To Possible Listeria Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/chelsea-food-services-firm-recalls-pork-and-chicken-products-due-possible-listeria", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2017-11-01", "end_date": "2017-11-28", "summary": "WASHINGTON, Nov. 1, 2017 Chelsea Food Services, doing business as Journey Cuisine, a Denver, Colo. establishment, is recalling approximately 28,064 pounds of pork and chicken burritos and wrap products that may be adulterated with Listeria monocytogenes, the U.S. Department of Agricultures Food Safety and Inspection...", "establishment": null, "impacted_products": ["\u20228-lb. case containing 16 frozen burritos of \u201cKING Soopers BACON BREAKFAST BURRITO\u201d with \u201cSell By\u201d dates from 03/11/18 to 4/26/18.", "\u20228-lb. case containing 16 frozen burritos of \u201cKING Soopers CARNITAS POTATO BURRITO (Burrito Carnitas Caliente)\u201d with \u201cSell By\u201d dates from 03/11/18 to 4/26/18.", "\u20228-lb. case containing 16 frozen burritos of \u201cKING Soopers CHICKEN QUESO BURRITO\u201d with \u201cSell By\u201d dates from 03/11/18 to 4/26/18.", "\u20228-lb. case containing 16 frozen burritos of \u201cKING Soopers SPICY SAUSAGE BURRITO (Burrito Spicy Breakfast)\u201d with \u201cSell By\u201d dates from 03/11/18 to 4/26/18.", "\u20224-lb. case containing 8 sandwich kits of \u201cSHAMROCK FOODS GRILLED CHICKEN WRAP\u201d with \u201cUse By\u201d dates from 9/16/17 to 10/31/17."], "quantity_recovered": 13929, "quantity_unit": "pounds", "states": ["Colorado", "New Mexico", "Utah", "Wyoming"]}
+{
+  "id": "116-2017",
+  "title": "Chelsea Food Services Firm Recalls Pork and Chicken Products Due To Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/chelsea-food-services-firm-recalls-pork-and-chicken-products-due-possible-listeria",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2017-11-01",
+  "end_date": "2017-11-28",
+  "summary": "WASHINGTON, Nov. 1, 2017 Chelsea Food Services, doing business as Journey Cuisine, a Denver, Colo. establishment, is recalling approximately 28,064 pounds of pork and chicken burritos and wrap products that may be adulterated with Listeria monocytogenes, the U.S. Department of Agricultures Food Safety and Inspection...",
+  "establishment": null,
+  "impacted_products": [
+    "\u20228-lb. case containing 16 frozen burritos of \u201cKING Soopers BACON BREAKFAST BURRITO\u201d with \u201cSell By\u201d dates from 03/11/18 to 4/26/18.",
+    "\u20228-lb. case containing 16 frozen burritos of \u201cKING Soopers CARNITAS POTATO BURRITO (Burrito Carnitas Caliente)\u201d with \u201cSell By\u201d dates from 03/11/18 to 4/26/18.",
+    "\u20228-lb. case containing 16 frozen burritos of \u201cKING Soopers CHICKEN QUESO BURRITO\u201d with \u201cSell By\u201d dates from 03/11/18 to 4/26/18.",
+    "\u20228-lb. case containing 16 frozen burritos of \u201cKING Soopers SPICY SAUSAGE BURRITO (Burrito Spicy Breakfast)\u201d with \u201cSell By\u201d dates from 03/11/18 to 4/26/18.",
+    "\u20224-lb. case containing 8 sandwich kits of \u201cSHAMROCK FOODS GRILLED CHICKEN WRAP\u201d with \u201cUse By\u201d dates from 9/16/17 to 10/31/17."
+  ],
+  "quantity_recovered": 13929,
+  "quantity_unit": "pounds",
+  "states": [
+    "Colorado",
+    "New Mexico",
+    "Utah",
+    "Wyoming"
+  ]
+}

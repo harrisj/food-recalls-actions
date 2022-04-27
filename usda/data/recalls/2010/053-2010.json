@@ -1,1 +1,49 @@
-{"id": "053-2010", "title": "Wisconsin Firm Recalls Cured Uncooked Sausage Products Due To Mislabeling and an Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/wisconsin-firm-recalls-cured-uncooked-sausage-products-due-mislabeling-and", "reasons": ["Unreported Allergens", "Mislabeling"], "status": "Closed", "risk_level": "Low", "start_date": "2010-09-24", "end_date": "2012-06-04", "summary": "WASHINGTON, September 24, 2010 - Mekong Fresh Meats, a Mosinee, Wis., establishment, is recalling approximately 29,893 pounds of cured uncooked pork ginger sausages because they contain an undeclared allergen, wheat, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. Wheat is...\n", "establishment": {"id": "M27488A+P27488A", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/mekong-fresh-meats-inc-0", "slug": "mekong-fresh-meats-inc-0", "name": "Mekong Fresh Meats, Inc.", "address": "905 South Parkview Circuit \n  Mosinee, WI 54455", "telephone": "(715) 693-1341", "grant_date": "2017-05-01", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["5-lb. bags of \"CURED UNCOOKED PORK GINGER SAUSAGE 50 PCS.\"", "16-ounce packages of \"CURED UNCOOKED PORK GINGER SAUSAGE.\"", "20-ounce packages of \"CURED UNCOOKED PORK GINGER SAUSAGE.\"", "32-ounce packages of \"CURED UNCOOKED PORK GINGER SAUSAGE.\""], "quantity_recovered": 5019, "quantity_unit": "pounds", "states": ["Alaska", "Arkansas", "California", "Colorado", "Georgia", "Michigan", "Minnesota", "Missouri", "North Carolina", "Ohio", "Oklahoma", "Wisconsin"]}
+{
+  "id": "053-2010",
+  "title": "Wisconsin Firm Recalls Cured Uncooked Sausage Products Due To Mislabeling and an Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/wisconsin-firm-recalls-cured-uncooked-sausage-products-due-mislabeling-and",
+  "reasons": [
+    "Unreported Allergens",
+    "Mislabeling"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2010-09-24",
+  "end_date": "2012-06-04",
+  "summary": "WASHINGTON, September 24, 2010 - Mekong Fresh Meats, a Mosinee, Wis., establishment, is recalling approximately 29,893 pounds of cured uncooked pork ginger sausages because they contain an undeclared allergen, wheat, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. Wheat is...\n",
+  "establishment": {
+    "id": "M27488A+P27488A",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/mekong-fresh-meats-inc-0",
+    "slug": "mekong-fresh-meats-inc-0",
+    "name": "Mekong Fresh Meats, Inc.",
+    "address": "905 South Parkview Circuit \n  Mosinee, WI 54455",
+    "telephone": "(715) 693-1341",
+    "grant_date": "2017-05-01",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "5-lb. bags of \"CURED UNCOOKED PORK GINGER SAUSAGE 50 PCS.\"",
+    "16-ounce packages of \"CURED UNCOOKED PORK GINGER SAUSAGE.\"",
+    "20-ounce packages of \"CURED UNCOOKED PORK GINGER SAUSAGE.\"",
+    "32-ounce packages of \"CURED UNCOOKED PORK GINGER SAUSAGE.\""
+  ],
+  "quantity_recovered": 5019,
+  "quantity_unit": "pounds",
+  "states": [
+    "Alaska",
+    "Arkansas",
+    "California",
+    "Colorado",
+    "Georgia",
+    "Michigan",
+    "Minnesota",
+    "Missouri",
+    "North Carolina",
+    "Ohio",
+    "Oklahoma",
+    "Wisconsin"
+  ]
+}

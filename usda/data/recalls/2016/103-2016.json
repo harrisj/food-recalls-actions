@@ -1,1 +1,23 @@
-{"id": "103-2016", "title": "OSI Industries, LLC Recalls Chicken Products Due To Possible Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/osi-industries-llc-recalls-chicken-products-due-possible-foreign-matter", "reasons": [], "status": "Closed", "risk_level": "Low", "start_date": "2016-11-06", "end_date": "2016-12-08", "summary": "WASHINGTON, Nov. 6, 2016 OSI Industries, LLC, a Fort Atkinson, Wis. establishment, is recalling approximately 21,403 pounds of chicken products that may be contaminated with extraneous materials, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today.The ready-to-eat chicken products were produced...", "establishment": null, "impacted_products": [], "quantity_recovered": 4869, "quantity_unit": "pounds", "states": ["Kansas", "Kentucky", "Minnesota", "North Carolina", "Ohio", "Wisconsin"]}
+{
+  "id": "103-2016",
+  "title": "OSI Industries, LLC Recalls Chicken Products Due To Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/osi-industries-llc-recalls-chicken-products-due-possible-foreign-matter",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2016-11-06",
+  "end_date": "2016-12-08",
+  "summary": "WASHINGTON, Nov. 6, 2016 OSI Industries, LLC, a Fort Atkinson, Wis. establishment, is recalling approximately 21,403 pounds of chicken products that may be contaminated with extraneous materials, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today.The ready-to-eat chicken products were produced...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 4869,
+  "quantity_unit": "pounds",
+  "states": [
+    "Kansas",
+    "Kentucky",
+    "Minnesota",
+    "North Carolina",
+    "Ohio",
+    "Wisconsin"
+  ]
+}

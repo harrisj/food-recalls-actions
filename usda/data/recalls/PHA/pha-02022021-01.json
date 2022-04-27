@@ -1,1 +1,22 @@
-{"id": "PHA-02022021-01", "title": "FSIS Issues Public Health Alert for Raw Ground Beef Product Due to Possible E. Coli O157:H7 Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-raw-ground-beef-product-due-possible-e.-coli-o157h7", "reasons": ["Product Contamination"], "status": "Active", "risk_level": null, "start_date": "2021-02-02", "end_date": null, "summary": "The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert because raw beef product produced by Greater Omaha Packing Co. Inc., an Omaha, Neb. establishment, may be contaminated with E. coli. O157:H7. A recall was not requested because...\n", "establishment": null, "impacted_products": ["2-lb (approximately) trays containing raw ground beef labeled with a retail label with \u201cPACKED\u201d dates ranging from JAN 28 2021 through JAN 31 2021."], "quantity_recovered": null, "quantity_unit": null, "states": ["Illinois"]}
+{
+  "id": "PHA-02022021-01",
+  "title": "FSIS Issues Public Health Alert for Raw Ground Beef Product Due to Possible E. Coli O157:H7 Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-raw-ground-beef-product-due-possible-e.-coli-o157h7",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2021-02-02",
+  "end_date": null,
+  "summary": "The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert because raw beef product produced by Greater Omaha Packing Co. Inc., an Omaha, Neb. establishment, may be contaminated with E. coli. O157:H7. A recall was not requested because...\n",
+  "establishment": null,
+  "impacted_products": [
+    "2-lb (approximately) trays containing raw ground beef labeled with a retail label with \u201cPACKED\u201d dates ranging from JAN 28 2021 through JAN 31 2021."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Illinois"
+  ]
+}

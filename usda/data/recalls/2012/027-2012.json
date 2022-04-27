@@ -1,1 +1,32 @@
-{"id": "027-2012", "title": "Michigan Firm Recalls Calzone Products for Possible Listeria Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/michigan-firm-recalls-calzone-products-possible-listeria-contamination", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2012-04-20", "end_date": "2013-05-28", "summary": "WASHINGTON, April 20, 2012 - Albie's Foods, a Gaylord, Mich. establishment, is recalling approximately 311 pounds of pizza calzone products due to possible contamination with Listeria monocytogenes, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The fully cooked, ready-to-eat, calzone...\n", "establishment": {"id": "M10100+P10100", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/albies-food-products-llc", "slug": "albies-food-products-llc", "name": "Albie's Food Products, LLC", "address": "1534 O&#039;Rourke Blvd \n  Gaylord, MI 49735", "telephone": "(989) 732-2800", "grant_date": "2021-02-26", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["Packages containing 48 4.5-oz. pieces of \"Albie's Pizza Calzone.\""], "quantity_recovered": 310, "quantity_unit": "pounds", "states": null}
+{
+  "id": "027-2012",
+  "title": "Michigan Firm Recalls Calzone Products for Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/michigan-firm-recalls-calzone-products-possible-listeria-contamination",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2012-04-20",
+  "end_date": "2013-05-28",
+  "summary": "WASHINGTON, April 20, 2012 - Albie's Foods, a Gaylord, Mich. establishment, is recalling approximately 311 pounds of pizza calzone products due to possible contamination with Listeria monocytogenes, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The fully cooked, ready-to-eat, calzone...\n",
+  "establishment": {
+    "id": "M10100+P10100",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/albies-food-products-llc",
+    "slug": "albies-food-products-llc",
+    "name": "Albie's Food Products, LLC",
+    "address": "1534 O&#039;Rourke Blvd \n  Gaylord, MI 49735",
+    "telephone": "(989) 732-2800",
+    "grant_date": "2021-02-26",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "Packages containing 48 4.5-oz. pieces of \"Albie's Pizza Calzone.\""
+  ],
+  "quantity_recovered": 310,
+  "quantity_unit": "pounds",
+  "states": null
+}

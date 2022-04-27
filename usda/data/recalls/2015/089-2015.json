@@ -1,1 +1,39 @@
-{"id": "089-2015", "title": "Big Easy Foods Louisiana Cuisine, Inc. Recalls Poultry Product Due to Misbranding and an Undeclared Allergen", "url": "https://www.fsis.usda.gov/recalls-alerts/big-easy-foods-louisiana-cuisine-inc.-recalls-poultry-product-due-misbranding-and", "reasons": [], "status": "Closed", "risk_level": "Low", "start_date": "2015-06-09", "end_date": "2017-06-20", "summary": "WASHINGTON, June 9, 2015 Big Easy Foods Louisiana Cuisine, Inc., a Lake Charles, La. establishment, is recalling approximately 93,006 pounds of both raw and cooked stuffed chicken product due to misbranding and an undeclared allergen, the U.S. Department of Agricultures Food Safety and Inspection Service...", "establishment": {"id": "M13251+P13251", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/big-easy-foods-louisiana-llc", "slug": "big-easy-foods-louisiana-llc", "name": "Big Easy Foods of Louisiana, LLC", "address": "3935 Ryan St. \n  Lake Charles, LA 70605", "telephone": "(337) 477-9296", "grant_date": "2021-09-30", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": 9486, "quantity_unit": "pounds", "states": ["Arizona", "Arkansas", "Florida", "Louisiana", "Maryland", "Missouri", "New Jersey", "Pennsylvania", "Tennessee", "Texas"]}
+{
+  "id": "089-2015",
+  "title": "Big Easy Foods Louisiana Cuisine, Inc. Recalls Poultry Product Due to Misbranding and an Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/big-easy-foods-louisiana-cuisine-inc.-recalls-poultry-product-due-misbranding-and",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2015-06-09",
+  "end_date": "2017-06-20",
+  "summary": "WASHINGTON, June 9, 2015 Big Easy Foods Louisiana Cuisine, Inc., a Lake Charles, La. establishment, is recalling approximately 93,006 pounds of both raw and cooked stuffed chicken product due to misbranding and an undeclared allergen, the U.S. Department of Agricultures Food Safety and Inspection Service...",
+  "establishment": {
+    "id": "M13251+P13251",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/big-easy-foods-louisiana-llc",
+    "slug": "big-easy-foods-louisiana-llc",
+    "name": "Big Easy Foods of Louisiana, LLC",
+    "address": "3935 Ryan St. \n  Lake Charles, LA 70605",
+    "telephone": "(337) 477-9296",
+    "grant_date": "2021-09-30",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 9486,
+  "quantity_unit": "pounds",
+  "states": [
+    "Arizona",
+    "Arkansas",
+    "Florida",
+    "Louisiana",
+    "Maryland",
+    "Missouri",
+    "New Jersey",
+    "Pennsylvania",
+    "Tennessee",
+    "Texas"
+  ]
+}

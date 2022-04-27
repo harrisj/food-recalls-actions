@@ -1,1 +1,35 @@
-{"id": "027-2010", "title": "Colorado Firm Recalls Fully Cooked Crumbled Pork Sausage Products for Possible Listeria Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/colorado-firm-recalls-fully-cooked-crumbled-pork-sausage-products-possible-listeria", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2010-05-01", "end_date": "2012-06-03", "summary": "WASHINGTON, May 1, 2010 - Custom Corned Beef, Inc., a Denver, Colo., establishment, is recalling approximately 460 pounds of fully cooked crumbled pork sausage products that may be contaminated with Listeria monocytogenes, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today...\n", "establishment": {"id": "M4121+P4121+V4121", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/custom-corned-beef-llc", "slug": "custom-corned-beef-llc", "name": "Custom Corned Beef LLC", "address": "16500 State Hwy 52 \n  Wiggins, CO 80654", "telephone": "(303) 296-8686", "grant_date": "2019-07-03", "activities": ["Meat Processing", "Poultry Processing", "Voluntary Processing - Meat"]}, "impacted_products": ["10-pound boxes with two, 5-pound packages of \u201cPOLIDORI, FULLY COOKED PORK SAUSAGE CRUMBLES, KEEP REFRIGERATED/FROZEN.\u201d Each box label bears the establishment number \u201cEST. 4121\u201d inside the USDA mark of inspection."], "quantity_recovered": 460, "quantity_unit": "pounds", "states": ["Colorado"]}
+{
+  "id": "027-2010",
+  "title": "Colorado Firm Recalls Fully Cooked Crumbled Pork Sausage Products for Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/colorado-firm-recalls-fully-cooked-crumbled-pork-sausage-products-possible-listeria",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2010-05-01",
+  "end_date": "2012-06-03",
+  "summary": "WASHINGTON, May 1, 2010 - Custom Corned Beef, Inc., a Denver, Colo., establishment, is recalling approximately 460 pounds of fully cooked crumbled pork sausage products that may be contaminated with Listeria monocytogenes, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today...\n",
+  "establishment": {
+    "id": "M4121+P4121+V4121",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/custom-corned-beef-llc",
+    "slug": "custom-corned-beef-llc",
+    "name": "Custom Corned Beef LLC",
+    "address": "16500 State Hwy 52 \n  Wiggins, CO 80654",
+    "telephone": "(303) 296-8686",
+    "grant_date": "2019-07-03",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing",
+      "Voluntary Processing - Meat"
+    ]
+  },
+  "impacted_products": [
+    "10-pound boxes with two, 5-pound packages of \u201cPOLIDORI, FULLY COOKED PORK SAUSAGE CRUMBLES, KEEP REFRIGERATED/FROZEN.\u201d Each box label bears the establishment number \u201cEST. 4121\u201d inside the USDA mark of inspection."
+  ],
+  "quantity_recovered": 460,
+  "quantity_unit": "pounds",
+  "states": [
+    "Colorado"
+  ]
+}

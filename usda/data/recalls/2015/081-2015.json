@@ -1,1 +1,23 @@
-{"id": "081-2015", "title": "LQNN, Inc. Recalls Poultry, Beef and Pork Products Produced Without the Benefit of Inspection and Misbranded With Unauthorized Use of the USDA Mark of Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/lqnn-inc.-recalls-poultry-beef-and-pork-products-produced-without-benefit-inspection", "reasons": [], "status": "Closed", "risk_level": "High", "start_date": "2015-05-20", "end_date": "2020-02-13", "summary": "EDITORS NOTE: Details of this recall were updated on June 5, 2015 to reflect a change in pounds. WASHINGTON, May 20, 2015 LQNN, Inc., a Garden Grove, Calif. firm, added additional poundage to the recalled products list, the U.S. Department of Agricultures Food Safety and...", "establishment": null, "impacted_products": [], "quantity_recovered": 3517, "quantity_unit": "pounds", "states": ["Arizona", "California", "Nevada", "Oklahoma", "Oregon", "Texas"]}
+{
+  "id": "081-2015",
+  "title": "LQNN, Inc. Recalls Poultry, Beef and Pork Products Produced Without the Benefit of Inspection and Misbranded With Unauthorized Use of the USDA Mark of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/lqnn-inc.-recalls-poultry-beef-and-pork-products-produced-without-benefit-inspection",
+  "reasons": [],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2015-05-20",
+  "end_date": "2020-02-13",
+  "summary": "EDITORS NOTE: Details of this recall were updated on June 5, 2015 to reflect a change in pounds. WASHINGTON, May 20, 2015 LQNN, Inc., a Garden Grove, Calif. firm, added additional poundage to the recalled products list, the U.S. Department of Agricultures Food Safety and...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 3517,
+  "quantity_unit": "pounds",
+  "states": [
+    "Arizona",
+    "California",
+    "Nevada",
+    "Oklahoma",
+    "Oregon",
+    "Texas"
+  ]
+}

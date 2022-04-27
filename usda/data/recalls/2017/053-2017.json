@@ -1,1 +1,40 @@
-{"id": "053-2017", "title": "Correctional Industries Airway Heights Food Operations Recalls Frozen Meat and Poultry Products Due to Water Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/correctional-industries-airway-heights-food-operations-recalls-frozen-meat-and", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "Low", "start_date": "2017-06-02", "end_date": "2017-08-08", "summary": "EDITORS NOTE: This release has been edited to add Arizona in the distribution list. WASHINGTON, June 2, 2017 Correctional Industries Airway Heights Food Operations, an Airway Heights, Wash. establishment, is recalling approximately 319,000 pounds of frozen meat and poultry products due to water contamination, the...\n", "establishment": {"id": "M40238+P40238+G40238", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/correctional-industries-food-factory", "slug": "correctional-industries-food-factory", "name": "Correctional Industries Food Factory", "address": "11919 W Sprague \n  Airway Heights, WA 99001", "telephone": "(509) 244-6700", "grant_date": "2015-05-12", "activities": ["Egg Product", "Meat Processing", "Poultry Processing"]}, "impacted_products": ["31-lb. boxes containing \u201cBROWN GRAVY W/BEEF, MASHED POTATOES, PEAS & CARROTS\u201d and \u201cMfg Date\u201d April 1, 2017 through May 15, 2017.", "36-lb. boxes containing \u201cCHICKEN ENCHILADA W/ENCHILADA SAUCE, RICE, AND BLACK BEANS\u201d and \u201cMfg Date\u201d April 1, 2017 through May 15, 2017."], "quantity_recovered": 871380, "quantity_unit": "pounds", "states": ["Arizona", "Idaho", "Montana", "Oregon", "Washington"]}
+{
+  "id": "053-2017",
+  "title": "Correctional Industries Airway Heights Food Operations Recalls Frozen Meat and Poultry Products Due to Water Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/correctional-industries-airway-heights-food-operations-recalls-frozen-meat-and",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2017-06-02",
+  "end_date": "2017-08-08",
+  "summary": "EDITORS NOTE: This release has been edited to add Arizona in the distribution list. WASHINGTON, June 2, 2017 Correctional Industries Airway Heights Food Operations, an Airway Heights, Wash. establishment, is recalling approximately 319,000 pounds of frozen meat and poultry products due to water contamination, the...\n",
+  "establishment": {
+    "id": "M40238+P40238+G40238",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/correctional-industries-food-factory",
+    "slug": "correctional-industries-food-factory",
+    "name": "Correctional Industries Food Factory",
+    "address": "11919 W Sprague \n  Airway Heights, WA 99001",
+    "telephone": "(509) 244-6700",
+    "grant_date": "2015-05-12",
+    "activities": [
+      "Egg Product",
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "31-lb. boxes containing \u201cBROWN GRAVY W/BEEF, MASHED POTATOES, PEAS & CARROTS\u201d and \u201cMfg Date\u201d April 1, 2017 through May 15, 2017.",
+    "36-lb. boxes containing \u201cCHICKEN ENCHILADA W/ENCHILADA SAUCE, RICE, AND BLACK BEANS\u201d and \u201cMfg Date\u201d April 1, 2017 through May 15, 2017."
+  ],
+  "quantity_recovered": 871380,
+  "quantity_unit": "pounds",
+  "states": [
+    "Arizona",
+    "Idaho",
+    "Montana",
+    "Oregon",
+    "Washington"
+  ]
+}

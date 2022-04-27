@@ -1,1 +1,37 @@
-{"id": "090-2014", "title": "Texas Firm Recalls Pork Products Due To Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/texas-firm-recalls-pork-products-due-misbranding-and-undeclared-allergens", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2014-12-27", "end_date": "2015-03-24", "summary": "WASHINGTON, December 27, 2014 HEB Meat Center, a San Antonio, Texas establishment, is recalling approximately 83,666 pounds of pork products due to misbranding and undeclared allergens, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The products may contain peanuts, known...\n", "establishment": {"id": "M7231+P7231", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/heb-meat-plant", "slug": "heb-meat-plant", "name": "HEB Meat Plant", "address": "4710 N. Pan Am Expressway \n  San Antonio, TX 78218", "telephone": "(210) 938-4646", "grant_date": "2020-09-01", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": ["Random weight vacuum-packed clear packages containing \u201cPork Chorizo.\u201d", "Random weight clear covered trays containing \u201cHEB Mi Comida Chorizo Pork Chorizo.\u201d", "Random weight vacuum-packed clear packages containing \u201cSEASONED MEXICAN STYLE PORK FOR CARNE AL PASTOR.\u201d"], "quantity_recovered": 23355, "quantity_unit": "pounds", "states": ["Texas"]}
+{
+  "id": "090-2014",
+  "title": "Texas Firm Recalls Pork Products Due To Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/texas-firm-recalls-pork-products-due-misbranding-and-undeclared-allergens",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2014-12-27",
+  "end_date": "2015-03-24",
+  "summary": "WASHINGTON, December 27, 2014 HEB Meat Center, a San Antonio, Texas establishment, is recalling approximately 83,666 pounds of pork products due to misbranding and undeclared allergens, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The products may contain peanuts, known...\n",
+  "establishment": {
+    "id": "M7231+P7231",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/heb-meat-plant",
+    "slug": "heb-meat-plant",
+    "name": "HEB Meat Plant",
+    "address": "4710 N. Pan Am Expressway \n  San Antonio, TX 78218",
+    "telephone": "(210) 938-4646",
+    "grant_date": "2020-09-01",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "Random weight vacuum-packed clear packages containing \u201cPork Chorizo.\u201d",
+    "Random weight clear covered trays containing \u201cHEB Mi Comida Chorizo Pork Chorizo.\u201d",
+    "Random weight vacuum-packed clear packages containing \u201cSEASONED MEXICAN STYLE PORK FOR CARNE AL PASTOR.\u201d"
+  ],
+  "quantity_recovered": 23355,
+  "quantity_unit": "pounds",
+  "states": [
+    "Texas"
+  ]
+}

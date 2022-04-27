@@ -1,1 +1,20 @@
-{"id": "071-2018", "title": "Olufela Yemitan Recalls Siluriformes Products Distributed Without Benefit of Import Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/olufela-yemitan-recalls-siluriformes-products-distributed-without-benefit-import", "reasons": ["Produced Without Benefit of Inspection"], "status": "Closed", "risk_level": "High", "start_date": "2018-08-29", "end_date": "2020-02-14", "summary": "WASHINGTON, Aug. 29, 2018 Olufela Yemitan, the Importer of Record, a Houston, Texas firm, is recalling approximately 45 pounds of smoked Siluriformes products that were not presented at the U.S. point of entry for inspection, the U.S. Department of Agricultures Food Safety and Inspection Service...", "establishment": null, "impacted_products": [], "quantity_recovered": 0, "quantity_unit": "pounds", "states": ["Texas"]}
+{
+  "id": "071-2018",
+  "title": "Olufela Yemitan Recalls Siluriformes Products Distributed Without Benefit of Import Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/olufela-yemitan-recalls-siluriformes-products-distributed-without-benefit-import",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2018-08-29",
+  "end_date": "2020-02-14",
+  "summary": "WASHINGTON, Aug. 29, 2018 Olufela Yemitan, the Importer of Record, a Houston, Texas firm, is recalling approximately 45 pounds of smoked Siluriformes products that were not presented at the U.S. point of entry for inspection, the U.S. Department of Agricultures Food Safety and Inspection Service...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": 0,
+  "quantity_unit": "pounds",
+  "states": [
+    "Texas"
+  ]
+}

@@ -1,1 +1,25 @@
-{"id": "016-2014", "title": "Canadian Firm Recalls Various Meat Products Without Import Inspection", "url": "https://www.fsis.usda.gov/recalls-alerts/canadian-firm-recalls-various-meat-products-without-import-inspection", "reasons": ["Import Violation"], "status": "Closed", "risk_level": "Low", "start_date": "2014-02-26", "end_date": "2016-06-08", "summary": "EDITOR'S NOTE: FSIS has edited the release first issued on February 22, 2014 to reflect a change in the product codes for iMASTRO Sopressata Round\u201d and iMASTRO Sopressata Salami\u201d. WASHINGTON, Feb. 26, 2014 Santa Maria Foods Corporation, a Rexdale, Ontario, Canada establishment, is recalling approximately...\n", "establishment": null, "impacted_products": ["11.1-oz. \u201cSopressata Salami\u201d bearing package code \u201c2014AL30\u201d", "5.1-lbs. \u201cMASTRO Milano Salami\u201d bearing package code \u201c2014JN17\u201d"], "quantity_recovered": 1440, "quantity_unit": "pounds", "states": ["Arizona", "California", "Florida"]}
+{
+  "id": "016-2014",
+  "title": "Canadian Firm Recalls Various Meat Products Without Import Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/canadian-firm-recalls-various-meat-products-without-import-inspection",
+  "reasons": [
+    "Import Violation"
+  ],
+  "status": "Closed",
+  "risk_level": "Low",
+  "start_date": "2014-02-26",
+  "end_date": "2016-06-08",
+  "summary": "EDITOR'S NOTE: FSIS has edited the release first issued on February 22, 2014 to reflect a change in the product codes for iMASTRO Sopressata Round\u201d and iMASTRO Sopressata Salami\u201d. WASHINGTON, Feb. 26, 2014 Santa Maria Foods Corporation, a Rexdale, Ontario, Canada establishment, is recalling approximately...\n",
+  "establishment": null,
+  "impacted_products": [
+    "11.1-oz. \u201cSopressata Salami\u201d bearing package code \u201c2014AL30\u201d",
+    "5.1-lbs. \u201cMASTRO Milano Salami\u201d bearing package code \u201c2014JN17\u201d"
+  ],
+  "quantity_recovered": 1440,
+  "quantity_unit": "pounds",
+  "states": [
+    "Arizona",
+    "California",
+    "Florida"
+  ]
+}

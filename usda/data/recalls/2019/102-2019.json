@@ -1,1 +1,30 @@
-{"id": "102-2019", "title": "George's Prepared Foods Recalls Ready-To-Eat Pork and Turkey Products due to Possible Salmonella Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/georges-prepared-foods-recalls-ready-eat-pork-and-turkey-products-due-possible", "reasons": ["Product Contamination"], "status": "Closed", "risk_level": "High", "start_date": "2019-10-18", "end_date": "2019-12-06", "summary": "EDITOR'S NOTE: This release is being updated to correct the establishment number from M2206T to M2260T. WASHINGTON, Oct. 18, 2019 Georges Prepared Foods, a Caryville, Tenn. establishment, is recalling approximately 6,444 pounds of ready-to-eat (RTE) pork sausage patty and turkey sausage patty products that may...", "establishment": {"id": "M2260T+P2260T", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/georges-prepared-foods", "slug": "georges-prepared-foods", "name": "George's Prepared Foods", "address": "241 Elkins Road \n  Caryville, TN 37714", "telephone": "(423) 562-8417", "grant_date": "2020-10-27", "activities": ["Meat Processing", "Poultry Processing"]}, "impacted_products": [], "quantity_recovered": 1961, "quantity_unit": "pounds", "states": null}
+{
+  "id": "102-2019",
+  "title": "George's Prepared Foods Recalls Ready-To-Eat Pork and Turkey Products due to Possible Salmonella Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/georges-prepared-foods-recalls-ready-eat-pork-and-turkey-products-due-possible",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2019-10-18",
+  "end_date": "2019-12-06",
+  "summary": "EDITOR'S NOTE: This release is being updated to correct the establishment number from M2206T to M2260T. WASHINGTON, Oct. 18, 2019 Georges Prepared Foods, a Caryville, Tenn. establishment, is recalling approximately 6,444 pounds of ready-to-eat (RTE) pork sausage patty and turkey sausage patty products that may...",
+  "establishment": {
+    "id": "M2260T+P2260T",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/georges-prepared-foods",
+    "slug": "georges-prepared-foods",
+    "name": "George's Prepared Foods",
+    "address": "241 Elkins Road \n  Caryville, TN 37714",
+    "telephone": "(423) 562-8417",
+    "grant_date": "2020-10-27",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": 1961,
+  "quantity_unit": "pounds",
+  "states": null
+}

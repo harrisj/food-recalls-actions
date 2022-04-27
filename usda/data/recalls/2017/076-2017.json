@@ -1,1 +1,37 @@
-{"id": "076-2017", "title": "The Wornick Company Recalls Beef Ravioli Products Due To Misbranding and Undeclared Allergens", "url": "https://www.fsis.usda.gov/recalls-alerts/wornick-company-recalls-beef-ravioli-products-due-misbranding-and-undeclared", "reasons": ["Misbranding", "Unreported Allergens"], "status": "Closed", "risk_level": "High", "start_date": "2017-06-23", "end_date": "2018-02-16", "summary": "WASHINGTON, June 23, 2017 The Wornick Company, a Cincinnati, Ohio establishment, is recalling approximately 61,538 pounds of beef ravioli products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product may contain milk, a...\n", "establishment": {"id": "M19076+P19076+V19076", "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/wornick-company-0", "slug": "wornick-company-0", "name": "The Wornick Company", "address": "10825 Kenwood Road \n  Cincinnati, OH 45242", "telephone": "(513) 552-7400", "grant_date": "2022-01-14", "activities": ["Certification - Export", "Identification - Meat", "Identification - Poultry", "Meat Processing", "Poultry Processing", "Voluntary Processing - Egg Products"]}, "impacted_products": ["14.5-oz. plastic bowl packages containing \u201cSam\u2019s Choice ASIAN STYLE BEEF WONTON Ravioli,\u201d with \u201cBEST IF USED BY\u201d dates of Feb. 22, 2018 and Mar. 28, 2018."], "quantity_recovered": 39894, "quantity_unit": "pounds", "states": null}
+{
+  "id": "076-2017",
+  "title": "The Wornick Company Recalls Beef Ravioli Products Due To Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/wornick-company-recalls-beef-ravioli-products-due-misbranding-and-undeclared",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Closed",
+  "risk_level": "High",
+  "start_date": "2017-06-23",
+  "end_date": "2018-02-16",
+  "summary": "WASHINGTON, June 23, 2017 The Wornick Company, a Cincinnati, Ohio establishment, is recalling approximately 61,538 pounds of beef ravioli products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The product may contain milk, a...\n",
+  "establishment": {
+    "id": "M19076+P19076+V19076",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/wornick-company-0",
+    "slug": "wornick-company-0",
+    "name": "The Wornick Company",
+    "address": "10825 Kenwood Road \n  Cincinnati, OH 45242",
+    "telephone": "(513) 552-7400",
+    "grant_date": "2022-01-14",
+    "activities": [
+      "Certification - Export",
+      "Identification - Meat",
+      "Identification - Poultry",
+      "Meat Processing",
+      "Poultry Processing",
+      "Voluntary Processing - Egg Products"
+    ]
+  },
+  "impacted_products": [
+    "14.5-oz. plastic bowl packages containing \u201cSam\u2019s Choice ASIAN STYLE BEEF WONTON Ravioli,\u201d with \u201cBEST IF USED BY\u201d dates of Feb. 22, 2018 and Mar. 28, 2018."
+  ],
+  "quantity_recovered": 39894,
+  "quantity_unit": "pounds",
+  "states": null
+}

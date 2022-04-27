@@ -1,1 +1,20 @@
-{"id": "pha-030716", "title": "FSIS Issues Public Health Alert For Imported Chicken Product For Foreign Matter Contamination", "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-imported-chicken-product-foreign-matter", "reasons": ["Product Contamination"], "status": "Active", "risk_level": null, "start_date": "2016-03-07", "end_date": null, "summary": "Editor's note: This recall was updated on Mar 8, 2016, to correct product BEST IF USED BY date. WASHINGTON, March 7, 2016 The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) is issuing a public health alert to notify the public of a...\n", "establishment": null, "impacted_products": ["38-oz (2.975-lb) boxes of Yummy brand fully cooked CHICKEN BREAST NUGGETS | 100% All Natural* | Nugget-Shaped Chicken Breast Patty Fritters with rib meat PRODUCT OF CANADA with a BEST IF USED BY date of 07/18/17."], "quantity_recovered": null, "quantity_unit": null, "states": null}
+{
+  "id": "pha-030716",
+  "title": "FSIS Issues Public Health Alert For Imported Chicken Product For Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-imported-chicken-product-foreign-matter",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2016-03-07",
+  "end_date": null,
+  "summary": "Editor's note: This recall was updated on Mar 8, 2016, to correct product BEST IF USED BY date. WASHINGTON, March 7, 2016 The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) is issuing a public health alert to notify the public of a...\n",
+  "establishment": null,
+  "impacted_products": [
+    "38-oz (2.975-lb) boxes of Yummy brand fully cooked CHICKEN BREAST NUGGETS | 100% All Natural* | Nugget-Shaped Chicken Breast Patty Fritters with rib meat PRODUCT OF CANADA with a BEST IF USED BY date of 07/18/17."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}
