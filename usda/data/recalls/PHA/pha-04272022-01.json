@@ -1,0 +1,25 @@
+{
+  "id": "PHA-04272022-01",
+  "title": "FSIS Issues Public Health Alert for Ground Beef Products  Due to Possible E. coli O26 Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ground-beef-products-due-possible-e-coli-o26",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2022-04-27",
+  "end_date": null,
+  "summary": "WASHINGTON April 27, 2022, \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert due to concerns that specific ground beef products may be adulterated with E. coli O26. A recall was not requested because the products...\n",
+  "establishment": null,
+  "impacted_products": [
+    "\u2022\t1-lb. foam trays containing \u201cALL NATURAL LAURA\u2019S LEAN BEEF 92% LEAN 8% FAT GROUND BEEF.\u201d The product is labeled with 350/(timestamp)/Est.31805/002, with the timestamp ranging from 0602 to 1721.",
+    "\u2022\t1-lb. foam trays containing \u201cKroger GROUND BEEF CARNE MOLIDA 96% LEAN 4% FAT.\u201d The product is labeled with 350/(timestamp)/Est.31805/002, with the timestamp ranging from 0602 to 1721.",
+    "\u2022\t1-lb. foam trays containing \u201cKroger GROUND BEEF CARNE MOLIDA 85% LEAN 15% FAT.\u201d The product is labeled with 350/(timestamp)/Est.31805/002, with the timestamp ranging from 0602 to 1721.",
+    "\u2022\t1.3-lb. foam trays containing \u201cPRIVATE SELECTION ANGUS BEEF 90% LEAN 10% FAT GROUND SIRLOIN.\u201d The product is labeled with 350/(timestamp)/Est.31805/002, with the timestamp ranging from 0602 to 1721. Additional product is labeled with 351/(timestamp)/Est",
+    "\u2022\t1-lb. foam trays containing \u201cKroger GROUND BEEF CARNE MOLIDA 93% LEAN 7% FAT.\u201d The product is labeled with 350/(timestamp)/Est.31805/002, with the timestamp ranging from 0602 to 1721.",
+    "\u2022\t1-lb. foam trays containing \u201cKroger GROUND BEEF CARNE MOLIDA 80% LEAN 20% FAT.\u201d The product is labeled with 350/(timestamp)/Est.31805/002, with the timestamp ranging from 0602 to 1721."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}
