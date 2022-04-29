@@ -1,0 +1,21 @@
+{
+  "id": "PHA-04282022-01",
+  "title": "FSIS Issues Public Health Alert for Ready-to-Eat Frozen Chicken Products Imported Without the Benefit of Import Reinspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-frozen-chicken-products-imported-without",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2022-04-28",
+  "end_date": null,
+  "summary": "WASHINGTON, April 28, 2022 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for ready-to-eat (RTE) frozen chicken products that did not receive the benefit of import reinspection. A recall was not requested because the products...\n",
+  "establishment": null,
+  "impacted_products": [
+    "\u2022\t12.5 oz. tray in-box packages containing \u201cTRADER JOES BUTTER CHICKEN WITH BASMATI RICE\u201d with best by dates of April 14, 2023, and April 16, 2023, and lot codes \u201c208068\u201d and \u201c208228.\u201d",
+    "\u2022\t8.5 oz. bag in-box packages containing \u201cTRADER JOES MINI CHICKEN TIKKA SAMOSAS\u201d with a best by date of April 14, 2023, and lot code \u201c208072\u201d and \u201c207772.\u201d"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}
