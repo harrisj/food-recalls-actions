@@ -1,0 +1,41 @@
+{
+  "id": "013-2022",
+  "title": "Safeway Fresh Food, LLC Recalls Ready-To-Eat Salad Containing Chicken Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/safeway-fresh-food-llc-recalls-ready-eat-salad-containing-chicken-due-misbranding",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2022-05-03",
+  "end_date": null,
+  "summary": "WASHINGTON, May 3, 2022 \u2013 Safeway Fresh Food, LLC, a Vineland, N.J. establishment, is recalling approximately 717 pounds of ready-to-eat (RTE) Chicken Caesar Salad products due to misbranding and undeclared allergens, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The...",
+  "establishment": {
+    "id": "M40283+P40283+V40283",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/safeway-fresh-food-llc",
+    "slug": "safeway-fresh-food-llc",
+    "name": "Safeway Fresh Food, LLC",
+    "address": "215 N. Mill Road \n  Vineland, NJ 8360",
+    "telephone": "(856) 691-9696",
+    "grant_date": "2019-09-25",
+    "activities": [
+      "Certification - Export",
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "13.6-oz. plastic bowl containing \u201cDole FRESH Takes CLASSIC CHICKEN CAESAR SALAD\u201d with a use by date of 05/05/2022 and lot code S109000 1, located at the top of the front label. "
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Delaware",
+    "Maryland",
+    "New Jersey",
+    "New York",
+    "Pennsylvania",
+    "Virginia"
+  ]
+}
