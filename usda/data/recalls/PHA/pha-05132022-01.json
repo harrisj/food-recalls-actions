@@ -1,0 +1,24 @@
+{
+  "id": "pha-05132022-01",
+  "title": "FSIS Issues Public Health Alert for Weis Markets\u2019 Ready-To-Eat General Tso Chicken Meals Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-weis-markets-ready-eat-general-tso-chicken-meals-due",
+  "reasons": [
+    "Misbranding"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2022-05-13",
+  "end_date": null,
+  "summary": "WASHINGTON, May 13, 2022 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert due to concerns that Weis Markets\u2019 ready-to-eat (RTE) General Tso Chicken meals may contain milk, a known allergen, which is not declared on...\n",
+  "establishment": null,
+  "impacted_products": [
+    "Deli compartment containers containing \u201cWeis GENERAL TSO CHICKEN FAMILY MEAL Serving Size 1 cup Calories 500.\u201d ",
+    "Deli compartment containers containing \u201cWeis GENERAL TSO CHICKEN SMALL MEAL Serving Size 1 cup Calories 500.\u201d ",
+    "Deli compartment containers containing \u201cWeis GENERAL TSO MEAL Serving Size 1 each Calories 910.\u201d "
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "West Virginia"
+  ]
+}
