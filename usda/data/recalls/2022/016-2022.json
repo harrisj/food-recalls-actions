@@ -1,0 +1,38 @@
+{
+  "id": "016-2022",
+  "title": "America New York Ri Wang Food Group Co., Ltd Recalls Ready to Eat Pork Sausage Products due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/america-new-york-ri-wang-food-group-co-ltd-recalls-ready-eat-pork-sausage-products",
+  "reasons": [
+    "Mislabeling",
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2022-05-18",
+  "end_date": null,
+  "summary": "WASHINGTON, May 18, 2022 \u2013 America New York Ri Wang Food Group Co., Ltd., a Bay Shore, N.Y. establishment, is recalling approximately 14,635 pounds of ready-to-eat (RTE) sausage sticks and luncheon loaf products that may be contaminated with extraneous materials, specifically metal, the U.S. Department...\n",
+  "establishment": {
+    "id": "M40200A+P40200A+V40200A",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/america-new-york-ri-wang-food-group-co-ltd",
+    "slug": "america-new-york-ri-wang-food-group-co-ltd",
+    "name": "America New York Ri Wang Food Group Co., Ltd.",
+    "address": "30 Inez Drive \n  Bay Shore, NY 11706",
+    "telephone": "(631) 231-8999",
+    "grant_date": "2022-02-17",
+    "activities": [
+      "Certification - Export",
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "16-oz. plastic bags containing one luncheon loaf with a \u201cUse/Refreeze by NOV. 11, 2022\u201d date and lot numbers of 422094 and 422110",
+    "23-oz. plastic bags containing 10 sausage sticks with a \u201cUse/Refreeze by NOV. 13, 2022\u201d date and lot numbers of 422094, 422102, 422112, 422116, 522122 and 522124.",
+    "10-oz. plastic bags containing four sausage sticks with a \u201cUse/Refreeze by NOV. 13, 2022\u201d date and lot numbers of 422094, 422102, 422112, 422116, 422119, 522122 and 522123."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Nationwide"
+  ]
+}
