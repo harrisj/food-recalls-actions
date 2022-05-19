@@ -1,0 +1,36 @@
+{
+  "id": "PHA-05182022-01",
+  "title": "FSIS Issues Public Health Alert for Ready-To-Eat Ham Product Due to Possible Processing Deviation",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-ham-product-due-possible-processing",
+  "reasons": [
+    "Processing Defect"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2022-05-18",
+  "end_date": null,
+  "summary": "WASHINGTON, May 18, 2022 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for ready-to-eat (RTE) ham product because the product may not be fully cooked due to underprocessing. FSIS is issuing this public health alert...\n",
+  "establishment": {
+    "id": "M26C+P26C",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/plumrose-usa-3",
+    "slug": "plumrose-usa-3",
+    "name": "Plumrose USA",
+    "address": "3210 21st Avenue \n  Council Bluffs, IA 51501",
+    "telephone": "(732) 624-4040",
+    "grant_date": "2021-01-11",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "1-lb resealable plastic packages containing \u201cGreat Value Black Forest Ham Water Added\u201d with a \u201cBEST IF USED BY 07/15/22\u201d date."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Illinois",
+    "Indiana",
+    "Ohio"
+  ]
+}
