@@ -6,10 +6,10 @@
     "Misbranding",
     "Unreported Allergens"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2022-05-06",
-  "end_date": null,
+  "end_date": "2022-06-22",
   "summary": "WASHINGTON, May 6, 2022 \u2013 Olympia Meats, a Portland, Ore. establishment, is recalling approximately 862 pounds of ready-to-eat (RTE) pork deli meat products due to misbranding and undeclared allergens, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The product contains...",
   "establishment": {
     "id": "M39928+P39930+V39928",
@@ -28,8 +28,8 @@
   "impacted_products": [
     "4-lb. vacuum-packed chubs of \u201cOLYMPIA PROVISIONS MORTADELLA CLASSICA WITH GARLIC & SPICES\u201d with best by dates of 06-13-2022 and 07-14-2022 and batch codes of 0422 and 0402."
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 137,
+  "quantity_unit": "pounds",
   "states": [
     "Maine",
     "Oregon",
