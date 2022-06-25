@@ -1,0 +1,30 @@
+{
+  "id": "PHA-06242022",
+  "title": "FSIS Issues Public Health Alert for Ineligible Siluriformes Products Imported from Korea",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ineligible-siluriformes-products-imported-korea",
+  "reasons": [
+    "Import Violation"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2022-06-24",
+  "end_date": null,
+  "summary": "WASHINGTON, June 24, 2022 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for Siluriformes products imported by Grand BK Corporation, a Carlstadt, N.J. firm. The products were imported from Korea, a country ineligible to export...\n",
+  "establishment": null,
+  "impacted_products": [
+    "2.42-lb. plastic containers containing \u201cSPICY CATFISH STEW\u201d with \u201cIMPORTED BY GRAND BK CORP.\u201d on the label"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Georgia",
+    "Maryland",
+    "Massachusetts",
+    "Michigan",
+    "New Jersey",
+    "New York",
+    "Pennsylvania",
+    "Virginia",
+    "Nationwide"
+  ]
+}
