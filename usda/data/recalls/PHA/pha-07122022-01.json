@@ -1,0 +1,32 @@
+{
+  "id": "PHA-07122022-01",
+  "title": "FSIS Issues Public Health Alert for Ready-to-Eat Caesar Salad with Chicken Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-caesar-salad-chicken-due-misbranding-and",
+  "reasons": [
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2022-07-12",
+  "end_date": null,
+  "summary": "WASHINGTON, July 12, 2022 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert due to concerns that the salad dressing component of ready-to-eat (RTE) Caesar salad with chicken may contain egg, a known allergen, which is...\n",
+  "establishment": {
+    "id": "M46987+P46987",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/gh-foods-nw-llc",
+    "slug": "gh-foods-nw-llc",
+    "name": "GH Foods NW, LLC",
+    "address": "16800 SE Evelyn Street \n  Clackamas, OR 97015",
+    "telephone": "(503) 343-7140",
+    "grant_date": "2019-09-05",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022\t9 oz. plastic clamshell containers of \u201cTRADER JOE\u2019S CAESAR SALAD WITH WHITE CHICKEN MEAT and Creamy Caesar Dressing\u201d with best by dates of 07/11/22 and 07/12/22, and a lot code of GHNW 186-06."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}
