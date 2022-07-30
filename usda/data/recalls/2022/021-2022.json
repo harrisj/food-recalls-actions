@@ -9,12 +9,17 @@
   "risk_level": "High",
   "start_date": "2022-07-15",
   "end_date": null,
-  "summary": "EDITOR\u2019S NOTE: July 21, 2022 \u2013 This release is being reissued to expand the recall to additional pizza products and additional states \u2013 Delaware and Pennsylvania \u00ad\u2013 and to revise the total poundage of the recall. FSIS identified additional types of pizza and determined that...\n",
+  "summary": "EDITOR\u2019S NOTE: July 29, 2022 \u2013 This release is being reissued to expand the recall to include 1,423 pounds of additional pizza products. FSIS identified additional types of pizza products in commerce that fall within the scope of this recall, including pizza products containing pepperoni...\n",
   "establishment": null,
   "impacted_products": [
     "\u2022 14-oz. box packages containing \u201cPIZZA CUBANA CUBAN STYLE PEPPERONI PIZZA\u201d.",
     "\u2022 13-oz. box packages containing \u201cPIZZA CUBANA CUBAN STYLE HAM PIZZA\u201d.",
-    "\u2022 13-oz. box packages containing \u201cPIZZA CUBANA CUBAN STYLE BACON PIZZA\u201d."
+    "\u2022 13-oz. box packages containing \u201cPIZZA CUBANA CUBAN STYLE BACON PIZZA\u201d.",
+    "\u202214oz Cuban Pepperoni (Sauce and Cheese Restaurant) ",
+    "\u202213oz Cuban Ham (Sauce and Cheese Restaurant)",
+    "\u202213oz Cuban Bacon (Sauce and Cheese Restaurant)",
+    "\u202213oz Cuban Chorizo (Sauce and Cheese Restaurant)",
+    "\u20221.6-pound Family Sauce & Cheese 14\u201d Pepperoni Restaurant"
   ],
   "quantity_recovered": null,
   "quantity_unit": null,
