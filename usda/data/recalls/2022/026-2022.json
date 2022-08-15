@@ -1,0 +1,34 @@
+{
+  "id": "026-2022",
+  "title": "Home Run Inn Frozen Foods Recalls Frozen Meat Pizza due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/home-run-inn-frozen-foods-recalls-frozen-meat-pizza-due-possible-foreign-matter",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2022-08-14",
+  "end_date": null,
+  "summary": "WASHINGTON, August 14, 2022 \u2013 Home Run Inn Frozen Foods, a Woodbridge, Ill. establishment, is recalling approximately 13,099 pounds of frozen meat pizza product that may be contaminated with extraneous materials, specifically metal, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced...",
+  "establishment": {
+    "id": "M18498A+P18498A",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/home-run-inn-frozen-foods",
+    "slug": "home-run-inn-frozen-foods",
+    "name": "Home Run Inn Frozen Foods",
+    "address": "1300 Internationale Parkway \n  Woodridge, IL 60517",
+    "telephone": "(630) 783-9696",
+    "grant_date": "2020-10-29",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "33.5-oz cartons containing \u201cHome Run Inn CHICAGO'S PREMIUM PIZZERIA DELUXE SAUSAGE CLASSIC PIZZA\u201d with \u201cbest by\u201d date \u201c12/03/22\u201d."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Illinois"
+  ]
+}
