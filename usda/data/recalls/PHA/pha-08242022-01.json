@@ -1,0 +1,23 @@
+{
+  "id": "PHA-08242022-01",
+  "title": "FSIS Issues Public Health Alert for Poultry and Meat Products Containing FDA-Regulated Corn Starch That Has Been Recalled Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-poultry-and-meat-products-containing-fda-regulated",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2022-08-24",
+  "end_date": null,
+  "summary": "WASHINGTON, August 24, 2022 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for poultry and meat products containing a Food and Drug Administration (FDA) regulated corn starch that has been recalled due to an undeclared...",
+  "establishment": null,
+  "impacted_products": [],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Illinois",
+    "Indiana",
+    "Wisconsin"
+  ]
+}
