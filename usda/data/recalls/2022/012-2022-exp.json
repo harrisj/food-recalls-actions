@@ -5,10 +5,10 @@
   "reasons": [
     "Processing Defect"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2022-05-07",
-  "end_date": null,
+  "end_date": "2022-08-30",
   "summary": "EDITOR\u2019S NOTE: May 12, 2022: This recall release is being reissued to include additional products. Two new products are included below that were further processed by another establishment, P-45204, from the original chicken breast product recalled by Wayne Farms and subsequently distributed to retail locations...",
   "establishment": {
     "id": "M21263+P20214+V21263",
@@ -34,8 +34,8 @@
     "6-lb. cases containing 24 individual packages of 4-oz \u201cALL NATURAL FIRE GRILLED CHICKEN BREAST FILLET\u201d with \u201cuse by\u201d date 3/5/23.",
     "16-oz. zippered plastic packages containing \u201cCHEF\u2019S CRAFT CHICKEN BREAST FILLET\u201d and establishment number P-20214 printed next to the 3/23/2023 best by date."
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 53909,
+  "quantity_unit": "pounds",
   "states": [
     "North Carolina",
     "South Carolina",
