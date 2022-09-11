@@ -1,0 +1,22 @@
+{
+  "id": "PHA-09102022-01",
+  "title": "FSIS Issues Public Health Alert For Specific Ground Beef In HelloFresh Meal Kits Due to Possible E. Coli O157:H7 Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-specific-ground-beef-hellofresh-meal-kits-due",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2022-09-10",
+  "end_date": null,
+  "summary": "WASHINGTON, Sept. 10, 2022 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert due to concerns that ground beef products in HelloFresh meal kits may be associated with Escherichia coli (E. coli) O157:H7 illness. A recall...\n",
+  "establishment": null,
+  "impacted_products": [
+    "\u2022\t10-oz. plastic vacuum-packed packages containing \u201cGROUND BEEF 85% LEAN/15% FAT\u201d with codes \u201cEST#46481 L1 22 155\u201d or \u201cEST#46481 L5 22 155\u201d on the side of the packaging. "
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Nationwide"
+  ]
+}
