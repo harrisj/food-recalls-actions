@@ -1,0 +1,41 @@
+{
+  "id": "PHA-09162022-01",
+  "title": "FSIS Issues Public Health Alert For Chicken Entree Products Due To Misbranding And An Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-chicken-entree-products-due-misbranding-and",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2022-09-16",
+  "end_date": null,
+  "summary": "WASHINGTON, Sept. 16, 2022 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert due to concerns that the raw, ready-to-cook chicken entr\u00e9e products may contain egg, a known allergen, which is not declared on the finished...\n",
+  "establishment": {
+    "id": "M48176+P48176",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/tampa-bay-fisheries",
+    "slug": "tampa-bay-fisheries",
+    "name": "Tampa Bay Fisheries",
+    "address": "3060 N. Gallagher Rd. \n  Dover, FL 33527",
+    "telephone": "(813) 752-8883",
+    "grant_date": "2017-12-27",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022\t12 oz. plastic wrapped metal containers containing \u201caprons READY TO COOK MEAL FOR ONE BACON-CHEDDAR SMOTHERED CHICKEN\u201d with a use by date of 9/21/2022."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Alabama",
+    "Florida",
+    "Georgia",
+    "North Carolina",
+    "South Carolina",
+    "Tennessee",
+    "Virginia"
+  ]
+}
