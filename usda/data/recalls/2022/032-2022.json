@@ -1,0 +1,35 @@
+{
+  "id": "032-2022",
+  "title": "Valley International Cold Storage Acquisition, LLC, Recalls Frozen Beef Products Due To Misbranding And Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/valley-international-cold-storage-acquisition-llc-recalls-frozen-beef-products-due",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2022-09-17",
+  "end_date": null,
+  "summary": "WASHINGTON, Sept. 17, 2022 \u2013 Valley International Cold Storage Acquisition, LLC, a Harlingen, Texas establishment, is recalling approximately 22,061 pounds of frozen beef products due to misbranding and undeclared allergens, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The product...\n",
+  "establishment": {
+    "id": "M34622+P34622",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/vics-acquisition-llc",
+    "slug": "vics-acquisition-llc",
+    "name": "VICS Acquisition, LLC",
+    "address": "200 N FM 509 \n  Harlingen, TX 78550",
+    "telephone": "(956) 423-7799",
+    "grant_date": "2019-03-27",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022\t9.25-oz. cartons labeled as \u201cHealthy Choice POWER BOWLS Korean-Style Beef\u201d with lot code \u201c5246220320\u201d and a \u201cbest if used by\u201d date of 04-18-2023."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Nationwide"
+  ]
+}
