@@ -1,0 +1,22 @@
+{
+  "id": "PHA-10012022-01",
+  "title": "FSIS Issues Public Health Alert for Ready-To-Eat Chili Cheese Wieners Due to Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-chili-cheese-wieners-due-possible-listeria",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2022-10-01",
+  "end_date": null,
+  "summary": "WASHINGTON, Oct. 1, 2022 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert because Family Fare, a Chippewa Falls, Wisc. establishment, produced ready-to-eat chili cheese wieners that may be contaminated with Listeria monocytogenes. A recall was...",
+  "establishment": null,
+  "impacted_products": [
+    "15-oz. vacuum-packed packages containing \u201cOur Local SMOKEHOUSE Chili Cheese flavored Wieners\u201d with a use by date of January 19, 2023."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Minnesota"
+  ]
+}
