@@ -5,10 +5,10 @@
   "reasons": [
     "Unreported Allergens"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2022-07-15",
-  "end_date": null,
+  "end_date": "2022-09-29",
   "summary": "EDITOR\u2019S NOTE: July 29, 2022 \u2013 This release is being reissued to expand the recall to include 1,423 pounds of additional pizza products. FSIS identified additional types of pizza products in commerce that fall within the scope of this recall, including pizza products containing pepperoni...\n",
   "establishment": null,
   "impacted_products": [
@@ -21,7 +21,7 @@
     "\u202213oz Cuban Chorizo (Sauce and Cheese Restaurant)",
     "\u20221.6-pound Family Sauce & Cheese 14\u201d Pepperoni Restaurant"
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 4020,
+  "quantity_unit": "pounds of product.",
   "states": null
 }
