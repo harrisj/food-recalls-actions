@@ -5,10 +5,10 @@
   "reasons": [
     "Unreported Allergens"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2022-06-28",
-  "end_date": null,
+  "end_date": "2022-10-07",
   "summary": "WASHINGTON, June 28, 2022 \u2013 Creminelli Fine Meats, a Salt Lake City, Utah establishment, is recalling approximately 4,207 pounds of ready-to-eat (RTE) parmesan salami sticks due to misbranding and an undeclared allergen, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today...\n",
   "establishment": {
     "id": "M34644",
@@ -25,7 +25,7 @@
   "impacted_products": [
     "\u2022\t2.6-oz. plastic pouches containing \u201cCREMINELLI FINE MEATS salami minis UNCURED ITALIAN SALAMI PARMESAN\u201d with \u201cBEST BY\u201d dates from 06/18/22 through 12/09/22. "
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 268,
+  "quantity_unit": "pounds",
   "states": null
 }
