@@ -5,18 +5,18 @@
   "reasons": [
     "Produced Without Benefit of Inspection"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2022-08-25",
-  "end_date": null,
+  "end_date": "2022-10-13",
   "summary": "EDITOR'S NOTE: Sept. 1, 2022 \u2014 This release and product labels have been updated with a correction to one UPC code. \u201c958939019\u201d has been updated to \u201c9589339019.\u201d WASHINGTON, August 25, 2022 \u2013 Pizza John\u2019s, an Essex, Md. firm, is recalling approximately 156,498 pounds of pepperoni...",
   "establishment": null,
   "impacted_products": [
     "33.25-oz. clear plastic wrapped packages containing \u201cPIZZA JOHN\u2019S BAKE AT HOME 12 Inch Pepperoni Pizza\u201d with UPC code 9589334921.",
     "57-oz. clear plastic wrapped packages containing \u201cPIZZA JOHN\u2019S BAKE AT HOME 16 Inch Pepperoni Pizza\u201d with UPC code 958939019."
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 1459,
+  "quantity_unit": "pounds",
   "states": [
     "Maryland"
   ]
