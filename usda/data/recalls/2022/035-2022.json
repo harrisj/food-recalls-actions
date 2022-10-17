@@ -1,0 +1,34 @@
+{
+  "id": "035-2022",
+  "title": "AdvancePierre Foods Inc. Recalls Pork Fritter Product Due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/advancepierre-foods-inc--recalls-pork-fritter-product-due-possible-foreign-matter",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2022-10-16",
+  "end_date": null,
+  "summary": "WASHINGTON, Oct. 16, 2022 \u2013 AdvancePierre Foods Inc., an Enid, Okla. establishment, is recalling approximately 4,137 pounds of pork loin steak fritter product that may be contaminated with extraneous materials, specifically hard pieces of plastic, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service...\n",
+  "establishment": {
+    "id": "M2260Y+P2260Y+V2260Y",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/advancepierre-foods-inc.-6",
+    "slug": "advancepierre-foods-inc-6",
+    "name": "AdvancePierre Foods, Inc.",
+    "address": "201 S. Raleigh Road \n  Enid, OK 73701",
+    "telephone": "(580) 616-4728",
+    "grant_date": "2021-04-12",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022\t10.14-lbs. bulk cases containing 27 pieces of \u201cGOLD LABEL AdvancePierre Our Deluxe Cubed Pork Loin Streak Fritters\u201d and lot code 1672AFE06"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Virginia"
+  ]
+}
