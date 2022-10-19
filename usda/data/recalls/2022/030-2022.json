@@ -6,10 +6,10 @@
     "Product Contamination",
     "Unfit for Human Consumption"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2022-09-06",
-  "end_date": null,
+  "end_date": "2022-10-19",
   "summary": "WASHINGTON, Sept. 6, 2022 \u2013 Magnolia Provision Company, Inc., a Knoxville, Tenn. establishment, is recalling approximately 497 pounds of beef jerky products that may be adulterated with Listeria monocytogenes, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The ready-to-eat beef...\n",
   "establishment": {
     "id": "M8091+P8091+V8091",
@@ -21,8 +21,7 @@
     "grant_date": "2019-05-22",
     "activities": [
       "Meat Processing",
-      "Poultry Processing",
-      "Voluntary Processing - Meat"
+      "Poultry Processing"
     ]
   },
   "impacted_products": [
@@ -30,8 +29,8 @@
     "\u2022\t8-oz. packages of \u201cBEEF JERKY EXPERIENCE CHOP HOUSE STYLE PRIME RIB FLAVORED BEEF JERKY\u201d with \u201cEXP 8/25/23\u201d displayed on the back of the package.",
     "\u2022\t16-oz. packages of \u201cBEEF JERKY EXPERIENCE CHOP HOUSE STYLE PRIME RIB FLAVORED BEEF JERKY\u201d with \u201cEXP 8/25/23\u201d displayed on the back of the package."
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 351,
+  "quantity_unit": "pounds of product.",
   "states": [
     "Nationwide"
   ]
