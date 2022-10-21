@@ -5,17 +5,17 @@
   "reasons": [
     "Import Violation"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2022-06-13",
-  "end_date": null,
+  "end_date": "2022-10-04",
   "summary": "WASHINGTON, June 13, 2022 \u2013 Yumei Foods USA, Inc., a City of Industry, Calif. establishment, is recalling approximately 9,370 pounds of imported Siluriformes products. The products were imported from the People\u2019s Republic of China, a country ineligible to export processed Siluriformes products to the United...\n",
   "establishment": null,
   "impacted_products": [
     "13.051 oz. (370g) plastic packages containing \u201cFISH FILLET WITH SPICY SOUP\u201d Freeze Dried Technology Fish. No Preservative.",
     "12.35 oz. (350g) plastic packages containing \u201cFISH FILLET WITH PICKLED SOUP\u201d Freeze Dried Technology Fish. No Preservative."
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 500,
+  "quantity_unit": "pounds",
   "states": null
 }
