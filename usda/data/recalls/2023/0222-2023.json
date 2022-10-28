@@ -1,0 +1,32 @@
+{
+  "id": "0222-2023",
+  "title": "william test 1027",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/william-test-1027",
+  "reasons": [
+    "Insanitary Conditions"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2022-10-27",
+  "end_date": null,
+  "summary": "test\n",
+  "establishment": {
+    "id": "M47104B",
+    "url": "http://www.fsis.usda.gov/establishments/fort-worth-meat-packers-llc-0",
+    "slug": "fort-worth-meat-packers-llc-0",
+    "name": "Fort Worth Meat Packers LLC",
+    "address": "3801 N Grove St. \n  Fort Worth, TX 76106",
+    "telephone": "(817) 381-2138",
+    "grant_date": "2020-01-27",
+    "activities": [
+      "Meat Processing",
+      "Meat Slaughter"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Maryland"
+  ]
+}

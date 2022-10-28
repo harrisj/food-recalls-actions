@@ -1,0 +1,37 @@
+{
+  "id": "038-2022",
+  "title": "Lone Star Bakery, Inc. Recalls Beef Shepherd\u2019s Pie Products Due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/lone-star-bakery-inc--recalls-beef-shepherds-pie-products-due-possible-foreign",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2022-10-27",
+  "end_date": null,
+  "summary": "WASHINGTON, Oct. 27, 2022 \u2013 Lone Star Bakery, Inc., a China Grove, Texas establishment, is recalling approximately 5,740 pounds of beef shepherd\u2019s pie products that may be contaminated with extraneous materials, specifically copper wire pieces, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service...\n",
+  "establishment": {
+    "id": "M31772+P31772",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/lone-star-bakery-inc.",
+    "slug": "lone-star-bakery-inc",
+    "name": "Lone Star Bakery, Inc.",
+    "address": "8100 Highway 87 East \n  China Grove, TX 78263",
+    "telephone": "(210) 648-6400",
+    "grant_date": "2007-03-12",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022\t8-oz. carton packages containing \u201cBOOMERANG\u2019S BEEF SHEPHERD\u2019S PIE\u201d with \u201cUSE BY 092323\u201d on the label."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "California",
+    "Florida",
+    "Georgia",
+    "Texas"
+  ]
+}
