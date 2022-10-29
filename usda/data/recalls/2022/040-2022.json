@@ -1,0 +1,38 @@
+{
+  "id": "040-2022",
+  "title": "Foster Farms Recalls Fully Cooked Frozen Chicken Patty Products Due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/foster-farms-recalls-fully-cooked-frozen-chicken-patty-products-due-possible-foreign",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2022-10-29",
+  "end_date": null,
+  "summary": "WASHINGTON, Oct. 29, 2022 \u2013 Foster Farms, a Farmerville, La. establishment, is recalling approximately 148,000 pounds of fully cooked frozen chicken breast patty products that may be contaminated with extraneous materials, specifically hard clear pieces of plastic, the U.S. Department of Agriculture\u2019s Food Safety and...\n",
+  "establishment": {
+    "id": "M33901+P33901",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/foster-farms-6",
+    "slug": "foster-farms-6",
+    "name": "Foster Farms",
+    "address": "6648 HWY 15 North \n  Farmerville, LA 71241",
+    "telephone": "(318) 368-4200",
+    "grant_date": "2019-06-12",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022\t80-oz. plastic bag packages containing 20 pieces of \u201cCHICKEN PATTIES BREADED CHICKEN BREAST PATTIES WITH RIB MEAT\u201d with best by date \u201c08/11/23,\u201d establishment number \u201cP-33901,\u201d and lot code \u201c3*2223**\u201d in inkjet print on the back edge of the packaging as"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Arizona",
+    "California",
+    "Colorado",
+    "Utah",
+    "Washington"
+  ]
+}
