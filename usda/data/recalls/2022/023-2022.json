@@ -5,10 +5,10 @@
   "reasons": [
     "Produced Without Benefit of Inspection"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2022-07-28",
-  "end_date": null,
+  "end_date": "2022-11-09",
   "summary": "WASHINGTON, July 28, 2022 \u2013 Danny\u2019s Sub and Pizza, a Cape Coral, Fla. establishment doing business as Danny\u2019s Cuban Pizza, is recalling approximately 19,275 pounds of frozen meat pizza products that were produced without the benefit of federal inspection, the U.S. Department of Agriculture\u2019s Food...\n",
   "establishment": null,
   "impacted_products": [
@@ -17,8 +17,8 @@
     "17.5-oz. plastic shrink wrapped frozen packages containing a single-serving of \u201cDANNY\u2019S CUBAN PIZZA AUTHENTIC CUBAN STYLE Hawaiian\u201d with no lot code, packaging dates, or other identifying information represented on the label.",
     "14-oz. plastic shrink wrapped frozen packages containing a single-serving of \u201cDANNY\u2019S CUBAN PIZZA AUTHENTIC CUBAN STYLE ham\u201d with no lot code, packaging dates, or other identifying information represented on the label."
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 1744,
+  "quantity_unit": "pounds",
   "states": [
     "Florida",
     "Texas"
