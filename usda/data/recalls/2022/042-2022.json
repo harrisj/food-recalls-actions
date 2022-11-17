@@ -1,0 +1,36 @@
+{
+  "id": "042-2022",
+  "title": "Tyson Fresh Meats, Inc. Recalls Raw Ground Beef Products Due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/tyson-fresh-meats-inc--recalls-raw-ground-beef-products-due-possible-foreign-matter",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2022-11-16",
+  "end_date": null,
+  "summary": "WASHINGTON, Nov. 16, 2022 \u2013 Tyson Fresh Meats, Inc., an Amarillo, Texas establishment, is recalling approximately 93,697 pounds of raw ground beef products that may be contaminated with extraneous materials, specifically reflective mirror-like material, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS)...",
+  "establishment": {
+    "id": "M245E",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/tyson-fresh-meats-inc.-13",
+    "slug": "tyson-fresh-meats-inc-13",
+    "name": "Tyson Fresh Meats, Inc.",
+    "address": "5000 North FM 1912 \n  Amarillo, TX 79108",
+    "telephone": "(806) 335-7322",
+    "grant_date": "2021-12-09",
+    "activities": [
+      "Meat Slaughter",
+      "Meat Processing"
+    ]
+  },
+  "impacted_products": [
+    "10-lb. chubs containing \u201cHILL COUNTRY FARE GROUND BEEF 73% LEAN/ 27% FAT with BEST BEFORE OR FREEZE BY: NOV 25, 2022.\u201d",
+    "5-lb. chubs containing \u201cHILL COUNTRY FARE GROUND BEEF 73% LEAN/ 27% FAT with BEST BEFORE OR FREEZE BY: NOV 25, 2022.\u201d ",
+    "5-lb. chubs containing \u201cH-E-B GROUND CHUCK GROUND BEEF 80% LEAN/ 20% FAT.\u201d "
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Texas"
+  ]
+}
