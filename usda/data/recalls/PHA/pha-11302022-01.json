@@ -1,0 +1,37 @@
+{
+  "id": "PHA-11302022-01",
+  "title": "FSIS Issues Public Health Alert for Fully Cooked Summer Sausage Products Due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-fully-cooked-summer-sausage-products-due-possible",
+  "reasons": [
+    "Product Contamination",
+    "Unfit for Human Consumption"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2022-11-30",
+  "end_date": null,
+  "summary": "WASHINGTON, Nov. 30, 2022 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert due to concerns that fully cooked summer sausage products may be contaminated with extraneous materials, specifically plastic. A recall was not requested because...\n",
+  "establishment": {
+    "id": "M31865+P31865+V31865",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/paradise-locker-meats",
+    "slug": "paradise-locker-meats",
+    "name": "Paradise Locker Meats",
+    "address": "405 W. Birch \n  Trimble, MO 64492",
+    "telephone": "(816) 370-6328",
+    "grant_date": "2012-11-28",
+    "activities": [
+      "Meat Slaughter",
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022\t1-lb. chubs containing \u201cJET HIGH PRAIRIE MEATS SUMMER SAUSAGE\u201d with lot code 220715 represented on the label.",
+    "\u2022\t1-lb. chubs containing \u201cFANTASMA\u2019S finest SUMMER SAUSAGE\u201d with lot code 220715 represented on the label."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Nationwide"
+  ]
+}
