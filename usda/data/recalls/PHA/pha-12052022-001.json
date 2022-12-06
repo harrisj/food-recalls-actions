@@ -1,0 +1,22 @@
+{
+  "id": "PHA-12052022-001",
+  "title": "FSIS Issues Public Health Alert for Ground Beef Products That Tested Positive for E. Coli O157:H7",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ground-beef-products-tested-positive-e--coli-o157h7",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2022-12-05",
+  "end_date": null,
+  "summary": "WASHINGTON, Dec. 5, 2022 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for ground beef sold at La Michoacana Meat Market, in Greenville, Tex., after a sample of the product tested positive for the presence...\n",
+  "establishment": null,
+  "impacted_products": [
+    "\u2022\tVarying weights of ground beef packed in butcher paper, containing \u201cCARNE MOLIDA REGULAR/GROUND BEEF\u201d with \u201cPacked On\u201d dates ranging Nov. 28 to Dec. 1, 2022, and \u201cSell By Dec. 1 2022\u201d on the label."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Texas"
+  ]
+}
