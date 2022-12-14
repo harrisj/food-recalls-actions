@@ -7,10 +7,10 @@
     "Mislabeling",
     "Unreported Allergens"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2022-07-30",
-  "end_date": null,
+  "end_date": "2022-12-12",
   "summary": "WASHINGTON, July 30, 2022 \u2013 Conagra Brands, Inc., a Russellville, Ark. establishment, is recalling approximately 119,581 pounds of frozen beef products due to misbranding and undeclared allergens, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The product contains egg, a...\n",
   "establishment": {
     "id": "M233+P115+V233",
@@ -29,8 +29,8 @@
   "impacted_products": [
     "\u2022\t22-oz. plastic bag packages containing \u201cP.F. CHANG\u2019S HOME MENU BEEF & BROCCOLI\u201d with lot code \u201c5006 2146 2012\u201d and \u201cBEST BY MAY 21 2023\u201d"
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 12936,
+  "quantity_unit": "pounds",
   "states": [
     "Nationwide"
   ]
