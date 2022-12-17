@@ -5,10 +5,10 @@
   "reasons": [
     "Product Contamination"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "Low",
   "start_date": "2022-09-07",
-  "end_date": null,
+  "end_date": "2022-12-16",
   "summary": "WASHINGTON, Sept. 7, 2022 \u2013 Sunset Farm Foods Inc., a Valdosta, Ga. establishment, is recalling approximately 4,480 pounds of chicken and pork smoked sausage products that may be contaminated with extraneous materials, specifically thin blue plastic, the U.S. Department of Agriculture\u2019s Food Safety and Inspection...\n",
   "establishment": {
     "id": "M9185+P9185",
@@ -26,8 +26,8 @@
   "impacted_products": [
     "\u2022\t28-oz. vacuum sealed packages of \u201cGeorgia Special Chicken and Pork Smoked Sausage\u201d with a sell by date of 10-28-22."
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 142,
+  "quantity_unit": "pounds",
   "states": [
     "Alabama",
     "Florida",

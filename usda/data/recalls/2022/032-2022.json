@@ -6,10 +6,10 @@
     "Misbranding",
     "Unreported Allergens"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2022-09-17",
-  "end_date": null,
+  "end_date": "2022-12-16",
   "summary": "EDITORS NOTE: Sept. 20, 2022 \u2014 This recall release has been updated to include a photo of the inkjet label printed on the end flap of the carton. Additionally, the establishment number has been updated from \u201c34622\u201d to \u201cP-34622. WASHINGTON, Sept. 17, 2022 \u2013 Valley...\n",
   "establishment": {
     "id": "M34622+P34622",
@@ -27,8 +27,8 @@
   "impacted_products": [
     "9.25-oz. cartons labeled as \u201cHealthy Choice POWER BOWLS Korean-Style Beef\u201d with lot code \u201c5246220320\u201d and a \u201cbest if used by\u201d date of 04-18-2023."
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 1031,
+  "quantity_unit": "pounds",
   "states": [
     "Nationwide"
   ]

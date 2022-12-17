@@ -5,10 +5,10 @@
   "reasons": [
     "Product Contamination"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2022-11-16",
-  "end_date": null,
+  "end_date": "2022-12-16",
   "summary": "WASHINGTON, Nov. 16, 2022 \u2013 Tyson Fresh Meats, Inc., an Amarillo, Texas establishment, is recalling approximately 93,697 pounds of raw ground beef products that may be contaminated with extraneous materials, specifically reflective mirror-like material, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS)...",
   "establishment": {
     "id": "M245E",
@@ -19,8 +19,8 @@
     "telephone": "(806) 335-7322",
     "grant_date": "2021-12-09",
     "activities": [
-      "Meat Slaughter",
-      "Meat Processing"
+      "Meat Processing",
+      "Meat Slaughter"
     ]
   },
   "impacted_products": [
@@ -28,8 +28,8 @@
     "5-lb. chubs containing \u201cHILL COUNTRY FARE GROUND BEEF 73% LEAN/ 27% FAT with BEST BEFORE OR FREEZE BY: NOV 25, 2022.\u201d ",
     "5-lb. chubs containing \u201cH-E-B GROUND CHUCK GROUND BEEF 80% LEAN/ 20% FAT.\u201d "
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 22945,
+  "quantity_unit": "pounds",
   "states": [
     "Texas"
   ]

@@ -5,10 +5,10 @@
   "reasons": [
     "Product Contamination"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2022-10-29",
-  "end_date": null,
+  "end_date": "2022-12-16",
   "summary": "WASHINGTON, Oct. 29, 2022 \u2013 Foster Farms, a Farmerville, La. establishment, is recalling approximately 148,000 pounds of fully cooked frozen chicken breast patty products that may be contaminated with extraneous materials, specifically hard clear pieces of plastic, the U.S. Department of Agriculture\u2019s Food Safety and...\n",
   "establishment": {
     "id": "M33901+P33901",
@@ -26,8 +26,8 @@
   "impacted_products": [
     "\u2022\t80-oz. plastic bag packages containing 20 pieces of \u201cCHICKEN PATTIES BREADED CHICKEN BREAST PATTIES WITH RIB MEAT\u201d with best by date \u201c08/11/23,\u201d establishment number \u201cP-33901,\u201d and lot code \u201c3*2223**\u201d in inkjet print on the back edge of the packaging as"
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 71800,
+  "quantity_unit": "pounds",
   "states": [
     "Arizona",
     "California",
