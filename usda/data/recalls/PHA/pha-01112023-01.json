@@ -1,0 +1,23 @@
+{
+  "id": "PHA-01112023-01",
+  "title": "FSIS Issues Public Health Alert for Fully Cooked, Frozen Swai Fried Fish Cutlet Products Produced Without Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-fully-cooked-frozen-swai-fried-fish-cutlet-products",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2023-01-11",
+  "end_date": null,
+  "summary": "WASHINGTON, Jan. 11, 2023 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert because A & S Produce Inc., a Vernon, Calif. establishment conducting business as Greenland Food Company, produced and distributed fully cooked, frozen swai...\n",
+  "establishment": null,
+  "impacted_products": [
+    "\u2022\t1-lb. vacuum-packed packages containing \u201cFried Fish Cutlet.\u201d "
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "California",
+    "Nationwide"
+  ]
+}
