@@ -1,0 +1,37 @@
+{
+  "id": "PHA-01192023-01",
+  "title": "  FSIS Issues Public Health Alert for Ready-To-Eat Hy-Vee Beef Pot Roast Entr\u00e9e Products due to Misbranding and an Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-hy-vee-beef-pot-roast-entree-products-due",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2023-01-19",
+  "end_date": null,
+  "summary": "WASHINGTON, Jan. 19, 2023 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert due to concerns that the gravy component of ready-to-eat Hy-Vee beef pot roast entr\u00e9e products may contain wheat, a known allergen, which is...\n",
+  "establishment": {
+    "id": "M51558+P51558+G51558",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/hy-vee-fresh-commissary",
+    "slug": "hy-vee-fresh-commissary",
+    "name": "HY-VEE FRESH COMMISSARY",
+    "address": "4150 SE DELAWARE AVE \n  ANKENY, IA 50021",
+    "telephone": "(573) 692-5106",
+    "grant_date": "2019-08-09",
+    "activities": [
+      "Egg Product",
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022\t11.6 oz. plastic containers containing \u201cHyVee mealtime BEEF POT ROAST DINNER\u201d with Best If Use By dates of 01/03/2023 - 01/24/2023 and lot codes of 22361-23017",
+    "\u2022\t25.5 oz. plastic containers containing \u201cHyVee mealtime BEEF POT ROAST DINNER\u201d with Best If Used By dates of 01/02/2023 - 01/24/2023 and lot codes of 22360-23016"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Wisconsin"
+  ]
+}
