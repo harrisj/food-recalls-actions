@@ -1,0 +1,38 @@
+{
+  "id": "003-2023",
+  "title": "Conagra Brands Recalls Canned Meat and Poultry Products Due to Possible Packaging Defect",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/conagra-brands-recalls-canned-meat-and-poultry-products-due-possible-packaging",
+  "reasons": [
+    "Processing Defect",
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2023-01-31",
+  "end_date": null,
+  "summary": "WASHINGTON, Jan. 31, 2023 \u2013 Conagra Brands, Inc., a Fort Madison, Iowa establishment, is recalling approximately 2,581,816 pounds of canned meat and poultry products due to a packaging defect that may cause the products to become contaminated without showing any outward signs of contamination, the...",
+  "establishment": {
+    "id": "M2AD+P4247+V2",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/conagra-brands-inc.-3",
+    "slug": "conagra-brands-inc-3",
+    "name": "ConAgra Brands, Inc.",
+    "address": "2467 Henry Ladyn Drive \n  Fort Madison, IA 52627",
+    "telephone": "",
+    "grant_date": "2019-07-29",
+    "activities": [
+      "Certification - Export",
+      "Identification - Meat",
+      "Identification - Poultry",
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "The meat and poultry products were produced between December 12, 2022, and January 13, 2023."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Nationwide"
+  ]
+}
