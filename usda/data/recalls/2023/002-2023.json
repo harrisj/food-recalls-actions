@@ -9,7 +9,7 @@
   "risk_level": "High",
   "start_date": "2023-01-30",
   "end_date": null,
-  "summary": "WASHINGTON, Jan. 30, 2023 \u2013 Wild Cajun Meals LLC, a Garland, Texas establishment, is recalling approximately 18,418 pounds of frozen, fully cooked jambalaya and gumbo products that were produced without the benefit of federal inspection, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service...",
+  "summary": "Editor\u2019s note: On January 31, 2023, FSIS was notified that the recalled product did not enter retail stores in the state of Arkansas. The recall release has been updated to reflect Louisiana and Texas as the only states receiving this product. WASHINGTON, Jan. 30, 2023...\n",
   "establishment": null,
   "impacted_products": [
     "32-oz. Plastic containers of \u201cLady Jambalaya Homemade Jambalaya.\u201d",
@@ -18,7 +18,6 @@
   "quantity_recovered": null,
   "quantity_unit": null,
   "states": [
-    "Arkansas",
     "Louisiana",
     "Texas"
   ]
