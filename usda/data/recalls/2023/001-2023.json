@@ -9,7 +9,7 @@
   "risk_level": "High",
   "start_date": "2023-01-29",
   "end_date": null,
-  "summary": "Editor\u2019s note: On February 1, 2023, FSIS revised the recall release to update the sell by dates of \"COLAMECO\u2019S PRIMO NATURALE GENOA UNCURED SALAMI\" and \"COLAMECO\u2019S PRIMO NATURALE BLACK PEPPER UNCURED SALAMI.\" WASHINGTON, Jan. 29, 2023 - Daniele International LLC, a Mapleville, R.I., establishment, is...",
+  "summary": "Editor's note: February 3, 2022 - This recall release has been updated to include increased total poundage of the product recalled from 52,914 to approximately 69,255 pounds. Additional sell-by dates for three of the impacted products have also been added. Editor's note: On February 1...",
   "establishment": {
     "id": "M54+P54",
     "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/daniele-international",
@@ -24,14 +24,14 @@
     ]
   },
   "impacted_products": [
-    "\u2022\t6-oz. plastic tray of \u201cFREDERIK\u2019S by meijer SPANISH STYLE charcuterie sampler tray\u201d with sell by date 4/15/23.   ",
-    "\u2022\t6-oz. plastic tray of \u201cBoar\u2019s Head CHARCUTUERIE TRIO\u201d with sell by dates 4/13/23, 4/14/23, and 4/15/23. ",
-    "\u2022\t7-oz. plastic tray of \u201cCOLAMECO\u2019S PRIMO NATURALE GENOA UNCURED SALAMI\u201d with sell by dates 12/22/23, 12/30/23, and 1/17/24.",
-    "\u2022\t7-oz. plastic tray of \u201cCOLAMECO\u2019S PRIMO NATURALE BLACK PEPPER UNCURED SALAMI\u201d with sell by date 12/23/23.",
-    " \u2022\t1-lb. plastic tray of \u201cDEL DUCA SOPRESSATA, COPPA & GENOA SALAMI\u201d with sell by dates 4/13/23 and 4/14/23.  ",
-    "\u2022\t1-lb. plastic tray of \u201cDEL DUCA CALABRESE, PROSCIUTTO & COPPA\u201d with  sell by date 5/6/23. ",
-    "\u2022\t1-lb. plastic tray of \u201cDEL DUCA GENOA SALAMI, UNCURED PEPPERONI & HARD SALAMI\u201d with use by date 5/4/23.",
-    "\u2022\t12-oz. plastic tray of \u201cGourmet Selection SOPRESSATA, CAPOCOLLO, HARD SALAME\u201d with sell by date 4/14/23.   "
+    "6-oz. plastic tray of \u201cFREDERIK\u2019S by meijer SPANISH STYLE charcuterie sampler tray\u201d with sell by date 4/15/23.",
+    "6-oz. plastic tray of \u201cBoar\u2019s Head CHARCUTUERIE TRIO\u201d with sell by dates 4/13/23, 4/14/23, and 4/15/23.",
+    "7-oz. plastic tray of \u201cCOLAMECO\u2019S PRIMO NATURALE GENOA UNCURED SALAMI\u201d with sell by dates 12/22/23, 12/30/23, and 1/17/24.",
+    "7-oz. plastic tray of \u201cCOLAMECO\u2019S PRIMO NATURALE BLACK PEPPER UNCURED SALAMI\u201d with sell by date 12/23/23.",
+    "1-lb. plastic tray of \u201cDEL DUCA SOPRESSATA, COPPA & GENOA SALAMI\u201d with sell by dates 4/13/23, 4/14/23, 5/03/23, and 5/04/23.\u00a0",
+    "1-lb. plastic tray of \u201cDEL DUCA CALABRESE, PROSCIUTTO & COPPA\u201d with sell by dates 5/6/23 and 5/13/23.",
+    "1-lb. plastic tray of \u201cDEL DUCA GENOA SALAMI, UNCURED PEPPERONI & HARD SALAMI\u201d with use by dates 3/25/23, 3/26/23, and 5/4/23.",
+    "12-oz. plastic tray of \u201cGourmet Selection SOPRESSATA, CAPOCOLLO, HARD SALAME\u201d with sell by date 4/14/23."
   ],
   "quantity_recovered": null,
   "quantity_unit": null,

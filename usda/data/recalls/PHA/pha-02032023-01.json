@@ -1,0 +1,38 @@
+{
+  "id": "PHA-02032023-01",
+  "title": "FSIS Issues Public Health Alert for Ready-To-Eat Stuffed Chicken Product that May Be Undercooked Due to A Processing Deviation",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-stuffed-chicken-product-may-be-undercooked",
+  "reasons": [
+    "Processing Defect"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2023-02-03",
+  "end_date": null,
+  "summary": "WASHINGTON, February 3, 2023 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for ready-to-eat (RTE) stuffed chicken product because the product may not be fully cooked due to underprocessing. FSIS is issuing this public health...",
+  "establishment": {
+    "id": "M8334+P8334",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/vanguard-culinary-group-ltd.",
+    "slug": "vanguard-culinary-group-ltd",
+    "name": "Vanguard Culinary Group, Ltd.",
+    "address": "716 Whitfield Street \n  Fayetteville, NC 28306",
+    "telephone": "(910) 484-8999",
+    "grant_date": "2013-05-21",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "16 oz (1 lb.) vacuum sealed trays containing \u201cPARK STREET DELI Broccoli Stuffed Chicken BONELESS SKINLESS CHICKEN BREAST HAND STUFFED WITH BROCCOLI & CHEDDAR AU GRATIN\u201d with a use by date of 1/30/2023."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Alabama",
+    "Florida",
+    "New York",
+    "Pennsylvania",
+    "Virginia"
+  ]
+}
