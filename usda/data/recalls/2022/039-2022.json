@@ -5,10 +5,10 @@
   "reasons": [
     "Produced Without Benefit of Inspection"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2022-10-28",
-  "end_date": null,
+  "end_date": "2023-02-07",
   "summary": "WASHINGTON, Oct. 28, 2022 \u2013 JYC Enterprise, Inc., a Houston, Texas establishment, is recalling approximately 33,280 pounds of frozen chicken and pork potsticker products that were repackaged, relabeled, and distributed without the benefit of federal inspection, the U.S. Department of Agriculture\u2019s Food Safety and Inspection...\n",
   "establishment": {
     "id": "M13186+P13186",
@@ -27,8 +27,8 @@
     "\u2022\t16-lb. cases of \u201cASIAN PRIDE POTSTICKERS\u201d containing 330 pieces of \u201cCHICKEN POTSTICKER\u201d in 8 2-lb. clear plastic bags.",
     "\u2022\t16-lb. cases of \u201cASIAN PRIDE POTSTICKERS\u201d containing 330 pieces of \u201cPORK POTSTICKER\u201d in 8 2-lb. clear plastic bags."
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 7952,
+  "quantity_unit": "pounds",
   "states": [
     "Wisconsin"
   ]
