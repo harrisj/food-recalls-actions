@@ -1,0 +1,38 @@
+{
+  "id": "PHA-02142023-01",
+  "title": "FSIS Issues Public Health Alert for Raw, Ready-To-Cook Stuffed Chicken Products Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-raw-ready-cook-stuffed-chicken-products-due",
+  "reasons": [
+    "Misbranding",
+    "Mislabeling",
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2023-02-14",
+  "end_date": null,
+  "summary": "WASHINGTON, Feb. 14, 2023 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert due to concerns that the raw, ready-to-cook chicken entr\u00e9e products may be missing labeling that includes the list of ingredients and cooking instructions...\n",
+  "establishment": {
+    "id": "M48176+P48176",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/tampa-bay-fisheries",
+    "slug": "tampa-bay-fisheries",
+    "name": "Tampa Bay Fisheries",
+    "address": "3060 N. Gallagher Rd. \n  Dover, FL 33527",
+    "telephone": "(813) 752-8883",
+    "grant_date": "2017-12-27",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022\t12-oz. plastic wrapped metal containers containing \u201caprons READY TO COOK MEAL FOR ONE SUN-DRIED TOMATO & CHEESE-STUFFED CHICKEN WITH LEMON-GARLIC POTATOES\u201d with a use by date of 02/15/2023."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Florida",
+    "Georgia",
+    "North Carolina"
+  ]
+}
