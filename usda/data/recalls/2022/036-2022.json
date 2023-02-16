@@ -5,16 +5,16 @@
   "reasons": [
     "Product Contamination"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "Low",
   "start_date": "2022-10-21",
-  "end_date": null,
+  "end_date": "2023-01-26",
   "summary": "WASHINGTON, Oct. 21, 2022 \u2013 Bob Evans Farms Foods, Inc., a Xenia, Ohio establishment, is recalling approximately 7,560 pounds of Italian pork sausage products that may be contaminated with extraneous materials, specifically thin blue rubber, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service...\n",
   "establishment": null,
   "impacted_products": [
     "        \u2022\t1-lb. chubs containing \u201cBob Evans Italian Sausage\u201d with lot code XEN3663466 and a \u201cUSE/FRZ BY\u201d date of 11/26/22, with a time stamp between 14:43 and 15:25."
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 3754,
+  "quantity_unit": "pounds",
   "states": null
 }
