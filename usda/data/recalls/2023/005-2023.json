@@ -1,0 +1,37 @@
+{
+  "id": "005-2023",
+  "title": "Whitson\u2019s Food Service (Bronx) Corp. Recalls Frozen, Ready-To-Cook Chicken Alfredo with Broccoli and Penne Pasta Products Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/whitsons-food-service-bronx-corp--recalls-frozen-ready-cook-chicken-alfredo-broccoli",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2023-02-16",
+  "end_date": null,
+  "summary": "WASHINGTON, Feb. 16, 2023 \u2013 Whitson\u2019s Food Service (Bronx) Corp., an Islandia, N.Y., establishment, is recalling approximately 8,713 pounds of frozen, ready-to-cook chicken alfredo with broccoli and penne pasta meals due to misbranding and undeclared allergens, the U.S. Department of Agriculture\u2019s Food Safety and Inspection...\n",
+  "establishment": {
+    "id": "M32073+P32073",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/whitsons-food-service-bronx-corp.",
+    "slug": "whitsons-food-service-bronx-corp",
+    "name": "Whitsons Food Service (Bronx) Corp.",
+    "address": "1800 Motor Parkway \n  Islandia, NY 11749",
+    "telephone": "(631) 424-2700",
+    "grant_date": "2021-11-04",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022\t13.7-lb. boxes containing 30 plastic trays of 7.3-oz. meals containing \u201cChicken Alfredo with Broccoli & Penne Pasta\u201d with a best if used by date of 1/25/24, product code number 903419 and lot number W01252308897.",
+    "\u2022\t13.7-lb. boxes containing 30 plastic trays of 7.3-oz. meals containing \u201cChicken Strips over WW Penne Pasta with Alfredo Sauce & Broccoli\u201d with a best if used by of date 1/31/24, product code number 403127 and lot number W01312307698."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "New York",
+    "Pennsylvania"
+  ]
+}
