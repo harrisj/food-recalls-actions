@@ -5,10 +5,10 @@
   "reasons": [
     "Product Contamination"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2022-10-27",
-  "end_date": null,
+  "end_date": "2023-02-28",
   "summary": "WASHINGTON, Oct. 27, 2022 \u2013 Lone Star Bakery, Inc., a China Grove, Texas establishment, is recalling approximately 5,740 pounds of beef shepherd\u2019s pie products that may be contaminated with extraneous materials, specifically copper wire pieces, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service...\n",
   "establishment": {
     "id": "M31772+P31772",
@@ -26,8 +26,8 @@
   "impacted_products": [
     "\u2022\t8-oz. carton packages containing \u201cBOOMERANG\u2019S BEEF SHEPHERD\u2019S PIE\u201d with \u201cUSE BY 092323\u201d on the label."
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 1100,
+  "quantity_unit": "pounds",
   "states": [
     "California",
     "Florida",
