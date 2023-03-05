@@ -1,0 +1,32 @@
+{
+  "id": "006-2023",
+  "title": "GH Foods NW, LLC Recalls Ready-to-Eat Salad with Chicken Products Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/gh-foods-nw-llc-recalls-ready-eat-salad-chicken-products-due-misbranding-and",
+  "reasons": [
+    "Mislabeling"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2023-03-04",
+  "end_date": null,
+  "summary": "WASHINGTON, March 4, 2023 \u2013 GH Foods NW, LLC, a Clackamas, Ore. establishment, is recalling approximately 106 pounds of ready-to-eat salad with chicken products due to misbranding and undeclared allergens, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The product...\n",
+  "establishment": {
+    "id": "M46987+P46987",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/gh-foods-nw-llc",
+    "slug": "gh-foods-nw-llc",
+    "name": "GH Foods NW, LLC",
+    "address": "16800 SE Evelyn Street \n  Clackamas, OR 97015",
+    "telephone": "(503) 343-7140",
+    "grant_date": "2019-09-05",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022\t9.2 oz. plastic clamshell packages containing \u201cTRADER JOE\u2019S LEMON CHICKEN & ARUGULA SALAD\u201d with \u201cBEST BY 03/06/23\u201d and lot code GHNW 059-06."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}
