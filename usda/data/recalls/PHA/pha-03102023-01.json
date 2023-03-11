@@ -1,0 +1,37 @@
+{
+  "id": "PHA-03102023-01",
+  "title": "FSIS Issues Public Health Alert for Trader Joe\u2019s Chicken Salad Due to Misbranding and an Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-trader-joes-chicken-salad-due-misbranding-and",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2023-03-10",
+  "end_date": null,
+  "summary": "WASHINGTON, March 10, 2023 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert due to concerns that fully cooked, ready-to-eat (RTE) chicken salad product may contain cashews a known allergen, which is not declared on the...",
+  "establishment": {
+    "id": "M34834+P34834",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/taylor-farms-northwest-llc",
+    "slug": "taylor-farms-northwest-llc",
+    "name": "Taylor Farms Northwest LLC",
+    "address": "8030 S 228th Street \n  Kent, WA 98032",
+    "telephone": "(206) 764-4499",
+    "grant_date": "2015-09-24",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "12-oz. clear plastic trays containing \u201cTRADER JOE\u2019S Wine Country WHITE CHICKEN SALAD WITH Cranberries & Pecans.\u201d with a best by date of 3/12/2023."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Idaho",
+    "Oregon",
+    "Washington"
+  ]
+}
