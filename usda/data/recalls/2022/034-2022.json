@@ -5,10 +5,10 @@
   "reasons": [
     "Product Contamination"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2022-09-24",
-  "end_date": null,
+  "end_date": "2023-03-15",
   "summary": "WASHINGTON, Sept. 24, 2022 \u2013 Behrmann Meat and Processing Inc., an Albers, Ill. establishment, is recalling approximately 87,382 pounds of various ready-to-eat (RTE) meat products that may be adulterated with Listeria monocytogenes, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today...\n",
   "establishment": {
     "id": "M20917",
@@ -24,7 +24,7 @@
     ]
   },
   "impacted_products": [],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 20715,
+  "quantity_unit": "pounds",
   "states": null
 }
