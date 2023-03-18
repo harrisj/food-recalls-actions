@@ -1,0 +1,34 @@
+{
+  "id": "008-2023",
+  "title": "Hoyo, SBC Recalls Frozen, Ready-To-Eat Beef Sambusa Product Due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/hoyo-sbc-recalls-frozen-ready-eat-beef-sambusa-product-due-possible-foreign-matter",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2023-03-17",
+  "end_date": null,
+  "summary": "WASHINGTON, March 17, 2023 \u2013 Hoyo, SBC, a Bloomington, Minn. establishment, is recalling approximately 1,046 pounds of ready-to-eat beef sambusa products that may be contaminated with extraneous materials, specifically thin, wire-like metal, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today...",
+  "establishment": {
+    "id": "M47424+P47424",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/hoyo-sbc",
+    "slug": "hoyo-sbc",
+    "name": "Hoyo, SBC",
+    "address": "9600 Aldrich Ave S. \n  Bloomington, MN 55420",
+    "telephone": "(785) 479-0370",
+    "grant_date": "2021-04-16",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "Bulk boxes containing 75 pieces of \u201cHOYO Beef Sambusa Ground Beef Pastry with Onions and Spices\u201d and lot code N341-S and N333-S."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Minnesota"
+  ]
+}
