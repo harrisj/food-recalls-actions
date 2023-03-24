@@ -1,0 +1,41 @@
+{
+  "id": "011-2023",
+  "title": "Elkhorn Valley Packing Recalls Boneless Beef Chuck Product Due to Possible E. coli O103 Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/elkhorn-valley-packing-recalls-boneless-beef-chuck-product-due-possible-e--coli-o103",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2023-03-24",
+  "end_date": null,
+  "summary": "WASHINGTON, March 24, 2023 \u2013 Elkhorn Valley Packing, a Harper, Kan. establishment, is recalling approximately 3,436 pounds of boneless beef chuck product that may be contaminated with Shiga toxin-producing E. coli (STEC) O103, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced...\n",
+  "establishment": {
+    "id": "M19549",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/elkhorn-valley-packing-llc-0",
+    "slug": "elkhorn-valley-packing-llc-0",
+    "name": "Elkhorn Valley Packing LLC",
+    "address": "101 N. Central \n  Harper, KS 67058",
+    "telephone": "(620) 896-2300",
+    "grant_date": "2011-04-08",
+    "activities": [
+      "Meat Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022\tVarious weights corrugated boxes containing \u201cElkhorn Valley Pride Angus Beef 61226 BEEF CHUCK 2PC BNLS; Packed on 2/16/23.\u201d"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Connecticut",
+    "Illinois",
+    "Indiana",
+    "Maryland",
+    "Massachusetts",
+    "Michigan",
+    "New Jersey",
+    "New York",
+    "Pennsylvania"
+  ]
+}
