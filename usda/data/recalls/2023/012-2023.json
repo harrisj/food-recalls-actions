@@ -1,0 +1,34 @@
+{
+  "id": "012-2023",
+  "title": "Weinstein Wholesale Meats, Inc. Recalls Raw Ground Beef Burger Products Due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/weinstein-wholesale-meats-inc--recalls-raw-ground-beef-burger-products-due-possible",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2023-04-20",
+  "end_date": null,
+  "summary": "WASHINGTON, April 20, 2023 - Weinstein Wholesale Meats, Inc., a Forest Park, Ill. establishment, is recalling approximately 2,122 pounds of raw ground beef burger products that may be contaminated with extraneous materials, specifically pieces of white neoprene, the U.S. Department of Agriculture's Food Safety and...",
+  "establishment": {
+    "id": "M6987+P6987",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/weinstein-wholesale-meats-inc",
+    "slug": "weinstein-wholesale-meats-inc",
+    "name": "Weinstein Wholesale Meats Inc",
+    "address": "7501 Industrial Dr. \n  Forest Park, IL\n     60130",
+    "telephone": "(708) 405-5000",
+    "grant_date": "2006-04-27",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "10.7-oz. vacuum-sealed packages containing two pieces of \u201c100% Grass Fed & Finished Beef Burger Patties 85% Lean/15% Fat\u201d and with \u201cUse/Freeze By 4/11/23\u201d on the package label."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Nationwide"
+  ]
+}
