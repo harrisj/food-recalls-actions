@@ -1,0 +1,44 @@
+{
+  "id": "015-2023",
+  "title": "Alef Sausage Inc. Recalls Ready-To-Eat Meat and Poultry Sausage Products Due to Misbranding and Possible Temperature Abuse",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/alef-sausage-inc--recalls-ready-eat-meat-and-poultry-sausage-products-due",
+  "reasons": [
+    "Misbranding",
+    "Processing Defect"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2023-04-21",
+  "end_date": null,
+  "summary": "WASHINGTON, April 21, 2023 - Alef Sausage Inc., a Mundelein, Ill. establishment, is recalling approximately 61,574 pounds of ready-to-eat (RTE) halal meat and poultry sausage products due to misbranding and possible temperature abuse, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced...",
+  "establishment": {
+    "id": "M21174+P21174",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/alef-sausage",
+    "slug": "alef-sausage",
+    "name": "Alef Sausage",
+    "address": "1026 Campus Rd. \n  Mundelein, IL\n     60060",
+    "telephone": "(847) 968-2533",
+    "grant_date": "2005-09-09",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "Vacuum-packed packages containing 1 piece of \"Sheikh BEEF SALAMI ZABIHA HALAL.\" ",
+    "Vacuum-packed packages containing 1 piece of \"Sheikh TASHENTSKAYA SALAMI ZABIHA HALAL.\" ",
+    "Vacuum-packed packages containing 1 piece of \"Sheikh BEEF CERVELAT ZABIHA HALAL.\" ",
+    "Vacuum-packed packages containing 1 piece of \"Sheikh Musulmanskaya Lamb Premium ZABIHA HALAL.\" ",
+    "Vacuum-packed packages containing 1 piece of \"Sheikh MUSUL'MANSKAYA SALAMI ZABIHA HALAL.\" ",
+    "Vacuum-packed packages containing 1 piece of \"Sheikh MUSUL'MANSKAYA PREMIUM SALAMI ZABIHA HALAL.\"",
+    "Vacuum-packed packages containing 1 piece of \"Sheikh BEEF BOLOGNA ZABIHA HALAL.\" ",
+    "Vacuum-packed packages containing 1 piece of \"Sheikh Musulmanskaya Chicken Premium ZABIHA HALAL.\" "
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "New York",
+    "New Jersey",
+    "Pennsylvania"
+  ]
+}

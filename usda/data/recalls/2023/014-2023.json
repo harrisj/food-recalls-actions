@@ -1,0 +1,37 @@
+{
+  "id": "014-2023",
+  "title": "Abbyland Foods Recalls Frozen Turkey Sausage Patties Products Due to Misbranding and Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/abbyland-foods-recalls-frozen-turkey-sausage-patties-products-due-misbranding-and",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2023-04-21",
+  "end_date": null,
+  "summary": "WASHINGTON, April 21, 2023 - Abbyland Foods, an Abbotsford, Wis., establishment, is recalling approximately 11,800 pounds of frozen turkey meatballs that are labeled as turkey sausage patties due to misbranding and an undeclared allergen, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS)...",
+  "establishment": {
+    "id": "M1633+P17764+V1633",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/abbyland-foods-inc.",
+    "slug": "abbyland-foods-inc",
+    "name": "Abbyland Foods, Inc.",
+    "address": "508 E. Linden Street \n  Abbotsford, WI\n     54405",
+    "telephone": "(715) 223-6386",
+    "grant_date": "2017-12-08",
+    "activities": [
+      "Meat Slaughter",
+      "Meat Processing",
+      "Poultry Processing",
+      "Voluntary Processing - Meat"
+    ]
+  },
+  "impacted_products": [
+    "5-lb. unlabeled bags in 10-pound labeled boxes of \"Jennie-O FULLY COOKED TURKEY SAUSAGE PATTIES\" with lot code 06223."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Nationwide"
+  ]
+}
