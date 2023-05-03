@@ -1,0 +1,35 @@
+{
+  "id": "PHA-050220230-01",
+  "title": "FSIS Issues Public Health Alert for Frozen Meatloaf Entree Products Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-frozen-meatloaf-entree-products-due-misbranding-and",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2023-05-02",
+  "end_date": null,
+  "summary": "WASHINGTON, May 2, 2023 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert due to concerns that frozen ready-to-cook meatloaf entr\u00e9e products may contain undeclared milk, a known allergen. These entrees are removed from their master...\n",
+  "establishment": {
+    "id": "M6136+P334",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/a.j.-sons-inc.",
+    "slug": "a-j-sons-inc",
+    "name": "A.J. Sons, Inc.",
+    "address": "2975 Laguna Canyon Road \n  Laguna Beach, CA\n     92751",
+    "telephone": "(714) 497-1741",
+    "grant_date": "1991-01-10",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022\t14-oz. paper or plastic three compartment tray with a sealed plastic cover containing \u201cMEATLOAF & TOMATO SAUCE MIXED RICE AND SPINACH\u201d and a use or discard by date of \u201cMay 1, 2023, May 13, 2023, June 15, 2023, and June 28, 2023.\u201d"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "California"
+  ]
+}
