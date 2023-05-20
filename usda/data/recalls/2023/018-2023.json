@@ -1,0 +1,30 @@
+{
+  "id": "018-2023",
+  "title": "Sofina Foods Inc. Recalls Ready-To-Eat Mortadella Deli Meat Products Due to Misbranding and Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/sofina-foods-inc--recalls-ready-eat-mortadella-deli-meat-products-due-misbranding",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2023-05-19",
+  "end_date": null,
+  "summary": "WASHINGTON, May 19, 2023 - Sofina Foods Inc., a Markham, Ontario, Canada establishment, is recalling approximately 15,165 pounds of ready-to-eat mortadella deli meat products due to misbranding and undeclared allergen, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The product...",
+  "establishment": null,
+  "impacted_products": [
+    "Various weight cases of \"MASTRO MORTADELLA PRODUCT OF CANADA\" with product code 10307, lot code BE170418, BEST BEFORE 2023 JL 27 containing 7.6 kgs. clear plastic packages of \"IMPORTED MASTRO MORTADELLA PRODUCT OF CANADA\" with EST 224, \"BEST BEFORE MEILLE",
+    "Various weight cases of \"MASTRO MORTADELLA PRODUCT OF CANADA\" with product code 10307, lot code BE170560, BEST BEFORE 2023 AU 02 containing 7.6 kgs. clear plastic packages of \"IMPORTED MASTRO MORTADELLA PRODUCT OF CANADA\" with EST 224, \"BEST BEFORE MEILLE",
+    "Various weight cases of \"MASTRO MORTADELLA PRODUCT OF CANADA\" with product code 21130, Lot Code BE170422, BEST BEFORE 2023 JL 27 containing 4 kgs. clear plastic packages of \"MASTRO MORTADELLA PRODUCT OF CANADA\" with EST 224, \"BEST BEFORE MEILLEUR AVANT\" d",
+    "Various weight cases of \"MASTRO MORTADELLA PRODUCT OF CANADA\" with product code 21130, Lot Code BE170668, BEST BEFORE 2023 AU 08 containing 4 kgs. clear plastic packages of \"MASTRO MORTADELLA PRODUCT OF CANADA\" with EST 224, \"BEST BEFORE MEILLEUR AVANT\" d"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "California",
+    "Illinois",
+    "Michigan",
+    "New York",
+    "Pennsylvania"
+  ]
+}
