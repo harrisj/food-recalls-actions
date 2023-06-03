@@ -1,0 +1,26 @@
+{
+  "id": "020-2023",
+  "title": "DEKA Trading Corp. Recalls Ineligible Ready-To-Eat Pork Rind Products Imported from Guatemala",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/deka-trading-corp--recalls-ineligible-ready-eat-pork-rind-products-imported",
+  "reasons": [
+    "Import Violation"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2023-06-02",
+  "end_date": null,
+  "summary": "WASHINGTON, June 2, 2023 \u2013 DEKA Trading Corp., the importer of record located in Miami, Fla., is recalling approximately 13,771 pounds of imported ready-to-eat pork rind products. The products were imported from Guatemala, a country ineligible to export meat products to the United States, the...\n",
+  "establishment": null,
+  "impacted_products": [
+    "\u2022\t5.3 oz. (150g) foil pouch packages containing \u201cTorTrix Con Chicharr\u00f3n.\u201d "
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Georgia",
+    "New Jersey",
+    "New York",
+    "Rhode Island",
+    "Virginia"
+  ]
+}
