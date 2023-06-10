@@ -1,0 +1,35 @@
+{
+  "id": "022-2023",
+  "title": "J.T.M. Provisions Company Recalls Ready-To-Eat Homestyle Chili Topping Product Due to Misbranding and an Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/j-t-m--provisions-company-recalls-ready-eat-homestyle-chili-topping-product-due",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2023-06-09",
+  "end_date": null,
+  "summary": "WASHINGTON, June 9, 2023 \u2013 J.T.M. Provisions Company, a Harrison, Ohio establishment, is recalling approximately 200 pounds of ready-to-eat (RTE) chili topping product due to misbranding and an undeclared allergen, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The product...\n",
+  "establishment": {
+    "id": "M1917A+P8930A",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/j.t.m.-provisions-company",
+    "slug": "j-t-m-provisions-company",
+    "name": "J.T.M. Provisions Company",
+    "address": "200 Industrial Drive \n  Harrison, OH\n     45030",
+    "telephone": "",
+    "grant_date": "2018-07-03",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022\t5-lb. boilable plastic bags of \u201cGordon Choice\u00ae Homestyle Chili Topping\u201d with lot code 230732002."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Nationwide"
+  ]
+}
