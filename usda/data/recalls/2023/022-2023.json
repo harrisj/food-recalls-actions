@@ -12,13 +12,13 @@
   "end_date": null,
   "summary": "WASHINGTON, June 9, 2023 \u2013 J.T.M. Provisions Company, a Harrison, Ohio establishment, is recalling approximately 200 pounds of ready-to-eat (RTE) chili topping product due to misbranding and an undeclared allergen, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The product...\n",
   "establishment": {
-    "id": "M1917A+P8930A",
-    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/j.t.m.-provisions-company",
+    "id": "M1917+P8930",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/j-t-m-provisions-company",
     "slug": "j-t-m-provisions-company",
-    "name": "J.T.M. Provisions Company",
-    "address": "200 Industrial Drive \n  Harrison, OH\n     45030",
+    "name": "J T M Provisions Company",
+    "address": "200 Sales Drive \n  Harrison, OH\n     45030",
     "telephone": "",
-    "grant_date": "2018-07-03",
+    "grant_date": "2017-04-18",
     "activities": [
       "Meat Processing",
       "Poultry Processing"
