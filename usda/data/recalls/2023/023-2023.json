@@ -1,0 +1,32 @@
+{
+  "id": "023-2023",
+  "title": "Johnsonville, LLC, Recalls Beddar With Cheddar Ready-to-Eat Pork Sausage Links Due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/johnsonville-llc-recalls-beddar-cheddar-ready-eat-pork-sausage-links-due-possible",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "Low",
+  "start_date": "2023-06-15",
+  "end_date": null,
+  "summary": "WASHINGTON, June 15, 2023 \u2013 Johnsonville, LLC, a Sheboygan Falls, Wis. establishment, is recalling approximately 42,062 pounds of ready-to-eat (RTE) \u201cBeddar with Cheddar\u201d pork sausage links that may be contaminated with extraneous materials, specifically very thin strands of black plastic fibers, the U.S. Department of...\n",
+  "establishment": {
+    "id": "M34224+P34224",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/johnsonville-llc",
+    "slug": "johnsonville-llc",
+    "name": "Johnsonville, LLC",
+    "address": "N6927 Johnsonville Way \n  Sheboygan Falls, WI\n     53085",
+    "telephone": "(920) 453-7756",
+    "grant_date": "2017-08-23",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022\t14-oz. vacuum-packed packages of \u201cJohnsonville BEDDAR with CHEDDAR Smoked Sausage links MADE WITH 100% PREMIUM PORK\u201d with a Best By 07/11/2023 C35 code date printed on the back. "
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}
