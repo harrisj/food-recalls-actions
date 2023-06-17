@@ -1,0 +1,38 @@
+{
+  "id": "024-2023",
+  "title": "Conagra Brands, Inc., Recalls Frozen Beef Shepherd\u2019s Pie Products Due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/conagra-brands-inc--recalls-frozen-beef-shepherds-pie-products-due-possible-foreign",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "Low",
+  "start_date": "2023-06-16",
+  "end_date": null,
+  "summary": "WASHINGTON, June 16, 2023 \u2013 Conagra Brands, Inc., a Russellville, Ark. establishment, is recalling approximately 2,717 pounds of frozen beef shepherd\u2019s pie products that may be contaminated with extraneous materials, specifically clear, flexible plastic, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS)...",
+  "establishment": {
+    "id": "M233+P115+V233",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/conagra-brands-inc.-4",
+    "slug": "conagra-brands-inc-4",
+    "name": "ConAgra Brands, Inc.",
+    "address": "3100 East Main Street \n  Russellville, AR\n     72802",
+    "telephone": "(479) 498-7500",
+    "grant_date": "2020-12-15",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing",
+      "Certification - Export"
+    ]
+  },
+  "impacted_products": [
+    "4.31 lbs. cases of \u201cMC Beef Shepherd\u2019s Pie\u201d with lot code 5006306020, BEST BY FEB 24 2024 and case code 2113100032, containing six 11.5 oz. carton packages of \"Marie Callender\u2019s BEEF SHEPHERD\u2019S PIE\u201d with lot code 5006306020 and BEST BY FEB 24 2024 on th"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "California",
+    "Colorado",
+    "Oregon",
+    "Utah"
+  ]
+}
