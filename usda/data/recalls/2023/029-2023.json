@@ -1,0 +1,35 @@
+{
+  "id": "029-2023",
+  "title": "Perdue Premium Meat Company, Inc., DBA Alexander & Hornung Recalls Brookside Brand Fully Cooked Beef Wiener Products Due to Misbranding and an Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/perdue-premium-meat-company-inc--dba-alexander-hornung-recalls-brookside-brand-fully",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2023-07-01",
+  "end_date": null,
+  "summary": "WASHINGTON, July 1, 2023 \u2013 Perdue Premium Meat Company, Inc., doing business as Alexander & Hornung, a Saint Clair Shores, Mich., establishment, is recalling approximately 3,204 pounds of fully cooked beef wiener products due to misbranding and undeclared allergens, the U.S. Department of Agriculture\u2019s Food...",
+  "establishment": {
+    "id": "M10125+P10125",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/perdue-premium-meat-company-inc.",
+    "slug": "perdue-premium-meat-company-inc",
+    "name": "Perdue Premium Meat Company, Inc.",
+    "address": "20643 Stephens Street \n  St Clair Shores, MI\n     48080",
+    "telephone": "(586) 771-9880",
+    "grant_date": "2021-10-25",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "2-lbs. vacuum-sealed packages labeled \u201cBROOKSIDE BRAND FULLY COOKED NATURAL CASING BEEF WIENERS\u201d with the lot code 3121, case code 07658, and sell by date of 8/1/23. "
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Ohio"
+  ]
+}
