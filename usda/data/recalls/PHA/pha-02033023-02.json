@@ -10,15 +10,15 @@
   "risk_level": null,
   "start_date": "2023-02-03",
   "end_date": null,
-  "summary": "WASHINGTON, Feb. 3, 2023 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for frozen chicken products due to misbranding and an undeclared allergen. The product contains cashews, a known allergen, which is not declared on...",
+  "summary": "  WASHINGTON, Feb. 3, 2023 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for frozen chicken products due to misbranding and an undeclared allergen. The product contains cashews, a known allergen, which is not declared on...\n\n",
   "establishment": {
     "id": "M34641+P34641",
     "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/cafe-spice-llc",
     "slug": "cafe-spice-llc",
     "name": "CAFE SPICE LLC",
-    "address": "677 LITTLE BRITAIN ROAD \n  NEW WINDSOR, NY 12553",
+    "address": "677 LITTLE BRITAIN ROAD \n  NEW WINDSOR, NY\n     12553",
     "telephone": "(845) 863-0910",
-    "grant_date": "2008-11-17",
+    "grant_date": "2021-07-28",
     "activities": [
       "Meat Processing",
       "Poultry Processing"

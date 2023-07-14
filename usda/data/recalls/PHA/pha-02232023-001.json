@@ -10,15 +10,15 @@
   "risk_level": null,
   "start_date": "2023-02-23",
   "end_date": null,
-  "summary": "WASHINGTON, Feb. 23, 2023 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert due to concerns that fully cooked, ready-to-eat (RTE) pasta sauce labeled as pizza sauce contains anchovies and milk, known allergens, as well as...\n",
+  "summary": " WASHINGTON, Feb. 23, 2023 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert due to concerns that fully cooked, ready-to-eat (RTE) pasta sauce labeled as pizza sauce contains anchovies and milk, known allergens, as well as...\n",
   "establishment": {
     "id": "M38550+P38550",
     "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/heritage-specialty-foods-llc",
     "slug": "heritage-specialty-foods-llc",
     "name": "Heritage Specialty Foods, LLC",
-    "address": "6433 SE Lake Road \n  Milwaukie, OR 97222",
+    "address": "6433 SE Lake Road \n  Milwaukie, OR\n     97222",
     "telephone": "",
-    "grant_date": "2011-06-29",
+    "grant_date": "2021-12-10",
     "activities": [
       "Meat Processing",
       "Poultry Processing"

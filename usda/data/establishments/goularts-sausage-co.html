@@ -6,10 +6,77 @@
 <meta content="https://www.fsis.usda.gov/sites/default/files/2021-03/MicrosoftTeams-image.png" property="og:image:url"/>
 <meta content="https://www..fsis.usda.gov/sites/default/files/2021-03/MicrosoftTeams-image.png" property="og:image:secure_url"/>
 <meta content="image/png" property="og:image:type"/>
-<meta content="Drupal 9 (https://www.drupal.org)" name="Generator"/>
+<meta content="Drupal 10 (https://www.drupal.org)" name="Generator"/>
 <meta content="width" name="MobileOptimized"/>
 <meta content="true" name="HandheldFriendly"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<script data-toolbar-anti-flicker-loading="" type="text/javascript">(function() {
+  const toolbarState = sessionStorage.getItem('Drupal.toolbar.toolbarState')
+    ? JSON.parse(sessionStorage.getItem('Drupal.toolbar.toolbarState'))
+    : false;
+  // These are classes that toolbar typically adds to <body>, but this code
+  // executes before the first paint, when <body> is not yet present. The
+  // classes are added to <html> so styling immediately reflects the current
+  // toolbar state. The classes are removed after the toolbar completes
+  // initialization.
+  const classesToAdd = ['toolbar-loading', 'toolbar-anti-flicker'];
+  if (toolbarState) {
+    const {
+      orientation,
+      hasActiveTab,
+      isFixed,
+      activeTray,
+      activeTabId,
+      isOriented,
+      userButtonMinWidth
+    } = toolbarState;
+
+    classesToAdd.push(
+      orientation ? `toolbar-` + orientation + `` : 'toolbar-horizontal',
+    );
+    if (hasActiveTab !== false) {
+      classesToAdd.push('toolbar-tray-open');
+    }
+    if (isFixed) {
+      classesToAdd.push('toolbar-fixed');
+    }
+    if (isOriented) {
+      classesToAdd.push('toolbar-oriented');
+    }
+
+    if (activeTray) {
+      // These styles are added so the active tab/tray styles are present
+      // immediately instead of "flickering" on as the toolbar initializes. In
+      // instances where a tray is lazy loaded, these styles facilitate the
+      // lazy loaded tray appearing gracefully and without reflow.
+      const styleContent = `
+      .toolbar-loading #` + activeTabId + ` {
+        background-image: linear-gradient(rgba(255, 255, 255, 0.25) 20%, transparent 200%);
+      }
+      .toolbar-loading #` + activeTabId + `-tray {
+        display: block; box-shadow: -1px 0 5px 2px rgb(0 0 0 / 33%);
+        border-right: 1px solid #aaa; background-color: #f5f5f5;
+        z-index: 0;
+      }
+      .toolbar-loading.toolbar-vertical.toolbar-tray-open #` + activeTabId + `-tray {
+        width: 15rem; height: 100vh;
+      }
+     .toolbar-loading.toolbar-horizontal :not(#` + activeTray + `) > .toolbar-lining {opacity: 0}`;
+
+      const style = document.createElement('style');
+      style.textContent = styleContent;
+      style.setAttribute('data-toolbar-anti-flicker-loading', true);
+      document.querySelector('head').appendChild(style);
+
+      if (userButtonMinWidth) {
+        const userButtonStyle = document.createElement('style');
+        userButtonStyle.textContent = `#toolbar-item-user {min-width: ` + userButtonMinWidth +`px;}`
+        document.querySelector('head').appendChild(userButtonStyle);
+      }
+    }
+  }
+  document.querySelector('html').classList.add(...classesToAdd);
+})();</script>
 <meta content="ie=edge" http-equiv="x-ua-compatible"/>
 <link href="http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/goularts-sausage-co." hreflang="en" rel="alternate"/>
 <title>Goulart's Sausage Co. | Food Safety and Inspection Service</title>
@@ -17,10 +84,11 @@
 <link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
 <link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
 <link href="/site.webmanifest" rel="manifest"/>
-<link href="/sites/default/files/css/css_Bi1afIeVPcb-oQKL9lNZE3NSQKfGQEqfOzmKmtyzYdA.css" media="all" rel="stylesheet">
-<link href="/sites/default/files/css/css_89_WHZu6Q87Lu9P0dU578-m0A8CNHvkxC8k6ipdGHjU.css" media="all" rel="stylesheet">
+<link href="/sites/default/files/css/css_EdhLlb4Oni2nCHRl41jc6RsHb2uyt7XE3aSdRoc7tfY.css?delta=0&amp;language=en&amp;theme=uswds&amp;include=eJxtj1EKg0AMRC-0NUdashqX1Ghsslu1p--i0I_izzDwHgOTeEeJrlbiyFLIIKFTGJ0diqoktEfvHvzwQvMFezWCWQeyhT8Wqm-DQxZNKCGrZqFYMENucbmD1RWlW02zURv7kzp84h7eTJvDmV0br0LhVbmfhJcJfi3ywuUWrCpHuyB38AtmN1oj" media="all" rel="stylesheet">
+<link href="/sites/default/files/css/css_nR0ocx485ZUyr-GcnMZHKaj4gZ7cMrS9Gs7ZcBBU6Vk.css?delta=1&amp;language=en&amp;theme=uswds&amp;include=eJxtj1EKg0AMRC-0NUdashqX1Ghsslu1p--i0I_izzDwHgOTeEeJrlbiyFLIIKFTGJ0diqoktEfvHvzwQvMFezWCWQeyhT8Wqm-DQxZNKCGrZqFYMENucbmD1RWlW02zURv7kzp84h7eTJvDmV0br0LhVbmfhJcJfi3ywuUWrCpHuyB38AtmN1oj" media="all" rel="stylesheet">
+<link href="/sites/default/files/css/css_grccFuIn3LsPHiPq8um0qhHcT7K0TBghaAogoaZMp60.css?delta=2&amp;language=en&amp;theme=uswds&amp;include=eJxtj1EKg0AMRC-0NUdashqX1Ghsslu1p--i0I_izzDwHgOTeEeJrlbiyFLIIKFTGJ0diqoktEfvHvzwQvMFezWCWQeyhT8Wqm-DQxZNKCGrZqFYMENucbmD1RWlW02zURv7kzp84h7eTJvDmV0br0LhVbmfhJcJfi3ywuUWrCpHuyB38AtmN1oj" media="print" rel="stylesheet">
+<link href="/sites/default/files/css/css_Gn6sBEn2Fc9RrmK6oNDzxc9duWzkvIu1_HzMjey1Ll0.css?delta=3&amp;language=en&amp;theme=uswds&amp;include=eJxtj1EKg0AMRC-0NUdashqX1Ghsslu1p--i0I_izzDwHgOTeEeJrlbiyFLIIKFTGJ0diqoktEfvHvzwQvMFezWCWQeyhT8Wqm-DQxZNKCGrZqFYMENucbmD1RWlW02zURv7kzp84h7eTJvDmV0br0LhVbmfhJcJfi3ywuUWrCpHuyB38AtmN1oj" media="all" rel="stylesheet">
 <script src="/themes/uswds/js/libraries/modernizr.min.js?v=3.11.7"></script>
-<script src="/core/misc/modernizr-additional-tests.js?v=3.11.7"></script>
 <!-- Analytics this part is in head-->
 <script id="_fed_an_ua_tag" language="javascript" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=USDA&amp;subagency=FSIS&amp;sp=lookup,locate&amp;exts=pdf,xls,zip,jpg,gif,mp3&amp;dclink=true"></script>
 <script type="text/JavaScript">
@@ -53,7 +121,7 @@
         })();
 
       </script>
-</link></link></head><div class="l-sidebar__main">
+</link></link></link></link></head><div class="l-sidebar__main">
 <section class="introduction">
 <h1 class="introduction__title">Goulart's Sausage Co.</h1> </section>
 <div class="has-bottom-border l-grid l-grid--2col">
@@ -71,20 +139,26 @@
 </div>
 <div class="meta">
 <span class="meta__label">Grant Date</span>
-<span class="meta__value">Mar 22, 2002</span>
+<span class="meta__value">May 28, 2014</span>
 </div>
 <div class="meta">
 <span class="meta__label">Address</span>
 <span class="meta__value">  1277 C East St. John Street <br/>
-  San Jose, CA 95116
+  San Jose, CA
+     95116
+  
 </span>
 </div>
 <div class="meta">
 <span class="meta__label">Activities</span>
 <span class="meta__value">Meat Processing</span>
 </div>
-</div>
-<div class="view view--recalls-by-establishment view--display-default js-view-dom-id-56c7645d68fcf4913b5cd35b5776d32e694182bcee03d5ff6a677dc184c9dd3f view-listing">
+<div class="meta">
+<span class="meta__label">DBAS</span>
+<span class="meta__value">
+</span>
+</div> </div>
+<div class="view view--recalls-by-establishment view--display-default js-view-dom-id-ab031d86f29e82a266c30031e68b7fc05e4e214d6984a90ba038b585c98c8945 view-listing">
 <div class="view__sidebar">
 <div class="view__main">
 <div class="view__content">
@@ -111,7 +185,7 @@
         </div>
 </div>
 </div>
-<div class="recall-teaser__summary"><p>WASHINGTON, Feb. 8, 2023 – The U.S. Department of Agriculture’s Food Safety and Inspection Service (FSIS) is issuing a public health alert due to concerns that the ready-to-eat (RTE) pork sausage link products may contain milk, a known allergen, which is not declared on the...</p>
+<div class="recall-teaser__summary"> <p>WASHINGTON, Feb. 8, 2023 – The U.S. Department of Agriculture’s Food Safety and Inspection Service (FSIS) is issuing a public health alert due to concerns that the ready-to-eat (RTE) pork sausage link products may contain milk, a known allergen, which is not declared on the...</p>
 </div>
 <div class="recall-teaser__products">
 <h5>Impacted Products</h5>

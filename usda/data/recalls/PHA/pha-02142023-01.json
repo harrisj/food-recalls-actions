@@ -11,15 +11,15 @@
   "risk_level": null,
   "start_date": "2023-02-14",
   "end_date": null,
-  "summary": "WASHINGTON, Feb. 14, 2023 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert due to concerns that the raw, ready-to-cook chicken entr\u00e9e products may be missing labeling that includes the list of ingredients and cooking instructions...\n",
+  "summary": " WASHINGTON, Feb. 14, 2023 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert due to concerns that the raw, ready-to-cook chicken entr\u00e9e products may be missing labeling that includes the list of ingredients and cooking instructions...\n",
   "establishment": {
     "id": "M48176+P48176",
     "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/tampa-bay-fisheries",
     "slug": "tampa-bay-fisheries",
     "name": "Tampa Bay Fisheries",
-    "address": "3060 N. Gallagher Rd. \n  Dover, FL 33527",
+    "address": "3060 N. Gallagher Rd. \n  Dover, FL\n     33527",
     "telephone": "(813) 752-8883",
-    "grant_date": "2017-12-27",
+    "grant_date": "2020-09-11",
     "activities": [
       "Meat Processing",
       "Poultry Processing"

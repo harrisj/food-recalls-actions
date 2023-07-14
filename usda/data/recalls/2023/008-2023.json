@@ -9,15 +9,15 @@
   "risk_level": "High",
   "start_date": "2023-03-17",
   "end_date": null,
-  "summary": "WASHINGTON, March 17, 2023 \u2013 Hoyo, SBC, a Bloomington, Minn. establishment, is recalling approximately 1,046 pounds of ready-to-eat beef sambusa products that may be contaminated with extraneous materials, specifically thin, wire-like metal, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today...",
+  "summary": "  WASHINGTON, March 17, 2023 \u2013 Hoyo, SBC, a Bloomington, Minn. establishment, is recalling approximately 1,046 pounds of ready-to-eat beef sambusa products that may be contaminated with extraneous materials, specifically thin, wire-like metal, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today...\n\n",
   "establishment": {
     "id": "M47424+P47424",
     "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/hoyo-sbc",
     "slug": "hoyo-sbc",
     "name": "Hoyo, SBC",
-    "address": "9600 Aldrich Ave S. \n  Bloomington, MN 55420",
+    "address": "9600 Aldrich Ave S. \n  Bloomington, MN\n     55420",
     "telephone": "(785) 479-0370",
-    "grant_date": "2021-04-16",
+    "grant_date": "2021-09-24",
     "activities": [
       "Meat Processing",
       "Poultry Processing"

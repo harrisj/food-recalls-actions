@@ -10,15 +10,15 @@
   "risk_level": "High",
   "start_date": "2023-02-16",
   "end_date": "2023-04-13",
-  "summary": "WASHINGTON, Feb. 16, 2023 \u2013 Whitson\u2019s Food Service (Bronx) Corp., an Islandia, N.Y., establishment, is recalling approximately 8,713 pounds of frozen, ready-to-cook chicken alfredo with broccoli and penne pasta meals due to misbranding and undeclared allergens, the U.S. Department of Agriculture\u2019s Food Safety and Inspection...\n",
+  "summary": " WASHINGTON, Feb. 16, 2023 \u2013 Whitson\u2019s Food Service (Bronx) Corp., an Islandia, N.Y., establishment, is recalling approximately 8,713 pounds of frozen, ready-to-cook chicken alfredo with broccoli and penne pasta meals due to misbranding and undeclared allergens, the U.S. Department of Agriculture\u2019s Food Safety and Inspection...\n",
   "establishment": {
     "id": "M32073+P32073",
     "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/whitsons-food-service-bronx-corp.",
     "slug": "whitsons-food-service-bronx-corp",
     "name": "Whitsons Food Service (Bronx) Corp.",
-    "address": "1800 Motor Parkway \n  Islandia, NY 11749",
+    "address": "1800 Motor Parkway \n  Islandia, NY\n     11749",
     "telephone": "(631) 424-2700",
-    "grant_date": "2021-11-04",
+    "grant_date": "2021-12-03",
     "activities": [
       "Meat Processing",
       "Poultry Processing"

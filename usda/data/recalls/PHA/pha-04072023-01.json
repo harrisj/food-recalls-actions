@@ -9,15 +9,15 @@
   "risk_level": null,
   "start_date": "2023-04-07",
   "end_date": null,
-  "summary": "WASHINGTON, April 7, 2023 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for ready-to-eat (RTE) fresh salad products with chicken and ham that contain Food and Drug Administration (FDA) regulated lettuce that has been recalled...\n",
+  "summary": " WASHINGTON, April 7, 2023 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for ready-to-eat (RTE) fresh salad products with chicken and ham that contain Food and Drug Administration (FDA) regulated lettuce that has been recalled...\n",
   "establishment": {
     "id": "M17050+P17050",
     "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/russ-commissary",
     "slug": "russ-commissary",
     "name": "Russ' Commissary",
-    "address": "3440 128th Avenue \n  Holland, MI 49424",
+    "address": "3440 128th Avenue \n  Holland, MI\n     49424",
     "telephone": "(616) 399-7084",
-    "grant_date": "2011-03-22",
+    "grant_date": "2013-05-09",
     "activities": [
       "Meat Processing",
       "Poultry Processing"
