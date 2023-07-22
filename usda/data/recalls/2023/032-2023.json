@@ -1,0 +1,23 @@
+{
+  "id": "032-2023",
+  "title": "Nuevo Garcia Foods, LLC Recalls Fully Cooked Pulled Pork Product Due to Misbranding and Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/nuevo-garcia-foods-llc-recalls-fully-cooked-pulled-pork-product-due-misbranding-and",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": "Low",
+  "start_date": "2023-07-21",
+  "end_date": null,
+  "summary": "  WASHINGTON, July 21, 2023 \u2013 Nuevo Garcia Foods, LLC, a San Antonio, Texas establishment, is recalling approximately 4,784 pounds of pulled pork product due to misbranding and an undeclared allergen, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The product...\n\n",
+  "establishment": null,
+  "impacted_products": [
+    "\u2022\t2-lb. packages containing \u201cH-E-B SMOKEHOUSE FULLY COOKED SMOKED SEASONED PULLED PORK WITH BBQ SAUCE\u201d with lot code \u201c3135\u201d represented on the label, and Best By Dates 8/18/2023, 8/25/2023, and 9/1/2023."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Texas"
+  ]
+}
