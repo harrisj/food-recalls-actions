@@ -10,7 +10,7 @@
   "risk_level": "High",
   "start_date": "2023-07-01",
   "end_date": null,
-  "summary": "  WASHINGTON, July 1, 2023 \u2013 Perdue Premium Meat Company, Inc., doing business as Alexander & Hornung, a Saint Clair Shores, Mich., establishment, is recalling approximately 3,204 pounds of fully cooked beef wiener products due to misbranding and undeclared allergens, the U.S. Department of Agriculture\u2019s Food...\n\n",
+  "summary": "  EDITOR\u2019S NOTE: July 31, 2023 \u2013 Details of this recall were updated to reflect the addition of 180 pounds of product subject to recall and distribution of products to the states of Michigan, New York and Pennsylvania. Food bank recipients in Michigan are being directly...\n\n",
   "establishment": {
     "id": "M10125+P10125",
     "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/perdue-premium-meat-company-inc.",
@@ -30,6 +30,9 @@
   "quantity_recovered": null,
   "quantity_unit": null,
   "states": [
-    "Ohio"
+    "Michigan",
+    "New York",
+    "Ohio",
+    "Pennsylvania"
   ]
 }
