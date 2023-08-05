@@ -1,0 +1,34 @@
+{
+  "id": "PHA-08042023-01",
+  "title": "FSIS Issues Public Health Alert for Raw Beef Product Due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-raw-beef-product-due-possible-foreign-matter",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2023-08-04",
+  "end_date": null,
+  "summary": " WASHINGTON, Aug. 4, 2023 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert due to concerns of a raw beef product that may be contaminated with extraneous material, specifically soft, clear plastic. FSIS is issuing this...\n",
+  "establishment": {
+    "id": "M85M+P85M",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/cargill-meat-solutions-1",
+    "slug": "cargill-meat-solutions-1",
+    "name": "Cargill Meat Solutions",
+    "address": "3555 West Arrow St \n  Marshall, MO\n     65340",
+    "telephone": "(316) 291-2500",
+    "grant_date": "2020-09-11",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022\tApproximately 1.5-lb. plastic tray packages containing \u201cUSDA CHOICE BLACK ANGUS BEEF FROM ALDI, BEEF FOR CARNE PICADA\u201d with a \u201cUse or Freeze by\u201d date of Aug. 22, 2023, Julian Date 206, and time stamp between 08:43 through 09:23."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Nationwide"
+  ]
+}
