@@ -1,0 +1,35 @@
+{
+  "id": "035-2023",
+  "title": "Day-Lee Foods Inc. Recalls Frozen Ready-To-Eat Poultry Products Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/day-lee-foods-inc--recalls-frozen-ready-eat-poultry-products-due-misbranding-and",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2023-08-05",
+  "end_date": null,
+  "summary": " WASHINGTON, Aug. 5, 2023 \u2013 Day-Lee Foods Inc., a Santa Fe Springs, Calif., establishment, is recalling approximately 10,511 pounds of frozen ready-to-eat (RTE) chicken potsticker products due to misbranding and undeclared allergens, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today...\n",
+  "establishment": {
+    "id": "M17309+P17309",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/day-lee-foods-inc.",
+    "slug": "day-lee-foods-inc",
+    "name": "Day-Lee Foods Inc.",
+    "address": "13055 E. Molette Street \n  Santa Fe Springs, CA\n     90670",
+    "telephone": "(562) 802-6800",
+    "grant_date": "2021-07-23",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022\t20-oz. Box packages containing \u201cRESTAURANT QUALITY AT HOME Crazy Cuizine Chicken POTSTICKERS ASIAN STYLE GYOZA DUMPLINGS WITH DIPPING SAUCE\u201d with a \u201cUse by\u201d date of 12 14 2024."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "California"
+  ]
+}
