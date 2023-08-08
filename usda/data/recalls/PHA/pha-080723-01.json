@@ -1,0 +1,24 @@
+{
+  "id": "PHA-080723-01",
+  "title": "FSIS Issues Public Health Alert for Fresh Salads  and Wraps with Meat and Poultry due to  Possible Lettuce Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-fresh-salads-and-wraps-meat-and-poultry-due-possible",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2023-08-07",
+  "end_date": null,
+  "summary": "  WASHINGTON, Aug. 7, 2023 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert due to concerns that ready-to-eat (RTE) salads and wraps with meat and poultry may contain contaminated lettuce. The lettuce, which is regulated by...\n\n",
+  "establishment": null,
+  "impacted_products": [
+    "\u2022\t8.65-oz. plastic film packages containing \u201cChicken Caesar Wrap FRESH SEASONS Kitchen\u201d with lot code 21323 and 21423 and Sell by dates of 8/9/2023 and 8/10/2023.",
+    "\u2022\t7.2-oz. plastic film packages containing \u201cChicken Caesar Wrap FRESH SEASONS Kitchen\u201d with lot code 21323 and Fresh Thru date of 8/10/2023. ",
+    "\u2022\t8.5-oz. plastic clam shell packages containing \u201cChicken Caesar Salad FRESH SEASONS Kitchen\u201d with lot code 21323 and Fresh Thru date of 8/9/2023.",
+    "\u2022\t8.55-oz. plastic clam shell packages containing \u201cChef Salad FRESH SEASONS Kitchen\u201d with lot codes 21323 and 21423 and Sell by dates of 8/9/2023 and 8/10/2023.",
+    "  \u2022\t5.85-oz. plastic clam shell packages containing \u201cBacon, Lettuce and Tomato Salad FRESH SEASONS Kitchen\u201d with lot codes 21323 and 21423 and Sell by dates of 8/9/2023 and 8/10/2023. "
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}
