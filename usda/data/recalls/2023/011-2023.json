@@ -5,10 +5,10 @@
   "reasons": [
     "Product Contamination"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2023-03-24",
-  "end_date": null,
+  "end_date": "2023-08-18",
   "summary": " WASHINGTON, March 24, 2023 \u2013 Elkhorn Valley Packing, a Harper, Kan. establishment, is recalling approximately 3,436 pounds of boneless beef chuck product that may be contaminated with Shiga toxin-producing E. coli (STEC) O103, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced...\n",
   "establishment": {
     "id": "M19549",
