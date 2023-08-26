@@ -1,0 +1,38 @@
+{
+  "id": "PHA-082523-02",
+  "title": "FSIS Issues Public Health Alert for Wegmans Jamaican Jerk Style Chicken Products Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-wegmans-jamaican-jerk-style-chicken-products-due",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2023-08-25",
+  "end_date": null,
+  "summary": " WASHINGTON, Aug. 25, 2023 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for Wegmans Jamaican Jerk-style, raw, marinated chicken products due to misbranding and undeclared allergens. The marinade in the chicken products may contain milk...\n",
+  "establishment": {
+    "id": "M7567+P7567",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/wegmans-food-markets",
+    "slug": "wegmans-food-markets",
+    "name": "Wegmans Food Markets",
+    "address": "360 Wegmans Market Street \n  Rochester, NY\n     14624",
+    "telephone": "",
+    "grant_date": "2016-01-20",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022 1-lb. vacuum-packed plastic packages containing \u201cWegmans jamaican jerk style Chicken Thighs\u201d with a use by date of \u201c9/6/23.\u201d ",
+    "\u2022 1-lb. vacuum-packed plastic packages containing \u201cWegmans jamaican jerk style Chicken Breast Cutlets\u201d with a use by date of \u201c9/6/23.\u201d"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Massachusetts",
+    "New York",
+    "Pennsylvania"
+  ]
+}

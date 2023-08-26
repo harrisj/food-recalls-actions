@@ -1,0 +1,36 @@
+{
+  "id": "PHA-082523-01",
+  "title": "FSIS Issues Public Health Alert for Shoprite Brand  Bowl & Basket Chicken Noodle Soup Due to  Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-shoprite-brand-bowl-basket-chicken-noodle-soup-due",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2023-08-25",
+  "end_date": null,
+  "summary": " WASHINGTON, Aug. 25, 2023 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for fresh, fully cooked, ready-to-eat (RTE) ShopRite brand chicken noodle soup products due to misbranding and undeclared allergens. The product labeled as chicken...\n",
+  "establishment": {
+    "id": "M18468+P18468",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/kettle-cuisine-midco-llc",
+    "slug": "kettle-cuisine-midco-llc",
+    "name": "Kettle Cuisine Midco, LLC",
+    "address": "330 Lynnway \n  Lynn, MA\n     01901",
+    "telephone": "",
+    "grant_date": "2021-08-16",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022 20-oz. plastic cups labeled \u201cA SHOPRITE BRAND bowl & basket CHICKEN NOODLE soup\u201d with a use by date of \u201c09/23/23.\u201d "
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "New Jersey",
+    "New York"
+  ]
+}

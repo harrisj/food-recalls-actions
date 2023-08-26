@@ -6,10 +6,77 @@
 <meta content="https://www.fsis.usda.gov/sites/default/files/2021-03/MicrosoftTeams-image.png" property="og:image:url"/>
 <meta content="https://www..fsis.usda.gov/sites/default/files/2021-03/MicrosoftTeams-image.png" property="og:image:secure_url"/>
 <meta content="image/png" property="og:image:type"/>
-<meta content="Drupal 9 (https://www.drupal.org)" name="Generator"/>
+<meta content="Drupal 10 (https://www.drupal.org)" name="Generator"/>
 <meta content="width" name="MobileOptimized"/>
 <meta content="true" name="HandheldFriendly"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<script data-toolbar-anti-flicker-loading="" type="text/javascript">(function() {
+  const toolbarState = sessionStorage.getItem('Drupal.toolbar.toolbarState')
+    ? JSON.parse(sessionStorage.getItem('Drupal.toolbar.toolbarState'))
+    : false;
+  // These are classes that toolbar typically adds to <body>, but this code
+  // executes before the first paint, when <body> is not yet present. The
+  // classes are added to <html> so styling immediately reflects the current
+  // toolbar state. The classes are removed after the toolbar completes
+  // initialization.
+  const classesToAdd = ['toolbar-loading', 'toolbar-anti-flicker'];
+  if (toolbarState) {
+    const {
+      orientation,
+      hasActiveTab,
+      isFixed,
+      activeTray,
+      activeTabId,
+      isOriented,
+      userButtonMinWidth
+    } = toolbarState;
+
+    classesToAdd.push(
+      orientation ? `toolbar-` + orientation + `` : 'toolbar-horizontal',
+    );
+    if (hasActiveTab !== false) {
+      classesToAdd.push('toolbar-tray-open');
+    }
+    if (isFixed) {
+      classesToAdd.push('toolbar-fixed');
+    }
+    if (isOriented) {
+      classesToAdd.push('toolbar-oriented');
+    }
+
+    if (activeTray) {
+      // These styles are added so the active tab/tray styles are present
+      // immediately instead of "flickering" on as the toolbar initializes. In
+      // instances where a tray is lazy loaded, these styles facilitate the
+      // lazy loaded tray appearing gracefully and without reflow.
+      const styleContent = `
+      .toolbar-loading #` + activeTabId + ` {
+        background-image: linear-gradient(rgba(255, 255, 255, 0.25) 20%, transparent 200%);
+      }
+      .toolbar-loading #` + activeTabId + `-tray {
+        display: block; box-shadow: -1px 0 5px 2px rgb(0 0 0 / 33%);
+        border-right: 1px solid #aaa; background-color: #f5f5f5;
+        z-index: 0;
+      }
+      .toolbar-loading.toolbar-vertical.toolbar-tray-open #` + activeTabId + `-tray {
+        width: 15rem; height: 100vh;
+      }
+     .toolbar-loading.toolbar-horizontal :not(#` + activeTray + `) > .toolbar-lining {opacity: 0}`;
+
+      const style = document.createElement('style');
+      style.textContent = styleContent;
+      style.setAttribute('data-toolbar-anti-flicker-loading', true);
+      document.querySelector('head').appendChild(style);
+
+      if (userButtonMinWidth) {
+        const userButtonStyle = document.createElement('style');
+        userButtonStyle.textContent = `#toolbar-item-user {min-width: ` + userButtonMinWidth +`px;}`
+        document.querySelector('head').appendChild(userButtonStyle);
+      }
+    }
+  }
+  document.querySelector('html').classList.add(...classesToAdd);
+})();</script>
 <meta content="ie=edge" http-equiv="x-ua-compatible"/>
 <link href="http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/kettle-cuisine-midco-llc" hreflang="en" rel="alternate"/>
 <title>Kettle Cuisine Midco, LLC | Food Safety and Inspection Service</title>
@@ -17,10 +84,11 @@
 <link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
 <link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
 <link href="/site.webmanifest" rel="manifest"/>
-<link href="/sites/default/files/css/css_Bi1afIeVPcb-oQKL9lNZE3NSQKfGQEqfOzmKmtyzYdA.css" media="all" rel="stylesheet">
-<link href="/sites/default/files/css/css_AxcN0F6NIOiwZSyTki15yieZX96EWIohMvT9lWMisJA.css" media="all" rel="stylesheet">
+<link href="/sites/default/files/css/css_EdhLlb4Oni2nCHRl41jc6RsHb2uyt7XE3aSdRoc7tfY.css?delta=0&amp;language=en&amp;theme=uswds&amp;include=eJxtj1EKg0AMRC-0NUdashqX1Ghsslu1p--i0I_izzDwHgOTeEeJrlbiyFLIIKFTGJ0diqoktEfvHvzwQvMFezWCWQeyhT8Wqm-DQxZNKCGrZqFYMENucbmD1RWlW02zURv7kzp84h7eTJvDmV0br0LhVbmfhJcJfi3ywuUWrCpHuyB38AtmN1oj" media="all" rel="stylesheet">
+<link href="/sites/default/files/css/css_nR0ocx485ZUyr-GcnMZHKaj4gZ7cMrS9Gs7ZcBBU6Vk.css?delta=1&amp;language=en&amp;theme=uswds&amp;include=eJxtj1EKg0AMRC-0NUdashqX1Ghsslu1p--i0I_izzDwHgOTeEeJrlbiyFLIIKFTGJ0diqoktEfvHvzwQvMFezWCWQeyhT8Wqm-DQxZNKCGrZqFYMENucbmD1RWlW02zURv7kzp84h7eTJvDmV0br0LhVbmfhJcJfi3ywuUWrCpHuyB38AtmN1oj" media="all" rel="stylesheet">
+<link href="/sites/default/files/css/css_grccFuIn3LsPHiPq8um0qhHcT7K0TBghaAogoaZMp60.css?delta=2&amp;language=en&amp;theme=uswds&amp;include=eJxtj1EKg0AMRC-0NUdashqX1Ghsslu1p--i0I_izzDwHgOTeEeJrlbiyFLIIKFTGJ0diqoktEfvHvzwQvMFezWCWQeyhT8Wqm-DQxZNKCGrZqFYMENucbmD1RWlW02zURv7kzp84h7eTJvDmV0br0LhVbmfhJcJfi3ywuUWrCpHuyB38AtmN1oj" media="print" rel="stylesheet">
+<link href="/sites/default/files/css/css_BB9gEovp44Wr9oew4rJcTf_K5QX6tiMVdtX9LAfS2Tc.css?delta=3&amp;language=en&amp;theme=uswds&amp;include=eJxtj1EKg0AMRC-0NUdashqX1Ghsslu1p--i0I_izzDwHgOTeEeJrlbiyFLIIKFTGJ0diqoktEfvHvzwQvMFezWCWQeyhT8Wqm-DQxZNKCGrZqFYMENucbmD1RWlW02zURv7kzp84h7eTJvDmV0br0LhVbmfhJcJfi3ywuUWrCpHuyB38AtmN1oj" media="all" rel="stylesheet">
 <script src="/themes/uswds/js/libraries/modernizr.min.js?v=3.11.7"></script>
-<script src="/core/misc/modernizr-additional-tests.js?v=3.11.7"></script>
 <!-- Analytics this part is in head-->
 <script id="_fed_an_ua_tag" language="javascript" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=USDA&amp;subagency=FSIS&amp;sp=lookup,locate&amp;exts=pdf,xls,zip,jpg,gif,mp3&amp;dclink=true"></script>
 <script type="text/JavaScript">
@@ -53,7 +121,7 @@
         })();
 
       </script>
-</link></link></head><div class="l-sidebar__main">
+</link></link></link></link></head><div class="l-sidebar__main">
 <section class="introduction">
 <h1 class="introduction__title">Kettle Cuisine Midco, LLC</h1> </section>
 <div class="has-bottom-border l-grid l-grid--2col">
@@ -63,7 +131,7 @@
 </div>
 <div class="meta">
 <span class="meta__label">Telephone</span>
-<span class="meta__value"><a href="tel:%28617%29409-1100">(617) 409-1100</a></span>
+<span class="meta__value"></span>
 </div>
 <div class="meta">
 <span class="meta__label">Establishment Title/Name</span>
@@ -71,23 +139,62 @@
 </div>
 <div class="meta">
 <span class="meta__label">Grant Date</span>
-<span class="meta__value">Sep 14, 2015</span>
+<span class="meta__value">Aug 16, 2021</span>
 </div>
 <div class="meta">
 <span class="meta__label">Address</span>
 <span class="meta__value">  330 Lynnway <br/>
-  Lynn, MA 1901
+  Lynn, MA
+     01901
+  
 </span>
 </div>
 <div class="meta">
 <span class="meta__label">Activities</span>
 <span class="meta__value">Meat Processing,  Poultry Processing</span>
 </div>
-</div>
-<div class="view view--recalls-by-establishment view--display-default js-view-dom-id-14289921783f9b337b18187b3f241133f18d13e38434a1d27b64ea9f0e7bb4fe view-listing">
+<div class="meta">
+<span class="meta__label">DBAS</span>
+<span class="meta__value">
+</span>
+</div> </div>
+<div class="view view--recalls-by-establishment view--display-default js-view-dom-id-5b96197f27c878ac3616f267d2431e0a3694d316e25eecf83b092c64f9d7bb21 view-listing">
 <div class="view__sidebar">
 <div class="view__main">
 <div class="view__content">
+<div class="view__row">
+<section class="recall-teaser">
+<div class="recall-teaser__grid recall-teaser__grid--2col">
+<div class="recall-teaser__left">
+<div class="recall-teaser__tags"> <span class="tag tag--active">PHA-082523-01</span>
+<a class="tag tag--public health alert" href="/taxonomy/term/555">Public Health Alert</a>
+<a class="tag tag--reason" href="/taxonomy/term/13">Misbranding</a>
+<a class="tag tag--reason" href="/taxonomy/term/15">Mislabeling</a>
+<a class="tag tag--reason" href="/taxonomy/term/14">Unreported Allergens</a>
+</div>
+<h3 class="recall-teaser__title"><a href="/recalls-alerts/fsis-issues-public-health-alert-shoprite-brand-bowl-basket-chicken-noodle-soup-due">FSIS Issues Public Health Alert for Shoprite Brand  Bowl &amp; Basket Chicken Noodle Soup Due to  Misbranding and Undeclared Allergens</a></h3>
+<span class="recall-teaser__establishment"><a href="/inspection/fsis-inspected-establishments/kettle-cuisine-midco-llc" hreflang="en">Kettle Cuisine Midco, LLC</a></span>
+</div>
+<div class="recall-teaser__right">
+<div class="recall-teaser__status">
+<span class="tag tag--active">Active</span>
+</div>
+<div class="recall-teaser__date">
+        Fri, 08/25/2023 - Current      </div>
+<div class="recall-teaser__states">
+          New Jersey, New York
+        </div>
+</div>
+</div>
+<div class="recall-teaser__summary"> <p>WASHINGTON, Aug. 25, 2023 – The U.S. Department of Agriculture’s Food Safety and Inspection Service (FSIS) is issuing a public health alert for fresh, fully cooked, ready-to-eat (RTE) ShopRite brand chicken noodle soup products due to misbranding and undeclared allergens. The product labeled as chicken...</p>
+</div>
+<div class="recall-teaser__products">
+<h5>Impacted Products</h5>
+<span>• 20-oz. plastic cups labeled “A SHOPRITE BRAND bowl &amp; basket CHICKEN NOODLE soup” with a use by date of “09/23/23.” </span>
+</div>
+<div class="recall-teaser__language"></div>
+</section>
+</div>
 <div class="view__row">
 <section class="recall-teaser">
 <div class="recall-teaser__grid recall-teaser__grid--2col">
@@ -111,7 +218,7 @@
         </div>
 </div>
 </div>
-<div class="recall-teaser__summary"><p>Kettle Cuisine Midco, LLC, a Lynn, Mass. establishment, is recalling approximately 200 pounds of ready-to-eat (RTE) lentil and beef soup products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products contain egg and...</p>
+<div class="recall-teaser__summary"> <p>Kettle Cuisine Midco, LLC, a Lynn, Mass. establishment, is recalling approximately 200 pounds of ready-to-eat (RTE) lentil and beef soup products due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The products contain egg and...</p>
 </div>
 <div class="recall-teaser__products">
 <h5>Impacted Products</h5>
@@ -152,7 +259,7 @@
         </div>
 </div>
 </div>
-<div class="recall-teaser__summary"><p>WASHINGTON, Jan. 12, 2017 Kettle Cuisine, LLC, a Lynn, Mass. establishment, is recalling approximately 3,096 pounds of chicken soup product due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The label declares the product to...</p>
+<div class="recall-teaser__summary"> <p>WASHINGTON, Jan. 12, 2017 Kettle Cuisine, LLC, a Lynn, Mass. establishment, is recalling approximately 3,096 pounds of chicken soup product due to misbranding and undeclared allergens, the U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) announced today. The label declares the product to...</p>
 </div>
 <div class="recall-teaser__products">
 <h5>Impacted Products</h5>
