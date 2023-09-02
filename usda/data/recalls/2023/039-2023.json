@@ -1,0 +1,40 @@
+{
+  "id": "039-2023",
+  "title": "Hillshire Brands Company Recalls Smoked Sausage Products Due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/hillshire-brands-company-recalls-smoked-sausage-products-due-possible-foreign-matter",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2023-09-02",
+  "end_date": null,
+  "summary": "  WASHINGTON, Sept. 2, 2023 - Hillshire Brands Company, a St. Joseph, Mo. establishment, is recalling approximately 15,876 pounds of blended meat and poultry smoked sausage products that may be contaminated with extraneous materials, specifically bone fragments, the U.S. Department of Agriculture's Food Safety and Inspection...\n\n",
+  "establishment": {
+    "id": "M756A+P8740A",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/hillshire-brands-company-1",
+    "slug": "hillshire-brands-company-1",
+    "name": "The Hillshire Brands Company",
+    "address": "5807 Mitchell Ave \n  St Joseph, MO\n     64507",
+    "telephone": "(660) 463-3401",
+    "grant_date": "2019-03-18",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "14-oz. cryovac package containing one rope of \"HILLSHIRE FARM SMOKED SAUSAGE MADE WITH PORK, TURKEY, BEEF\" with lot codes in the form of the establishment number, line number and time of production in hours:minutes:seconds, \"EST. 756A 20 19:00:00 through "
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "California",
+    "Maryland",
+    "New Mexico",
+    "New York",
+    "North Carolina",
+    "Pennsylvania",
+    "Virginia"
+  ]
+}
