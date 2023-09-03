@@ -1,0 +1,34 @@
+{
+  "id": "040-2023",
+  "title": "ConAgra Brands Inc. Recalls Banquet Brand Frozen Chicken Strips Entree Due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/conagra-brands-inc--recalls-banquet-brand-frozen-chicken-strips-entree-due-possible",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2023-09-02",
+  "end_date": null,
+  "summary": "  WASHINGTON, Sept. 2, 2023 - Conagra Brands, Inc, a Marshall, Mo. establishment, is recalling approximately 245,366 pounds of frozen chicken strips entree products that may be contaminated with extraneous materials, specifically pieces of plastic, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS)...\n\n",
+  "establishment": {
+    "id": "M1059+P9",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/conagra-brands-inc.-6",
+    "slug": "conagra-brands-inc-6",
+    "name": "ConAgra Brands, Inc.",
+    "address": "200 Banquet Drive \n  Marshall, MO\n     65340",
+    "telephone": "(660) 886-3301",
+    "grant_date": "2017-02-17",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "8.9-oz. carton containing one entree of \"BANQUET CHICKEN STRIPS MEAL\" with best if used by \"DEC 11 2024,\" \"JAN 01 2025,\" or \"JAN 07 2025\" and lot numbers 5009317120, 5009319220, or 5009319820 located on the side of the carton."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Nationwide"
+  ]
+}
