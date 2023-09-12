@@ -26,8 +26,8 @@
   "impacted_products": [
     "\u2022\t30-lb. case of \u201cCHILI WITH BEANS\u201d containing six 5-lb. boilable bags of \u201cCP5309 CHILI WITH BEANS\u201d with lot code 23058 printed on the bag, and \u201cFebruary 27, 2023\u201d and lot code 23058 printed on the case."
   ],
-  "quantity_recovered": 13840,
-  "quantity_unit": "pounds",
+  "quantity_recovered": null,
+  "quantity_unit": null,
   "states": [
     "California",
     "Massachusetts",
