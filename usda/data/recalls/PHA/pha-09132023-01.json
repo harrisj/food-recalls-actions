@@ -1,0 +1,41 @@
+{
+  "id": "PHA-09132023-01",
+  "title": "FSIS Issues Public Health Alert for Kirkland Signature Chicken Tortilla Soup Product Due to Misbranding",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-kirkland-signature-chicken-tortilla-soup-product-due",
+  "reasons": [
+    "Misbranding"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2023-09-13",
+  "end_date": null,
+  "summary": "  WASHINGTON, Sept. 13, 2023 - The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) is issuing a public health alert for a ready-to-eat (RTE) Kirkland Signature chicken tortilla soup product due to misbranding. The label declares the product as gluten-free, a false negative...\n\n",
+  "establishment": {
+    "id": "M18468+P18468",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/kettle-cuisine-midco-llc",
+    "slug": "kettle-cuisine-midco-llc",
+    "name": "Kettle Cuisine Midco, LLC",
+    "address": "330 Lynnway \n  Lynn, MA\n     01901",
+    "telephone": "",
+    "grant_date": "2021-08-16",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022\t2-lb. tubs containing \u201cKIRKLAND Signature CHICKEN TORTILLA SOUP WITH WHITE CHICKEN MEAT\u201d with \u201cUSE BY: 11/23/23\u201d and lot code 1394066 printed on the side of the cup just below the lip. "
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Alabama",
+    "California",
+    "Idaho",
+    "Montana",
+    "Nevada",
+    "Oregon",
+    "Utah",
+    "Washington"
+  ]
+}
