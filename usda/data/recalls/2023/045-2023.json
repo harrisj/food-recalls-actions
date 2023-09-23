@@ -1,0 +1,41 @@
+{
+  "id": "045-2023",
+  "title": "Green Valley Foods Recalls Frozen Meat Pizza Products Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/green-valley-foods-recalls-frozen-meat-pizza-products-due-misbranding-and-undeclared",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": "Low",
+  "start_date": "2023-09-23",
+  "end_date": null,
+  "summary": " WASHINGTON, Sept. 23, 2023 \u2013 Green Valley Foods, a Devils Lake, N.D. establishment, is recalling approximately 4,062 pounds of frozen meat pizza products pounds of due to misbranding and undeclared allergens, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The...\n",
+  "establishment": {
+    "id": "M47285+P47285",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/green-valley-foods",
+    "slug": "green-valley-foods",
+    "name": "Green Valley Foods",
+    "address": "1509 Highway 20 S \n  Devils Lake, ND\n     58301",
+    "telephone": "(701) 662-3300",
+    "grant_date": "2020-08-26",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "22.75-oz. vacuum-sealed packages containing pieces of \u201cGRUBBERPUTZ\u2019S TACO PREMIUM PIZZA Made with Taco Sauce, Refried Beans, Beef, Taco Filling, Cheddar Cheese, Taco Tortilla Chips\u201d.",
+    "24.25-oz. vacuum-sealed packages containing \u201cGRUBBERPUTZ\u2019S 3-MEATER PREMIUM PIZZA Made with Pepperoni, Canadian Style Bacon, Pork Sausage\u201d.",
+    "23.1-oz. vacuum-sealed packages containing \u201cGRUBBERPUTZ\u2019S HOG UNIT PREMIUM PIZZA Made with Canadian Style Bacon, Bacon, Jalapeno Peppers, BBQ Sauce\u201d. ",
+    "24.5-oz. vacuum-sealed packages containing \u201cGRUBBERPUTZ\u2019S HOUSE SPECIAL PREMIUM PIZZA Made with Pepperoni, Pork Sausage, Green Pepper, Red Pepper, Onions, Mushrooms\u201d.",
+    "21.75-oz. vacuum-sealed packages containing \u201cGRUBBERPUTZ\u2019S PEPPERONI PREMIUM PIZZA Pepperoni made with Pork, Beef\u201d. "
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Minnesota",
+    "Montana",
+    "North Dakota"
+  ]
+}
