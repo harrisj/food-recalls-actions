@@ -6,10 +6,10 @@
     "Misbranding",
     "Unreported Allergens"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2023-08-05",
-  "end_date": null,
+  "end_date": "2023-09-29",
   "summary": " EDITOR'S NOTE: August 8, 2023 \u2013 This recall release is being updated to provide a new media contact. Members of the media with questions about the recall can contact Kotaro Fujita, General Manager, Day-Lee Foods, Inc., at (562) 802-6872. WASHINGTON, Aug. 5, 2023 \u2013 Day-Lee...\n",
   "establishment": {
     "id": "M17309+P17309",
@@ -27,8 +27,8 @@
   "impacted_products": [
     "\u2022\t20-oz. Box packages containing \u201cRESTAURANT QUALITY AT HOME Crazy Cuizine Chicken POTSTICKERS ASIAN STYLE GYOZA DUMPLINGS WITH DIPPING SAUCE\u201d with a \u201cUse by\u201d date of 12 14 2024."
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 854,
+  "quantity_unit": "Ibs",
   "states": [
     "California"
   ]

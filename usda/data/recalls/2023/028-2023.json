@@ -5,10 +5,10 @@
   "reasons": [
     "Unfit for Human Consumption"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2023-06-30",
-  "end_date": null,
+  "end_date": "2023-09-29",
   "summary": " WASHINGTON, June 30, 2023 \u2013 House of Raeford, a Nesmith, S.C., establishment, is recalling approximately 76,961 pounds of corn dog products due to possible spoilage, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The mini chicken corn dogs were produced...\n",
   "establishment": {
     "id": "M9136+P9136",
@@ -26,7 +26,7 @@
   "impacted_products": [
     "\u2022\t1.83-lb. resealable bag containing \u201cFOSTER FARMS MINI CORN DOGS BITE-SIZED CHICKEN FRANKS DIPPED IN BATTER HONEY CRUNCHY FLAVOR\u201d with lot codes 123114 and 223114 and best if used by date of 4/23/24."
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 0,
+  "quantity_unit": "Ibs",
   "states": null
 }
