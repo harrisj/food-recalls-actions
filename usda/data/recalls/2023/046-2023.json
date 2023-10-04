@@ -9,7 +9,7 @@
   "risk_level": "High",
   "start_date": "2023-09-25",
   "end_date": null,
-  "summary": "  WASHINGTON, Sept. 25, 2023 \u2013 Del Valle Import and Export, LLC, a distributor and importer located in Kenner, La., is recalling approximately 1,271 pounds of ready-to-eat (RTE) pork chicharrones product that was imported from Honduras, a country ineligible to export pork products to the United...\n\n",
+  "summary": "  EDITOR'S NOTE: October 4, 2023 \u2013 Details of this recall were updated to expand the distribution of the product to retailers in Alabama and Florida. WASHINGTON, Sept. 25, 2023 \u2013 Del Valle Import and Export, LLC, a distributor and importer located in Kenner, La., is...\n\n",
   "establishment": null,
   "impacted_products": [
     "\u2022\t100g foil pouch packages containing \u201cDEL RANCHO CHICHARRONES AUTENTICOS 100% PRODUCTO DE CERDO.\u201d"
@@ -17,6 +17,8 @@
   "quantity_recovered": null,
   "quantity_unit": null,
   "states": [
-    "Texas"
+    "Texas",
+    "Alabama",
+    "Florida"
   ]
 }
