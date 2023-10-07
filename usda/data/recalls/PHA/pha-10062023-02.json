@@ -1,0 +1,34 @@
+{
+  "id": "PHA-10062023-02",
+  "title": "FSIS Issues Public Health Alert for A Ready-To-Eat Stuffed Pepper Soup with Meatballs Product Due to Misbranding and Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-a-ready-eat-stuffed-pepper-soup-meatballs-product",
+  "reasons": [
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2023-10-06",
+  "end_date": null,
+  "summary": " WASHINGTON, Oct. 6, 2023 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for a ready-to-eat (RTE) stuffed pepper soup with meatballs product due to misbranding and undeclared allergen. The product contains egg, a known allergen...\n",
+  "establishment": {
+    "id": "M18019+P18019",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/plenus-group-inc.",
+    "slug": "plenus-group-inc",
+    "name": "Plenus Group Inc.",
+    "address": "101 Phoenix Ave \n  Lowell, MA\n     01852",
+    "telephone": "(978) 970-3832",
+    "grant_date": "2021-07-20",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "32-oz. clear cups of \u201cR KITCHEN Stuffed Pepper Soup with Meatballs\u201d with a Best By: 11/27/23 date and lot code 048480 printed on the lid."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Massachusetts"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "PHA-10062023-01",
+  "title": "FSIS Issues Public Health Alert for Kirkland Signature Ready-To-Eat Ham Products Due to Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-kirkland-signature-ready-eat-ham-products-due",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2023-10-06",
+  "end_date": null,
+  "summary": " WASHINGTON, Oct. 6, 2023 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert due to concerns that ready-to-eat (RTE) ham products produced by Sunnyvalley Smoked Meats, a Manteca, Calif. establishment, may be contaminated with Listeria monocytogenes...\n",
+  "establishment": {
+    "id": "M17823+P17823",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/sunnyvalley-smoked-meats",
+    "slug": "sunnyvalley-smoked-meats",
+    "name": "Sunnyvalley Smoked Meats",
+    "address": "2475 W. Yosemite Ave \n  Manteca, CA\n     95337",
+    "telephone": "(209) 825-0288",
+    "grant_date": "2006-07-31",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "4-lb. (average weight) vacuum-packed clear plastic packages containing \u201cKirkland Signature Applewood Smoked MASTER CARVE HALF HAM Boneless With Natural Juices\u201d with Use / Freeze by date Jan 20 24 and a sticker with lot number 264 - 4."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "California",
+    "Nevada"
+  ]
+}
