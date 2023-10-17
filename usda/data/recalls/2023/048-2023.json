@@ -1,0 +1,30 @@
+{
+  "id": "048-2023",
+  "title": "Mrs. Pasta Recalls Frozen Meat Pasta Products  Produced Without Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/mrs--pasta-recalls-frozen-meat-pasta-products-produced-without-benefit-inspection",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2023-10-16",
+  "end_date": null,
+  "summary": " WASHINGTON, Oct. 16, 2023 \u2013 Mrs. Pasta, a Fort Lauderdale, Fla. establishment, is recalling approximately 4,544 pounds of frozen meat products that were produced without the benefit of federal inspection, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The frozen...\n",
+  "establishment": {
+    "id": "M45764+P45764",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/massimo-umberto-inc",
+    "slug": "massimo-umberto-inc",
+    "name": "Massimo & Umberto, Inc",
+    "address": "132 SW Third Ave \n  Dania Beach, FL\n     33004",
+    "telephone": "(954) 993-0842",
+    "grant_date": "2020-06-22",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "049-2023",
+  "title": "Phu Huong Food Company Recalls Ready-To-Eat Beef and Poultry Meatball Products Due to Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/phu-huong-food-company-recalls-ready-eat-beef-and-poultry-meatball-products-due",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2023-10-16",
+  "end_date": null,
+  "summary": "  WASHINGTON, Oct. 16, 2023 \u2013 Phu Huong Food Company, a Rosemead, Calif. establishment, is recalling approximately 602 pounds of ready-to-eat (RTE) beef and chicken meatball products that may be adulterated with Listeria monocytogenes , the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS)...\n\n",
+  "establishment": {
+    "id": "M7681+P7681",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/phu-huong-food-company-inc.",
+    "slug": "phu-huong-food-company-inc",
+    "name": "Phu Huong Food Company, Inc.",
+    "address": "9008 E. Garvey Ave \n  Rosemead, CA\n     91770",
+    "telephone": "(818) 282-4042",
+    "grant_date": "2021-07-16",
+    "activities": [
+      "Meat Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022\t11-oz. vacuum-sealed packages containing \u201cB\u00d2 VI\u00caN PH\u00d9-H\u01af\u01a0NG G\u00c2N BEEF MEATBALLS (WITH BEEF TENDONS) (Chicken added / C\u00f4 G\u00e1)\u201d with lot codes 200101 through 200124 on a sticker on the back of the package."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}
