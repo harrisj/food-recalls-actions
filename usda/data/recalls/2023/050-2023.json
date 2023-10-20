@@ -1,0 +1,32 @@
+{
+  "id": "050-2023",
+  "title": "Aunt Kitty's Foods Inc. Recalls Canned Ready-to-Eat Chicken Pot Pie Soup Products Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/aunt-kittys-foods-inc--recalls-canned-ready-eat-chicken-pot-pie-soup-products-due",
+  "reasons": [
+    "Misbranding"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2023-10-19",
+  "end_date": null,
+  "summary": " WASHINGTON, Oct. 19, 2023 \u2013 Aunt Kitty's Foods Inc., a Vineland, N.J. establishment, is recalling approximately 15,728 pounds of canned ready-to-eat (RTE) chicken pot pie soup products due to misbranding and undeclared allergens, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced...\n",
+  "establishment": {
+    "id": "M87+P864",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/aunt-kittys-foods-inc",
+    "slug": "aunt-kittys-foods-inc",
+    "name": "Aunt Kitty's Foods Inc",
+    "address": "270 North Mill Road \n  Vineland, NJ\n     08360",
+    "telephone": "",
+    "grant_date": "2017-01-10",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022\t15-oz. metal cans containing \u201cHANOVER SOUP CLASSICS Chicken Pot Pie\u201d with lot code P864 4893 23241950 and \u201cBEST BY SEP 2026\u201d both printed on top of the can."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}

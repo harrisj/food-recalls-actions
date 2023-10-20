@@ -1,0 +1,25 @@
+{
+  "id": "051-2023",
+  "title": "East Coast Food Distributors, Inc. Recalls Ineligible Pork Chicharrones Products Imported from Colombia",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/east-coast-food-distributors-inc--recalls-ineligible-pork-chicharrones-products",
+  "reasons": [
+    "Import Violation"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2023-10-19",
+  "end_date": null,
+  "summary": " WASHINGTON, Oct. 19, 2023 \u2013 East Coast Food Distributors, Inc., the importer of record located in Hudson, N.H., is recalling approximately 7,767 pounds of pork chicharrones products. The products were imported from Colombia, a country ineligible to export meat products to the United States, the...\n",
+  "establishment": null,
+  "impacted_products": [
+    "\u2022\t165-g foil pouch packages containing \u201cDe Todito BBQ PARA COMPARTIR\u201d and UPC code 7702189057624.",
+    "\u2022\t45-g foil pouch packages containing \u201cDe Todito BBQ\u201d and UPC code 7702189019646.",
+    "\u2022\t165-g foil pouch packages containing \u201cDe Todito NATURAL PARA COMPARTIR\u201d and UPC code 7702189057617.",
+    "\u2022\t45-g foil pouch packages containing \u201cDe Todito NATURAL\u201d and UPC code 7702189019707.  ",
+    "  \u2022\t165-g foil pouch packages containing \u201cDe Todito LIM\u00d3N PARA COMPARTIR.\u201d",
+    "\u2022\t45-g foil pouch packages containing \u201cDe Todito LIM\u00d3N.\u201d"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}
