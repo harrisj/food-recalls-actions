@@ -10,73 +10,6 @@
 <meta content="width" name="MobileOptimized"/>
 <meta content="true" name="HandheldFriendly"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<script data-toolbar-anti-flicker-loading="" type="text/javascript">(function() {
-  const toolbarState = sessionStorage.getItem('Drupal.toolbar.toolbarState')
-    ? JSON.parse(sessionStorage.getItem('Drupal.toolbar.toolbarState'))
-    : false;
-  // These are classes that toolbar typically adds to <body>, but this code
-  // executes before the first paint, when <body> is not yet present. The
-  // classes are added to <html> so styling immediately reflects the current
-  // toolbar state. The classes are removed after the toolbar completes
-  // initialization.
-  const classesToAdd = ['toolbar-loading', 'toolbar-anti-flicker'];
-  if (toolbarState) {
-    const {
-      orientation,
-      hasActiveTab,
-      isFixed,
-      activeTray,
-      activeTabId,
-      isOriented,
-      userButtonMinWidth
-    } = toolbarState;
-
-    classesToAdd.push(
-      orientation ? `toolbar-` + orientation + `` : 'toolbar-horizontal',
-    );
-    if (hasActiveTab !== false) {
-      classesToAdd.push('toolbar-tray-open');
-    }
-    if (isFixed) {
-      classesToAdd.push('toolbar-fixed');
-    }
-    if (isOriented) {
-      classesToAdd.push('toolbar-oriented');
-    }
-
-    if (activeTray) {
-      // These styles are added so the active tab/tray styles are present
-      // immediately instead of "flickering" on as the toolbar initializes. In
-      // instances where a tray is lazy loaded, these styles facilitate the
-      // lazy loaded tray appearing gracefully and without reflow.
-      const styleContent = `
-      .toolbar-loading #` + activeTabId + ` {
-        background-image: linear-gradient(rgba(255, 255, 255, 0.25) 20%, transparent 200%);
-      }
-      .toolbar-loading #` + activeTabId + `-tray {
-        display: block; box-shadow: -1px 0 5px 2px rgb(0 0 0 / 33%);
-        border-right: 1px solid #aaa; background-color: #f5f5f5;
-        z-index: 0;
-      }
-      .toolbar-loading.toolbar-vertical.toolbar-tray-open #` + activeTabId + `-tray {
-        width: 15rem; height: 100vh;
-      }
-     .toolbar-loading.toolbar-horizontal :not(#` + activeTray + `) > .toolbar-lining {opacity: 0}`;
-
-      const style = document.createElement('style');
-      style.textContent = styleContent;
-      style.setAttribute('data-toolbar-anti-flicker-loading', true);
-      document.querySelector('head').appendChild(style);
-
-      if (userButtonMinWidth) {
-        const userButtonStyle = document.createElement('style');
-        userButtonStyle.textContent = `#toolbar-item-user {min-width: ` + userButtonMinWidth +`px;}`
-        document.querySelector('head').appendChild(userButtonStyle);
-      }
-    }
-  }
-  document.querySelector('html').classList.add(...classesToAdd);
-})();</script>
 <meta content="ie=edge" http-equiv="x-ua-compatible"/>
 <link href="http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/green-bay-dressed-beef-llc-1" hreflang="en" rel="alternate"/>
 <title>Green Bay Dressed Beef, LLC | Food Safety and Inspection Service</title>
@@ -84,10 +17,10 @@
 <link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
 <link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
 <link href="/site.webmanifest" rel="manifest"/>
-<link href="/sites/default/files/css/css_EdhLlb4Oni2nCHRl41jc6RsHb2uyt7XE3aSdRoc7tfY.css?delta=0&amp;language=en&amp;theme=uswds&amp;include=eJxtj1EKg0AMRC-0NUdashqX1Ghsslu1p--i0I_izzDwHgOTeEeJrlbiyFLIIKFTGJ0diqoktEfvHvzwQvMFezWCWQeyhT8Wqm-DQxZNKCGrZqFYMENucbmD1RWlW02zURv7kzp84h7eTJvDmV0br0LhVbmfhJcJfi3ywuUWrCpHuyB38AtmN1oj" media="all" rel="stylesheet">
-<link href="/sites/default/files/css/css_nR0ocx485ZUyr-GcnMZHKaj4gZ7cMrS9Gs7ZcBBU6Vk.css?delta=1&amp;language=en&amp;theme=uswds&amp;include=eJxtj1EKg0AMRC-0NUdashqX1Ghsslu1p--i0I_izzDwHgOTeEeJrlbiyFLIIKFTGJ0diqoktEfvHvzwQvMFezWCWQeyhT8Wqm-DQxZNKCGrZqFYMENucbmD1RWlW02zURv7kzp84h7eTJvDmV0br0LhVbmfhJcJfi3ywuUWrCpHuyB38AtmN1oj" media="all" rel="stylesheet">
-<link href="/sites/default/files/css/css_grccFuIn3LsPHiPq8um0qhHcT7K0TBghaAogoaZMp60.css?delta=2&amp;language=en&amp;theme=uswds&amp;include=eJxtj1EKg0AMRC-0NUdashqX1Ghsslu1p--i0I_izzDwHgOTeEeJrlbiyFLIIKFTGJ0diqoktEfvHvzwQvMFezWCWQeyhT8Wqm-DQxZNKCGrZqFYMENucbmD1RWlW02zURv7kzp84h7eTJvDmV0br0LhVbmfhJcJfi3ywuUWrCpHuyB38AtmN1oj" media="print" rel="stylesheet">
-<link href="/sites/default/files/css/css_BB9gEovp44Wr9oew4rJcTf_K5QX6tiMVdtX9LAfS2Tc.css?delta=3&amp;language=en&amp;theme=uswds&amp;include=eJxtj1EKg0AMRC-0NUdashqX1Ghsslu1p--i0I_izzDwHgOTeEeJrlbiyFLIIKFTGJ0diqoktEfvHvzwQvMFezWCWQeyhT8Wqm-DQxZNKCGrZqFYMENucbmD1RWlW02zURv7kzp84h7eTJvDmV0br0LhVbmfhJcJfi3ywuUWrCpHuyB38AtmN1oj" media="all" rel="stylesheet">
+<link href="/sites/default/files/css/css_Ra8EbI7JcWCulxGRSzQb3SmxqYGJ0BAGLRBUbmdJjGw.css?delta=0&amp;language=en&amp;theme=uswds&amp;include=eJxtj1EKg0AMRC-0NUdashqX1Ghsslu1p--i0I_izzDwHgOTeEeJrlbiyFLIIKFTGJ0diqoktEfvHvzwQvMFezWCWQeyhT8Wqm-DQxZNKCGrZqFYMENucbmD1RWlW02zURv7kzp84h7eTJvDmV0br0LhVbmfhJcJfi3ywuUWrCpHuyB38AtmN1oj" media="all" rel="stylesheet">
+<link href="/sites/default/files/css/css_o_jfY8AflseN5raYm5C3X6G0mykgPNOcmur_YUplWis.css?delta=1&amp;language=en&amp;theme=uswds&amp;include=eJxtj1EKg0AMRC-0NUdashqX1Ghsslu1p--i0I_izzDwHgOTeEeJrlbiyFLIIKFTGJ0diqoktEfvHvzwQvMFezWCWQeyhT8Wqm-DQxZNKCGrZqFYMENucbmD1RWlW02zURv7kzp84h7eTJvDmV0br0LhVbmfhJcJfi3ywuUWrCpHuyB38AtmN1oj" media="all" rel="stylesheet">
+<link href="/sites/default/files/css/css_47bVR2FpejsThg2f_pnI2osdZIquCe01NtLACwVlv2Q.css?delta=2&amp;language=en&amp;theme=uswds&amp;include=eJxtj1EKg0AMRC-0NUdashqX1Ghsslu1p--i0I_izzDwHgOTeEeJrlbiyFLIIKFTGJ0diqoktEfvHvzwQvMFezWCWQeyhT8Wqm-DQxZNKCGrZqFYMENucbmD1RWlW02zURv7kzp84h7eTJvDmV0br0LhVbmfhJcJfi3ywuUWrCpHuyB38AtmN1oj" media="print" rel="stylesheet">
+<link href="/sites/default/files/css/css_eHvZY9rIrhVyW3WVWdsZfWH3qI2h6hKUmsQSZaGhs-U.css?delta=3&amp;language=en&amp;theme=uswds&amp;include=eJxtj1EKg0AMRC-0NUdashqX1Ghsslu1p--i0I_izzDwHgOTeEeJrlbiyFLIIKFTGJ0diqoktEfvHvzwQvMFezWCWQeyhT8Wqm-DQxZNKCGrZqFYMENucbmD1RWlW02zURv7kzp84h7eTJvDmV0br0LhVbmfhJcJfi3ywuUWrCpHuyB38AtmN1oj" media="all" rel="stylesheet">
 <script src="/themes/uswds/js/libraries/modernizr.min.js?v=3.11.7"></script>
 <!-- Analytics this part is in head-->
 <script id="_fed_an_ua_tag" language="javascript" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=USDA&amp;subagency=FSIS&amp;sp=lookup,locate&amp;exts=pdf,xls,zip,jpg,gif,mp3&amp;dclink=true"></script>
@@ -160,84 +93,17 @@ American Foods Group
 
 </span>
 </div> </div>
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'container' -->
-<!-- FILE NAME SUGGESTIONS:
-   x container--no-wrapper.html.twig
-   * container.html.twig
--->
-<!-- BEGIN OUTPUT from 'themes/uswds/templates/form/container--no-wrapper.html.twig' -->
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view__recalls_by_establishment' -->
-<!-- FILE NAME SUGGESTIONS:
-   x views-view--recalls-by-establishment.html.twig
-   x views-view--recalls-by-establishment.html.twig
-   * views-view.html.twig
--->
-<!-- BEGIN OUTPUT from 'themes/uswds/templates/views/views-view--recalls-by-establishment.html.twig' -->
-<div class="view view--recalls-by-establishment view--display-default js-view-dom-id-e6d1d463da3638dc9de655280cb401879317de2139530c93468a7fd9b4bef7aa view-listing">
+<div class="view view--recalls-by-establishment view--display-default js-view-dom-id-0343aba7b4c4c2261cb4c31052b37816b1bbe97349e2d7875bfd5fdfa3bce0c6 view-listing">
 <div class="view__sidebar">
 <div class="view__main">
 <div class="view__content">
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_unformatted' -->
-<!-- BEGIN OUTPUT from 'themes/uswds/templates/views/views-view-unformatted.html.twig' -->
 <div class="view__row">
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'node' -->
-<!-- FILE NAME SUGGESTIONS:
-   * node--view--recalls-search--default.html.twig
-   * node--view--recalls-search.html.twig
-   * node--5605--teaser.html.twig
-   * node--5605.html.twig
-   x node--recall--teaser.html.twig
-   * node--recall.html.twig
-   * node--teaser.html.twig
-   * node.html.twig
--->
-<!-- BEGIN OUTPUT from 'themes/uswds/templates/content/node--recall--teaser.html.twig' -->
 <section class="recall-teaser">
 <div class="recall-teaser__grid recall-teaser__grid--2col">
 <div class="recall-teaser__left">
-<div class="recall-teaser__tags">
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'field' -->
-<!-- FILE NAME SUGGESTIONS:
-   * field--node--field-recall-number--recall--teaser.html.twig
-   * field--node--field-recall-number--recall.html.twig
-   x field--node--field-recall-number.html.twig
-   * field--node--recall.html.twig
-   * field--field-recall-number.html.twig
-   * field--string.html.twig
-   * field.html.twig
--->
-<!-- BEGIN OUTPUT from 'themes/uswds/templates/field/tag/field--node--field-recall-number.html.twig' -->
-<span class="tag tag--active">044-2023</span>
-<!-- END OUTPUT from 'themes/uswds/templates/field/tag/field--node--field-recall-number.html.twig' -->
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'taxonomy_term' -->
-<!-- FILE NAME SUGGESTIONS:
-   x taxonomy-term--health-risk-level--tag.html.twig
-   * taxonomy-term--tag.html.twig
-   * taxonomy-term--9.html.twig
-   * taxonomy-term--health-risk-level.html.twig
-   * taxonomy-term.html.twig
--->
-<!-- BEGIN OUTPUT from 'themes/uswds/templates/taxonomy/taxonomy-term--health-risk-level--tag.html.twig' -->
+<div class="recall-teaser__tags"> <span class="tag tag--active">044-2023</span>
 <a class="tag tag--high - class i" href="/taxonomy/term/9">High - Class I</a>
-<!-- END OUTPUT from 'themes/uswds/templates/taxonomy/taxonomy-term--health-risk-level--tag.html.twig' -->
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'taxonomy_term' -->
-<!-- FILE NAME SUGGESTIONS:
-   x taxonomy-term--recall-reason--tag.html.twig
-   * taxonomy-term--tag.html.twig
-   * taxonomy-term--16.html.twig
-   * taxonomy-term--recall-reason.html.twig
-   * taxonomy-term.html.twig
--->
-<!-- BEGIN OUTPUT from 'themes/uswds/templates/taxonomy/taxonomy-term--recall-reason--tag.html.twig' -->
 <a class="tag tag--reason" href="/taxonomy/term/16">Product Contamination</a>
-<!-- END OUTPUT from 'themes/uswds/templates/taxonomy/taxonomy-term--recall-reason--tag.html.twig' -->
 </div>
 <h3 class="recall-teaser__title"><a href="/recalls-alerts/american-foods-group-llc-recalls-ground-beef-products-due-possible-e--coli-o103">American Foods Group, LLC Recalls Ground Beef Products Due to Possible E. Coli O103 Contamination</a></h3>
 <span class="recall-teaser__establishment"><a href="/inspection/fsis-inspected-establishments/green-bay-dressed-beef-llc-1" hreflang="en">Green Bay Dressed Beef, LLC</a></span>
@@ -253,59 +119,22 @@ American Foods Group
         </div>
 </div>
 </div>
-<div class="recall-teaser__summary">
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'smart_trim' -->
-<!-- FILE NAME SUGGESTIONS:
-   * smart-trim--node--recall--field-summary.html.twig
-   * smart-trim--recall--field-summary.html.twig
-   * smart-trim--node--field-summary.html.twig
-   * smart-trim--node--recall.html.twig
-   * smart-trim--field-summary.html.twig
-   * smart-trim--recall.html.twig
-   * smart-trim--node.html.twig
-   x smart-trim.html.twig
--->
-<!-- BEGIN OUTPUT from 'modules/contrib/smart_trim/templates/smart-trim.html.twig' -->
-  WASHINGTON, Sept. 15, 2023 - American Foods Group, LLC, doing business as Green Bay Dressed Beef, LCC, a Green Bay, Wis. establishment, is recalling approximately 58,281 pounds of ground beef products that may be contaminated with Shiga toxin-producing E. coli (STEC) O103, the U.S. Department...
+<div class="recall-teaser__summary">  WASHINGTON, Sept. 15, 2023 - American Foods Group, LLC, doing business as Green Bay Dressed Beef, LCC, a Green Bay, Wis. establishment, is recalling approximately 58,281 pounds of ground beef products that may be contaminated with Shiga toxin-producing E. coli (STEC) O103, the U.S. Department...
 
-
-<!-- END OUTPUT from 'modules/contrib/smart_trim/templates/smart-trim.html.twig' -->
 </div>
 <div class="recall-teaser__products">
 <h5>Impacted Products</h5>
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'field' -->
-<!-- FILE NAME SUGGESTIONS:
-   x field--node--field-product-items--recall--teaser.html.twig
-   * field--node--field-product-items--recall.html.twig
-   * field--node--field-product-items.html.twig
-   * field--node--recall.html.twig
-   * field--field-product-items.html.twig
-   * field--string.html.twig
-   * field.html.twig
--->
-<!-- BEGIN OUTPUT from 'themes/uswds/templates/field/field--node--field-product-items--recall--teaser.html.twig' -->
 <span>Approximately 80-lb. cases containing 10-lb. plastic tubes (chubs) of "90050 BEEF FINE GROUND 81/19" with lot code D123226026.</span>
 <span>Approximately 80-lb. cases containing 10-lb. plastic tubes (chubs) of "20473 BEEF HALAL FINE GROUND 73/27" with lot code D123226027.</span>
 <span>Approximately 80-lb. cases containing 10-lb. plastic tubes (chubs) of "20105 BEEF FINE GROUND 73/27" with lot code D123226027.</span>
-<!-- END OUTPUT from 'themes/uswds/templates/field/field--node--field-product-items--recall--teaser.html.twig' -->
 </div>
 <div class="recall-teaser__language"></div>
 </section>
-<!-- END OUTPUT from 'themes/uswds/templates/content/node--recall--teaser.html.twig' -->
 </div>
-<!-- END OUTPUT from 'themes/uswds/templates/views/views-view-unformatted.html.twig' -->
 </div>
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'pager' -->
-<!-- BEGIN OUTPUT from 'themes/uswds/templates/navigation/pager.html.twig' -->
-<!-- END OUTPUT from 'themes/uswds/templates/navigation/pager.html.twig' -->
 </div>
 </div>
 <div>
-<!-- END OUTPUT from 'themes/uswds/templates/views/views-view--recalls-by-establishment.html.twig' -->
-<!-- END OUTPUT from 'themes/uswds/templates/form/container--no-wrapper.html.twig' -->
 </div>
 </div>
 </div>

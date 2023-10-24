@@ -10,73 +10,6 @@
 <meta content="width" name="MobileOptimized"/>
 <meta content="true" name="HandheldFriendly"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<script data-toolbar-anti-flicker-loading="" type="text/javascript">(function() {
-  const toolbarState = sessionStorage.getItem('Drupal.toolbar.toolbarState')
-    ? JSON.parse(sessionStorage.getItem('Drupal.toolbar.toolbarState'))
-    : false;
-  // These are classes that toolbar typically adds to <body>, but this code
-  // executes before the first paint, when <body> is not yet present. The
-  // classes are added to <html> so styling immediately reflects the current
-  // toolbar state. The classes are removed after the toolbar completes
-  // initialization.
-  const classesToAdd = ['toolbar-loading', 'toolbar-anti-flicker'];
-  if (toolbarState) {
-    const {
-      orientation,
-      hasActiveTab,
-      isFixed,
-      activeTray,
-      activeTabId,
-      isOriented,
-      userButtonMinWidth
-    } = toolbarState;
-
-    classesToAdd.push(
-      orientation ? `toolbar-` + orientation + `` : 'toolbar-horizontal',
-    );
-    if (hasActiveTab !== false) {
-      classesToAdd.push('toolbar-tray-open');
-    }
-    if (isFixed) {
-      classesToAdd.push('toolbar-fixed');
-    }
-    if (isOriented) {
-      classesToAdd.push('toolbar-oriented');
-    }
-
-    if (activeTray) {
-      // These styles are added so the active tab/tray styles are present
-      // immediately instead of "flickering" on as the toolbar initializes. In
-      // instances where a tray is lazy loaded, these styles facilitate the
-      // lazy loaded tray appearing gracefully and without reflow.
-      const styleContent = `
-      .toolbar-loading #` + activeTabId + ` {
-        background-image: linear-gradient(rgba(255, 255, 255, 0.25) 20%, transparent 200%);
-      }
-      .toolbar-loading #` + activeTabId + `-tray {
-        display: block; box-shadow: -1px 0 5px 2px rgb(0 0 0 / 33%);
-        border-right: 1px solid #aaa; background-color: #f5f5f5;
-        z-index: 0;
-      }
-      .toolbar-loading.toolbar-vertical.toolbar-tray-open #` + activeTabId + `-tray {
-        width: 15rem; height: 100vh;
-      }
-     .toolbar-loading.toolbar-horizontal :not(#` + activeTray + `) > .toolbar-lining {opacity: 0}`;
-
-      const style = document.createElement('style');
-      style.textContent = styleContent;
-      style.setAttribute('data-toolbar-anti-flicker-loading', true);
-      document.querySelector('head').appendChild(style);
-
-      if (userButtonMinWidth) {
-        const userButtonStyle = document.createElement('style');
-        userButtonStyle.textContent = `#toolbar-item-user {min-width: ` + userButtonMinWidth +`px;}`
-        document.querySelector('head').appendChild(userButtonStyle);
-      }
-    }
-  }
-  document.querySelector('html').classList.add(...classesToAdd);
-})();</script>
 <meta content="ie=edge" http-equiv="x-ua-compatible"/>
 <link href="http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/dean-peeler-meatworks" hreflang="en" rel="alternate"/>
 <title>Dean &amp; Peeler Meatworks | Food Safety and Inspection Service</title>
@@ -84,10 +17,10 @@
 <link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
 <link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
 <link href="/site.webmanifest" rel="manifest"/>
-<link href="/sites/default/files/css/css_EdhLlb4Oni2nCHRl41jc6RsHb2uyt7XE3aSdRoc7tfY.css?delta=0&amp;language=en&amp;theme=uswds&amp;include=eJxtj1EKg0AMRC-0NUdashqX1Ghsslu1p--i0I_izzDwHgOTeEeJrlbiyFLIIKFTGJ0diqoktEfvHvzwQvMFezWCWQeyhT8Wqm-DQxZNKCGrZqFYMENucbmD1RWlW02zURv7kzp84h7eTJvDmV0br0LhVbmfhJcJfi3ywuUWrCpHuyB38AtmN1oj" media="all" rel="stylesheet">
-<link href="/sites/default/files/css/css_nR0ocx485ZUyr-GcnMZHKaj4gZ7cMrS9Gs7ZcBBU6Vk.css?delta=1&amp;language=en&amp;theme=uswds&amp;include=eJxtj1EKg0AMRC-0NUdashqX1Ghsslu1p--i0I_izzDwHgOTeEeJrlbiyFLIIKFTGJ0diqoktEfvHvzwQvMFezWCWQeyhT8Wqm-DQxZNKCGrZqFYMENucbmD1RWlW02zURv7kzp84h7eTJvDmV0br0LhVbmfhJcJfi3ywuUWrCpHuyB38AtmN1oj" media="all" rel="stylesheet">
-<link href="/sites/default/files/css/css_grccFuIn3LsPHiPq8um0qhHcT7K0TBghaAogoaZMp60.css?delta=2&amp;language=en&amp;theme=uswds&amp;include=eJxtj1EKg0AMRC-0NUdashqX1Ghsslu1p--i0I_izzDwHgOTeEeJrlbiyFLIIKFTGJ0diqoktEfvHvzwQvMFezWCWQeyhT8Wqm-DQxZNKCGrZqFYMENucbmD1RWlW02zURv7kzp84h7eTJvDmV0br0LhVbmfhJcJfi3ywuUWrCpHuyB38AtmN1oj" media="print" rel="stylesheet">
-<link href="/sites/default/files/css/css_BB9gEovp44Wr9oew4rJcTf_K5QX6tiMVdtX9LAfS2Tc.css?delta=3&amp;language=en&amp;theme=uswds&amp;include=eJxtj1EKg0AMRC-0NUdashqX1Ghsslu1p--i0I_izzDwHgOTeEeJrlbiyFLIIKFTGJ0diqoktEfvHvzwQvMFezWCWQeyhT8Wqm-DQxZNKCGrZqFYMENucbmD1RWlW02zURv7kzp84h7eTJvDmV0br0LhVbmfhJcJfi3ywuUWrCpHuyB38AtmN1oj" media="all" rel="stylesheet">
+<link href="/sites/default/files/css/css_Ra8EbI7JcWCulxGRSzQb3SmxqYGJ0BAGLRBUbmdJjGw.css?delta=0&amp;language=en&amp;theme=uswds&amp;include=eJxtj1EKg0AMRC-0NUdashqX1Ghsslu1p--i0I_izzDwHgOTeEeJrlbiyFLIIKFTGJ0diqoktEfvHvzwQvMFezWCWQeyhT8Wqm-DQxZNKCGrZqFYMENucbmD1RWlW02zURv7kzp84h7eTJvDmV0br0LhVbmfhJcJfi3ywuUWrCpHuyB38AtmN1oj" media="all" rel="stylesheet">
+<link href="/sites/default/files/css/css_o_jfY8AflseN5raYm5C3X6G0mykgPNOcmur_YUplWis.css?delta=1&amp;language=en&amp;theme=uswds&amp;include=eJxtj1EKg0AMRC-0NUdashqX1Ghsslu1p--i0I_izzDwHgOTeEeJrlbiyFLIIKFTGJ0diqoktEfvHvzwQvMFezWCWQeyhT8Wqm-DQxZNKCGrZqFYMENucbmD1RWlW02zURv7kzp84h7eTJvDmV0br0LhVbmfhJcJfi3ywuUWrCpHuyB38AtmN1oj" media="all" rel="stylesheet">
+<link href="/sites/default/files/css/css_47bVR2FpejsThg2f_pnI2osdZIquCe01NtLACwVlv2Q.css?delta=2&amp;language=en&amp;theme=uswds&amp;include=eJxtj1EKg0AMRC-0NUdashqX1Ghsslu1p--i0I_izzDwHgOTeEeJrlbiyFLIIKFTGJ0diqoktEfvHvzwQvMFezWCWQeyhT8Wqm-DQxZNKCGrZqFYMENucbmD1RWlW02zURv7kzp84h7eTJvDmV0br0LhVbmfhJcJfi3ywuUWrCpHuyB38AtmN1oj" media="print" rel="stylesheet">
+<link href="/sites/default/files/css/css_eHvZY9rIrhVyW3WVWdsZfWH3qI2h6hKUmsQSZaGhs-U.css?delta=3&amp;language=en&amp;theme=uswds&amp;include=eJxtj1EKg0AMRC-0NUdashqX1Ghsslu1p--i0I_izzDwHgOTeEeJrlbiyFLIIKFTGJ0diqoktEfvHvzwQvMFezWCWQeyhT8Wqm-DQxZNKCGrZqFYMENucbmD1RWlW02zURv7kzp84h7eTJvDmV0br0LhVbmfhJcJfi3ywuUWrCpHuyB38AtmN1oj" media="all" rel="stylesheet">
 <script src="/themes/uswds/js/libraries/modernizr.min.js?v=3.11.7"></script>
 <!-- Analytics this part is in head-->
 <script id="_fed_an_ua_tag" language="javascript" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=USDA&amp;subagency=FSIS&amp;sp=lookup,locate&amp;exts=pdf,xls,zip,jpg,gif,mp3&amp;dclink=true"></script>
@@ -158,7 +91,7 @@
 <span class="meta__value">
 </span>
 </div> </div>
-<div class="view view--recalls-by-establishment view--display-default js-view-dom-id-6fd0a1c5781edb20647832fecd76cf8d00b185e363e8c4c82ced84a5186dc1b4 view-listing">
+<div class="view view--recalls-by-establishment view--display-default js-view-dom-id-217f95e77284f8516430ea617cbabc2c58de3324271c3654461d775655f68c18 view-listing">
 <div class="view__sidebar">
 <div class="view__main">
 <div class="view__content">
@@ -175,10 +108,10 @@
 </div>
 <div class="recall-teaser__right">
 <div class="recall-teaser__status">
-<span class="tag tag--active">Active</span>
+<span class="tag tag--closed">Closed</span>
 </div>
 <div class="recall-teaser__date">
-        Tue, 08/29/2023 - Current      </div>
+        Tue, 08/29/2023 - Wed, 09/27/2023      </div>
 <div class="recall-teaser__states">
           Texas
         </div>
@@ -193,6 +126,10 @@
 <span>5-lb. vacuum-sealed plastic bags containing "R-C RANCH TEXAS CRAFT MEATS WAGYU RC13610 STEAKHOUSE BLEND - GROUND BEEF 5 lb" with lot code 17816 represented on the label.</span>
 <span>8-oz. vacuum-sealed plastic bags containing "R-C RANCH TEXAS CRAFT MEATS WAGYU RC13603 - GROUND BEEF PATTIES 8 oz" with lot code 17816 represented on the label.</span>
 </div>
+<div class="recall-teaser__products">
+<h5>Quantity Recovered</h5>
+      3,535 lbs
+    </div>
 <div class="recall-teaser__language"></div>
 </section>
 </div>
