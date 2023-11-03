@@ -1,0 +1,37 @@
+{
+  "id": "056-2023",
+  "title": "Fairmont Foods, Inc., Recalls Frozen Spaghetti Loops With Meat Sauce Entree Products Due to Misbranding and Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fairmont-foods-inc--recalls-frozen-spaghetti-loops-meat-sauce-entree-products-due",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2023-11-02",
+  "end_date": null,
+  "summary": " WASHINGTON, Nov. 2, 2023 \u2013 Fairmont Foods, Inc., a Fairmont, Minn. establishment, is recalling approximately 147,132 pounds of frozen spaghetti loops with meat sauce entr\u00e9e products due to misbranding and undeclared allergen, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today...\n",
+  "establishment": {
+    "id": "M2WM+P337",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/fairmont-foods-inc.",
+    "slug": "fairmont-foods-inc",
+    "name": "Fairmont Foods, Inc.",
+    "address": "905 East Fourth Street \n  Fairmont, MN\n     56031",
+    "telephone": "(507) 238-9001",
+    "grant_date": "2015-09-16",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "7.25-oz. tray in-box packages containing \u201ckidfresh Spaghetti Loops Meat Sauce\u201d with lot codes FF120722, FF011823, FF021623, FF032323, FF042623, FF071923, or FF081023 and a \u201cbest if used by\u201d date ranging from April 2024 to December 2024 on the side of th"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Georgia",
+    "Indiana",
+    "Texas"
+  ]
+}
