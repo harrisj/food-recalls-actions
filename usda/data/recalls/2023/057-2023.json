@@ -1,0 +1,41 @@
+{
+  "id": "057-2023",
+  "title": "Tyson Foods Inc. Recalls Chicken Patty Product Due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/tyson-foods-inc--recalls-chicken-patty-product-due-possible-foreign-matter",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2023-11-04",
+  "end_date": null,
+  "summary": " WASHINGTON, Nov. 4, 2023 \u2013 Tyson Foods, Inc. a Berryville, Ark., establishment, is recalling approximately 29,819 pounds of fully cooked, breaded, shaped chicken patty product that may be contaminated with extraneous materials, specifically metal pieces, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service...\n",
+  "establishment": {
+    "id": "M7211+P7211",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/tyson-foods-inc.-23",
+    "slug": "tyson-foods-inc-23",
+    "name": "Tyson Foods, Inc.",
+    "address": "110-112 W Freeman St \n  Berryville, AR\n     72616",
+    "telephone": "(870) 423-5440",
+    "grant_date": "1996-11-11",
+    "activities": [
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "29-oz. Plastic bag packages containing \u201cTyson FULLY COOKED FUN NUGGETS BREADED SHAPED CHICKEN PATTIES\u201d with a Best If Used By date of SEP 04, 2024, and lot codes 2483BRV0207, 2483BRV0208, 2483BRV0209 and 2483BRV0210."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Alabama",
+    "California",
+    "Illinois",
+    "Kentucky",
+    "Michigan",
+    "Ohio",
+    "Tennessee",
+    "Virginia",
+    "Wisconsin"
+  ]
+}
