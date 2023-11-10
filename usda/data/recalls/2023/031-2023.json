@@ -5,10 +5,10 @@
   "reasons": [
     "Produced Without Benefit of Inspection"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2023-07-15",
-  "end_date": null,
+  "end_date": "2023-11-09",
   "summary": "  EDITOR'S NOTE: August 4, 2023 \u2013 Details of this recall were updated to expand the distribution of the product from Maryland, Virginia, and Washington, D.C. to retailers nationwide. Additionally, the dates the frozen dumpling products were produced have been extended from between February 20 and...\n\n",
   "establishment": null,
   "impacted_products": [
@@ -16,8 +16,8 @@
     "\u2022 8-oz. plastic bag packages containing 10 pieces of \u201cMulan Dumpling Shrimp & Chives Dumplings\u201d containing pork.   ",
     "\u2022 8-oz. plastic bag packages containing 10 pieces of \u201cMulan Dumpling Shrimp & Chives Dumplings\u201d containing pork.   "
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 3060,
+  "quantity_unit": "lbs",
   "states": [
     "Nationwide"
   ]
