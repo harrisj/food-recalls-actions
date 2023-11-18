@@ -1,0 +1,39 @@
+{
+  "id": "PHA-11172023-01",
+  "title": "FSIS Issues Public Health Alert for Meat and Poultry Jerky Products Due to Misbranding and Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-meat-and-poultry-jerky-products-due-misbranding-and",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2023-11-17",
+  "end_date": null,
+  "summary": " WASHINGTON, Nov. 17, 2023 - The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for meat and poultry jerky products due to misbranding and undeclared allergen. The product may contain soy, a known allergen, which is not...\n",
+  "establishment": {
+    "id": "M19908+P19908",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/pruskis-market-inc.",
+    "slug": "pruskis-market-inc",
+    "name": "Pruski's Market, Inc.",
+    "address": "10140 Highway 87 South \n  Adkins, TX\n     78101",
+    "telephone": "",
+    "grant_date": "2022-04-24",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022 1.75-oz., 2.75-oz., and 8-oz. packages containing \u201cPruski\u2019s Market Spicy Beef Jerky\u201d  and a \u201cSELL BY\u201d date ranging from 03/21/24 through 05/09/24 represented on the  back of the packages.",
+    "\u2022 1.75-oz., 2.75-oz., and 8-oz. packages containing \u201cPruski\u2019s Market Beef Jerky\u201d and a  \u201cSELL BY\u201d date ranging from 03/21/24 through 05/09/24 represented on the back of  the packages.",
+    "\u2022 1.75-oz, 2.75-oz., and 8-oz. packages containing \u201cPruski\u2019s Market Turkey Jerky\u201d and a  \u201cSELL BY\u201d date ranging from 03/21/24 through 05/09/24 represented on the back of  the packages.",
+    "\u2022 3-oz. packages containing \u201cHOOSER CUSTOM MEATS BEEF JERKY MESQUITE  SMOKED\u201d and a \u201cSELL BY\u201d of 04/23/24 represented on the back of the packages.",
+    "\u2022 Packages purchased by weight at the retail counter, containing \u201cBeef Jerky Regular\u201d,  \u201cSpicy Beef Jerky\u201d, or \u201cTurkey Jerky\u201d with Pack Date ranging from 9/21/23 through  11/9/23."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Texas"
+  ]
+}
