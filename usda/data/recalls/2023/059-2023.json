@@ -1,0 +1,44 @@
+{
+  "id": "059-2023",
+  "title": "Skyline Provisions, Inc. Recalls Raw Ground Beef Products Due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/skyline-provisions-inc--recalls-raw-ground-beef-products-due-possible-foreign-matter",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2023-11-19",
+  "end_date": null,
+  "summary": " WASHINGTON, Nov. 19, 2023 \u2013 Skyline Provisions, Inc., a Harvey, Ill. establishment, is recalling approximately 5,620 pounds of raw ground beef products that may be contaminated with a foreign object, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The raw...\n",
+  "establishment": {
+    "id": "M19300+P19300+V19300",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/skyline-provisions",
+    "slug": "skyline-provisions",
+    "name": "Skyline Provisions",
+    "address": "374 E. 167th Street \n  Harvey, IL\n     60426",
+    "telephone": "(708) 459-3727",
+    "grant_date": "2021-08-16",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing",
+      "Identification - Meat",
+      "Voluntary Processing - Exotic"
+    ]
+  },
+  "impacted_products": [
+    "\u2022 20-lb. carton boxes containing four packages of \u201cSKYLINE PROVISIONS, INC. GROUND BEEF 81/19\u201d with \u201cITEM # 000248\u201d printed on the label.  ",
+    "\u2022 20-lb. carton boxes containing four packages of \u201cSKYLINE PROVISIONS, INC. GROUND BEEF 75/25\u201d with \u201cITEM # 000293\u201d printed on the label."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Connecticut",
+    "Maine",
+    "Massachusetts",
+    "New Hampshire",
+    "New York",
+    "Rhode Island",
+    "Vermont",
+    "Wisconsin"
+  ]
+}
