@@ -5,10 +5,10 @@
   "reasons": [
     "Product Contamination"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2023-10-16",
-  "end_date": null,
+  "end_date": "2023-11-29",
   "summary": "  WASHINGTON, Oct. 16, 2023 \u2013 Phu Huong Food Company, a Rosemead, Calif. establishment, is recalling approximately 602 pounds of ready-to-eat (RTE) beef and chicken meatball products that may be adulterated with Listeria monocytogenes , the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS)...\n\n",
   "establishment": {
     "id": "M7681+P7681",
@@ -25,7 +25,7 @@
   "impacted_products": [
     "\u2022\t11-oz. vacuum-sealed packages containing \u201cB\u00d2 VI\u00caN PH\u00d9-H\u01af\u01a0NG G\u00c2N BEEF MEATBALLS (WITH BEEF TENDONS) (Chicken added / C\u00f4 G\u00e1)\u201d with lot codes 200101 through 200124 on a sticker on the back of the package."
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 292,
+  "quantity_unit": "lbs",
   "states": null
 }
