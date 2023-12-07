@@ -1,0 +1,32 @@
+{
+  "id": "061-2023",
+  "title": "  Garland Ventures Recalls Ready-to-Eat Chicken Fried Rice Products due to Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/garland-ventures-recalls-ready-eat-chicken-fried-rice-products-due-possible-listeria",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2023-12-06",
+  "end_date": null,
+  "summary": " EDITOR\u2019S NOTE: Dec. 6, 2023 - Details of this recall were updated to reflect the correct lot code for the product implicated in the recall. WASHINGTON, Dec. 6, 2023 \u2013 Garland Ventures, a Garland, Texas, establishment, is recalling approximately 13,842 pounds of ready-to-eat (RTE) chicken...\n",
+  "establishment": {
+    "id": "M31993+P31993",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/garland-ventures-ltd",
+    "slug": "garland-ventures-ltd",
+    "name": "Garland Ventures LTD",
+    "address": "115 International Road \n  Garland, TX\n     75042",
+    "telephone": "(972) 485-8878",
+    "grant_date": "2021-07-20",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "12-oz. trays containing Freshness Guaranteed brand \u201cCHICKEN FRIED RICE DICED CHICKEN MEAT WITH VEGETABLES AND RICE IN A SAVORY SOY SAUCE\u201d with lot code 595874884 and a best if used by date of 11/10/2024 represented on the label."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}
