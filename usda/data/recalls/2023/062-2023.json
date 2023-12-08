@@ -1,0 +1,37 @@
+{
+  "id": "062-2023",
+  "title": "Wayne Farms, LLC, Recalls Ready-to-Eat Chicken Breast Products That May Be Undercooked",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/wayne-farms-llc-recalls-ready-eat-chicken-breast-products-may-be-undercooked-0",
+  "reasons": [
+    "Processing Defect"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2023-12-07",
+  "end_date": null,
+  "summary": " WASHINGTON, Dec. 7, 2023 \u2013 Wayne Farms, LLC, a Decatur, Ala. establishment, is recalling approximately 1,377 pounds of ready-to-eat (RTE) chicken breast products that may be undercooked, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The RTE chicken breast items...\n",
+  "establishment": {
+    "id": "M21263+P20214+V21263",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/wayne-farms-llc-9",
+    "slug": "wayne-farms-llc-9",
+    "name": "Wayne Farms LLC",
+    "address": "100 Plugs Drive \n  Decatur, AL\n     35601",
+    "telephone": "(256) 584-7010",
+    "grant_date": "2022-03-01",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing",
+      "Food Inspection",
+      "Identification - Meat",
+      "Identification - Poultry",
+      "Off-Premise Freezing - Meat",
+      "Off-Premise Freezing - Poultry"
+    ]
+  },
+  "impacted_products": [
+    "\u2022\t9-lb. cardboard boxes containing 12 packs of 3 \u201cCHEF\u2019S LINE FIRE GRILLED CHICKEN BREAST\u201d with lot codes of 3723289239002 and 3723289239003 with USE BY: 01/14/24 on the label."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}
