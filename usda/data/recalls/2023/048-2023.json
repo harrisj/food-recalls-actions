@@ -5,14 +5,14 @@
   "reasons": [
     "Produced Without Benefit of Inspection"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2023-10-16",
-  "end_date": null,
+  "end_date": "2023-12-21",
   "summary": " WASHINGTON, Oct. 16, 2023 \u2013 Mrs. Pasta, a Fort Lauderdale, Fla. establishment, is recalling approximately 4,544 pounds of frozen meat products that were produced without the benefit of federal inspection, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The frozen...\n",
   "establishment": null,
   "impacted_products": [],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 120,
+  "quantity_unit": "lbs",
   "states": null
 }
