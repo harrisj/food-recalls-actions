@@ -10,7 +10,19 @@
   "start_date": "2024-01-05",
   "end_date": null,
   "summary": " WASHINGTON, Jan. 5, 2024 \u2013 Salm Partners, LLC, a Denmark, Wis. establishment, is recalling approximately 133,039 pounds of ready-to-eat turkey kielbasa products that may be contaminated with extraneous materials, specifically bone fragments, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today...\n",
-  "establishment": null,
+  "establishment": {
+    "id": "M32009+P32009",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/salm-partners-llc-0",
+    "slug": "salm-partners-llc-0",
+    "name": "Salm Partners, LLC",
+    "address": "590 Woodrow Street \n  Denmark, WI\n     54208",
+    "telephone": "",
+    "grant_date": "2021-01-27",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
   "impacted_products": [
     "\u2022\t13-oz. plastic vacuum-sealed packages containing \u201cPARKVIEW TURKEY POLSKA KIELBASA\u201d, with P-32009 and \u201cUSE BY APR 24 24\u201d or \u201cUSE BY APR 27 24\u201d printed on the package."
   ],
