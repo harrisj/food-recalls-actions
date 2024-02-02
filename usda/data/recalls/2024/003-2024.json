@@ -1,0 +1,41 @@
+{
+  "id": "003-2024",
+  "title": "Vanee Foods Recalls Chicken Flavored Base Products Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/vanee-foods-recalls-chicken-flavored-base-products-due-misbranding-and-undeclared",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2024-02-01",
+  "end_date": null,
+  "summary": "  WASHINGTON, Feb. 1, 2024 - Vanee Foods, a Broadview, Ill. establishment, is recalling approximately 9,564 pounds of chicken flavored base product due to misbranding and undeclared allergens, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The product labeled as chicken...\n\n",
+  "establishment": {
+    "id": "M19339+P19339+V19339",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/vanee-foods-company-1",
+    "slug": "vanee-foods-company-1",
+    "name": "Vanee Foods Company",
+    "address": "2759 South 25th Ave. \n  Broadview, IL\n     60155",
+    "telephone": "(708) 236-7068",
+    "grant_date": "2021-08-11",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing",
+      "Certification - Export",
+      "Voluntary Processing - Exotic",
+      "Voluntary Processing - Meat",
+      "Voluntary Processing - Poultry"
+    ]
+  },
+  "impacted_products": [
+    "1-lb. plastic tubs labeled as \"Sysco Classic Chicken Flavored Base\" with lot code 02673 and packaged in a case labeled as \"Sysco Classic BEEF BASE CF\" with lot code 02673 represented on the label."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Pennsylvania",
+    "Texas",
+    "Virginia"
+  ]
+}
