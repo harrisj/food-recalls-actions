@@ -1,0 +1,28 @@
+{
+  "id": "004-2024",
+  "title": "Macgregors Meat and Seafood Ltd Recalls Frozen Ready-To-Eat Pork Products Imported Without Benefit of Import Reinspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/macgregors-meat-and-seafood-ltd-recalls-frozen-ready-eat-pork-products-imported",
+  "reasons": [
+    "Import Violation"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2024-02-02",
+  "end_date": null,
+  "summary": "  WASHINGTON, Feb. 2, 2024 - Macgregors Meat and Seafood Ltd, a Woodbridge, Ontario, Canada establishment, is recalling approximately 2,745 pounds of frozen, ready-to-eat pork products that were not presented for import reinspection into the United States, the U.S. Department of Agriculture 's Food Safety and...\n\n",
+  "establishment": null,
+  "impacted_products": [
+    "1.5-lb. cartons containing \"44TH Street Slow Cooked BABY BACK RIBS MAPLEWOOD SMOKED SAUCE\" with Julian dates 3453 and 0154 printed on the side of the immediate package. The product is packed in cases marked with Cert. No. Cert 043436, Production Date 3453",
+    "1.5-lb. cartons containing \"44TH Street Glazed, Slow Cooked BABY BACK RIBS HONEY GARLIC SAUCE\" with Julian dates 1453 and 1593 printed on the side of the immediate package. The product is packed in cases marked with Cert. No. Cert 043436, Production Date "
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Indiana",
+    "Kentucky",
+    "Michigan",
+    "New York",
+    "Ohio",
+    "Pennsylvania"
+  ]
+}
