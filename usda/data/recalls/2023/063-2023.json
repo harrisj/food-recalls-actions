@@ -5,10 +5,10 @@
   "reasons": [
     "Product Contamination"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2023-12-15",
-  "end_date": null,
+  "end_date": "2024-02-06",
   "summary": "  WASHINGTON, Dec. 15, 2023 - Simmons Prepared Foods Inc., a Van Buren, Ark. establishment, is recalling approximately 26,550 pounds of TGI Fridays boneless chicken bites products that may be contaminated with extraneous materials, specifically pieces of clear, hard plastic, the U.S. Department of Agriculture's Food...\n\n",
   "establishment": {
     "id": "M20287+P20287",
@@ -26,8 +26,8 @@
   "impacted_products": [
     "15-oz. carton containing \"TGI FRIDAYS BONELESS CHICKEN BITES HONEY BBQ CHICKEN\" with lot code KL3K03 and Best By date of 12/26/2024 located on the side of the carton."
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 10884,
+  "quantity_unit": "pounds of recalled product",
   "states": [
     "Nationwide"
   ]
