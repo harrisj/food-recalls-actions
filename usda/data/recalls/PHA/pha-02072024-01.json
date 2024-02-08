@@ -1,0 +1,34 @@
+{
+  "id": "PHA-02072024-01",
+  "title": "  FSIS Issues Public Health Alert For Frozen Ready-To-Eat Chicken Pilaf Products Due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-frozen-ready-eat-chicken-pilaf-products-due-possible",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2024-02-07",
+  "end_date": null,
+  "summary": "  WASHINGTON, Feb. 7, 2024 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert due to concerns of a frozen ready-to-eat (RTE) chicken pilaf product that may be contaminated with foreign material, specifically rocks. FSIS is issuing...\n\n",
+  "establishment": {
+    "id": "M45322+P45322",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/mama-vickys-inc.",
+    "slug": "mama-vickys-inc",
+    "name": "Mama Vicky's Inc.",
+    "address": "11133 Vanowen Street ; Unit C-D \n  North Hollywood, CA\n     91605",
+    "telephone": "",
+    "grant_date": "2021-07-16",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "14-oz. plastic packages containing \u201cTrader Joe\u2019s Chicken, Lentil, & Caramelized Onion Pilaf WITH SAFFRON BASMATI RICE, DARK CHICKEN MEAT, DATES & GOLDEN RAISINS.\u201d"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Nationwide"
+  ]
+}
