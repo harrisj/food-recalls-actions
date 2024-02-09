@@ -1,0 +1,39 @@
+{
+  "id": "PHA-02082024-01",
+  "title": "FSIS Issues Public Health Alert For Ready-To-Eat Poultry Products Containing FDA-Regulated Dairy Products That Have Been Recalled Due To Possible Listeria Monocytogenes Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-poultry-products-containing-fda-regulated",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2024-02-08",
+  "end_date": null,
+  "summary": " WASHINGTON, Feb. 8, 2024 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for ready-to-eat (RTE) poultry burrito products containing Food and Drug Administration (FDA) regulated dairy products that have been recalled by Rizo-Lopez Foods...\n",
+  "establishment": {
+    "id": "M20552+P20552+V20552",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/sk-food-group-1",
+    "slug": "sk-food-group-1",
+    "name": "SK Food Group",
+    "address": "5555 Quail Manor Ct  ; Suite 100 \n  Reno, NV\n     89511",
+    "telephone": "",
+    "grant_date": "2017-02-17",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing",
+      "AMS RTE Canada EV Program",
+      "Certification - Export",
+      "Food Inspection",
+      "Identification - Meat",
+      "Identification - Poultry"
+    ]
+  },
+  "impacted_products": [
+    "10.53-oz. individual wax paper packages containing \u201camazon kitchen, CHICKEN CHILI VERDE burrito with rice, black beans & monterey jack\u201d with BEST BEFORE Julian dates starting with 0764, 1394, 1385, and 2694.  The product is packaged in boxed cases label"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Nationwide"
+  ]
+}
