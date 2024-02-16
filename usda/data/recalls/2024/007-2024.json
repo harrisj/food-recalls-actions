@@ -1,0 +1,38 @@
+{
+  "id": "007-2024",
+  "title": "Don Novo & Son Recalls Ready-To-Eat Meat Products Due to Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/don-novo-son-recalls-ready-eat-meat-products-due-possible-listeria-contamination",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2024-02-15",
+  "end_date": null,
+  "summary": " WASHINGTON, Feb. 15, 2024 \u2013 Don Novo & Son, a Miami, Fla. establishment, is recalling approximately 9,330 pounds of ready-to-eat (RTE) meat products that may be adulterated with Listeria monocytogenes , the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The...\n",
+  "establishment": {
+    "id": "M34257+P34257",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/don-novo-son",
+    "slug": "don-novo-son",
+    "name": "Don Novo & Son",
+    "address": "6707 N.W. 37th Avenue \n  Miami, FL\n     33147",
+    "telephone": "",
+    "grant_date": "2016-08-16",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022 1-lb. shrink-wrapped packages containing \u201cDon Novo CHORIZO FULLY COOKED\u201d with the expiration date of 3/30/2024 printed on the package.",
+    "\u2022 1-lb. shrink-wrapped packages containing \u201cDon Novo COSTILLAS AHUMADAS SMOKED PORK RIBS\u201d with the expiration date of 3/30/2024 printed on the package.  ",
+    "\u2022 12-lb. shrink-wrapped packages containing \u201cDon Novo JAMON DULCE SWEET COOKED HAM AND WATER PRODUCTS\u201d with the expiration date of 3/30/2024 printed on the package.",
+    "\u2022 5.4-lb. to 5.5-lb. shrink-wrapped packages containing \u201cDon Novo MORTADELLA CUBANA CUBAN BRAND MORTADELA\u201d with the expiration date of 3/30/2024 printed on the package.",
+    "\u2022 1.5-lb. shrink-wrapped packages containing \u201cDon Novo LOMO AHUMADO SMOKED PORK LOIN\u201d with the expiration date of 3/30/2024 printed on the package."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Florida"
+  ]
+}
