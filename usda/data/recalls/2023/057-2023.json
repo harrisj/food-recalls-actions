@@ -5,10 +5,10 @@
   "reasons": [
     "Product Contamination"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2023-11-04",
-  "end_date": null,
+  "end_date": "2024-02-06",
   "summary": " WASHINGTON, Nov. 4, 2023 \u2013 Tyson Foods, Inc. a Berryville, Ark., establishment, is recalling approximately 29,819 pounds of fully cooked, breaded, shaped chicken patty product that may be contaminated with extraneous materials, specifically metal pieces, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service...\n",
   "establishment": {
     "id": "M7211+P7211",
@@ -25,8 +25,8 @@
   "impacted_products": [
     "29-oz. Plastic bag packages containing \u201cTyson FULLY COOKED FUN NUGGETS BREADED SHAPED CHICKEN PATTIES\u201d with a Best If Used By date of SEP 04, 2024, and lot codes 2483BRV0207, 2483BRV0208, 2483BRV0209 and 2483BRV0210."
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 798,
+  "quantity_unit": "pounds",
   "states": [
     "Alabama",
     "California",
