@@ -11,12 +11,29 @@
   "start_date": "2024-02-28",
   "end_date": null,
   "summary": " WASHINGTON, Feb. 28, 2024 \u2013 M&P Production LTD, a Brooklyn, N.Y. establishment, is recalling approximately 669 pounds of raw lamb and beef samsa products due to misbranding and an undeclared allergen, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The...\n",
-  "establishment": null,
+  "establishment": {
+    "id": "M18832+P18832",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/mp-production-ltd",
+    "slug": "mp-production-ltd",
+    "name": "M&P Production LTD",
+    "address": "830 39th Street \n  Brooklyn, NY\n     11232",
+    "telephone": "(718) 438-5197",
+    "grant_date": "2021-08-04",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
   "impacted_products": [
     "\u2022\t16-oz. plastic-wrapped tray packages containing \u201cSAMSA HALAL\u201d with \u201cUSE BEFORE\u201d dates of 01/02/25 through 02/22/25.",
     "\u2022\t12-oz. plastic-wrapped tray packages containing \u201cM&P DELICACIES Lamb Dumplings Lamb Samsa\u201d with \u201cUSE BEFORE\u201d dates 01/02/25 through 02/22/25."
   ],
   "quantity_recovered": null,
   "quantity_unit": null,
-  "states": null
+  "states": [
+    "Massachusetts",
+    "New Jersey",
+    "New York",
+    "Pennsylvania"
+  ]
 }
