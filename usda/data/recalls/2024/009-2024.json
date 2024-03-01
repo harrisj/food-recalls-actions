@@ -1,0 +1,34 @@
+{
+  "id": "009-2024",
+  "title": "MF Meats Recalls Raw Meat Products Due to Contamination by a Non-Food Grade Substance",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/mf-meats-recalls-raw-meat-products-due-contamination-a-non-food-grade-substance",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2024-02-29",
+  "end_date": null,
+  "summary": "  WASHINGTON, Feb. 29, 2024 \u2013 MF Meats, a Falconer, N.Y. establishment, is recalling approximately 93,277 pounds of raw meat products, which may have been contaminated with non-food grade mineral seal oil, which is not approved for use in meat processing, the U.S. Department of Agriculture\u2019s...\n\n",
+  "establishment": {
+    "id": "M569+P569",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/mf-meats",
+    "slug": "mf-meats",
+    "name": "MF Meats",
+    "address": "2063 Allen Street Extension \n  Falconer, NY\n     14733",
+    "telephone": "(716) 355-4111",
+    "grant_date": "2021-12-09",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "New York",
+    "Ohio",
+    "Pennsylvania"
+  ]
+}
