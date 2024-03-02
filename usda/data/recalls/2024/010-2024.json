@@ -1,0 +1,35 @@
+{
+  "id": "010-2024",
+  "title": "CJ Foods Manufacturing Beaumont Corporation Recalls Trader Joe\u2019s Chicken Soup Dumplings Due to Possible Foreign Matter Contamination ",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/cj-foods-manufacturing-beaumont-corporation-recalls-trader-joes-chicken-soup",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2024-03-02",
+  "end_date": null,
+  "summary": " WASHINGTON, March 2, 2024 \u2013 CJ Foods Manufacturing Beaumont Corporation, a Beaumont, Calif., establishment, is recalling approximately 61,839 pounds of steamed chicken soup dumpling products that may be contaminated with foreign materials, specifically hard plastic from a permanent marker pen, the U.S. Department of Agriculture\u2019s...\n",
+  "establishment": {
+    "id": "M46009+P46009+V46009",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/cj-foods-manufacturing-beaumont-corporation",
+    "slug": "cj-foods-manufacturing-beaumont-corporation",
+    "name": "CJ Foods Manufacturing Beaumont Corporation",
+    "address": "415 N. Nicholas Rd., #100 \n  Beaumont, CA\n     92223",
+    "telephone": "(714) 367-7200",
+    "grant_date": "2021-10-05",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing",
+      "Certification - Export"
+    ]
+  },
+  "impacted_products": [
+    "\u2022\t6-oz. boxes with plastic trays containing six pieces of \u201cTRADER JOE\u2019S Steamed Chicken Soup Dumplings\u201d with lot codes \u201c03.07.25.C1-1\u201d and \u201c03.07.25.C1-2\u201d printed on the side of the box."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Nationwide"
+  ]
+}
