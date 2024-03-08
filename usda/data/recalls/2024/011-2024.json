@@ -1,0 +1,34 @@
+{
+  "id": "011-2024",
+  "title": "Salm Partners, LLC, Recalls Johnsonville Polish Kielbasa Turkey Sausage Products Due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/salm-partners-llc-recalls-johnsonville-polish-kielbasa-turkey-sausage-products-due",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2024-03-07",
+  "end_date": null,
+  "summary": "  WASHINGTON, March 7, 2024 - Salm Partners, LLC, a Denmark, Wis., establishment, is recalling approximately 35,430 pounds of Johnsonville turkey kielbasa sausage that may be contaminated with foreign materials, specifically pieces of rubber, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced...\n\n",
+  "establishment": {
+    "id": "M32009+P32009",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/salm-partners-llc-0",
+    "slug": "salm-partners-llc-0",
+    "name": "Salm Partners, LLC",
+    "address": "590 Woodrow Street \n  Denmark, WI\n     54208",
+    "telephone": "",
+    "grant_date": "2021-01-27",
+    "activities": [
+      "Meat Processing",
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "12-oz. vacuum-packed packages containing a single piece of \"Johnsonville POLISH KIELBASA TURKEY\" sausage and best by dates \"05/17/24\" and \"05/18/24\" printed on the side of the packaging."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Nationwide"
+  ]
+}
