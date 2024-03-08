@@ -9,7 +9,7 @@
   "risk_level": "High",
   "start_date": "2023-12-01",
   "end_date": null,
-  "summary": " WASHINGTON, Dec. 1, 2023 \u2013 Pelleh Poultry Corp., a Swan Lake, N.Y. establishment, is recalling approximately 708 pounds of ready-to-eat (RTE) beef and poultry products that may be adulterated with Listeria monocytogenes , the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced...\n",
+  "summary": " WASHINGTON, Dec. 1, 2023 \u2013 Pelleh Poultry Corp., a Swan Lake, N.Y. establishment, is recalling approximately 708 pounds of ready-to-eat (RTE) beef and poultry products that may be adulterated with Listeria monocytogenes, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today...\n",
   "establishment": {
     "id": "M44121+P44121",
     "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/pelleh-poultry-corp.",
@@ -19,6 +19,7 @@
     "telephone": "(845) 425-4559",
     "grant_date": "2021-08-02",
     "activities": [
+      "Meat Processing",
       "Poultry Slaughter",
       "Poultry Processing"
     ]
