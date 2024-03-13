@@ -15,13 +15,13 @@
     "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/cj-foods-manufacturing-beaumont-corporation",
     "slug": "cj-foods-manufacturing-beaumont-corporation",
     "name": "CJ Foods Manufacturing Beaumont Corporation",
-    "address": "415 N. Nicholas Rd., #100 \n  Beaumont, CA\n     92223",
+    "address": "415 N. Nicholas Rd., #100  \n  Beaumont, CA\n     92223",
     "telephone": "(714) 367-7200",
     "grant_date": "2021-10-05",
     "activities": [
+      "Certification - Export",
       "Meat Processing",
-      "Poultry Processing",
-      "Certification - Export"
+      "Poultry Processing"
     ]
   },
   "impacted_products": [
