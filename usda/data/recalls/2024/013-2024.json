@@ -1,0 +1,45 @@
+{
+  "id": "013-2024",
+  "title": "Taylor Farms Pacific Recalls Kroger Brand Ready-To-Eat Apple Walnut With Chicken Salad Bowl Products Due to Misbranding and Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/taylor-farms-pacific-recalls-kroger-brand-ready-eat-apple-walnut-chicken-salad-bowl",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": "Low",
+  "start_date": "2024-03-13",
+  "end_date": null,
+  "summary": "  WASHINGTON, March 13, 2024 \u2013 Taylor Farms Pacific, a Tracy, Calif. establishment, is recalling approximately 19,976 pounds of ready-to-eat (RTE) apple walnut with chicken salad bowl products due to misbranding and undeclared wheat allergen, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS)...\n\n",
+  "establishment": {
+    "id": "M34013+P34013",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/taylor-farm-pacific",
+    "slug": "taylor-farm-pacific",
+    "name": "Taylor Farm - Pacific",
+    "address": "1820 N. Mac Arthur Drive Suite 700 \n  Tracy, CA\n     95376",
+    "telephone": "(209) 835-6300",
+    "grant_date": "2015-10-20",
+    "activities": [
+      "Meat Processing"
+    ]
+  },
+  "impacted_products": [
+    "5.5-oz. clear plastic bowl containers with \u201ckroger APPLE WALNUT WITH CHICKEN SALAD KIT FOR ONE\u201d with use by dates of 03/12/24 through 03/22/24, lot codes TFPM059B41, TFPM060B41, TFPM061A41, TFPM062A41, TFPM063B41, TFPM064A41, TFPM064B41, TFPM065A41, TFP"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Alaska",
+    "Arizona",
+    "California",
+    "Colorado",
+    "Idaho",
+    "Montana",
+    "Nevada",
+    "New Mexico",
+    "Oregon",
+    "Utah",
+    "Washington",
+    "Wyoming"
+  ]
+}
