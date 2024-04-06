@@ -1,6 +1,6 @@
 {
   "id": "PHA-01042024-01",
-  "title": "FSIS Issues Public Health Alert For Frozen Mushroom Risotto Products Due To Misbranding And Undeclared Allergens",
+  "title": "FSIS Issues Public Health Alert For Frozen Mushroom Risotto Products Due To Misbranding And Undeclared Allergen",
   "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-frozen-mushroom-risotto-products-due-misbranding-and",
   "reasons": [
     "Misbranding",
@@ -10,12 +10,25 @@
   "risk_level": null,
   "start_date": "2024-01-05",
   "end_date": null,
-  "summary": " WASHINGTON, Jan. 5, 2024 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for frozen mushroom risotto products due to misbranding and an undeclared allergen. The product labeled as porcini mushroom risotto bites may actually contain...\n",
+  "summary": " Editor\u2019s Note: April 5, 2024 \u2013 Details of this public health alert were updated to reflect additional misbranded products that were produced and distributed. The distribution area was also expanded to include retail locations in Michigan. WASHINGTON, Jan. 5, 2024 \u2013 The U.S. Department of...\n",
   "establishment": null,
   "impacted_products": [
-    " \u2022\t7.5-oz. cardboard packages containing \u201cWild Fork Porcini Mushroom Risotto Bites\u201d with lot code 101231, \u201cBEST BY DATE: 10/11/2024\u201d, and EST. 39896 on the side of the box"
+    " \u2022\t7.5-oz. cardboard packages labeled as \u201cWild Fork Porcini Mushroom Risotto Bites\u201d with lot code 101231, \u201cBEST BY DATE: 10/11/2024\u201d, and EST. 39896 on the side of the box",
+    "\u2022\t7.5-oz. cardboard packages labeled as \u201cWild Fork Porcini Mushroom Risotto Bites\u201d with lot code 361231, \u201cBEST BY DATE: 6/27/2025,\u201d and EST. 32068 on the side of the box."
   ],
   "quantity_recovered": null,
   "quantity_unit": null,
-  "states": null
+  "states": [
+    "California",
+    "Florida",
+    "Illinois",
+    "Maryland",
+    "Massachusetts",
+    "Michigan",
+    "New Jersey",
+    "New York",
+    "Pennsylvania",
+    "Texas",
+    "Wisconsin"
+  ]
 }
