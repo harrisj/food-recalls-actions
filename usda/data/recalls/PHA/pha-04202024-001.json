@@ -1,0 +1,33 @@
+{
+  "id": "PHA-04202024-001",
+  "title": "FSIS Issues Public Health Alert for Ground Beef Products  Due to Possible E. Coli O157:H7 Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ground-beef-products-due-possible-e--coli-o157h7-0",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2024-04-20",
+  "end_date": null,
+  "summary": " WASHINGTON, April 20, 2024 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for ground beef products that may be contaminated with E. coli O157:H7. FSIS is issuing this public health alert to ensure that consumers...\n",
+  "establishment": {
+    "id": "M960A",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/greater-omaha-packing-co.-inc.-0",
+    "slug": "greater-omaha-packing-co-inc-0",
+    "name": "Greater Omaha Packing Co., Inc.",
+    "address": "3001 L. Street  \n  Omaha, NE\n     68107",
+    "telephone": "(402) 731-1700",
+    "grant_date": "2018-10-30",
+    "activities": [
+      "Meat Processing"
+    ]
+  },
+  "impacted_products": [
+    "See list of products in press release"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Nationwide"
+  ]
+}
