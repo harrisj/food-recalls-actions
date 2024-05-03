@@ -1,0 +1,33 @@
+{
+  "id": "PHA-05022024-01",
+  "title": "FSIS Issues Public Health Alert for Raw Pork Chorizo Products Due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-raw-pork-chorizo-products-due-possible-foreign",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2024-05-02",
+  "end_date": null,
+  "summary": "  WASHINGTON, May. 2, 2024 - The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) is issuing a public health alert due to concerns of raw pork chorizo products that may be contaminated with a foreign material, specifically hard plastic and metal. FSIS is...\n\n",
+  "establishment": {
+    "id": "M602",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/san-antonio-packing-company",
+    "slug": "san-antonio-packing-company",
+    "name": "San Antonio Packing Company",
+    "address": "1922 South Laredo  \n  San Antonio, TX\n     78207",
+    "telephone": "(210) 224-5441",
+    "grant_date": "2021-07-22",
+    "activities": [
+      "Meat Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022\t12-oz. vacuum-sealed packages containing \u201cLEAN apco BRAND MEATS ALL NATURAL PREMIUM CHORIZO\u201d with the best-by date of 5/12/24. "
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Texas"
+  ]
+}
