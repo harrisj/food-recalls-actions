@@ -5,17 +5,17 @@
   "reasons": [
     "Import Violation"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2023-10-30",
-  "end_date": null,
+  "end_date": "2024-05-14",
   "summary": " WASHINGTON, Oct. 30, 2023 \u2013 Olymel, the importer of record located in Boucherville, Quebec, Canada, is recalling approximately 11,016 pounds of ready-to eat ham products that were not presented for import reinspection into the United States, the U.S. Department of Agriculture\u2019s Food Safety and Inspection...\n",
   "establishment": null,
   "impacted_products": [
     "12-lb. vacuum packed red cross hatch packages containing \u201cEXTRA LEAN Celebrity 96% FAT FREE IMPORTED HAM WATER ADDED\u201d with lot code 23208, 23212 or 23221 printed on the side of the immediate packaging.  "
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 859,
+  "quantity_unit": "lbs",
   "states": [
     "California"
   ]
