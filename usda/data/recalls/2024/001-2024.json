@@ -5,17 +5,17 @@
   "reasons": [
     "Product Contamination"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2024-01-03",
-  "end_date": null,
+  "end_date": "2024-05-16",
   "summary": " Editor\u2019s Note: FSIS and our public health partners, including the Centers for Disease Control and Prevention (CDC) and state public health officials, are investigating a Salmonella outbreak. The unopened, intact, charcuterie sampler that led to this recall was tested by the state of Minnesota and...\n",
   "establishment": {
     "id": "M7543B",
     "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/fratelli-beretta-usa-inc.",
     "slug": "fratelli-beretta-usa-inc",
     "name": "Fratelli Beretta USA, Inc.",
-    "address": "750 Clark Dr. \n  Mount Olive, NJ\n     07828",
+    "address": "750 Clark Dr.  \n  Mount Olive, NJ\n     07828",
     "telephone": "(201) 343-5161",
     "grant_date": "2020-10-19",
     "activities": [
@@ -25,7 +25,7 @@
   "impacted_products": [
     "18-oz. plastic tray packages containing \u201cBUSSETO FOODS CHARCUTERIE SAMPLER Prosciutto, Sweet Sopressata, and Dry Coppa\u201d with lot code L075330300 and \u201cBEST IF USED BY APR 27 24.\u201d The products are sold as a twin pack with two 9-oz. packages."
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 5522,
+  "quantity_unit": "lbs",
   "states": null
 }
