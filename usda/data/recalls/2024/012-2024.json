@@ -5,10 +5,10 @@
   "reasons": [
     "Product Contamination"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2024-03-10",
-  "end_date": null,
+  "end_date": "2024-05-28",
   "summary": "  WASHINGTON, March 10, 2024 - Jen's Breakfast Burritos, LLC, an Auburn, Wash. establishment, is recalling approximately 144 pounds of ready-to-eat (RTE) breakfast burrito products that may be adulterated with Listeria monocytogenes, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The...\n\n",
   "establishment": null,
   "impacted_products": [
@@ -16,8 +16,8 @@
     "7-oz. individual wax paper packages containing \"Ham Breakfast Burrito\" with lot code 060-2 on a sticker on the back of the package.",
     "7-oz. individual wax paper packages containing \"Seasoned Pork Breakfast Burrito\" with lot code 060-3 on a sticker on the back of the package."
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 5,
+  "quantity_unit": "lbs",
   "states": [
     "Washington"
   ]
