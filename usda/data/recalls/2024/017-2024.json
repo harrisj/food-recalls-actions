@@ -1,0 +1,33 @@
+{
+  "id": "017-2024",
+  "title": "South American Meat Inc. Recalls Frozen Raw Beef Products Imported Without Benefit of Import Reinspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/south-american-meat-inc--recalls-frozen-raw-beef-products-imported-without-benefit",
+  "reasons": [
+    "Import Violation"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2024-06-04",
+  "end_date": null,
+  "summary": " WASHINGTON, June 4, 2024 - South American Meat Inc., also known as 5Gogi LLC, an importer located in Commerce, Calif., is recalling approximately 20,111 pounds of various eligible frozen raw beef products that were not presented to FSIS for import reinspection upon entry into the...\n",
+  "establishment": null,
+  "impacted_products": [
+    "Various weight cardboard cases labeled as \u201cFrigor\u00edfico Casa Blanca S.A. AGUJA CHUCK ROLL\u201d with case code JP0001 containing individually vacuum sealed products displaying \u201cFRICASA\u201d.",
+    "Various weight cardboard cases labeled as \u201cFrigor\u00edfico Casa Blanca S.A. ASADO SIN HUESO SHORT RIB\u201d with case code JP0002 containing individually vacuum sealed products displaying \u201cFRICASA\u201d.",
+    "Various weight cardboard cases labeled as \u201cFrigor\u00edfico Casa Blanca S.A. BIFE ANCHO CUBE ROLL\u201d with case code JP0003 containing individually vacuum sealed products displaying \u201cFRICASA\u201d.",
+    "Various weight cardboard cases labeled as \u201cFrigor\u00edfico Casa Blanca S.A. BIFE ANGOSTO STRIPLOIN\u201d with case code JP0004 containing individually vacuum sealed products displaying \u201cFRICASA\u201d.",
+    "Various weight cardboard cases labeled as \u201cFrigor\u00edfico Casa Blanca S.A. BIFE GRANDE DE VAC\u00cdO FLAP MEAT\u201d with case code JP0005 containing individually vacuum sealed products displaying \u201cFRICASA\u201d.",
+    "Various weight cardboard cases labeled as \u201cFrigor\u00edfico Casa Blanca S.A. CARNAZA DE PALETA SHOULDER CLOD\u201d with case code JP0006 containing individually vacuum sealed products displaying \u201cFRICASA\u201d.",
+    "Various weight cardboard cases labeled as \u201cFrigor\u00edfico Casa Blanca S.A. LOMO TENDERLOIN\u201d with case code JP0007 containing individually vacuum sealed products displaying \u201cFRICASA\u201d.",
+    "Various weight cardboard cases labeled as \u201cFrigor\u00edfico Casa Blanca S.A. MARUCHA OYSTER BLADE\u201d with case code JP0008 containing individually vacuum sealed products displaying \u201cFRICASA\u201d.",
+    "Various weight cardboard cases labeled as \u201cFrigor\u00edfico Casa Blanca S.A. PECHO BRISKET\u201d with case code JP0009 containing individually vacuum sealed products displaying \u201cFRICASA\u201d."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Arizona",
+    "California",
+    "Oregon",
+    "Washington"
+  ]
+}
