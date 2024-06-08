@@ -1,0 +1,32 @@
+{
+  "id": "PHA-06072024-01",
+  "title": "FSIS Issues Public Health Alert for Frozen Ready-To-Eat Bao Curry Chicken Products Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-frozen-ready-eat-bao-curry-chicken-products-due",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2024-06-07",
+  "end_date": null,
+  "summary": " WASHINGTON, June 7, 2024 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for product labeled as bao Thai-style curry chicken due to misbranding and undeclared allergens. The product labeled as bao curry chicken may actually...\n",
+  "establishment": {
+    "id": "M40001+P40001",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/brett-anthony-foods",
+    "slug": "brett-anthony-foods",
+    "name": "Brett Anthony Foods",
+    "address": "1350 Greenleaf Ave  \n  Elk Grove Village, IL\n     60007",
+    "telephone": "(847) 272-4309",
+    "grant_date": "2021-08-03",
+    "activities": [
+      "Meat Processing;  Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "10-oz. boxes containing four \u201cWOW BAO BAO THAI-STYLE CURRY CHICKEN\u201d with \u201cbest if used by\u201d date \u201c4/12/25\u201d printed on the side of the box."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}
