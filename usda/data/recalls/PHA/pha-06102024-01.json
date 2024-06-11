@@ -1,0 +1,23 @@
+{
+  "id": "PHA-06102024-01",
+  "title": "FSIS Issues Public Health Alert For Southwestern Style Salad Bowls With Chicken Due To Misbranding And Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-southwestern-style-salad-bowls-chicken-due",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2024-06-10",
+  "end_date": null,
+  "summary": " WASHINGTON, June 10, 2024 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for a salad product labeled as Bistro Grande Southwestern Style with Chicken due to misbranding and undeclared allergens. The salad product labeled as...\n",
+  "establishment": null,
+  "impacted_products": [
+    "11.75-oz. bowls containing \u201cBistro GRANDE SOUTHWESTERN STYLE WITH CHICKEN WITH SALSA RANCH Dressing\u201d with use by date \u201cJUN 12 2024,\u201d time stamp \u201c08:59,\u201d lot code \u201c217638176,\u201d and establishment number \u201cP-27497\u201d printed on the label."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Nevada"
+  ]
+}
