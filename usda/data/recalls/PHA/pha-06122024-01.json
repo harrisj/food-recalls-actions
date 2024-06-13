@@ -1,0 +1,33 @@
+{
+  "id": "PHA-06122024-01",
+  "title": " FSIS Issues Public Health Alert For Not-Ready-To-Eat Pork And Beef Bacon Products Due to Sodium Nitrite Levels in Excess of Regulatory Limit",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-not-ready-eat-pork-and-beef-bacon-products-due",
+  "reasons": [
+    "Unfit for Human Consumption"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2024-06-12",
+  "end_date": null,
+  "summary": " WASHINGTON, June 12, 2024 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for not-ready-to-eat pork and beef bacon products due to levels of sodium nitrite that exceed the regulatory limit. FSIS is issuing this public...\n",
+  "establishment": {
+    "id": "M47852+P47852",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/farmstead-butcher-block-llc",
+    "slug": "farmstead-butcher-block-llc",
+    "name": "Farmstead Butcher Block LLC",
+    "address": "3060 Cleaton Rd  \n  Central City, KY\n     42330",
+    "telephone": "(301) 616-8433",
+    "grant_date": "2023-02-28",
+    "activities": [
+      "Meat Processing;  Meat Slaughter;  Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022\tPackages purchased by weight at the retail counter containing \u201cFARMSTEAD LOCAL HOUSE SMOKED BACON,\u201d bearing sell by dates MAY.2.24 through JUN.27.24. "
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Tennessee"
+  ]
+}
