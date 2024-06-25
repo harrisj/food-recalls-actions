@@ -10,7 +10,7 @@
   "risk_level": "High",
   "start_date": "2024-06-12",
   "end_date": null,
-  "summary": " WASHINGTON, June 12, 2024 \u2013 Bonneval Foods, LLC, a Gonzales, La. establishment, is recalling all barbecue pork skin product that is currently available in commerce due to misbranding and undeclared allergens, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The...\n",
+  "summary": " Editor\u2019s Note: June 24, 2024 \u2013 This recall release has been updated to include the approximate amount of 45 pounds of product subject to recall, which was inadvertently left out from the original release. The distribution area was also updated to include retail locations in...\n",
   "establishment": {
     "id": "M2249",
     "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/bonneval-foods-llc",
@@ -29,6 +29,7 @@
   "quantity_recovered": null,
   "quantity_unit": null,
   "states": [
-    "Louisiana"
+    "Louisiana",
+    "Mississippi"
   ]
 }
