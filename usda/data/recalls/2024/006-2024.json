@@ -5,26 +5,28 @@
   "reasons": [
     "Processing Defect"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2024-02-12",
-  "end_date": null,
+  "end_date": "2024-07-08",
   "summary": " WASHINGTON, Feb. 12, 2024 \u2013 Fratelli Beretta USA, Inc., a Mount Olive, N.J. establishment, is recalling an undetermined amount of ready-to-eat (RTE) meat charcuterie products containing Coppa that may be under processed, which may have resulted in possible contamination with foodborne pathogens, the U.S. Department...\n",
   "establishment": {
     "id": "M47967",
     "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/fratelli-beretta-usa-inc.-0",
     "slug": "fratelli-beretta-usa-inc-0",
     "name": "Fratelli Beretta USA, INC.",
-    "address": "700 International Drive \n  Mount Olive, NJ\n     07828",
+    "address": "700 International Drive  \n  Mount Olive, NJ\n     07828",
     "telephone": "(201) 438-0723",
     "grant_date": "2023-04-10",
     "activities": [
       "Meat Processing"
     ]
   },
-  "impacted_products": [],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "impacted_products": [
+    "632,573 pounds of recalled product."
+  ],
+  "quantity_recovered": 632573,
+  "quantity_unit": "lbs",
   "states": [
     "Nationwide"
   ]

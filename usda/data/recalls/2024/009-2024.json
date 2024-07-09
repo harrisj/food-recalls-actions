@@ -5,10 +5,10 @@
   "reasons": [
     "Product Contamination"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2024-02-29",
-  "end_date": null,
+  "end_date": "2024-07-09",
   "summary": "  WASHINGTON, Feb. 29, 2024 \u2013 MF Meats, a Falconer, N.Y. establishment, is recalling approximately 93,277 pounds of raw meat products, which may have been contaminated with non-food grade mineral seal oil, which is not approved for use in meat processing, the U.S. Department of Agriculture\u2019s...\n\n",
   "establishment": {
     "id": "M569+P569",
@@ -19,13 +19,12 @@
     "telephone": "(716) 355-4111",
     "grant_date": "2021-12-09",
     "activities": [
-      "Meat Processing",
-      "Poultry Processing"
+      "Meat Processing;  Poultry Processing"
     ]
   },
   "impacted_products": [],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 30895,
+  "quantity_unit": "lbs",
   "states": [
     "New York",
     "Ohio",
