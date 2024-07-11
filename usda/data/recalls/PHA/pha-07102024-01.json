@@ -1,0 +1,37 @@
+{
+  "id": "PHA-07102024-01",
+  "title": "FSIS Issues Public Health Alert for Ineligible Meat and Poultry Products Illegally Imported from the Philippines",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ineligible-meat-and-poultry-products-illegally",
+  "reasons": [
+    "Import Violation"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2024-07-10",
+  "end_date": null,
+  "summary": "  WASHINGTON, July 10, 2024 - The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) is issuing a public health alert for ready-to-eat meat and poultry products that were illegally imported from the Philippines. The Philippines is a country not eligible to export meat...\n\n",
+  "establishment": null,
+  "impacted_products": [
+    "150-g. can of \"Argentina BRAND CORNED BEEF.\"",
+    "175-g. can of \"Argentina BRAND CORNED BEEF.\"",
+    "260-g. can of \"Argentina BRAND CORNED BEEF.\"",
+    "150-g. can of \"PUREFOODS CORNED BEEF.\"",
+    "210-g. can of \"PUREFOODS CORNED BEEF.\"",
+    "150-g. can of \"CHUNKEE CORNED BEEF.\"",
+    "190-g. can of \"CHUNKEE CORNED BEEF.\"",
+    "7.43-oz. jar of \"Lady's Choice Chicken Spread.\""
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Connecticut",
+    "Delaware",
+    "Maryland",
+    "New Jersey",
+    "New York",
+    "North Carolina",
+    "Ohio",
+    "South Carolina",
+    "Virginia"
+  ]
+}
