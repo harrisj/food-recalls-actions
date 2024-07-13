@@ -1,0 +1,35 @@
+{
+  "id": "021-2024",
+  "title": "Taylor's Sausage, Inc. Recalls Ready-To-Eat Landjaeger Sausage Products Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/taylors-sausage-inc--recalls-ready-eat-landjaeger-sausage-products-due-misbranding",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2024-07-13",
+  "end_date": null,
+  "summary": "  WASHINGTON, July 13, 2024 - Taylor's Sausage, Inc., a Cave Junction, Ore., establishment, is recalling approximately 74 pounds of ready-to-eat Landjaeger sausage products due to misbranding and undeclared allergens, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today. The product contains...\n\n",
+  "establishment": {
+    "id": "M6172+P6172+V6172",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/taylors-sausage-inc.",
+    "slug": "taylors-sausage-inc",
+    "name": "Taylor's Sausage, Inc.",
+    "address": "525 West Watkins Street  \n  Cave Junction, OR\n     97523",
+    "telephone": "(541) 592-4185",
+    "grant_date": "2021-08-26",
+    "activities": [
+      "Meat Processing;  Poultry Processing;  Voluntary Processing - Meat;  Voluntary Processing - Poultry"
+    ]
+  },
+  "impacted_products": [
+    "14.4 oz. vacuum-packed packages containing 12 pieces of \"TAYLOR'S Sausage Hot LANDJAEGER\" with lot code \"23342-2\" and use-by date \"12 8 25\" represented on the back of the package."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "California",
+    "Oregon"
+  ]
+}
