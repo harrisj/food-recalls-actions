@@ -5,10 +5,10 @@
   "reasons": [
     "Import Violation"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2024-06-04",
-  "end_date": null,
+  "end_date": "2024-08-01",
   "summary": " WASHINGTON, June 4, 2024 - South American Meat Inc., also known as 5Gogi LLC, an importer located in Commerce, Calif., is recalling approximately 20,111 pounds of various eligible frozen raw beef products that were not presented to FSIS for import reinspection upon entry into the...\n",
   "establishment": null,
   "impacted_products": [
@@ -22,8 +22,8 @@
     "Various weight cardboard cases labeled as \u201cFrigor\u00edfico Casa Blanca S.A. MARUCHA OYSTER BLADE\u201d with case code JP0008 containing individually vacuum sealed products displaying \u201cFRICASA\u201d.",
     "Various weight cardboard cases labeled as \u201cFrigor\u00edfico Casa Blanca S.A. PECHO BRISKET\u201d with case code JP0009 containing individually vacuum sealed products displaying \u201cFRICASA\u201d."
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 5000,
+  "quantity_unit": "lbs",
   "states": [
     "Arizona",
     "California",

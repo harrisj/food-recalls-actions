@@ -6,10 +6,10 @@
     "Misbranding",
     "Unreported Allergens"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2024-04-26",
-  "end_date": null,
+  "end_date": "2024-08-01",
   "summary": " WASHINGTON, April 26, 2024 \u2013 802 VT Frozen, a Newport, Vt. establishment, is recalling approximately 8,221 pounds of frozen meat pizza due to misbranding and undeclared allergens, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The product contains soy, a...\n",
   "establishment": {
     "id": "M46308+P46308",
@@ -26,8 +26,8 @@
   "impacted_products": [
     "17.8-oz. cardboard box containing \u201c802 VT Frozen MEAT!!! CRISPY WOOD-FIRED CRUST HAND MADE PIZZA\u201d with \u201cbest if used by\u201d dates of April 25, 2024, through April 25, 2025."
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 857,
+  "quantity_unit": "lbs",
   "states": [
     "Connecticut",
     "Maine",
