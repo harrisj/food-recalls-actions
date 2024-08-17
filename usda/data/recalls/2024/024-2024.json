@@ -1,0 +1,33 @@
+{
+  "id": "024-2024",
+  "title": "Perdue Foods LLC, Recalls Frozen, Ready-To-Eat Chicken Breast Nugget and Tender Products  Due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/perdue-foods-llc-recalls-frozen-ready-eat-chicken-breast-nugget-and-tender-products",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2024-08-16",
+  "end_date": null,
+  "summary": " WASHINGTON, Aug. 16, 2024 \u2013 Perdue Foods LLC, a Perry, Ga. establishment, is recalling approximately 167,171 pounds of frozen, ready-to-eat chicken breast nugget and tender products that may be contaminated with foreign material, specifically metal, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service...\n",
+  "establishment": {
+    "id": "P33944",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/perdue-foods-llc-9",
+    "slug": "perdue-foods-llc-9",
+    "name": "Perdue Foods LLC",
+    "address": "240 GA Highway 247 Spur  \n  Perry, GA\n     31069",
+    "telephone": "(478) 988-6000",
+    "grant_date": "2019-03-21",
+    "activities": [
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022\t22-oz. (1.38-lbs.) vacuum-sealed plastic packages containing \u201cPERDUE Simply  Smart ORGANICS Breaded CHICKEN BREAST NUGGETS\u201d with Best If Used By date of \u201c03 23 25\u201d represented on the back of the package.",
+    "\u2022\t29-oz. (1.81-lbs.) vacuum-sealed plastic packages containing \u201cPERDUE CHICKEN BREAST TENDERS with Best If Used By date of \u201c03 23 25\u201d represented on the back of the package.",
+    "\u2022\t22-oz. (1.38-lbs.) vacuum-sealed packages containing \u201cBUTCHERBOX Organic Chicken Breast Nuggets\u201d with Best If Used By date of \u201c03 23 25\u201d represented on the back of the package."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}
