@@ -5,17 +5,17 @@
   "reasons": [
     "Product Contamination"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2024-07-05",
-  "end_date": null,
+  "end_date": "2024-08-16",
   "summary": " WASHINGTON, July 5, 2024 \u2013 Al-Safa US LLC, the importer of record located in Mississauga, Ontario, Canada, is recalling approximately 2,010 pounds of imported frozen ready-to-eat chicken products that may be adulterated with Listeria monocytogenes, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service...\n",
   "establishment": null,
   "impacted_products": [
     "\u2022\t12.1-oz. cardboard box package containing \u201cAl Safa Halal Charcoal Grilled Chicken Seekh Kebab Grilled, Minced, Chicken Patty Kebab\u201d with \u201cNOV 30 25\u201d and \u201c0605404\u201d printed on a sticker on the outside of the package.",
     "\u2022\t14.11-oz. cardboard box package containing \u201cAl Safa Halal Fully Cooked Chicken Chapli Kebab Seasoned Chicken Patty\u201d with \u201cNOV 30 25\u201d and \u201c0605416\u201d printed on a sticker on the outside of the package."
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 1320,
+  "quantity_unit": "lbs",
   "states": null
 }
