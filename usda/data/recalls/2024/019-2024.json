@@ -6,10 +6,10 @@
     "Misbranding",
     "Unreported Allergens"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2024-06-30",
-  "end_date": null,
+  "end_date": "2024-09-30",
   "summary": " WASHINGTON, June 30, 2024 \u2013 M.G. Waldbaum dba Michael Foods Inc., a Gaylord, Minn. establishment, is recalling approximately 4,620 pounds of liquid egg products due to misbranding and undeclared allergens, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The product...\n",
   "establishment": {
     "id": "G1455",
@@ -26,8 +26,8 @@
   "impacted_products": [
     "\u2022\t32-oz. paperboard carton containing \u201cFAIR MEADOW Foundations WHOLE EGGS with CITRIC ACID\u201d with the use by date of \u201c16 SEP 24\u201d and lot code 4162G. This product is packaged within a corrugated case labeled Scrambled Egg Blend with the same use by date and"
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 27780,
+  "quantity_unit": "lbs",
   "states": [
     "Nationwide"
   ]
