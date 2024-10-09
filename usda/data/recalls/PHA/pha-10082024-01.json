@@ -1,0 +1,38 @@
+{
+  "id": "PHA-10082024-01",
+  "title": "FSIS Issues Public Health Alert for Ready-To-Eat Cranberry Chicken Salad Products Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-cranberry-chicken-salad-products-due",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2024-10-08",
+  "end_date": null,
+  "summary": " WASHINGTON, Oct. 8, 2024 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for chicken salad products labeled as Cranberry Chicken Salad due to misbranding and undeclared allergens. The product labeled as Cranberry Chicken Salad may...\n",
+  "establishment": {
+    "id": "M7573+P7573",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/hans-kissle-company-llc",
+    "slug": "hans-kissle-company-llc",
+    "name": "Hans Kissle Company, LLC",
+    "address": "9 Creek Brook Drive  \n  Haverhill, MA\n     01832",
+    "telephone": "(978) 556-4500",
+    "grant_date": "2019-07-19",
+    "activities": [
+      "Meat Processing;  Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "12-oz. clear plastic packages containing \u201cCranberry Chicken Salad with white meat chicken\u201d with a use-by date of 10/25/24.\u00a0"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Connecticut",
+    "Massachusetts",
+    "Rhode Island",
+    "New Jersey",
+    "New York"
+  ]
+}
