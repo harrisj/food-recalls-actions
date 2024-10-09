@@ -1,0 +1,29 @@
+{
+  "id": "028-2024",
+  "title": "BrucePac Recalls Ready-To-Eat Meat and Poultry Products Due to Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/brucepac-recalls-ready-eat-meat-and-poultry-products-due-possible-listeria",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2024-10-09",
+  "end_date": null,
+  "summary": " WASHINGTON, Oct. 9, 2024 \u2013 BrucePac, a Durant, Okla. establishment, is recalling approximately 9,986,245 pounds of ready-to-eat (RTE) meat and poultry products that may be adulterated with Listeria monocytogenes, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The ready-to-eat meat...\n",
+  "establishment": {
+    "id": "M51205+P51205+V51205",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/brucepac",
+    "slug": "brucepac",
+    "name": "BrucePac",
+    "address": "1915 Business 70  \n  Durant, OK\n     74701",
+    "telephone": "(580) 380-4743",
+    "grant_date": "2022-04-15",
+    "activities": [
+      "Certification - Export;  Meat Processing;  Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}
