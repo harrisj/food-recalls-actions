@@ -1,0 +1,36 @@
+{
+  "id": "PHA-10242024-01",
+  "title": "FSIS Issues Public Health Alert for Ineligible Meat and Poultry Products Illegally Imported from the Republic of the Union of Myanmar",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ineligible-meat-and-poultry-products-illegally-1",
+  "reasons": [
+    "Import Violation"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2024-10-24",
+  "end_date": null,
+  "summary": " WASHINGTON, Oct. 24, 2024 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for various meat and poultry products that were illegally imported from the Republic of the Union of Myanmar. FSIS is continuing to investigate...\n",
+  "establishment": null,
+  "impacted_products": [
+    "180-g. cans containing \u201cBEST BEEF CURRY.\u201d ",
+    "425-g. cans containing \u201cBEST Chicken Biryani.\u201d ",
+    "360-g. cans containing \u201cHti Mi Gwik Dry MoHinGa Paste.\u201d ",
+    "425-g. cans containing \u201cBEST Myanmar Duck Blood.\u201d ",
+    "400-g. cans containing \u201cEain Chak MoHinGa Paste.\u201d ",
+    "160-g. vacuum sealed clear packages containing \u201cMin Thar Gyi Dried Fish.\u201d ",
+    "400-g. cans containing \u201cEain Chak Coconut Soup Paste.\u201d "
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Arizona",
+    "California",
+    "Iowa",
+    "Kansas",
+    "Maryland",
+    "Minnesota",
+    "Nebraska",
+    "Oklahoma",
+    "Texas"
+  ]
+}
