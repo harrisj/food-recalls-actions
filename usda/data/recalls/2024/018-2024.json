@@ -6,10 +6,10 @@
     "Misbranding",
     "Unreported Allergens"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2024-06-12",
-  "end_date": null,
+  "end_date": "2024-11-06",
   "summary": " Editor\u2019s Note: June 24, 2024 \u2013 This recall release has been updated to include the approximate amount of 45 pounds of product subject to recall, which was inadvertently left out from the original release. The distribution area was also updated to include retail locations in...\n",
   "establishment": {
     "id": "M2249",
@@ -26,8 +26,8 @@
   "impacted_products": [
     "\u2022\t1.7-oz. plastic bags containing \u201cBONNEVAL\u2019S BBQ Pork Skins\u201d. All product available in retail or in consumer\u2019s pantries is included in this recall. "
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 13,
+  "quantity_unit": "lbs",
   "states": [
     "Louisiana",
     "Mississippi"

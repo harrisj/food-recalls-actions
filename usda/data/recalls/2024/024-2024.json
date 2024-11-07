@@ -5,10 +5,10 @@
   "reasons": [
     "Product Contamination"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2024-08-16",
-  "end_date": null,
+  "end_date": "2024-11-06",
   "summary": "  WASHINGTON, Aug. 16, 2024 - Perdue Foods LLC, a Perry, Ga. establishment, is recalling approximately 167,171 pounds of frozen, ready-to-eat chicken breast nugget and tender products that may be contaminated with foreign material, specifically metal, the U.S. Department of Agriculture's Food Safety and Inspection Service...\n\n",
   "establishment": {
     "id": "P33944",
@@ -27,7 +27,7 @@
     "\u2022\t29-oz. (1.81-lbs.) vacuum-sealed plastic packages containing \u201cPERDUE CHICKEN BREAST TENDERS with Best If Used By date of \u201c03 23 25\u201d represented on the back of the package.",
     "\u2022\t22-oz. (1.38-lbs.) vacuum-sealed packages containing \u201cBUTCHERBOX Organic Chicken Breast Nuggets\u201d with Best If Used By date of \u201c03 23 25\u201d represented on the back of the package."
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 26243,
+  "quantity_unit": "lbs",
   "states": null
 }
