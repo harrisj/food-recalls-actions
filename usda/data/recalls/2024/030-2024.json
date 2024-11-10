@@ -1,0 +1,29 @@
+{
+  "id": "030-2024",
+  "title": "Yu Shang Food Inc. Recalls Ready-to-Eat Meat and Poultry Products Due to Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/yu-shang-food-inc--recalls-ready-eat-meat-and-poultry-products-due-possible-listeria",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2024-11-09",
+  "end_date": null,
+  "summary": " WASHINGTON, Nov. 9, 2024 \u2013 Yu Shang Food, Inc, a Spartanburg, SC, establishment, is recalling approximately 4,589 pounds of ready-to-eat (RTE) meat and poultry products out of an abundance of caution. These products may be adulterated with Listeria monocytogenes, according to the U.S. Department of...\n",
+  "establishment": {
+    "id": "M46684+P46684",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/yushang-food-inc.",
+    "slug": "yushang-food-inc",
+    "name": "Yushang Food Inc.",
+    "address": "185 South Port Road  \n  Spartanburg, SC\n     29316",
+    "telephone": "(510) 735-6999",
+    "grant_date": "2021-10-27",
+    "activities": [
+      "Meat Processing;  Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}
