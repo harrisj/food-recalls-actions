@@ -1,0 +1,29 @@
+{
+  "id": "031-2024",
+  "title": "Wolverine Packing Co. Recalls Ground Beef Products Due to Possible E. Coli O157:H7 Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/wolverine-packing-co--recalls-ground-beef-products-due-possible-e--coli-o157h7",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2024-11-20",
+  "end_date": null,
+  "summary": " WASHINGTON, Nov. 20, 2024 \u2013 Wolverine Packing Co., a Detroit, Mich. establishment, is recalling approximately 167,277 pounds of ground beef products that may be contaminated with E. coli O157:H7, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The fresh products...\n",
+  "establishment": {
+    "id": "M2574B+P2574B",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/wolverine-packing-co.-0",
+    "slug": "wolverine-packing-co-0",
+    "name": "Wolverine Packing Co.",
+    "address": "1337 Winder Street  \n  Detroit, MI\n     48207",
+    "telephone": "(313) 259-7500",
+    "grant_date": "2015-11-05",
+    "activities": [
+      "Meat Processing;  Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}
