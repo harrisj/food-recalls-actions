@@ -6,10 +6,10 @@
     "Misbranding",
     "Unreported Allergens"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2024-09-12",
-  "end_date": null,
+  "end_date": "2024-12-03",
   "summary": " WASHINGTON, Sept. 12, 2024 \u2013 Dearborn Sausage Company, Inc., a Dearborn, Mich. establishment, is recalling approximately 1,944 pounds of ready-to-eat (RTE) wiener products due to misbranding and undeclared allergens, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The labels of...\n",
   "establishment": {
     "id": "M10002+P10002+V10002",
@@ -27,8 +27,8 @@
     "\u2022 2-lb. vacuum-sealed packages of \u201cBROOKSIDE BRAND FULLY COOKED NATURAL CASING BEEF WIENERS\u201d that may contain undeclared pork with lot code A0122024 and sell by date 11/05/2024.",
     "\u2022 2-lb. vacuum-sealed packages of \u201cBROOKSIDE BRAND NATURAL CASING FULLY COOKED WIENERS\u201d that may contain undeclared soy with lot code A0322024 and sell by date 11/05/2024."
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 1310,
+  "quantity_unit": "lbs",
   "states": [
     "Ohio"
   ]
