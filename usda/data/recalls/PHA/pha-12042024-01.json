@@ -1,0 +1,22 @@
+{
+  "id": "PHA-12042024-01",
+  "title": " FSIS Issues Public Health Alert for Ready-To-Eat Frozen Chicken Products Imported Without The Benefit Of Import Reinspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-frozen-chicken-products-imported-without-0",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2024-12-04",
+  "end_date": null,
+  "summary": " WASHINGTON, Dec. 4, 2024 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for ready-to-eat (RTE) frozen chicken products that did not receive the benefit of import reinspection. A recall was not requested because the products...\n",
+  "establishment": null,
+  "impacted_products": [
+    "5-lb. cardboard box packages containing \u201cyummy Dino Buddies Holiday NUGGETS Breaded nugget shaped white meat chicken patties\u201d with a \u201cBest if Used by Date\u201d of 11/06/26 and Lot #241556."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "California"
+  ]
+}
