@@ -1,0 +1,26 @@
+{
+  "id": "032-2024",
+  "title": "Nail Factory Recalls Ineligible Frozen Siluriformes Fish Products Imported From Vietnam",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/nail-factory-recalls-ineligible-frozen-siluriformes-fish-products-imported-vietnam",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2024-12-19",
+  "end_date": null,
+  "summary": " WASHINGTON, Dec. 19, 2024 \u2013 NAIL Factory, the importer of record, located in Huntington Beach, Calif., is recalling approximately 1,635 pounds of ineligible frozen Siluriformes fish products that were produced by an establishment in Vietnam that is not eligible to export Siluriformes fish to the...\n",
+  "establishment": null,
+  "impacted_products": [
+    "\u2022\t28.2-oz. plastic containers containing \u201cDac san dong que CA TRE VANG KHO TO Stewed Walking Catfish\u201d with a \u201cBEST BEFORE: Dec 30, 2025.\u201d",
+    "\u2022\t28.2-oz. plastic containers containing \u201cDac san dong que CA HU KHO TO Stewed Shark Catfish\u201d with a \u201cBEST BEFORE: Dec 30, 2025.\u201d",
+    "\u2022\t24.7-oz. plastic containers containing \u201cDac san dong que CA TRE VANG CHIEN NUOC MAM GUNG Fried Walking Catfish\u201d with a \u201cBEST BEFORE: Dec 30, 2025.\u201d"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Arizona",
+    "California",
+    "Iowa"
+  ]
+}
