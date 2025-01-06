@@ -1,0 +1,33 @@
+{
+  "id": "PHA-01052025-01",
+  "title": "FSIS Issues Public Health Alert for Frozen, Raw Ground Beef Products Due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-frozen-raw-ground-beef-products-due-possible-foreign",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2025-01-05",
+  "end_date": null,
+  "summary": "  WASHINGTON, Jan. 5, 2025 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert due to concerns of frozen, raw ground beef products that may be contaminated with foreign material, specifically hard plastic and metal. FSIS is...\n\n",
+  "establishment": {
+    "id": "M2035+P2035",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/stockyards-packing-co-llc",
+    "slug": "stockyards-packing-co-llc",
+    "name": "Stockyards Packing Co LLC",
+    "address": "6365 College Corner Pike  \n  Oxford, OH\n     45056",
+    "telephone": "(513) 312-0648",
+    "grant_date": "2024-05-01",
+    "activities": [
+      "Meat Processing;  Meat Slaughter;  Poultry Processing;  Poultry Slaughter"
+    ]
+  },
+  "impacted_products": [
+    "vacuum-sealed packages weighing approximately one pound containing \u201cTurner Farm\u201d, \u201cSTOCKYARDS PACKING COMPANY GROUND BEEF\u201d and lot code 241210.  "
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Ohio"
+  ]
+}
