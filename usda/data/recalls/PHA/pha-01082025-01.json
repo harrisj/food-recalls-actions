@@ -1,0 +1,31 @@
+{
+  "id": "PHA-01082025-01",
+  "title": "FSIS Issues Public Health Alert For Chicken Empanada Products  Due To Misbranding And Undeclared Allergen ",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-chicken-empanada-products-due-misbranding-and",
+  "reasons": [
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2025-01-08",
+  "end_date": null,
+  "summary": " WASHINGTON, Jan. 8, 2025 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for frozen product labeled as Chicken Curry Empanadas due to misbranding and an undeclared allergen. The product labeled as Chicken Curry Empanadas may...\n",
+  "establishment": {
+    "id": "M33967+P33967",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/rajbhog-foods-nj-inc.",
+    "slug": "rajbhog-foods-nj-inc",
+    "name": "Rajbhog Foods (NJ), Inc.",
+    "address": "60 Amity Street  \n  Jersey City, NJ\n     07304",
+    "telephone": "",
+    "grant_date": "2022-03-24",
+    "activities": [
+      "Meat Processing;  Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022\t9.6-oz. cardboard packages labeled as \u201cbettergoods TRADITIONALLY CRAFTED Chicken Curry Empanadas\u201d with \u201cBEST BY: 05/21/26\u201d or \u201cBEST BY: 05/22/26\u201d and \u201cEST. P33967\u201d on the side of the box. "
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}
