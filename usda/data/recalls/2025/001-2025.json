@@ -1,0 +1,31 @@
+{
+  "id": "001-2025",
+  "title": "Bestway Sandwiches Inc. Recalls Frozen Chicken And Cheese Taquito Products Due To Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/bestway-sandwiches-inc--recalls-frozen-chicken-and-cheese-taquito-products-due",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2025-01-11",
+  "end_date": null,
+  "summary": " WASHINGTON, Jan. 11, 2025 \u2013 Bestway Sandwiches Inc., a Valencia, Calif. establishment, is recalling approximately 24,870 pounds of frozen chicken and cheese taquito products that may be contaminated with foreign material, specifically metal, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced...\n",
+  "establishment": {
+    "id": "M40327+P40327",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/bestway-sandwiches-inc.",
+    "slug": "bestway-sandwiches-inc",
+    "name": "Bestway Sandwiches Inc.",
+    "address": "28209 Avenue Stanford  \n  Valencia, CA\n     91355",
+    "telephone": "(818) 361-1800",
+    "grant_date": "2021-08-13",
+    "activities": [
+      "Meat Processing;  Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "20-oz. carton packages containing \u201cCASA MAMITA CHICKEN & CHEESE TAQUITOS,\u201d with Best By Dates 07/03/25 and 09/25/25 on the bottom panel. \u00a0\u00a0\u00a0"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}
