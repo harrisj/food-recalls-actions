@@ -1,0 +1,34 @@
+{
+  "id": "003-2025",
+  "title": "Custom Food Solutions Recalls Ready-To-Eat Frozen Drunken Chicken Product Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/custom-food-solutions-recalls-ready-eat-frozen-drunken-chicken-product-due",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2025-01-22",
+  "end_date": null,
+  "summary": "  WASHINGTON, Jan. 22, 2025 \u2013 Custom Food Solutions, a Louisville, Kentucky establishment, is recalling approximately 105,164 pounds of ready-to-eat (RTE) frozen drunken chicken product due to misbranding and undeclared allergens, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The product...\n\n",
+  "establishment": {
+    "id": "M17891+P17891+V17891",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/custom-food-solutions-llc",
+    "slug": "custom-food-solutions-llc",
+    "name": "Custom Food Solutions, LLC",
+    "address": "2505 Data Drive  \n  Louisville, KY\n     40299",
+    "telephone": "(502) 671-6966",
+    "grant_date": "2022-04-19",
+    "activities": [
+      "Meat Processing;  Poultry Processing;  Voluntary Processing - Meat;  Voluntary Processing - Poultry"
+    ]
+  },
+  "impacted_products": [
+    "60-lb. cases containing 12, 5-lb. pouches of \u201cYATS DRUNKEN CHICKEN COOKED CHICKEN THIGH MEAT IN A SPICY TOMATO SAUCE WITH BEER\u201d with lot codes 4074, 4102, 4130, 4144, 4163, 4178, 4214, 4229, 4236, 4255, 4325, 4326, 4339, 4355, 5002 and 5015."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Indiana"
+  ]
+}
