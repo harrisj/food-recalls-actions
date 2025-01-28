@@ -1,0 +1,41 @@
+{
+  "id": "PHA-01272025-01",
+  "title": "FSIS Issues Public Health Alert for Wegmans Frozen Fully Cooked Chicken Nuggets Due to Possible Extraneous Material Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-wegmans-frozen-fully-cooked-chicken-nuggets-due",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2025-01-27",
+  "end_date": null,
+  "summary": " WASHINGTON, Jan. 27, 2025 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for frozen, fully cooked Wegmans breaded chicken breast nuggets that may be contaminated with extraneous material, specifically bone fragments. FSIS is issuing this...\n",
+  "establishment": {
+    "id": "P33944",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/perdue-foods-llc-9",
+    "slug": "perdue-foods-llc-9",
+    "name": "Perdue Foods LLC",
+    "address": "240 GA Highway 247 Spur  \n  Perry, GA\n     31069",
+    "telephone": "(478) 988-6000",
+    "grant_date": "2019-03-21",
+    "activities": [
+      "Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022\t46-oz. plastic packages containing \u201cWegmans FAMILY PACK FULLY COOKED Breaded Chicken Breast with Rib Meat\u201d and a best if used by date 08 26 25, located on the back of the packaging next to the barcode in the lower right corner. "
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Delaware",
+    "Maryland",
+    "Massachusetts",
+    "New Jersey",
+    "New York",
+    "North Carolina",
+    "Pennsylvania",
+    "Virginia",
+    "District of Columbia"
+  ]
+}
