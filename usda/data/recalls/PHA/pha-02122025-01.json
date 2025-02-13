@@ -1,0 +1,38 @@
+{
+  "id": "PHA-02122025-01",
+  "title": "FSIS Issues Public Health Alert for Frozen Ready-To-Eat Meat and Poultry Pasties Due to Misbranding and Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-frozen-ready-eat-meat-and-poultry-pasties-due",
+  "reasons": [
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2025-02-12",
+  "end_date": null,
+  "summary": " WASHINGTON, Feb. 12, 2025 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for frozen, fully cooked ready-to-eat (RTE) meat and poultry pasties due to misbranding and an undeclared allergen. The products were produced using an...\n",
+  "establishment": {
+    "id": "M20650+P20650",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/pasty-oven-inc.",
+    "slug": "pasty-oven-inc",
+    "name": "The Pasty Oven, Inc.",
+    "address": "Lot #3 of the Florence Industrial Park  \n  Florence, WI\n     54121",
+    "telephone": "(715) 528-5376",
+    "grant_date": "2021-09-22",
+    "activities": [
+      "Meat Processing;  Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022\t8-oz. plastic packages containing \u201cThe Pasty Oven Pasty WITH CHICKEN & CHEESE\u201d with best by dates of December 11, 2025, and prior.",
+    "\u2022\t8-oz. plastic packages containing \u201cThe Pasty Oven Pasty PIZZA PASTY WITH PEPPERONI\u201d with best by dates of December 11, 2025, and prior.",
+    "\u2022\t15-lb. cases containing 30 8-oz. units of \u201cThe Pasty Oven Pasty WITH CHICKEN & CHEESE\u201d with best by dates of December 11, 2025, and prior.",
+    "\u2022\t15-lb. cases containing 30 8-oz. units of \u201cThe Pasty Oven Pasty PIZZA PASTY WITH PEPPERONI\u201d with best by dates of December 11, 2025, and prior."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Michigan",
+    "Minnesota",
+    "Wisconsin"
+  ]
+}
