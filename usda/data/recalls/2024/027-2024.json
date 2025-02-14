@@ -5,10 +5,10 @@
   "reasons": [
     "Misbranding"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2024-09-27",
-  "end_date": null,
+  "end_date": "2025-02-10",
   "summary": "  Editor's Note: Oct. 3, 2024 - Details of this recall were updated to reflect that the product was also shipped to retail locations in Oklahoma. WASHINGTON, Sept. 27, 2024 \u2013 Pork Dynasty Inc., a Houston, Texas establishment, is recalling approximately 469 pounds of ready-to-eat fried...\n\n",
   "establishment": {
     "id": "M46015",
@@ -26,7 +26,7 @@
     "\u2022\t3.5-oz. plastic bags containing \u201cTEXARONES BORN IN THE PHILIPPINES \u2013 MADE IN TEXAS FRIED OUT PORK FAT WITH ATTACHED SKIN SPICY.\u201d",
     "\u2022\t2.5-oz. plastic bags containing \u201cTEXARONES BORN IN THE PHILIPPINES \u2013 MADE IN TEXAS FRIED PORK SKIN SPICY.\u201d"
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 308,
+  "quantity_unit": "lbs",
   "states": null
 }
