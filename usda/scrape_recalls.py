@@ -18,6 +18,7 @@ class RecallScraper:
     def __init__(self, dest_dir:str, max_page:Optional[int]):
         self.dest_dir = dest_dir
         self.max_page = max_page
+        self.useragent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:135.0) Gecko/20100101 Firefox/135.0"
 
 
     def parse_max_page(self, doc):
@@ -38,7 +39,7 @@ class RecallScraper:
 
     def scrape_establishment(self, url:str):
         url = urljoin(RECALLS_URL, url)
-        r = requests.get(url, headers = {'User-agent': 'Mozilla/5.0'})
+        r = requests.get(url, headers = {'User-agent': self.useragent})
 
         slug_search =  re.search("/([^/]+)$", url)
         assert slug_search
@@ -58,10 +59,10 @@ class RecallScraper:
             f.write(str(main_div))
 
 
-    
+
     def scrape_page(self, page_num:int):
         print(f'Scraping page {page_num}...')
-        r = requests.get(f'{RECALLS_URL}?page={page_num}')
+        r = requests.get(f'{RECALLS_URL}?page={page_num}', headers = {'User-agent': self.useragent})
         assert r.status_code == 200, f'Status {r.status_code} received from page'
 
         doc = BeautifulSoup(r.content, 'html.parser')
@@ -95,9 +96,9 @@ class RecallScraper:
             else:
                 print(f"  - {recall_id}")
 
-    
+
     def scrape_all(self):
-        r = requests.get(RECALLS_URL)
+        r = requests.get(RECALLS_URL, headers = {'User-agent': self.useragent})
         assert r.status_code == 200, f'Status {r.status_code} received from main page'
 
         doc = BeautifulSoup(r.content, 'html.parser')
