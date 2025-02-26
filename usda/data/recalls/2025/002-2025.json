@@ -6,10 +6,10 @@
     "Misbranding",
     "Unreported Allergens"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2025-01-13",
-  "end_date": null,
+  "end_date": "2025-02-19",
   "summary": "  WASHINGTON, Jan. 13, 2025 \u2013 UP Products, LLC, doing business as Meyer Wholesale, a Ewen, Mich. establishment, is recalling approximately 400 pounds of sausage products due to misbranding and an undeclared allergen, the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced today...\n\n",
   "establishment": {
     "id": "M1733",
@@ -27,8 +27,8 @@
     "5\" x 8\" vacuum-sealed packages containing \u201cOtto Meyer's Premium Sausage POLISH SAUSAGE\u201d with lot codes 24304, 24318, 24326, 24346 on a sticker.",
     "Bulk packed in 12\" x 24\" clear bags containing \u201cOtto Meyer's Premium Sausage POTATO SAUSAGE\u201d with dates 1/6/25, and 1/7/25 handwritten on the label."
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 28,
+  "quantity_unit": "lbs",
   "states": [
     "Michigan",
     "Wisconsin"

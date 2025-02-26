@@ -1,0 +1,30 @@
+{
+  "id": "007-2025",
+  "title": "C&T Produce Wholesale Inc. Dba L&v Food Supply Recalls Ineligible Frozen, Dried Silurifomes Products  Imported From Vietnam",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/ct-produce-wholesale-inc--dba-lv-food-supply-recalls-ineligible-frozen-dried",
+  "reasons": [
+    "Import Violation"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2025-02-25",
+  "end_date": null,
+  "summary": "  WASHINGTON, Feb. 25, 2025 \u2013 C&T Produce Wholesale Inc., doing business as L&V Food Supply, the importer of record, located in Houston, Texas, is recalling approximately 1,152 pounds of ineligible peppered frozen, dried Siluriformes fish products that were produced by an establishment in Vietnam that...\n\n",
+  "establishment": null,
+  "impacted_products": [
+    "2-lb. cardboard boxes containing \u201cPeppered Dried CATFISH.\u201d"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "California",
+    "Florida",
+    "Illinois",
+    "Nebraska",
+    "North Carolina",
+    "Ohio",
+    "Tennessee",
+    "Texas",
+    "Washington"
+  ]
+}
