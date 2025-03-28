@@ -5,10 +5,10 @@
   "reasons": [
     "Product Contamination"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2025-01-31",
-  "end_date": null,
+  "end_date": "2025-03-26",
   "summary": " WASHINGTON, Jan. 31, 2025 \u2013 D.J.\u2019s Boudain, LLC, a Beaumont, Texas, establishment, is recalling approximately 17,720 pounds of boudain sausage link products that may be contaminated with foreign materials, specifically pieces of a pen, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS)...\n",
   "establishment": {
     "id": "M13246",
@@ -23,8 +23,8 @@
     ]
   },
   "impacted_products": [],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 17029,
+  "quantity_unit": "lbs",
   "states": [
     "Louisiana",
     "Mississippi",
