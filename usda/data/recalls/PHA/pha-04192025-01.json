@@ -1,0 +1,33 @@
+{
+  "id": "PHA-04192025-01",
+  "title": "FSIS Issues Public Health Alert for Pork Carnitas Products Due to Possible Extraneous Material Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-pork-carnitas-products-due-possible-extraneous",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2025-04-19",
+  "end_date": null,
+  "summary": "  WASHINGTON, April 19, 2025 \u2013 The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) is issuing a public health alert for pork carnitas products that may be contaminated with foreign material, specifically pieces of metal. FSIS did not request a recall because this...\n\n",
+  "establishment": {
+    "id": "M46049+P46049+V46049",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/cargill-meat-solutions-7",
+    "slug": "cargill-meat-solutions-7",
+    "name": "Cargill Meat Solutions",
+    "address": "101 Chisholm Trail Road  \n  Round Rock, TX\n     78681",
+    "telephone": "(512) 735-9834",
+    "grant_date": "2021-07-13",
+    "activities": [
+      "Certification - Export;  Meat Processing;  Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "16-oz. sleeved tray packages containing \"Pork Carnitas SEASONED & SEARED PORK WITH JUICES SLOW COOKED WITH CITRUS\" with \"USE BY\" dates \"06/30/2025\" or \"07/01/2025\" printed on the side of the packaging."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Nationwide"
+  ]
+}
