@@ -1,0 +1,33 @@
+{
+  "id": "012-2025",
+  "title": "ACC Central Kitchen LLC Recalls Pork Bun Products Due To Misbranding and Undeclared Allergens  ",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/acc-central-kitchen-llc-recalls-pork-bun-products-due-misbranding-and-undeclared",
+  "reasons": [
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2025-04-24",
+  "end_date": null,
+  "summary": " WASHINGTON, April 24, 2025 \u2013 ACC Central Kitchen LCC., a Thorofare, N.J. establishment, is recalling approximately 64,008 pounds of pork bun products due to misbranding and undeclared allergens, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The product contains sesame...\n",
+  "establishment": {
+    "id": "M40031+P40031+G40031",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/acc-central-kitchen-llc",
+    "slug": "acc-central-kitchen-llc",
+    "name": "ACC Central Kitchen LLC",
+    "address": "280 Jessup Road  \n  Thorofare, NJ\n     08086",
+    "telephone": "",
+    "grant_date": "2022-03-15",
+    "activities": [
+      "Meat Processing;  Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022\t8.45-oz. sleeve tray packages of \u201c3 Meals A Day SOUPY PORK BUN WITH CRAB ROE\u201d with the following range of lot codes: 052625-090626"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "New York"
+  ]
+}
