@@ -1,0 +1,28 @@
+{
+  "id": "PHA-05012025-002",
+  "title": "FSIS Issues Public Health Alert for Ineligible Pork Cracklings Products Imported From the Republic of Colombia",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ineligible-pork-cracklings-products-imported",
+  "reasons": [
+    "Import Violation"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2025-05-01",
+  "end_date": null,
+  "summary": " WASHINGTON, May 1, 2025 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for potato chip products containing chicharr\u00f3n (pork cracklings) that were imported from the Republic of Colombia. Colombia is ineligible to export meat products...\n",
+  "establishment": null,
+  "impacted_products": [
+    "\u2022\t270-g. plastic bag containing six 45-g. foil bags of \u201cDe Todito NATURAL\u201d mixed chips with \u201cCHICHARR\u00d3N AMERICANO JACKS,\u201d \u201cMargarita,\u201d and \u201cNATU CHIPS.\u201d",
+    "\u2022\t165-g. foil bags containing \u201cDe Todito NATURAL\u201d mixed chips with \u201cCHICHARR\u00d3N AMERICANO JACKS,\u201d \u201cMargarita,\u201d and \u201cNATU CHIPS.\u201d",
+    "\u2022\t270-g. plastic bag containing six 45-g. foil bags of \u201cDe Todito BBQ\u201d mixed chips with \u201cCHICHARR\u00d3N AMERICANO JACKS,\u201d \u201cMargarita,\u201d and \u201cNatuChips.\u201d",
+    "\u2022\t165-g. foil bags containing \u201cDe Todito BBQ\u201d mixed chips with \u201cCHICHARR\u00d3N AMERICANO JACKS,\u201d \u201cMargarita,\u201d and \u201cNatuChips.\u201d",
+    "\u2022\t165-g. foil bags containing \u201cDe Todito LIM\u00d3N\u201d mixed chips with \u201cCHICHARR\u00d3N AMERICANO JACKS,\u201d \u201cMargarita,\u201d \u201cTOSTITOS,\u201d and \u201cNATU CHIPS.\u201d",
+    "\u2022\t270-g. plastic bag containing six 45-g. foil bags of \u201cDe Todito LIM\u00d3N\u201d mixed chips with \u201cCHICHARR\u00d3N AMERICANO JACKS,\u201d \u201cMargarita,\u201d \u201cTOSTITOS,\u201d and \u201cNATU CHIPS.\u201d",
+    "\u2022\t140-g. foil bags containing \u201cGOLPE CON TODO SABOR LIM\u00d3N\u201d mixed chips with \u201cRIZADAS,\u201d \u201cPL\u00c1TANOS,\u201d and \u201cChicharr\u00f3n Fred.\u201d"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Nationwide"
+  ]
+}
