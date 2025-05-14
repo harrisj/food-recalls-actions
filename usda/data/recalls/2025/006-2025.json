@@ -6,10 +6,10 @@
     "Misbranding",
     "Unreported Allergens"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "Low",
   "start_date": "2025-02-23",
-  "end_date": null,
+  "end_date": "2025-05-13",
   "summary": "  EDITOR'S NOTE: Feb. 24, 2025 - Details of this recall release were updated to reflect updated contact information for consumers. Consumers with questions about the recall can contact Ryan Calbreath, Quality Assurance Manager, LPK1, at 925-457-6738 or customerservice@freshandreadyfoods.com. WASHINGTON, Feb. 23, 2025 \u2013 LPK1, a...\n\n",
   "establishment": {
     "id": "M2276+P2276",
@@ -26,7 +26,7 @@
   "impacted_products": [
     "\u2022\t10-oz. clear clamshell containers containing \u201cthoughtfully handmade just for you Chicken Caesar Wrap with parmesan cheese, lettuce, Caesar dressing\u201d with Best By dates of 21 FEB, 23 FEB, 25 FEB, and lot codes LPK1WA046, LPK1WA048, LPK1WA050 printed on t"
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 89,
+  "quantity_unit": "lbs",
   "states": null
 }

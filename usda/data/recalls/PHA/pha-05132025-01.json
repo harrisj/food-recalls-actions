@@ -1,0 +1,36 @@
+{
+  "id": "PHA-05132025-01",
+  "title": "FSIS Issues Public Health Alert for Ready-To-Eat Chicken and Bacon Wrap Products Due to Possible Listeria Monocytogenes Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-chicken-and-bacon-wrap-products-due",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2025-05-13",
+  "end_date": null,
+  "summary": "  WASHINGTON, May 13, 2025 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for ready-to-eat (RTE) chicken and bacon wrap products due to concerns that the products may be contaminated with Listeria monocytogenes. A recall was...\n\n",
+  "establishment": {
+    "id": "M34657+P34657",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/rachaels-food-corporation",
+    "slug": "rachaels-food-corporation",
+    "name": "Rachael's Food Corporation",
+    "address": "749 Meadow Street  \n  Chicopee, MA\n     01013",
+    "telephone": "(800) 447-6537",
+    "grant_date": "2021-07-15",
+    "activities": [
+      "Meat Processing;  Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "10-oz. clear plastic clamshell packages containing \u201cBig Y quick easy meals CHICKEN BACON RANCH WRAP\u201d with \u201cSell By 05/07/2025\u201d and lot code 25122. ",
+    "10-oz. clear plastic clamshell packages containing \u201cMARKET 32 BY PRICE CHOPPER Chicken Bacon Ranch Wrap\u201d with \u201cSell Through 05/07/2025\u201d and lot code 25122. "
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Connecticut",
+    "Massachusetts",
+    "New York"
+  ]
+}
