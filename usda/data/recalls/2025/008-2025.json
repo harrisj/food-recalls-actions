@@ -5,10 +5,10 @@
   "reasons": [
     "Product Contamination"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2025-03-20",
-  "end_date": null,
+  "end_date": "2025-05-14",
   "summary": " EDITOR'S NOTE: March 27, 2025 -- Details of this recall release were updated to reflect that the product may be packaged into larger plastic bags that bear the establishment number \u201cV2059.\u201d The packages were shipped to distribution centers in California, Illinois, Michigan, Minnesota, and Washington...\n",
   "establishment": {
     "id": "M6220A+P6220A+V6220A",
@@ -26,8 +26,8 @@
     "\u2022\t1.15-oz vacuum-sealed packages of \u201cCHOMPS ORIGINAL BEEF STICK MILD,\u201d with an expiration date of 02-10-2026, and lot code 25016 printed on the label. The product subject to recall bears establishment number \u201c6220A\u201d ink-jetted on the package. ",
     "\u2022\t13.8-oz plastic bags containing 12 1.15-oz vacuum-sealed packages of \u201cCHOMPS ORIGINAL BEEF STICK MILD.\u201d The plastic bags bear establishment number \u201cV2059\u201d and \u201cLOT: 622025016,\u201d with expiration date 02-10-2026 printed on the bags. The individual sticks h"
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 1143,
+  "quantity_unit": "lbs",
   "states": [
     "Nationwide"
   ]
