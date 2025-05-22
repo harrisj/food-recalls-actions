@@ -5,10 +5,10 @@
   "reasons": [
     "Product Contamination"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2025-04-05",
-  "end_date": null,
+  "end_date": "2025-05-21",
   "summary": " WASHINGTON, April 5, 2025 \u2013 Johnsonville, LLC, a Momence, Ill. establishment, is recalling approximately 22,672 pounds of cheddar bratwurst product that may be contaminated with foreign material, specifically hard plastic, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The cheddar...\n",
   "establishment": {
     "id": "M1647+P18352",
@@ -25,8 +25,8 @@
   "impacted_products": [
     "19-oz. Sealed firm tray packages containing five pieces of \u201cJohnsonville BRATS CHEDDAR Bratwurst\u201d and the package code B9FOD. "
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 13505,
+  "quantity_unit": "pounds of recalled product",
   "states": [
     "Georgia",
     "Indiana",
