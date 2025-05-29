@@ -1,0 +1,33 @@
+{
+  "id": "018-2025",
+  "title": "Hormel Foods Corporation Recalls Canned Beef Stew Product Due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/hormel-foods-corporation-recalls-canned-beef-stew-product-due-possible-foreign",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2025-05-28",
+  "end_date": null,
+  "summary": " WASHINGTON, May 28, 2025 \u2013 Hormel Foods Corporation, a Tucker, Ga. establishment, is recalling approximately 256,185 pounds of canned beef stew product that may be contaminated with foreign material, specifically wood, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The...\n",
+  "establishment": {
+    "id": "M199G+P6620",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/hormel-foods-corporation-0",
+    "slug": "hormel-foods-corporation-0",
+    "name": "Hormel Foods Corporation",
+    "address": "3367 Montreal Industrial Way  \n  Tucker, GA\n     30085",
+    "telephone": "(770) 908-4000",
+    "grant_date": "2021-04-15",
+    "activities": [
+      "Meat Processing;  Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "20-oz. metal cans containing \u201cDinty Moore BEEF STEW\u201d with \u201cBEST BY FEB 2028\u201d and lot code \u201cT02045\u201d printed on the can. The lot code may have an additional number at the end."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Nationwide"
+  ]
+}
