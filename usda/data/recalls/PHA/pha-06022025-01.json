@@ -1,0 +1,34 @@
+{
+  "id": "PHA-06022025-01",
+  "title": "FSIS Issues Public Health Alert for Not-Ready-To-Eat Ham Croquette Product Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-not-ready-eat-ham-croquette-product-due-misbranding",
+  "reasons": [
+    "Mislabeling",
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2025-06-02",
+  "end_date": null,
+  "summary": "  WASHINGTON, June 2, 2025 \u2013 The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) is issuing a public health alert for a frozen not-ready-to-eat ham croquette product due to misbranding and undeclared allergens. The product contains soy and sesame, known allergens, which are...\n\n",
+  "establishment": {
+    "id": "M2725+P2725",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/croquetas-la-mary-llc",
+    "slug": "croquetas-la-mary-llc",
+    "name": "Croquetas La Mary LLC",
+    "address": "1809 SW 31st Avenue \n  Pembroke Park, FL\n     33009",
+    "telephone": "(786) 707-9896",
+    "grant_date": "2024-08-12",
+    "activities": [
+      "Meat Processing;  Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "1.96-lb. boxes containing \"HAM CROQUETTES Las que si tienen el sabor cubano A TASTE OF CUBA CROQUETAS DE JAM\u00d3N\" with expiration dates of \"November 2025,\" \"December 2025\" and \"January 2026\" printed on the boxes."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Florida"
+  ]
+}
