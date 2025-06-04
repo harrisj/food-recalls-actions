@@ -1,0 +1,31 @@
+{
+  "id": "020-2025",
+  "title": "Springville Meat & Cold Storage Co., Inc., Recalls Beef Jerky/ Beef Snack Stick Products and Voluntarily Inspected Elk, Venison and Buffalo Jerky Products Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/springville-meat-cold-storage-co--inc--recalls-beef-jerky-beef-snack-stick-products",
+  "reasons": [
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": "Low",
+  "start_date": "2025-06-03",
+  "end_date": null,
+  "summary": "  WASHINGTON, June 3, 2025 - Springville Meat & Cold Storage Co., Inc., Springville, Utah establishment, is recalling approximately 15,388 pounds of heat-treated shelf-stable ready-to-eat (RTE) beef jerky/beef snack stick products and voluntarily inspected elk, venison and buffalo jerky products due to misbranding and undeclared allergens...\n\n",
+  "establishment": {
+    "id": "M20528+P20528+V20528",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/springville-meat-cold-storage-co.-inc.",
+    "slug": "springville-meat-cold-storage-co-inc",
+    "name": "Springville Meat & Cold Storage Co. Inc.",
+    "address": "268 South 100 West \n  Springville, UT\n     84663",
+    "telephone": "(801) 489-6391",
+    "grant_date": "2011-12-29",
+    "activities": [
+      "Meat Processing;  Poultry Processing;  Voluntary Processing - Meat"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Nationwide"
+  ]
+}

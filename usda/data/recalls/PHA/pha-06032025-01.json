@@ -1,0 +1,33 @@
+{
+  "id": "PHA-06032025-01",
+  "title": "FSIS Issues Public Health Alert for Ground Beef Products Due to Possible E. Coli O157:H7 Contamination ",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ground-beef-products-due-possible-e--coli-o157h7-1",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2025-06-03",
+  "end_date": null,
+  "summary": "  WASHINGTON, June 3, 2025 - The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) is issuing a public health alert for ground beef products that may be contaminated with E. coli O157:H7. FSIS is issuing this public health alert to ensure that consumers...\n\n",
+  "establishment": {
+    "id": "M4027+P4027+V4027",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/npc-processing-inc.",
+    "slug": "npc-processing-inc",
+    "name": "NPC Processing Inc.",
+    "address": "97 Executive Drive \n  Shelburne, VT\n     05482",
+    "telephone": "(802) 660-0496",
+    "grant_date": "2021-10-07",
+    "activities": [
+      "Meat Processing;  Poultry Processing;  Voluntary Processing - Meat"
+    ]
+  },
+  "impacted_products": [
+    "1-lb. vacuum-packed packages of \"ORGANIC RANCHER ORGANIC GROUND BEEF 85% LEAN 15% FAT\" with \"Use or Freeze By 06-19-25\" and \"Use or Freeze By 06-20-25\" as represented on the packaging."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Nationwide"
+  ]
+}
