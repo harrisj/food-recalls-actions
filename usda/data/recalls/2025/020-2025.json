@@ -22,7 +22,9 @@
       "Meat Processing;  Poultry Processing;  Voluntary Processing - Meat"
     ]
   },
-  "impacted_products": [],
+  "impacted_products": [
+    "15,388 pounds of heat-treated shelf-stable ready-to-eat (RTE) beef jerky/beef snack stick products and voluntarily inspected elk, venison and buffalo jerky products"
+  ],
   "quantity_recovered": null,
   "quantity_unit": null,
   "states": [
