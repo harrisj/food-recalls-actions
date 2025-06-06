@@ -6,17 +6,17 @@
     "Misbranding",
     "Unreported Allergens"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2025-04-02",
-  "end_date": null,
+  "end_date": "2025-06-05",
   "summary": " WASHINGTON, April 2, 2025 \u2013 Hearthside Food Solutions, LLC, a Salt Lake City, Utah establishment, is recalling approximately 489,887 pounds of ready-to-eat (RTE) sausage and bacon breakfast sandwich products due to misbranding and an undeclared allergen, the U.S. Department of Agriculture\u2019s Food Safety and Inspection...\n",
   "establishment": {
     "id": "M4907+P4907+V4907",
     "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/hearthside-food-solutions",
     "slug": "hearthside-food-solutions",
     "name": "Hearthside Food Solutions",
-    "address": "5850 W Amelia Earhart Dr  \n  Salt Lake City, UT\n     84116",
+    "address": "5850 W Amelia Earhart Dr \n  Salt Lake City, UT\n     84116",
     "telephone": "(385) 270-9327",
     "grant_date": "2018-12-26",
     "activities": [
@@ -27,7 +27,7 @@
     "8.35-oz. individually film wrapped sandwiches of \u201cLETTIERI\u2019S FOOD TO GO Sausage, Egg & Cheese FRENCH TOAST BREAKFAST SANDWICH\u201d with lot codes beginning with the numbers 23, 24 and 25 up to 2508451.",
     "7.3-oz. individually film wrapped sandwiches of \u201cLETTIERI\u2019S FOOD TO GO Bacon, Egg & Cheese FRENCH TOAST BREAKFAST SANDWICH\u201d with lot codes beginning with the numbers 23, 24 and 25 up to 2508451."
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 30216,
+  "quantity_unit": "lbs",
   "states": null
 }

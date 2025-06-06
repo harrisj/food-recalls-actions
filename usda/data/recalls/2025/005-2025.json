@@ -5,10 +5,10 @@
   "reasons": [
     "Produced Without Benefit of Inspection"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2025-02-12",
-  "end_date": null,
+  "end_date": "2025-06-04",
   "summary": " WASHINGTON, Feb. 12, 2025 \u2013 Common Sense Soap, a North Walpole, N.H. establishment, is recalling approximately 33,899 pounds of beef tallow that was processed, packaged, and labeled on behalf of Lady May Tallow without the benefit of federal inspection, the U.S. Department of Agriculture\u2019s Food...\n",
   "establishment": null,
   "impacted_products": [
@@ -17,8 +17,8 @@
     "\u2022\t7.8-8-lb. (1 gal) plastic tub containing \u201cPREMIUM QUALITY GOODS Grass-fed beef Original TALLOW Lady May ALL NATURAL.\u201d",
     "\u2022\t16-lb. plastic tub containing \u201cPREMIUM QUALITY GOODS Grass-fed beef TALLOW Lady May ALL NATURAL.\u201d "
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 3618,
+  "quantity_unit": "lbs",
   "states": [
     "Nationwide"
   ]
