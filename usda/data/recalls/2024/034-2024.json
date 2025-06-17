@@ -5,17 +5,17 @@
   "reasons": [
     "Produced Without Benefit of Inspection"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2024-12-20",
-  "end_date": null,
+  "end_date": "2025-06-16",
   "summary": " WASHINGTON, Dec. 20, 2024 \u2013 Impero Foods & Meats, Inc., a Baltimore, Md. establishment, is recalling approximately 7,485 pounds of raw pork sausage products that were produced without the benefit of federal inspection, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced...\n",
   "establishment": {
     "id": "M10827",
     "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/impero-foods-meats-inc.",
     "slug": "impero-foods-meats-inc",
     "name": "Impero Foods & Meats, Inc.",
-    "address": "204-10 S. Eaton St.  \n  Baltimore, MD\n     21224-2512",
+    "address": "204-10 S. Eaton St. \n  Baltimore, MD\n     21224-2512",
     "telephone": "(410) 732-8488",
     "grant_date": "2011-11-30",
     "activities": [
@@ -26,8 +26,8 @@
     "\u2022\t10-lb. white cardboard box cases containing a plastic bag of \u201cOld World Italian Sausage\u201d with \u201crope\u201d handwritten on the case.  ",
     "\u2022\t10-lb. white cardboard box cases containing a plastic bag of \u201cOld World Italian Sausage\u201d with \u201clink\u201d handwritten on the case.  "
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 290,
+  "quantity_unit": "lbs",
   "states": [
     "Delaware",
     "Maryland",
