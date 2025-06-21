@@ -1,0 +1,23 @@
+{
+  "id": "PHA-06202025-01",
+  "title": "FSIS Issues Public Health Alert for Meat Sauce Products Produced Without the Benefit of Inspection",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-meat-sauce-products-produced-without-benefit",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2025-06-20",
+  "end_date": null,
+  "summary": " WASHINGTON, June 20, 2025 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for meat sauce products produced without the benefit of federal inspection. The producer, Thompson\u2019s Spanish Sauce Manufacturing, LLC, in Marion, Ind., does not...\n",
+  "establishment": null,
+  "impacted_products": [
+    "16-oz. jars of \u201cThompson's B-K Spanish Sauce.\u201d ",
+    "16-oz. jars of \u201cThompson's B-K Spicey Coney Sauce.\u201d "
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Illinois"
+  ]
+}
