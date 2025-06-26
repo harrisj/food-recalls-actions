@@ -5,10 +5,10 @@
   "reasons": [
     "Produced Without Benefit of Inspection"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2025-06-03",
-  "end_date": null,
+  "end_date": "2025-06-24",
   "summary": " WASHINGTON, June 3, 2025 - Sulu Organics LLC, a Bartlett, Ill. establishment, is recalling approximately 6,166 pounds of pork lard and beef tallow products that were produced without the benefit of federal inspection, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced...\n",
   "establishment": null,
   "impacted_products": [
@@ -19,8 +19,8 @@
     "4-lb.\u00a0 buckets of \u201cSulu TREAT YOUR SOUL LARD 100% PURE NATURAL US PRODUCT RICH IN MONOSATURATED, SATURATED AND POLYSATURATED FATS\u201d with \u201cLOT: 062824-0072 EXP:01/2026\u201d represented on the container label.",
     "7-lb.\u00a0 buckets of \u201cSulu TREAT YOUR SOUL LARD 100% PURE NATURAL US PRODUCT RICH IN MONOSATURATED, SATURATED AND POLYSATURATED FATS\u201d with \u201cLOT: 011825-0072 EXP: 08/2026\u201d represented on the container label."
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 6166,
+  "quantity_unit": "lbs",
   "states": [
     "Nationwide"
   ]
