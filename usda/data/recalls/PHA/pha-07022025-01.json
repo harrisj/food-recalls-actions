@@ -1,0 +1,34 @@
+{
+  "id": "PHA-07022025-01",
+  "title": "FSIS Issues Public Health Alert for Ready-to-eat Beef Jerky Stick Products Due to Possible Extraneous Material Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-beef-jerky-stick-products-due-possible",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2025-07-02",
+  "end_date": null,
+  "summary": "  WASHINGTON, July 02, 2025 \u2013 The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS), is issuing a public health alert for ready-to-eat (RTE) beef jerky stick products that may be contaminated with extraneous materials, specifically plastic. FSIS did not request a recall because...\n\n",
+  "establishment": {
+    "id": "M47282+P47282+V47282",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/top-notch-jerky-llc",
+    "slug": "top-notch-jerky-llc",
+    "name": "Top Notch Jerky LLC",
+    "address": "450 North Frontage Road \n  Sugar City, ID\n     83448",
+    "telephone": "(208) 390-4144",
+    "grant_date": "2021-07-15",
+    "activities": [
+      "Meat Processing;  Poultry Processing;  Voluntary Processing - Meat;  Voluntary Slaughter - Meat"
+    ]
+  },
+  "impacted_products": [
+    "6.9 oz. bags containing six 1.15-oz. vacuum-sealed packages containing of \"RIVERBEND RANCH Original Beef Stick\" with a \"Best By date of 11/27/2026\"",
+    "6.9 oz. bags containing six 1.15 oz. vacuum-sealed packages containing of \"RIVERBEND RANCH Jalape\u00f1o Beef Stick\" with a \"Best By date of 11/27/2026\""
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Nationwide"
+  ]
+}

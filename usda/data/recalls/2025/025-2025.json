@@ -1,0 +1,36 @@
+{
+  "id": "025-2025",
+  "title": "Kraft Heinz Foods Company Recalls Turkey Bacon Products Due to Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/kraft-heinz-foods-company-recalls-turkey-bacon-products-due-possible-listeria",
+  "reasons": [
+    "Product Contamination",
+    "Unfit for Human Consumption"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2025-07-02",
+  "end_date": null,
+  "summary": "  WASHINGTON, July 2, 2025 \u2013 Kraft Heinz Foods Company, a Newberry, S.C., establishment, is recalling approximately 367,812 pounds of fully cooked turkey bacon products that may be adulterated with Listeria monocytogenes ( Lm), the U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) announced...\n\n",
+  "establishment": {
+    "id": "M9070+P9070",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/kraft-heinz-foods-company",
+    "slug": "kraft-heinz-foods-company",
+    "name": "Kraft Heinz Foods Company",
+    "address": "3704 Louis Rich Road Suite # 901\n  Newberry, SC\n     29108",
+    "telephone": "(803) 276-0339",
+    "grant_date": "2022-02-22",
+    "activities": [
+      "Meat Processing;  Poultry Processing;  Poultry Slaughter"
+    ]
+  },
+  "impacted_products": [
+    "12-oz. vacuum-packed packages of \"Oscar Mayer Turkey BACON ORIGINAL\" and universal product code (UPC) \"071871548601\" printed on the packaging under the barcode,\"use by\" dates ranging \"18 JUL 2025\" to \"02 AUG 2025,\" and lot code \"RS40.\"",
+    "36-oz. packages containing three 12-oz. vacuum-packed packages of \"Oscar Mayer Turkey BACON ORIGINAL\" and universal product code (UPC) \"071871548748\" printed on the packaging under the barcode, \"use by\" dates ranging \"23 JUL 2025\" to \"04 SEP 2025,\" and lo",
+    "48-oz. packages containing four 12-oz. vacuum-packed packages of \"Oscar Mayer Turkey BACON ORIGINAL\" and UPC \"071871548793\" printed on the packaging under the barcode and \"use by\" dates ranging \"18 JUL 2025\" to \"04 SEP 2025,\" and lot codes \"RS19,\" \"RS40,\""
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Nationwide"
+  ]
+}
