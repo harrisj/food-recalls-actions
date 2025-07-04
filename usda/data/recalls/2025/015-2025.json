@@ -5,17 +5,17 @@
   "reasons": [
     "Import Violation"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2025-05-16",
-  "end_date": null,
+  "end_date": "2025-07-03",
   "summary": " WASHINGTON, May 16, 2025 - Fijian Import & Export Co. Inc, in Hayward, Calif., is recalling approximately 127 pounds of ready-to-eat meat pie products from Australia that were not presented to FSIS for import reinspection upon entry into the United States, the U.S. Department of...\n",
   "establishment": null,
   "impacted_products": [
     "5.6-oz. plastic packages containing \u201cFOUR \u2018N TWENTY TRAVELLER PHILLY CHEESESTEAK PASTRY\u201d with use by date of \u201cAUG 20 2025\u201d printed on the back of packaging."
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 68,
+  "quantity_unit": "lbs",
   "states": [
     "Pennsylvania"
   ]

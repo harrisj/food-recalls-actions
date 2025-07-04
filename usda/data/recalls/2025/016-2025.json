@@ -5,17 +5,17 @@
   "reasons": [
     "Product Contamination"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2025-05-20",
-  "end_date": null,
+  "end_date": "2025-07-03",
   "summary": " WASHINGTON, May 20, 2025 \u2013 Bourgeois Smokehouse, a Thibodaux, La., establishment, is recalling approximately 100 pounds of ready-to-eat (RTE) smoked andouille sausage products that may be adulterated with Listeria monocytogenes, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The RTE...\n",
   "establishment": null,
   "impacted_products": [
     "100 pounds of ready-to-eat (RTE) smoked andouille sausage products"
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 100,
+  "quantity_unit": "lbs",
   "states": [
     "Mississippi"
   ]

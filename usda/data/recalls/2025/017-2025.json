@@ -5,17 +5,17 @@
   "reasons": [
     "Produced Without Benefit of Inspection"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2025-05-20",
-  "end_date": null,
+  "end_date": "2025-07-03",
   "summary": " WASHINGTON, May 20, 2025 \u2013 Snack Mania Brazilian Delights Corp., an Elizabeth, N.J. restaurant, is recalling approximately 9,722 pounds of ready-to-eat chicken coxinhas products that were produced without the benefit of federal inspection, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced...\n",
   "establishment": null,
   "impacted_products": [
     "\u2022\t16.37-oz. plastic packages of \u201cSnack Mania COXINHAS BRAZILIAN STUFFED BITES Original Chicken\u201d "
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 2051,
+  "quantity_unit": "lbs",
   "states": [
     "Pennsylvania"
   ]
