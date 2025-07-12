@@ -1,0 +1,37 @@
+{
+  "id": "PHA-07112025-01",
+  "title": "FSIS Issues Public Health Alert for Ready-To-Eat Pulled Pork Products Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-pulled-pork-products-due-misbranding-and",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2025-07-11",
+  "end_date": null,
+  "summary": "  WASHINGTON, July 11, 2025 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for pulled pork products due to misbranding and undeclared allergens. The two ready-to-eat products barbecue pulled pork and pulled pork burrito filling are...\n\n",
+  "establishment": {
+    "id": "M46046+P46046",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/roth-premium-foods-llc",
+    "slug": "roth-premium-foods-llc",
+    "name": "Roth Premium Foods, LLC",
+    "address": "1830 Jet Stream Drive \n  Colorado Springs, CO\n     80921",
+    "telephone": "(719) 219-0775",
+    "grant_date": "2021-07-15",
+    "activities": [
+      "Meat Processing;  Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "16-oz. plastic trays containing \u201cPrep Chef PULLED PORK WITH BBQ SAUCE\u201d with \u201cBest if used by\u201d dates 7/10/25, 7/15/25, 7/24/25, or 7/31/25 and lot codes 025148, 025153, 5162, 5169, 5176, 5189, or 5190 printed on the label.",
+    "10-lb. boxes containing two 5-lb. bags of frozen \u201cPrep Chef BBQ PULLED PORK & GOUDA MAC AND CHEESE BURRITO FILLING\u201d with USE BY dates 4/3/2026, 4/24/2026, 5/2/2026, 5/5/2026, 5/16/2026, 5/22/2026, 6/12/2026, 6/23/2026 or 7/3/2026 and lot codes 025093, 0"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Idaho",
+    "Maine",
+    "New York"
+  ]
+}
