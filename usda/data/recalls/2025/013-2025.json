@@ -5,17 +5,17 @@
   "reasons": [
     "Processing Defect"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2025-04-29",
-  "end_date": null,
+  "end_date": "2025-07-15",
   "summary": " WASHINGTON, April 29, 2025 \u2013 Smith Packing, LLC, a Utica, N.Y. establishment, is recalling approximately 18,792 pounds of various ready-to-eat sausage and sliced meat and poultry products due to sodium nitrite levels that exceed the regulatory limit, the U.S. Department of Agriculture\u2019s Food Safety and...\n",
   "establishment": {
     "id": "M4578+P4578",
     "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/smith-packing-llc",
     "slug": "smith-packing-llc",
     "name": "Smith Packing, LLC",
-    "address": "105-125 Washington Street  \n  Utica, NY\n     13502",
+    "address": "105-125 Washington Street \n  Utica, NY\n     13502",
     "telephone": "(315) 732-5125",
     "grant_date": "2023-12-13",
     "activities": [
@@ -23,8 +23,8 @@
     ]
   },
   "impacted_products": [],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 7952,
+  "quantity_unit": "lbs",
   "states": [
     "New York"
   ]
