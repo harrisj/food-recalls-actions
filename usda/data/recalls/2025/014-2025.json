@@ -5,17 +5,17 @@
   "reasons": [
     "Import Violation"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2025-05-02",
-  "end_date": null,
+  "end_date": "2025-07-17",
   "summary": " WASHINGTON, May 2, 2025 -- Ferrarini USA, Inc., in Secaucus, N.J., is recalling approximately 70 pounds of ready-to-eat sliced prosciutto (cured ham) products that were not presented for import reinspection into the United States, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS)...\n",
   "establishment": null,
   "impacted_products": [
     "o\t4-oz. vacuum-sealed plastic tray packages containing slices of \u201cFERRARINI PROSCIUTTO DI PARMA PRODUCT OF ITALY\u201d and lot code \u201c2527642\u201d on the backside label of the packaging."
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 23,
+  "quantity_unit": "lbs",
   "states": [
     "California"
   ]
