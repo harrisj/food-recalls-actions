@@ -5,10 +5,10 @@
   "reasons": [
     "Unreported Allergens"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "Low",
   "start_date": "2025-06-03",
-  "end_date": null,
+  "end_date": "2025-07-21",
   "summary": "  WASHINGTON, June 3, 2025 - Springville Meat & Cold Storage Co., Inc., Springville, Utah establishment, is recalling approximately 15,388 pounds of heat-treated shelf-stable ready-to-eat (RTE) beef jerky/beef snack stick products and voluntarily inspected elk, venison and buffalo jerky products due to misbranding and undeclared allergens...\n\n",
   "establishment": {
     "id": "M20528+P20528+V20528",
@@ -25,8 +25,8 @@
   "impacted_products": [
     "15,388 pounds of heat-treated shelf-stable ready-to-eat (RTE) beef jerky/beef snack stick products and voluntarily inspected elk, venison and buffalo jerky products"
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 890,
+  "quantity_unit": "lbs",
   "states": [
     "Nationwide"
   ]
