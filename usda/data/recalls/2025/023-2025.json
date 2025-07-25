@@ -5,10 +5,10 @@
   "reasons": [
     "Product Contamination"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2025-06-17",
-  "end_date": null,
+  "end_date": "2025-07-25",
   "summary": " EDITOR\u2019S NOTE: June 18, 2025: FSIS and its public health partners, including the Centers for Disease Control and Prevention (CDC) and the Food and Drug Administration (FDA), are investigating the outbreak of Listeria monocytogenes linked to this recall . Both partners issued alerts related to...\n",
   "establishment": {
     "id": "M47718+P47718",
@@ -27,8 +27,8 @@
     "12.3 oz. tray packages containing \u201cMARKETSIDE GRILLED CHICKEN ALFREDO WITH FETTUCCINE Tender Pasta with Creamy Alfredo Sauce, White Meat Chicken, Broccoli and Shaved Parmesan Cheese\u201d with best-by date 06/26/25 or prior.",
     "12.5 oz. tray packages containing \u201cHOME CHEF Heat & Eat Chicken Fettuccine Alfredo with pasta, grilled white meat chicken, and Parmesan cheese\u201d with best-by date 06/19/25 or prior.\u00a0"
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 65233,
+  "quantity_unit": "lbs",
   "states": [
     "Nationwide"
   ]
