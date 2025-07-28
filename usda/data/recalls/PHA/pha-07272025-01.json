@@ -1,0 +1,34 @@
+{
+  "id": "PHA-07272025-01",
+  "title": "FSIS Issues Public Health Alert For Ready-To-Eat Ham Salad Products Containing FDA-Regulated Breadcrumbs That Have Been Recalled Due to Possible Listeria Monocytogenes Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-ham-salad-products-containing-fda",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2025-07-27",
+  "end_date": null,
+  "summary": " WASHINGTON, July 27, 2025 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for ham salad products containing Food and Drug Administration (FDA) regulated breadcrumb products that have been recalled by Newly Weds Foods, due to...\n",
+  "establishment": {
+    "id": "M46320+P46320",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/resers-fine-foods-inc.-1",
+    "slug": "resers-fine-foods-inc-1",
+    "name": "Reser's Fine Foods, Inc.",
+    "address": "3728 SE 6th St \n  Topeka, KS\n     66607",
+    "telephone": "(785) 233-6431",
+    "grant_date": "2018-09-13",
+    "activities": [
+      "Meat Processing;  Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022 12-oz. printed plastic tubs containing \u201cRESER\u2019S FINE FOODS Ham Salad\u201d with sell by dates of 09/01/25.",
+    "\u2022 5-lb. clear plastic tubs containing \u201cMolly\u2019s Kitchen Ham Salad\u201d with sell by dates of 08/31/25. "
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Nationwide"
+  ]
+}
