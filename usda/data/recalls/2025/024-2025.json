@@ -5,10 +5,10 @@
   "reasons": [
     "Misbranding"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "Marginal",
   "start_date": "2025-06-27",
-  "end_date": null,
+  "end_date": "2025-09-04",
   "summary": " WASHINGTON, June 27, 2025 \u2013 Gaiser's European Style Provisions Inc., a Union, N.J., establishment, is recalling approximately 143,416 pounds of ready-to-eat bologna due to misbranding, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The various bologna products subject to recall...\n",
   "establishment": {
     "id": "M5385+P5385",
@@ -31,8 +31,8 @@
     "\u2022 Plastic-wrapped packages of \u201cGAISERS TURKEY BOLOGNA\u201d containing undeclared chicken and pork.",
     "\u2022 Plastic-wrapped packages of \u201cCHICKEN BOLOGNA KYPOYKA PABA\u201d containing undeclared pork."
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 12030,
+  "quantity_unit": "lbs",
   "states": [
     "Nationwide"
   ]
