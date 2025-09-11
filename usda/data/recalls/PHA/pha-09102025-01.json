@@ -1,0 +1,34 @@
+{
+  "id": "PHA-09102025-01",
+  "title": "FSIS Issues Public Health Alert for Raw Sirloin Beef Tip Product Due to Misbranding and Undeclared Allergens",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-raw-sirloin-beef-tip-product-due-misbranding-and",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2025-09-10",
+  "end_date": null,
+  "summary": " WASHINGTON, Sept. 10, 2025 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for raw sirloin beef tip product due to misbranding and undeclared allergens. The product contains sesame and wheat, known allergens, which are not...\n",
+  "establishment": {
+    "id": "M4033+P4033",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/bianco-inc.",
+    "slug": "bianco-inc",
+    "name": "Bianco Inc.",
+    "address": "1 Brainard Avenue \n  Medford, MA\n     02155",
+    "telephone": "(781) 289-4688",
+    "grant_date": "2021-10-04",
+    "activities": [
+      "Meat Processing;  Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "1-lb. vacuum-packed packages containing \u201cBianco & Sons SWEET HEAT SIRLOIN BEEF TIPS\u201d on the front package label with \u201cUSE OR FREEZE BY:10/01/2025\u201d on the back package label."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Massachusetts"
+  ]
+}
