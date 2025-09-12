@@ -5,17 +5,17 @@
   "reasons": [
     "Import Violation"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2025-02-25",
-  "end_date": null,
+  "end_date": "2025-05-22",
   "summary": "  Vietnamese Translation WASHINGTON, Feb. 25, 2025 \u2013 C&T Produce Wholesale Inc., doing business as L&V Food Supply, the importer of record, located in Houston, Texas, is recalling approximately 1,152 pounds of ineligible peppered frozen, dried Siluriformes fish products that were produced by an establishment in...\n\n",
   "establishment": null,
   "impacted_products": [
     "2-lb. cardboard boxes containing \u201cPeppered Dried CATFISH.\u201d"
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 188,
+  "quantity_unit": "lbs",
   "states": [
     "California",
     "Florida",
