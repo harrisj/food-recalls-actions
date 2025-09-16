@@ -5,18 +5,18 @@
   "reasons": [
     "Import Violation"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2025-06-25",
-  "end_date": null,
+  "end_date": "2025-09-15",
   "summary": " WASHINGTON, June 25, 2025, Starway International Group, LLC, in Maspeth, N.Y., is expanding its June 12, 2025, recall of Siluriformes fish products that were produced by an establishment in Vietnam that is not eligible to export Siluriformes to the United States, the U.S. Department of...\n",
   "establishment": null,
   "impacted_products": [
     "\u2022 500-g plastic bag packages containing \u201cX\u00fac X\u00edch C\u00e1 Fish Sausage\u201d with item number \u201c81142104\u201d printed on the label. ",
     "\u2022 500-g plastic bag packaged containing \u201cX\u00fac X\u00edch C\u00e1 Xong Khoi Smoked Fish Sausage\u201d with Item number \u201c81142106\u201d printed on the label."
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 2265,
+  "quantity_unit": "lbs",
   "states": [
     "Nationwide"
   ]

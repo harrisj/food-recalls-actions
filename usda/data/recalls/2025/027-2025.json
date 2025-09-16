@@ -5,10 +5,10 @@
   "reasons": [
     "Product Contamination"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2025-07-29",
-  "end_date": null,
+  "end_date": "2025-09-12",
   "summary": "  WASHINGTON, July 29, 2025 - Ada Valley Meat Company, an Ada, Mich., establishment, is recalling approximately 1,065 pounds of a fully cooked frozen ground beef product that may be contaminated with foreign material, specifically metal, the U.S. Department of Agriculture's Food Safety and Inspection Service...\n\n",
   "establishment": {
     "id": "M10031+P10031",
@@ -25,8 +25,8 @@
   "impacted_products": [
     "20-lb. cardboard box cases containing four 5-lb. plastic bags of \"Ada Valley FULLY COOKED GROUND BEEF\" with Pack Date 5/28/25 with lot code 35156 or Pack Date 5/30/25 with lot code 35157 represented on the label."
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 1065,
+  "quantity_unit": "lbs",
   "states": [
     "California",
     "Delaware",

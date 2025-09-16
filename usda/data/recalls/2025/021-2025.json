@@ -5,10 +5,10 @@
   "reasons": [
     "Import Violation"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2025-06-12",
-  "end_date": null,
+  "end_date": "2025-09-15",
   "summary": "  Editor\u2019s Note: June 25, 2025: Starway International Group, LLC, expanded its recall of Siluriformes fish products to include two additional products and additional total poundage (See Recall 021-2025-EXP). WASHINGTON, June 12, 2025 - Starway International Group, LLC, in Maspeth, N.Y., is recalling approximately 9,513 pounds...\n\n",
   "establishment": null,
   "impacted_products": [
@@ -17,7 +17,7 @@
     "16-oz. plastic bag packages containing \u201cC\u00e1 Vi\u00ean Chi\u00ean FRIED FISH BALLS\u201d with item number \u201c81142101\u201d printed on the label. ",
     "2-kg. plastic bag packages containing \u201cC\u00e1 Vi\u00ean Chi\u00ean FRIED FISH BALLS\u201d with item number \u201c81142100\u201d printed on the label. "
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 2265,
+  "quantity_unit": "lbs",
   "states": null
 }

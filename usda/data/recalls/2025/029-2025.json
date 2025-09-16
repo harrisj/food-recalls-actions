@@ -1,0 +1,37 @@
+{
+  "id": "029-2025",
+  "title": "Quality Poultry & Seafood, Inc. Recalls Various Catfish Fillet Products Produced Without Benefit of Inspection ",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/quality-poultry-seafood-inc--recalls-various-catfish-fillet-products-produced",
+  "reasons": [
+    "Produced Without Benefit of Inspection"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2025-09-15",
+  "end_date": null,
+  "summary": " WASHINGTON, September 15, 2025 \u2013 Quality Poultry & Seafood, Inc., a Biloxi, Miss., establishment, is recalling approximately 98,916 pounds of catfish fillet products that were produced without the benefit of federal inspection, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today...\n",
+  "establishment": {
+    "id": "M47344+P47344",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/quality-poultry-seafood-inc.",
+    "slug": "quality-poultry-seafood-inc",
+    "name": "Quality Poultry & Seafood, Inc.",
+    "address": "895 Division Street \n  Biloxi, MS\n     39530",
+    "telephone": "(228) 432-5216",
+    "grant_date": "2025-08-29",
+    "activities": [
+      "Meat Processing;  Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "\u2022\tTranslucent plastic bag packages containing various pieces of frozen catfish fillet products labeled \u201cVARIED CATFISH MISCUT FILLETS, FARMED RAISED CATFISH PRODUCT OF USA\u201d, and Net Wt. 5#.",
+    "\u2022\tCardboard boxes containing three translucent plastic bag packages containing various pieces of frozen catfish fillet products labeled \u201cVARIED CATFISH MISCUT FILLETS, FARMED RAISED CATFISH PRODUCT OF USA\u201d, and Net Wt. 15#.",
+    "\u2022\tTranslucent plastic bag packages containing various pieces of frozen catfish fillet products labeled \u201cIRREGULAR CATFISH SHANK FILLET, FARMED RAISED CATFISH PRODUCT OF USA\u201d, and Net Wt. 5#.",
+    "\u2022\tTranslucent plastic bag packages containing various pieces of frozen catfish fillet products labeled \u201cIRREGULAR CATFISH RANDOM FILLET, FARMED RAISED CATFISH PRODUCT OF USA\u201d, and Net Wt. 5#.",
+    "\u2022\tCardboard boxes containing three translucent plastic bag packages containing various catfish fillet products labeled \u201cIRREGULAR CATFISH RANDOM FILLET, FARMED RAISED CATFISH PRODUCT OF USA\u201d, and Net Wt. 15#."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Louisiana"
+  ]
+}
