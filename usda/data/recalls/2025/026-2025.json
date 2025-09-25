@@ -5,10 +5,10 @@
   "reasons": [
     "Product Contamination"
   ],
-  "status": "Active",
+  "status": "Closed",
   "risk_level": "High",
   "start_date": "2025-07-17",
-  "end_date": null,
+  "end_date": "2025-09-24",
   "summary": " WASHINGTON, July 17, 2025 \u2013 Kayem Foods Inc., a Chelsea, Mass., establishment, is recalling approximately 24,173 pounds of ready-to-eat chicken sausage products that may be contaminated with foreign material, specifically pieces of plastic, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced...\n",
   "establishment": {
     "id": "M7839+P7839",
@@ -25,8 +25,8 @@
   "impacted_products": [
     "\u2022\t11-oz. vacuum-packed packages containing four pieces of \u201cALL NATURAL al fresco CHICKEN SAUSAGE SWEET APPLE with Vermont made syrup\u201d with lot code \u201c179\u201d and \u201cUSE/FRZ BY\u201d date \u201cOCT 01 2025\u201d printed on the back package label."
   ],
-  "quantity_recovered": null,
-  "quantity_unit": null,
+  "quantity_recovered": 16533,
+  "quantity_unit": "lbs",
   "states": [
     "Nationwide"
   ]
