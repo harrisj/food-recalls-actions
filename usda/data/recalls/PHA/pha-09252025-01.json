@@ -1,0 +1,33 @@
+{
+  "id": "PHA-09252025-01",
+  "title": "FSIS Issues Public Health Alert For Ready-To-Eat Meals Containing Pasta That May Be Contaminated with Listeria ",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-meals-containing-pasta-may-be-contaminated",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2025-09-25",
+  "end_date": null,
+  "summary": " WASHINGTON, September 25, 2025 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for ready-to-eat meals containing a Food and Drug Administration (FDA) regulated pre-cooked pasta that may be contaminated with Listeria monocytogenes (Lm). FSIS expects...\n",
+  "establishment": {
+    "id": "M50784+P50784",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/freshrealm-1",
+    "slug": "freshrealm-1",
+    "name": "Freshrealm",
+    "address": "1330 Calle Avanzado \n  San Clemente, CA\n     92673",
+    "telephone": "",
+    "grant_date": "2023-06-05",
+    "activities": [
+      "Meat Processing;  Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    " \u2022 12-oz. clear plastic tray packages labeled \u201cMARKETSIDE LINGUINE WITH BEEF MEATBALLS & MARINARA SAUCE\u201d with \u201cbest if used by\u201d dates SEP 22, 2025; SEP 24, 2025; SEP 25, 2025; SEP 29, 2025; SEP 30, 2025; and OCT 01, 2025."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Nationwide"
+  ]
+}
