@@ -1,0 +1,31 @@
+{
+  "id": "030-2025",
+  "title": "The Hillshire Brands Company Recalls Corn Dog and Sausage On A Stick Products Due To Possible Extraneous Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/hillshire-brands-company-recalls-corn-dog-and-sausage-a-stick-products-due-possible",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2025-09-27",
+  "end_date": null,
+  "summary": " WASHINGTON, September 27, 2025 \u2013 The Hillshire Brands Company, a Haltom City, Tex. establishment, is recalling approximately 58,000,000 pounds of corn dog and sausage on a stick products that may be contaminated with extraneous material, specifically pieces of wood embedded in the batter, the U.S...\n",
+  "establishment": {
+    "id": "M582+P894",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/hillshire-brands-company",
+    "slug": "hillshire-brands-company",
+    "name": "The Hillshire Brands Company",
+    "address": "3900 Meacham Boulevard \n  Haltom City, TX\n     76117",
+    "telephone": "(469) 343-3262",
+    "grant_date": "2022-04-22",
+    "activities": [
+      "Meat Processing;  Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Nationwide"
+  ]
+}
