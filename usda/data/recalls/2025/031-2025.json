@@ -1,0 +1,31 @@
+{
+  "id": "031-2025",
+  "title": "Foster Poultry Farms, LLC Recalls Chicken Corn Dog Products Due To Possible Extraneous Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/foster-poultry-farms-llc-recalls-chicken-corn-dog-products-due-possible-extraneous",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2025-10-04",
+  "end_date": null,
+  "summary": " WASHINGTON, Oct. 4, 2025 \u2013 Foster Poultry Farms, LLC, a Livingston, Calif. establishment, is recalling approximately 3,843,040 pounds of chicken corn dog products that may be contaminated with extraneous material, specifically pieces of wood embedded in the batter, the U.S. Department of Agriculture\u2019s Food Safety...\n",
+  "establishment": {
+    "id": "M6137B+P6137B",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/foster-poultry-farms-llc-2",
+    "slug": "foster-poultry-farms-llc-2",
+    "name": "Foster Poultry Farms, LLC",
+    "address": "843 Davis Street \n  Livingston, CA\n     95334",
+    "telephone": "(209) 394-6914",
+    "grant_date": "2017-01-31",
+    "activities": [
+      "Meat Processing;  Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Nationwide"
+  ]
+}
