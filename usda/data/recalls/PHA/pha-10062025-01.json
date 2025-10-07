@@ -1,0 +1,34 @@
+{
+  "id": "PHA-10062025-01",
+  "title": "FSIS Issues Public Health Alert For Ready-To-Eat Meals Containing Spinach That May Be Contaminated With Listeria ",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-meals-containing-spinach-may-be",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2025-10-06",
+  "end_date": null,
+  "summary": " WASHINGTON, Oct. 6, 2025 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for FSIS-inspected ready-to-eat meals produced by FreshRealm containing a Food and Drug Administration (FDA) regulated ingredient, specifically spinach, that may be contaminated with...\n",
+  "establishment": {
+    "id": "M47718+P47718",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/freshrealm-0",
+    "slug": "freshrealm-0",
+    "name": "FreshRealm",
+    "address": "3120 Post Road \n  Indianapolis, IN\n     46226",
+    "telephone": "(805) 704-1457",
+    "grant_date": "2022-06-30",
+    "activities": [
+      "Meat Processing;  Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "10.1-oz. containers of \u201cHELLO FRESH READY MADE MEALS CHEESY PULLED PORK PEPPER PASTA\u201d with establishment number \u201cEst. 47718\u201d and lot code 49107 or establishment number \u201cEst. 2937\u201d and lot code 48840. This item was shipped directly to consumers by HelloFr",
+    "10-oz. containers of \u201cHELLO FRESH READY MADE MEALS UNSTUFFED PEPPERS WITH GROUND TURKEY\u201d with establishment number \u201cP-47718\u201d and lot codes 50069, 50073, or 50698. This item was shipped directly to consumers by HelloFresh."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Nationwide"
+  ]
+}
