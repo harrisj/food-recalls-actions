@@ -1,0 +1,34 @@
+{
+  "id": "PHA-10072025-01",
+  "title": "FSIS Issues Public Health Alert For Ready-To-Eat Meals Containing Riced Cauliflower That May Be Contaminated With Listeria ",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-meals-containing-riced-cauliflower-may-be",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": null,
+  "start_date": "2025-10-07",
+  "end_date": null,
+  "summary": " WASHINGTON, Oct. 7, 2025 \u2013 The U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) is issuing a public health alert for FSIS-inspected ready-to-eat meals produced by FreshRealm containing a Food and Drug Administration (FDA) regulated ingredient, specifically riced cauliflower, that may be contaminated...\n",
+  "establishment": {
+    "id": "M3081+P3081",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/freshrealm-3",
+    "slug": "freshrealm-3",
+    "name": "Freshrealm",
+    "address": "901 W. Linden Ave. \n  Linden, NJ\n     07036",
+    "telephone": "(805) 704-1457",
+    "grant_date": "2025-04-17",
+    "activities": [
+      "Meat Processing;  Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    " Sold by Blue Apron: 13.05-oz. plastic tray packages labeled \"DISH by Blue Apron Cheesy Chicken Mac with Vegetables\" with lot codes 25240 and 25247. The product bears establishment number \"P-3081.\"",
+    "Sold by Marley Spoon: 10.5-oz. packages labeled \u201cBALANCE by Marley Spoon BBQ Sauce Beef Meatballs with Cheesy Cauliflower\u201d with lot code 25255.\u00a0 The product bears establishment number \u201cEst. 47718.\u201d"
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Nationwide"
+  ]
+}
