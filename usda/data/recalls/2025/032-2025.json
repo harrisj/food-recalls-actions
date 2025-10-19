@@ -1,0 +1,31 @@
+{
+  "id": "032-2025",
+  "title": "M.C.I. Foods, Inc. Recalls Ready-To-Eat Breakfast Burrito and Wrap Products Due to Possible Listeria Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/m-c-i--foods-inc--recalls-ready-eat-breakfast-burrito-and-wrap-products-due-possible",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2025-10-18",
+  "end_date": null,
+  "summary": " WASHINGTON, October 18, 2025 \u2013 M.C.I. Foods Inc., a Santa Fe Springs, Calif., establishment, is recalling approximately 91,585 pounds of specific lots of ready-to-eat (RTE) breakfast burrito and wrap products containing egg that may be adulterated with Listeria monocytogenes ( Lm), the U.S. Department of...\n",
+  "establishment": {
+    "id": "M1162A+P5890A",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/m.c.i.-foods-inc.-0",
+    "slug": "m-c-i-foods-inc-0",
+    "name": "M.C.I. Foods, Inc.",
+    "address": "13013 Molette Street \n  Santa Fe Springs, CA\n     90670",
+    "telephone": "",
+    "grant_date": "2021-07-23",
+    "activities": [
+      "Meat Processing;  Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Nationwide"
+  ]
+}
