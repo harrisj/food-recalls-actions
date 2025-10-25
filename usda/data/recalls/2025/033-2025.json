@@ -1,0 +1,31 @@
+{
+  "id": "033-2025",
+  "title": "LSI, Inc. Recalls BBQ Pork Jerky Product  Due To Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/lsi-inc--recalls-bbq-pork-jerky-product-due-possible-foreign-matter-contamination",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2025-10-24",
+  "end_date": null,
+  "summary": " WASHINGTON, October 24, 2025 \u2013 LSI, Inc., an Alpena, S.D. establishment, is recalling approximately 2,277,540 pounds of a ready-to-eat Korean barbecue pork jerky product that may be contaminated with pieces of metal, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today...\n",
+  "establishment": {
+    "id": "M279A+P19254A+V279A",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/lsi-inc.-0",
+    "slug": "lsi-inc-0",
+    "name": "LSI, Inc.",
+    "address": "39210  221st Street \n  Alpena, SD\n     57312",
+    "telephone": "(605) 849-8800",
+    "grant_date": "1994-12-09",
+    "activities": [
+      "Certification - Export;  Meat Processing;  Poultry Processing"
+    ]
+  },
+  "impacted_products": [],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Nationwide"
+  ]
+}
