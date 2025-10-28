@@ -1,0 +1,31 @@
+{
+  "id": "035-2025",
+  "title": "E.A. Sween Company Recalls Pulled Pork Sandwich Products Due to Possible Foreign Matter Contamination",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/e-a--sween-company-recalls-pulled-pork-sandwich-products-due-possible-foreign-matter",
+  "reasons": [
+    "Product Contamination"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2025-10-27",
+  "end_date": null,
+  "summary": " WASHINGTON, Oct. 27, 2025 \u2013 E.A. Sween Company, an Eden Prairie, Minn. establishment, is recalling approximately 127,887 pounds of a pulled pork sandwich product that may be contaminated with pieces of plastic, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today...\n",
+  "establishment": {
+    "id": "M2451+P2451+V2451",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/e.a.-sween-company-0",
+    "slug": "e-a-sween-company-0",
+    "name": "E.A. Sween Company",
+    "address": "16101 West 78th St. \n  Eden Prairie, MN\n     55344",
+    "telephone": "(952) 937-9440",
+    "grant_date": "2020-03-27",
+    "activities": [
+      "Food Inspection;  Meat Processing;  Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    "5.5-oz. paper wrapped \u201cDeli EXPRESS BBQ PULLED PORK on a sesame bun\u201d sandwiches.   "
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": null
+}
