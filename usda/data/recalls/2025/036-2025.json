@@ -1,0 +1,36 @@
+{
+  "id": "036-2025",
+  "title": "Brazilian Taste Recalls Frozen Chicken and Beef Croquette Products Due to Misbranding and an Undeclared Allergen",
+  "url": "https://www.fsis.usda.gov/recalls-alerts/brazilian-taste-recalls-frozen-chicken-and-beef-croquette-products-due-misbranding",
+  "reasons": [
+    "Misbranding",
+    "Unreported Allergens"
+  ],
+  "status": "Active",
+  "risk_level": "High",
+  "start_date": "2025-11-04",
+  "end_date": null,
+  "summary": " WASHINGTON, Nov. 4, 2025 \u2013 Brazilian Taste, a Lexington, S.C. establishment, is recalling approximately 4,120 pounds of chicken and beef croquettes due to misbranding and an undeclared allergen, the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS) announced today. The product contains sesame...\n",
+  "establishment": {
+    "id": "M45640+P45640",
+    "url": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/brazilian-taste",
+    "slug": "brazilian-taste",
+    "name": "Brazilian Taste",
+    "address": "235 Two Notch Rd. \n  Lexington, SC\n     29073",
+    "telephone": "(803) 394-9493",
+    "grant_date": "2021-07-16",
+    "activities": [
+      "Meat Processing;  Poultry Processing"
+    ]
+  },
+  "impacted_products": [
+    " \u2022\t17.63-oz. plastic bag packages containing 5 \u201cSAINT COXINHA XL CHICKEN CROQUETTES\u201d with \u201cbest by\u201d dates ranging \u201c11/04/2025\u201d to \u201c04/19/2026\u201d printed on the back of the packaging.",
+    " \u2022\t15.8-oz. plastic bag packages containing 15 \u201cSAINT COXINHA CHICKEN CROQUETTES\u201d with \u201cbest by\u201d dates ranging \u201c11/04/2025\u201d to \u201c04/19/2026\u201d printed on the back of the packaging.",
+    "\u2022\t13.7-oz. plastic bag packages containing 13 \u201cSAINT COXINHA GROUND BEEF CROQUETTE RISOLE DE CARNE\u201d with \u201cbest by\u201d date \u201c02/02/2026\u201d printed on the back of the packaging."
+  ],
+  "quantity_recovered": null,
+  "quantity_unit": null,
+  "states": [
+    "Nationwide"
+  ]
+}
